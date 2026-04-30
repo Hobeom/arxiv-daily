@@ -4,13 +4,13 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.04.29
+### Updated on 2026.04.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-25**|**StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning**|Xuanyue Zhong et.al.|[2604.23198v1](http://arxiv.org/abs/2604.23198v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23198)|
-|**2026-04-24**|**Don't Make the LLM Read the Graph: Make the Graph Think**|Yuqi Sun et.al.|[2604.23057v1](http://arxiv.org/abs/2604.23057v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.23057)|
-|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/cos-play)|[🤗👍21](https://huggingface.co/papers/2604.20987) [αX↑24](https://alphaxiv.org/abs/2604.20987)|
+|**2026-04-24**|**Don't Make the LLM Read the Graph: Make the Graph Think**|Yuqi Sun et.al.|[2604.23057v1](http://arxiv.org/abs/2604.23057v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23057)|
+|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/cos-play)|[🤗👍21](https://huggingface.co/papers/2604.20987) [αX↑27](https://alphaxiv.org/abs/2604.20987)|
 |**2026-04-26**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833v2](http://arxiv.org/abs/2604.20833v2)|null|[αX↑4](https://alphaxiv.org/abs/2604.20833)|
 |**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav et.al.|[2604.20443v1](http://arxiv.org/abs/2604.20443v1)|[link](https://github.com/Stealth-py/DialToM)|[αX↑9](https://alphaxiv.org/abs/2604.20443)|
 |**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126v1](http://arxiv.org/abs/2604.18126v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.18126)|
