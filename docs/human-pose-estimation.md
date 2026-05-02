@@ -8,15 +8,15 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.27448)|
+|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|[link](https://github.com/OpenDriveLab/DriveAGI)|[αX↑0](https://alphaxiv.org/abs/2604.27448)|
 |**2026-04-30**|**Gait Recognition via Deep Residual Networks and Multi-Branch Feature Fusion**|Yabo Luo et.al.|[2604.27353v1](http://arxiv.org/abs/2604.27353v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.27353)|
-|**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.27106)|
-|**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.26620)|
+|**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|[link](https://github.com/TRI-ML/recgen)|[αX↑2](https://alphaxiv.org/abs/2604.27106)|
+|**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.26620)|
 |**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479v1](http://arxiv.org/abs/2604.26479v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.26479)|
-|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404v1](http://arxiv.org/abs/2604.26404v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.26404)|
+|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404v1](http://arxiv.org/abs/2604.26404v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.26404)|
 |**2026-04-27**|**Evaluation of Pose Estimation Systems for Sign Language Translation**|Catherine O'Brien et.al.|[2604.24609v1](http://arxiv.org/abs/2604.24609v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.24609)|
 |**2026-04-27**|**Phase-Separated Complex Hilbert PCA on Markerless 3D Pose Estimation Data: A Global Phase Network and Its Extension to a Continuous Field on the Body Surface**|Hiromitsu Goto et.al.|[2604.24415v1](http://arxiv.org/abs/2604.24415v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.24415)|
-|**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312v1](http://arxiv.org/abs/2604.24312v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.24312)|
+|**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312v1](http://arxiv.org/abs/2604.24312v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.24312)|
 |**2026-04-26**|**A Pose-only Geometric Constraint for Multi-Camera Pose Adjustment**|Shunkun Liang et.al.|[2604.23704v1](http://arxiv.org/abs/2604.23704v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23704)|
 |**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670v1](http://arxiv.org/abs/2604.23670v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23670)|
 |**2026-04-26**|**Geometry-Conditioned Diffusion for Occlusion-Robust In-Bed Pose Estimation**|Navid Aslankhani Khameneh et.al.|[2604.23651v1](http://arxiv.org/abs/2604.23651v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23651)|
