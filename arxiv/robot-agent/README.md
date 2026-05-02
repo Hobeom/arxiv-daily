@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.05.01
+### Updated on 2026.05.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 |**2026-04-27**|**AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents**|Hojoon Kim et.al.|[2604.24039v1](http://arxiv.org/abs/2604.24039v1)|[link](https://github.com/hojoonleokim/MLSys26_AgenticCache)|[αX↑1](https://alphaxiv.org/abs/2604.24039)|
 |**2026-04-26**|**Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms**|Qi Li et.al.|[2604.23775v1](http://arxiv.org/abs/2604.23775v1)|[link](https://github.com/LiQiiiii/Awesome-VLA-Safety)|[🤗👍43](https://huggingface.co/papers/2604.23775) [αX↑5](https://alphaxiv.org/abs/2604.23775)|
 |**2026-04-26**|**EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks**|Yihang Li et.al.|[2604.23570v1](http://arxiv.org/abs/2604.23570v1)|null|[αX↑21](https://alphaxiv.org/abs/2604.23570)|
-|**2026-04-24**|**dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model**|Yaxuan Li et.al.|[2604.22152v1](http://arxiv.org/abs/2604.22152v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[🤗👍3](https://huggingface.co/papers/2604.22152) [αX↑13](https://alphaxiv.org/abs/2604.22152)|
+|**2026-04-24**|**dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model**|Yaxuan Li et.al.|[2604.22152v1](http://arxiv.org/abs/2604.22152v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[🤗👍4](https://huggingface.co/papers/2604.22152) [αX↑13](https://alphaxiv.org/abs/2604.22152)|
 |**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741v1](http://arxiv.org/abs/2604.21741v1)|null|[αX↑16](https://alphaxiv.org/abs/2604.21741)|
 |**2026-04-23**|**ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures**|Xiyin Zeng et.al.|[2604.21232v1](http://arxiv.org/abs/2604.21232v1)|[link](https://github.com/SnSnLi/ReCAPA)|[αX↑1](https://alphaxiv.org/abs/2604.21232)|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160v1](http://arxiv.org/abs/2604.21160v1)|null|[αX↑8](https://alphaxiv.org/abs/2604.21160)|
