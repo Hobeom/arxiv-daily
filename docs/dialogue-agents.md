@@ -4,7 +4,7 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.05.03
+### Updated on 2026.05.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -27,7 +27,7 @@ layout: default
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.18520)|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18304)|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|[αX↑9](https://alphaxiv.org/abs/2603.16783)|
-|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑26](https://alphaxiv.org/abs/2603.16496)|
+|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑27](https://alphaxiv.org/abs/2603.16496)|
 |**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.15121)|
 |**2026-03-15**|**Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models**|Thuy Ngoc Nguyen et.al.|[2603.14646v1](http://arxiv.org/abs/2603.14646v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.14646)|
 |**2026-03-12**|**ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**|Songlin Yang et.al.|[2603.11421v1](http://arxiv.org/abs/2603.11421v1)|[link](https://github.com/Songlin1998/ShotVerse)|[🤗👍34](https://huggingface.co/papers/2603.11421) [αX↑25](https://alphaxiv.org/abs/2603.11421)|

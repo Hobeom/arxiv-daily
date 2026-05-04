@@ -1,15 +1,17 @@
 ## Action Recognition
 
-### Updated on 2026.05.03
+### Updated on 2026.05.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-01**|**High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions**|Yongpeng Cao et.al.|[2605.00496v1](http://arxiv.org/abs/2605.00496v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00496)|
+|**2026-05-01**|**Batch Normalization for Neural Networks on Complex Domains**|Xuan Son Nguyen et.al.|[2605.00467v1](http://arxiv.org/abs/2605.00467v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00467)|
 |**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173v1](http://arxiv.org/abs/2604.28173v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.28173)|
 |**2026-04-30**|**SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction**|Yongpeng Cao et.al.|[2604.27508v1](http://arxiv.org/abs/2604.27508v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.27508)|
 |**2026-04-29**|**ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation**|Sergej Stanovcic et.al.|[2604.26637v1](http://arxiv.org/abs/2604.26637v1)|[link](https://github.com/TUWIEN-ASL/ATLAS-tuwienasl)|[αX↑1](https://alphaxiv.org/abs/2604.26637)|
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461v1](http://arxiv.org/abs/2604.26461v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.26461)|
 |**2026-04-29**|**HOI-aware Adaptive Network for Weakly-supervised Action Segmentation**|Runzhong Zhang et.al.|[2604.26227v1](http://arxiv.org/abs/2604.26227v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.26227)|
-|**2026-04-28**|**Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein**|Sayan Ghosh et.al.|[2604.25105v1](http://arxiv.org/abs/2604.25105v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.25105)|
+|**2026-04-28**|**Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein**|Sayan Ghosh et.al.|[2604.25105v1](http://arxiv.org/abs/2604.25105v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.25105)|
 |**2026-04-25**|**A Heterogeneous Two-Stream Framework for Video Action Recognition with Comparative Fusion Analysis**|Md. Afzalur Rahaman et.al.|[2604.23415v1](http://arxiv.org/abs/2604.23415v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.23415)|
 |**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595v1](http://arxiv.org/abs/2604.22595v1)|[link](https://github.com/AI-CV-Lab/EV-CLIP)|[αX↑5](https://alphaxiv.org/abs/2604.22595)|
 |**2026-04-23**|**EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception Algorithms**|Brian VanVoorst et.al.|[2604.22036v1](http://arxiv.org/abs/2604.22036v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.22036)|
