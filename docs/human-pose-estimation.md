@@ -4,18 +4,22 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.04
+### Updated on 2026.05.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00562)|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02784)|
+|**2026-05-04**|**Temporally Consistent Object 6D Pose Estimation for Robot Control**|Kateryna Zorina et.al.|[2605.02708v1](http://arxiv.org/abs/2605.02708v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02708)|
+|**2026-05-04**|**Robotic Desk Organization: A Multi-Primitive Approach to Manipulating Heterogeneous Objects via Environmental Constraints**|Yi Dong. Yangjun Liu et.al.|[2605.02135v1](http://arxiv.org/abs/2605.02135v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02135)|
+|**2026-05-03**|**Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions**|Nicholas B. Andrews et.al.|[2605.02054v1](http://arxiv.org/abs/2605.02054v1)|null|null|
+|**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|[link](https://github.com/PHANTOM0122/Sphere-cloud)|[αX↑0](https://alphaxiv.org/abs/2605.00562)|
 |**2026-05-01**|**A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers**|Kaiwen Zuo et.al.|[2605.00307v1](http://arxiv.org/abs/2605.00307v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00307)|
-|**2026-04-30**|**MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video**|Xijia Wei et.al.|[2605.00242v1](http://arxiv.org/abs/2605.00242v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00242)|
-|**2026-04-30**|**Adaptive Geodesic Conformal Prediction for Egocentric Camera Pose Estimation**|Aishani Pathak et.al.|[2605.00233v1](http://arxiv.org/abs/2605.00233v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00233)|
-|**2026-04-30**|**From Images2Mesh: A 3D Surface Reconstruction Pipeline for Non-Cooperative Space Objects**|Bala Prenith Reddy Gopu et.al.|[2605.00147v1](http://arxiv.org/abs/2605.00147v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00147)|
-|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|[link](https://github.com/OpenDriveLab/DriveAGI)|[αX↑0](https://alphaxiv.org/abs/2604.27448)|
-|**2026-04-30**|**Gait Recognition via Deep Residual Networks and Multi-Branch Feature Fusion**|Yabo Luo et.al.|[2604.27353v1](http://arxiv.org/abs/2604.27353v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.27353)|
-|**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|[link](https://github.com/TRI-ML/recgen)|[αX↑5](https://alphaxiv.org/abs/2604.27106)|
+|**2026-04-30**|**MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video**|Xijia Wei et.al.|[2605.00242v1](http://arxiv.org/abs/2605.00242v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00242)|
+|**2026-04-30**|**Adaptive Geodesic Conformal Prediction for Egocentric Camera Pose Estimation**|Aishani Pathak et.al.|[2605.00233v1](http://arxiv.org/abs/2605.00233v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00233)|
+|**2026-04-30**|**From Images2Mesh: A 3D Surface Reconstruction Pipeline for Non-Cooperative Space Objects**|Bala Prenith Reddy Gopu et.al.|[2605.00147v1](http://arxiv.org/abs/2605.00147v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00147)|
+|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|[link](https://github.com/OpenDriveLab/DriveAGI)|[αX↑1](https://alphaxiv.org/abs/2604.27448)|
+|**2026-04-30**|**Gait Recognition via Deep Residual Networks and Multi-Branch Feature Fusion**|Yabo Luo et.al.|[2604.27353v1](http://arxiv.org/abs/2604.27353v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.27353)|
+|**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|[link](https://github.com/TRI-ML/recgen)|[αX↑6](https://alphaxiv.org/abs/2604.27106)|
 |**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.26620)|
 |**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479v1](http://arxiv.org/abs/2604.26479v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.26479)|
 |**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404v1](http://arxiv.org/abs/2604.26404v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.26404)|
