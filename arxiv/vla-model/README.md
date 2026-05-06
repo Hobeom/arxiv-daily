@@ -1,9 +1,11 @@
 ## Vision Language Action Model
 
-### Updated on 2026.05.05
+### Updated on 2026.05.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-05**|**RLDX-1 Technical Report**|Dongyoung Kim et.al.|[2605.03269v1](http://arxiv.org/abs/2605.03269v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03269)|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881v1](http://arxiv.org/abs/2605.02881v1)|[link](https://github.com/allenai/molmoact2)|[αX↑10](https://alphaxiv.org/abs/2605.02881)|
 |**2026-05-04**|**Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**|Chenyu Hui et.al.|[2605.02757v1](http://arxiv.org/abs/2605.02757v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02757)|
 |**2026-05-04**|**Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference**|Yudong Liu et.al.|[2605.02739v1](http://arxiv.org/abs/2605.02739v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02739)|
 |**2026-05-03**|**VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation**|Zijian An et.al.|[2605.02037v1](http://arxiv.org/abs/2605.02037v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02037)|

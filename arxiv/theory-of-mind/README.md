@@ -1,10 +1,11 @@
 ## Theory of Mind
 
-### Updated on 2026.05.05
+### Updated on 2026.05.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-04**|**SOTOPIA-TOM: Evaluating Information Management in Multi-Agent Interaction with Theory of Mind**|Yashwanth YS et.al.|[2605.02307v1](http://arxiv.org/abs/2605.02307v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02307)|
+|**2026-05-05**|**Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior**|Shinas Shaji et.al.|[2605.03855v1](http://arxiv.org/abs/2605.03855v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03855)|
+|**2026-05-04**|**SOTOPIA-TOM: Evaluating Information Management in Multi-Agent Interaction with Theory of Mind**|Yashwanth YS et.al.|[2605.02307v1](http://arxiv.org/abs/2605.02307v1)|[link](https://github.com/sotopia-lab/sotopia)|[αX↑1](https://alphaxiv.org/abs/2605.02307)|
 |**2026-05-01**|**ARIS: Agentic and Relationship Intelligence System for Social Robots**|Stavya Datta et.al.|[2605.00943v1](http://arxiv.org/abs/2605.00943v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00943)|
 |**2026-04-25**|**StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning**|Xuanyue Zhong et.al.|[2604.23198v1](http://arxiv.org/abs/2604.23198v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.23198)|
 |**2026-04-24**|**Don't Make the LLM Read the Graph: Make the Graph Think**|Yuqi Sun et.al.|[2604.23057v1](http://arxiv.org/abs/2604.23057v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.23057)|

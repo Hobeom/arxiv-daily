@@ -4,24 +4,27 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.05
+### Updated on 2026.05.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-02**|**ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue**|Daoxuan Zhang et.al.|[2605.01371v1](http://arxiv.org/abs/2605.01371v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.01371)|
-|**2026-05-02**|**TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos**|Nima Rahmanian et.al.|[2605.01234v1](http://arxiv.org/abs/2605.01234v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.01234)|
+|**2026-05-05**|**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**|Zhiyuan Li et.al.|[2605.03637v1](http://arxiv.org/abs/2605.03637v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03637)|
+|**2026-05-05**|**RLDX-1 Technical Report**|Dongyoung Kim et.al.|[2605.03269v1](http://arxiv.org/abs/2605.03269v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03269)|
+|**2026-05-04**|**OGPO: Sample Efficient Full-Finetuning of Generative Control Policies**|Sarvesh Patil et.al.|[2605.03065v1](http://arxiv.org/abs/2605.03065v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03065)|
+|**2026-05-02**|**ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue**|Daoxuan Zhang et.al.|[2605.01371v1](http://arxiv.org/abs/2605.01371v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.01371)|
+|**2026-05-02**|**TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos**|Nima Rahmanian et.al.|[2605.01234v1](http://arxiv.org/abs/2605.01234v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.01234)|
 |**2026-05-01**|**Learning to Race in Minutes: Infoprop Dyna on the Mini Wheelbot**|Devdutt Subhasish et.al.|[2605.01096v1](http://arxiv.org/abs/2605.01096v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.01096)|
-|**2026-05-01**|**Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies**|Yi Wang et.al.|[2605.00416v1](http://arxiv.org/abs/2605.00416v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.00416)|
-|**2026-05-01**|**Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning**|Chengshuai Shi et.al.|[2605.00347v1](http://arxiv.org/abs/2605.00347v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00347)|
-|**2026-04-30**|**E $^2$ DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation**|Kaiyan Zhao et.al.|[2605.00159v1](http://arxiv.org/abs/2605.00159v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00159)|
-|**2026-04-30**|**World Model for Robot Learning: A Comprehensive Survey**|Bohan Hou et.al.|[2605.00080v1](http://arxiv.org/abs/2605.00080v1)|[link](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)|[αX↑8](https://alphaxiv.org/abs/2605.00080)|
+|**2026-05-01**|**Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies**|Yi Wang et.al.|[2605.00416v1](http://arxiv.org/abs/2605.00416v1)|null|[🤗👍10](https://huggingface.co/papers/2605.00416) [αX↑13](https://alphaxiv.org/abs/2605.00416)|
+|**2026-05-01**|**Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning**|Chengshuai Shi et.al.|[2605.00347v1](http://arxiv.org/abs/2605.00347v1)|null|[🤗👍8](https://huggingface.co/papers/2605.00347) [αX↑7](https://alphaxiv.org/abs/2605.00347)|
+|**2026-04-30**|**E $^2$ DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation**|Kaiyan Zhao et.al.|[2605.00159v1](http://arxiv.org/abs/2605.00159v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00159)|
+|**2026-04-30**|**World Model for Robot Learning: A Comprehensive Survey**|Bohan Hou et.al.|[2605.00080v1](http://arxiv.org/abs/2605.00080v1)|[link](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)|[αX↑20](https://alphaxiv.org/abs/2605.00080)|
 |**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699v1](http://arxiv.org/abs/2604.27699v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.27699)|
-|**2026-04-30**|**Can Tabular Foundation Models Guide Exploration in Robot Policy Learning?**|Buqing Ou et.al.|[2604.27667v1](http://arxiv.org/abs/2604.27667v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.27667)|
-|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621v1](http://arxiv.org/abs/2604.27621v1)|[link](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos)|[αX↑24](https://alphaxiv.org/abs/2604.27621)|
+|**2026-04-30**|**Can Tabular Foundation Models Guide Exploration in Robot Policy Learning?**|Buqing Ou et.al.|[2604.27667v1](http://arxiv.org/abs/2604.27667v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.27667)|
+|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621v1](http://arxiv.org/abs/2604.27621v1)|[link](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos)|[αX↑29](https://alphaxiv.org/abs/2604.27621)|
 |**2026-04-30**|**SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**|Pengna Li et.al.|[2604.27620v1](http://arxiv.org/abs/2604.27620v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.27620)|
 |**2026-04-30**|**PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations**|Yang Zhang et.al.|[2604.27472v1](http://arxiv.org/abs/2604.27472v1)|[link](https://github.com/TeleHuman/PRTS)|[αX↑6](https://alphaxiv.org/abs/2604.27472)|
 |**2026-04-30**|**Context as Prior: Bayesian-Inspired Intent Inference for Non-Speaking Agents with a Household Cat Testbed**|Wenqian Zhang et.al.|[2604.27445v1](http://arxiv.org/abs/2604.27445v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.27445)|
-|**2026-04-29**|**Atomic-Probe Governance for Skill Updates in Compositional Robot Policies**|Xue Qin et.al.|[2604.26689v1](http://arxiv.org/abs/2604.26689v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.26689)|
+|**2026-05-05**|**Atomic-Probe Governance for Skill Updates in Compositional Robot Policies**|Xue Qin et.al.|[2604.26689v2](http://arxiv.org/abs/2604.26689v2)|[link](https://github.com/s20sc/atomic-probe-governance)|[αX↑3](https://alphaxiv.org/abs/2604.26689)|
 |**2026-04-29**|**3D Generation for Embodied AI and Robotic Simulation: A Survey**|Tianwei Ye et.al.|[2604.26509v1](http://arxiv.org/abs/2604.26509v1)|[link](https://github.com/hitcslj/3DGen4Robot)|[αX↑12](https://alphaxiv.org/abs/2604.26509)|
 |**2026-04-28**|**Lifting Embodied World Models for Planning and Control**|Alex N. Wang et.al.|[2604.26182v1](http://arxiv.org/abs/2604.26182v1)|null|[αX↑11](https://alphaxiv.org/abs/2604.26182)|
 |**2026-04-28**|**KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning**|Yixuan Huang et.al.|[2604.25788v1](http://arxiv.org/abs/2604.25788v1)|[link](https://github.com/Princeton-Robot-Planning-and-Learning/kindergarden)|[αX↑7](https://alphaxiv.org/abs/2604.25788)|
@@ -32,7 +35,7 @@ layout: default
 |**2026-04-26**|**Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms**|Qi Li et.al.|[2604.23775v1](http://arxiv.org/abs/2604.23775v1)|[link](https://github.com/LiQiiiii/Awesome-VLA-Safety)|[🤗👍43](https://huggingface.co/papers/2604.23775) [αX↑5](https://alphaxiv.org/abs/2604.23775)|
 |**2026-04-26**|**EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks**|Yihang Li et.al.|[2604.23570v1](http://arxiv.org/abs/2604.23570v1)|null|[αX↑21](https://alphaxiv.org/abs/2604.23570)|
 |**2026-04-24**|**dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model**|Yaxuan Li et.al.|[2604.22152v1](http://arxiv.org/abs/2604.22152v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[🤗👍4](https://huggingface.co/papers/2604.22152) [αX↑18](https://alphaxiv.org/abs/2604.22152)|
-|**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741v1](http://arxiv.org/abs/2604.21741v1)|null|[αX↑18](https://alphaxiv.org/abs/2604.21741)|
+|**2026-05-05**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741v2](http://arxiv.org/abs/2604.21741v2)|null|[αX↑18](https://alphaxiv.org/abs/2604.21741)|
 |**2026-04-23**|**ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures**|Xiyin Zeng et.al.|[2604.21232v1](http://arxiv.org/abs/2604.21232v1)|[link](https://github.com/SnSnLi/ReCAPA)|[αX↑1](https://alphaxiv.org/abs/2604.21232)|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160v1](http://arxiv.org/abs/2604.21160v1)|null|[αX↑8](https://alphaxiv.org/abs/2604.21160)|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017v1](http://arxiv.org/abs/2604.21017v1)|null|[αX↑10](https://alphaxiv.org/abs/2604.21017)|

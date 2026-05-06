@@ -4,12 +4,12 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.05.05
+### Updated on 2026.05.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-05-01**|**Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2605.00931v1](http://arxiv.org/abs/2605.00931v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.00931)|
-|**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043v1](http://arxiv.org/abs/2604.28043v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.28043)|
+|**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043v1](http://arxiv.org/abs/2604.28043v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.28043)|
 |**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18612)|
 |**2026-04-16**|**Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships**|Seiya Mitsuno et.al.|[2604.12310v2](http://arxiv.org/abs/2604.12310v2)|null|[αX↑1](https://alphaxiv.org/abs/2604.12310)|
 |**2026-04-13**|**Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents**|Swanand Rao et.al.|[2604.12129v1](http://arxiv.org/abs/2604.12129v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.12129)|

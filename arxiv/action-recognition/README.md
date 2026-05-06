@@ -1,10 +1,11 @@
 ## Action Recognition
 
-### Updated on 2026.05.05
+### Updated on 2026.05.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-04**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834v1](http://arxiv.org/abs/2605.02834v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02834)|
+|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639v1](http://arxiv.org/abs/2605.03639v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03639)|
+|**2026-05-05**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834v2](http://arxiv.org/abs/2605.02834v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.02834)|
 |**2026-05-03**|**IMPACT-Scribe: Interactive Temporal Action Segmentation with Boundary Scribbles and Query Planning**|Qian Yin et.al.|[2605.01668v1](http://arxiv.org/abs/2605.01668v1)|[link](https://github.com/BanzQians/IMPACT_AS)|[αX↑0](https://alphaxiv.org/abs/2605.01668)|
 |**2026-05-02**|**SF20K Competition 2025: Summary and findings**|Ridouane Ghermi et.al.|[2605.01496v1](http://arxiv.org/abs/2605.01496v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.01496)|
 |**2026-05-01**|**CEZSAR: A Contrastive Embedding Method for Zero-Shot Action Recognition**|Valter Estevam et.al.|[2605.01165v1](http://arxiv.org/abs/2605.01165v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.01165)|
@@ -101,7 +102,7 @@
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257v1](http://arxiv.org/abs/2602.01257v1)|null|[αX↑4](https://alphaxiv.org/abs/2602.01257)|
 |**2026-04-10**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v3](http://arxiv.org/abs/2601.21078v3)|[link](https://github.com/JiaqiLi404/ActionVLM)|[αX↑9](https://alphaxiv.org/abs/2601.21078)|
 |**2026-02-23**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v2](http://arxiv.org/abs/2601.16210v2)|null|[αX↑22](https://alphaxiv.org/abs/2601.16210)|
-|**2025-12-22**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v2](http://arxiv.org/abs/2512.16504v2)|null|[αX↑2](https://alphaxiv.org/abs/2512.16504)|
+|**2026-05-05**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v3](http://arxiv.org/abs/2512.16504v3)|null|[αX↑3](https://alphaxiv.org/abs/2512.16504)|
 |**2025-12-12**|**Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization**|Anh-Kiet Duong et.al.|[2512.11189v1](http://arxiv.org/abs/2512.11189v1)|null|[αX↑0](https://alphaxiv.org/abs/2512.11189)|
 |**2025-12-01**|**TBT-Former: Learning Temporal Boundary Distributions for Action Localization**|Thisara Rathnayaka et.al.|[2512.01298v1](http://arxiv.org/abs/2512.01298v1)|[link](https://github.com/aaivu/In21-S7-CS4681-AML-Research-Projects)|[αX↑1](https://alphaxiv.org/abs/2512.01298)|
 |**2025-11-20**|**FOOTPASS: A Multi-Modal Multi-Agent Tactical Context Dataset for Play-by-Play Action Spotting in Soccer Broadcast Videos**|Jeremie Ochin et.al.|[2511.16183v1](http://arxiv.org/abs/2511.16183v1)|null|[αX↑3](https://alphaxiv.org/abs/2511.16183)|
