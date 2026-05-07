@@ -8,7 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639v1](http://arxiv.org/abs/2605.03639v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03639)|
+|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639v1](http://arxiv.org/abs/2605.03639v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.03639)|
 |**2026-05-05**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834v2](http://arxiv.org/abs/2605.02834v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.02834)|
 |**2026-05-03**|**IMPACT-Scribe: Interactive Temporal Action Segmentation with Boundary Scribbles and Query Planning**|Qian Yin et.al.|[2605.01668v1](http://arxiv.org/abs/2605.01668v1)|[link](https://github.com/BanzQians/IMPACT_AS)|[αX↑0](https://alphaxiv.org/abs/2605.01668)|
 |**2026-05-02**|**SF20K Competition 2025: Summary and findings**|Ridouane Ghermi et.al.|[2605.01496v1](http://arxiv.org/abs/2605.01496v1)|[link](https://github.com/ridouaneg/sf20k)|[αX↑0](https://alphaxiv.org/abs/2605.01496)|
