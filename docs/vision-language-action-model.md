@@ -4,12 +4,14 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.05.06
+### Updated on 2026.05.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-05**|**RLDX-1 Technical Report**|Dongyoung Kim et.al.|[2605.03269v1](http://arxiv.org/abs/2605.03269v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03269)|
-|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881v1](http://arxiv.org/abs/2605.02881v1)|[link](https://github.com/allenai/molmoact2)|[🤗👍190](https://huggingface.co/papers/2605.02881) [αX↑10](https://alphaxiv.org/abs/2605.02881)|
+|**2026-05-06**|**ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation**|Wei Li et.al.|[2605.05126v1](http://arxiv.org/abs/2605.05126v1)|[link](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)|[αX↑0](https://alphaxiv.org/abs/2605.05126)|
+|**2026-05-06**|**From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models**|Yihan Lin et.al.|[2605.04678v1](http://arxiv.org/abs/2605.04678v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.04678)|
+|**2026-05-06**|**RLDX-1 Technical Report**|Dongyoung Kim et.al.|[2605.03269v2](http://arxiv.org/abs/2605.03269v2)|[link](https://github.com/RLWRLD/RLDX-1)|[αX↑17](https://alphaxiv.org/abs/2605.03269)|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881v1](http://arxiv.org/abs/2605.02881v1)|[link](https://github.com/allenai/molmoact2)|[🤗👍190](https://huggingface.co/papers/2605.02881) [αX↑33](https://alphaxiv.org/abs/2605.02881)|
 |**2026-05-04**|**Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**|Chenyu Hui et.al.|[2605.02757v1](http://arxiv.org/abs/2605.02757v1)|[link](https://github.com/nanfangxiansheng/Seeing-Realism-from-Simulation)|[αX↑4](https://alphaxiv.org/abs/2605.02757)|
 |**2026-05-04**|**Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference**|Yudong Liu et.al.|[2605.02739v1](http://arxiv.org/abs/2605.02739v1)|[link](https://github.com/1999Lyd/Latent-Bridge)|[αX↑5](https://alphaxiv.org/abs/2605.02739)|
 |**2026-05-03**|**VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation**|Zijian An et.al.|[2605.02037v1](http://arxiv.org/abs/2605.02037v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02037)|

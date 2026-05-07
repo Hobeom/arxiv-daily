@@ -4,13 +4,14 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.06
+### Updated on 2026.05.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03359)|
-|**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.03352)|
-|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.02784)|
+|**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.05207)|
+|**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|[link](https://github.com/jsnln/mix3r)|[αX↑7](https://alphaxiv.org/abs/2605.03359)|
+|**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|[link](https://github.com/LinaZhangUCLA/PathMotionMLLM)|[αX↑0](https://alphaxiv.org/abs/2605.03352)|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.02784)|
 |**2026-05-04**|**Temporally Consistent Object 6D Pose Estimation for Robot Control**|Kateryna Zorina et.al.|[2605.02708v1](http://arxiv.org/abs/2605.02708v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.02708)|
 |**2026-05-04**|**Robotic Desk Organization: A Multi-Primitive Approach to Manipulating Heterogeneous Objects via Environmental Constraints**|Yi Dong. Yangjun Liu et.al.|[2605.02135v1](http://arxiv.org/abs/2605.02135v1)|[link](https://github.com/manipulation20/robotic-desk-organization)|[αX↑0](https://alphaxiv.org/abs/2605.02135)|
 |**2026-05-03**|**Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions**|Nicholas B. Andrews et.al.|[2605.02054v1](http://arxiv.org/abs/2605.02054v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.02054)|
