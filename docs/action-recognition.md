@@ -4,22 +4,23 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.05.10
+### Updated on 2026.05.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643v1](http://arxiv.org/abs/2605.06643v1)|[link](https://github.com/lihongzhao99/MMDG_Benchmark)|[αX↑2](https://alphaxiv.org/abs/2605.06643)|
-|**2026-05-07**|**Systematic Evaluation of Large Language Models for Post-Discharge Clinical Action Extraction**|Shivali Dalmia et.al.|[2605.06191v1](http://arxiv.org/abs/2605.06191v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.06191)|
+|**2026-05-08**|**Neurosymbolic Framework for Concept-Driven Logical Reasoning in Skeleton-Based Human Action Recognition**|Talha Ilyas et.al.|[2605.07140v1](http://arxiv.org/abs/2605.07140v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07140)|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643v1](http://arxiv.org/abs/2605.06643v1)|[link](https://github.com/lihongzhao99/MMDG_Benchmark)|[αX↑6](https://alphaxiv.org/abs/2605.06643)|
+|**2026-05-07**|**Systematic Evaluation of Large Language Models for Post-Discharge Clinical Action Extraction**|Shivali Dalmia et.al.|[2605.06191v1](http://arxiv.org/abs/2605.06191v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.06191)|
 |**2026-05-07**|**CFE-PPAR: Compression-friendly encryption for privacy-preserving action recognition leveraging video transformers**|Haiwei Lin et.al.|[2605.05692v1](http://arxiv.org/abs/2605.05692v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.05692)|
 |**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639v1](http://arxiv.org/abs/2605.03639v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.03639)|
-|**2026-05-05**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834v2](http://arxiv.org/abs/2605.02834v2)|null|[αX↑11](https://alphaxiv.org/abs/2605.02834)|
+|**2026-05-05**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834v2](http://arxiv.org/abs/2605.02834v2)|null|[αX↑14](https://alphaxiv.org/abs/2605.02834)|
 |**2026-05-03**|**IMPACT-Scribe: Interactive Temporal Action Segmentation with Boundary Scribbles and Query Planning**|Qian Yin et.al.|[2605.01668v1](http://arxiv.org/abs/2605.01668v1)|[link](https://github.com/BanzQians/IMPACT_AS)|[αX↑1](https://alphaxiv.org/abs/2605.01668)|
-|**2026-05-02**|**SF20K Competition 2025: Summary and findings**|Ridouane Ghermi et.al.|[2605.01496v1](http://arxiv.org/abs/2605.01496v1)|[link](https://github.com/ridouaneg/sf20k)|[αX↑0](https://alphaxiv.org/abs/2605.01496)|
+|**2026-05-02**|**SF20K Competition 2025: Summary and findings**|Ridouane Ghermi et.al.|[2605.01496v1](http://arxiv.org/abs/2605.01496v1)|[link](https://github.com/ridouaneg/sf20k)|[αX↑2](https://alphaxiv.org/abs/2605.01496)|
 |**2026-05-01**|**CEZSAR: A Contrastive Embedding Method for Zero-Shot Action Recognition**|Valter Estevam et.al.|[2605.01165v1](http://arxiv.org/abs/2605.01165v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.01165)|
 |**2026-05-01**|**High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions**|Yongpeng Cao et.al.|[2605.00496v1](http://arxiv.org/abs/2605.00496v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.00496)|
-|**2026-05-01**|**Batch Normalization for Neural Networks on Complex Domains**|Xuan Son Nguyen et.al.|[2605.00467v1](http://arxiv.org/abs/2605.00467v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.00467)|
-|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173v1](http://arxiv.org/abs/2604.28173v1)|null|[αX↑10](https://alphaxiv.org/abs/2604.28173)|
-|**2026-04-30**|**SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction**|Yongpeng Cao et.al.|[2604.27508v1](http://arxiv.org/abs/2604.27508v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.27508)|
+|**2026-05-01**|**Batch Normalization for Neural Networks on Complex Domains**|Xuan Son Nguyen et.al.|[2605.00467v1](http://arxiv.org/abs/2605.00467v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.00467)|
+|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173v1](http://arxiv.org/abs/2604.28173v1)|null|[αX↑11](https://alphaxiv.org/abs/2604.28173)|
+|**2026-04-30**|**SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction**|Yongpeng Cao et.al.|[2604.27508v1](http://arxiv.org/abs/2604.27508v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.27508)|
 |**2026-04-29**|**ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation**|Sergej Stanovcic et.al.|[2604.26637v1](http://arxiv.org/abs/2604.26637v1)|[link](https://github.com/TUWIEN-ASL/ATLAS-tuwienasl)|[αX↑1](https://alphaxiv.org/abs/2604.26637)|
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461v1](http://arxiv.org/abs/2604.26461v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.26461)|
 |**2026-04-29**|**HOI-aware Adaptive Network for Weakly-supervised Action Segmentation**|Runzhong Zhang et.al.|[2604.26227v1](http://arxiv.org/abs/2604.26227v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.26227)|

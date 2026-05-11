@@ -4,14 +4,15 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.05.10
+### Updated on 2026.05.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-07**|**SANEmerg: An Emergent Communication Framework for Semantic-aware Agentic AI Networking**|Yong Xiao et.al.|[2605.05861v1](http://arxiv.org/abs/2605.05861v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.05861)|
+|**2026-05-07**|**Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization**|Da Long et.al.|[2605.07011v1](http://arxiv.org/abs/2605.07011v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07011)|
+|**2026-05-07**|**SANEmerg: An Emergent Communication Framework for Semantic-aware Agentic AI Networking**|Yong Xiao et.al.|[2605.05861v1](http://arxiv.org/abs/2605.05861v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.05861)|
 |**2026-05-06**|**SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition**|Naiyu Zheng et.al.|[2605.04608v1](http://arxiv.org/abs/2605.04608v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.04608)|
-|**2026-05-01**|**Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2605.00931v1](http://arxiv.org/abs/2605.00931v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.00931)|
-|**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043v1](http://arxiv.org/abs/2604.28043v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.28043)|
+|**2026-05-01**|**Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2605.00931v1](http://arxiv.org/abs/2605.00931v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.00931)|
+|**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043v1](http://arxiv.org/abs/2604.28043v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.28043)|
 |**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18612)|
 |**2026-04-16**|**Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships**|Seiya Mitsuno et.al.|[2604.12310v2](http://arxiv.org/abs/2604.12310v2)|null|[αX↑1](https://alphaxiv.org/abs/2604.12310)|
 |**2026-04-13**|**Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents**|Swanand Rao et.al.|[2604.12129v1](http://arxiv.org/abs/2604.12129v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.12129)|
@@ -30,7 +31,7 @@ layout: default
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.18520)|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18304)|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|[αX↑9](https://alphaxiv.org/abs/2603.16783)|
-|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑27](https://alphaxiv.org/abs/2603.16496)|
+|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑28](https://alphaxiv.org/abs/2603.16496)|
 |**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.15121)|
 |**2026-03-15**|**Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models**|Thuy Ngoc Nguyen et.al.|[2603.14646v1](http://arxiv.org/abs/2603.14646v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.14646)|
 |**2026-03-12**|**ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**|Songlin Yang et.al.|[2603.11421v1](http://arxiv.org/abs/2603.11421v1)|[link](https://github.com/Songlin1998/ShotVerse)|[🤗👍34](https://huggingface.co/papers/2603.11421) [αX↑25](https://alphaxiv.org/abs/2603.11421)|

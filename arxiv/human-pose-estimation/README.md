@@ -1,16 +1,26 @@
 ## Human Pose Estimation
 
-### Updated on 2026.05.10
+### Updated on 2026.05.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|[link](https://github.com/ameermasood/HeatNet)|[αX↑0](https://alphaxiv.org/abs/2605.08059)|
+|**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07978)|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07741)|
+|**2026-05-08**|**VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network**|Zepeng Yang et.al.|[2605.07552v1](http://arxiv.org/abs/2605.07552v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07552)|
+|**2026-05-08**|**Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**|Jingyi Liu et.al.|[2605.07354v1](http://arxiv.org/abs/2605.07354v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07354)|
+|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351v1](http://arxiv.org/abs/2605.07351v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07351)|
+|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192v1](http://arxiv.org/abs/2605.07192v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07192)|
+|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041v1](http://arxiv.org/abs/2605.07041v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07041)|
+|**2026-05-07**|**OneViewAll: Semantic Prior Guided One-View 6D Pose Estimation for Novel Objects**|Yang Luo et.al.|[2605.07023v1](http://arxiv.org/abs/2605.07023v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07023)|
+|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889v1](http://arxiv.org/abs/2605.06889v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.06889)|
 |**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|[link](https://github.com/zhenqis123/EgoEMG)|[αX↑1](https://alphaxiv.org/abs/2605.05712)|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|[link](https://github.com/jzr99/Syn4D)|[αX↑16](https://alphaxiv.org/abs/2605.05207)|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|[link](https://github.com/jsnln/mix3r)|[αX↑24](https://alphaxiv.org/abs/2605.03359)|
 |**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|[link](https://github.com/LinaZhangUCLA/PathMotionMLLM)|[αX↑2](https://alphaxiv.org/abs/2605.03352)|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.02784)|
 |**2026-05-04**|**Temporally Consistent Object 6D Pose Estimation for Robot Control**|Kateryna Zorina et.al.|[2605.02708v1](http://arxiv.org/abs/2605.02708v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.02708)|
-|**2026-05-04**|**Robotic Desk Organization: A Multi-Primitive Approach to Manipulating Heterogeneous Objects via Environmental Constraints**|Yi Dong. Yangjun Liu et.al.|[2605.02135v1](http://arxiv.org/abs/2605.02135v1)|[link](https://github.com/manipulation20/robotic-desk-organization)|[αX↑2](https://alphaxiv.org/abs/2605.02135)|
+|**2026-05-04**|**Robotic Desk Organization: A Multi-Primitive Approach to Manipulating Heterogeneous Objects via Environmental Constraints**|Yi Dong. Yangjun Liu et.al.|[2605.02135v1](http://arxiv.org/abs/2605.02135v1)|[link](https://github.com/manipulation20/robotic-desk-organization)|[αX↑3](https://alphaxiv.org/abs/2605.02135)|
 |**2026-05-03**|**Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions**|Nicholas B. Andrews et.al.|[2605.02054v1](http://arxiv.org/abs/2605.02054v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.02054)|
 |**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|[link](https://github.com/PHANTOM0122/Sphere-cloud)|[αX↑1](https://alphaxiv.org/abs/2605.00562)|
 |**2026-05-01**|**A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers**|Kaiwen Zuo et.al.|[2605.00307v1](http://arxiv.org/abs/2605.00307v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.00307)|
@@ -18,7 +28,7 @@
 |**2026-04-30**|**Adaptive Geodesic Conformal Prediction for Egocentric Camera Pose Estimation**|Aishani Pathak et.al.|[2605.00233v1](http://arxiv.org/abs/2605.00233v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.00233)|
 |**2026-04-30**|**From Images2Mesh: A 3D Surface Reconstruction Pipeline for Non-Cooperative Space Objects**|Bala Prenith Reddy Gopu et.al.|[2605.00147v1](http://arxiv.org/abs/2605.00147v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.00147)|
 |**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|[link](https://github.com/OpenDriveLab/DriveAGI)|[αX↑1](https://alphaxiv.org/abs/2604.27448)|
-|**2026-04-30**|**Gait Recognition via Deep Residual Networks and Multi-Branch Feature Fusion**|Yabo Luo et.al.|[2604.27353v1](http://arxiv.org/abs/2604.27353v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.27353)|
+|**2026-04-30**|**Gait Recognition via Deep Residual Networks and Multi-Branch Feature Fusion**|Yabo Luo et.al.|[2604.27353v1](http://arxiv.org/abs/2604.27353v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.27353)|
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|[link](https://github.com/TRI-ML/recgen)|[αX↑6](https://alphaxiv.org/abs/2604.27106)|
 |**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.26620)|
 |**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479v1](http://arxiv.org/abs/2604.26479v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.26479)|
@@ -46,7 +56,7 @@
 |**2026-04-20**|**Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation**|Jiawen Duan et.al.|[2604.17688v1](http://arxiv.org/abs/2604.17688v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.17688)|
 |**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446v1](http://arxiv.org/abs/2604.17446v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17446)|
 |**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.16954)|
-|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.16540)|
+|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.16540)|
 |**2026-04-16**|**Fast Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v1](http://arxiv.org/abs/2604.16522v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.16522)|
 |**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|[link](https://github.com/url-kaist/gaussianflow-slam)|[αX↑1](https://alphaxiv.org/abs/2604.15612)|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.15221)|
