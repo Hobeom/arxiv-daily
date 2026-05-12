@@ -8,6 +8,13 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942v1](http://arxiv.org/abs/2605.10942v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.10942)|
+|**2026-05-11**|**PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models**|Xinyu Guo et.al.|[2605.10925v1](http://arxiv.org/abs/2605.10925v1)|null|[αX↑11](https://alphaxiv.org/abs/2605.10925)|
+|**2026-05-11**|**CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models**|Wenxuan Song et.al.|[2605.10903v1](http://arxiv.org/abs/2605.10903v1)|[link](https://github.com/OpenHelix-Team/CapVector)|[αX↑2](https://alphaxiv.org/abs/2605.10903)|
+|**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821v1](http://arxiv.org/abs/2605.10821v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.10821)|
+|**2026-05-11**|**ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models**|Zuojin Tang et.al.|[2605.10819v1](http://arxiv.org/abs/2605.10819v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.10819)|
+|**2026-05-11**|**VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models**|Hao Wang et.al.|[2605.10485v1](http://arxiv.org/abs/2605.10485v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.10485)|
+|**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426v1](http://arxiv.org/abs/2605.10426v1)|[link](https://github.com/potatochip1211/CoWorld-VLA)|[αX↑0](https://alphaxiv.org/abs/2605.10426)|
 |**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094v1](http://arxiv.org/abs/2605.10094v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10094)|
 |**2026-05-11**|**LoopVLA: Learning Sufficiency in Recurrent Refinement for Vision-Language-Action Models**|Boyang Shen et.al.|[2605.09948v1](http://arxiv.org/abs/2605.09948v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09948)|
 |**2026-05-10**|**Drift is a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning**|Kewei Chen et.al.|[2605.09537v1](http://arxiv.org/abs/2605.09537v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09537)|
