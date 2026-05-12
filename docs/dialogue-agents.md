@@ -4,10 +4,12 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.05.11
+### Updated on 2026.05.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10286)|
+|**2026-05-08**|**AIPO: : Learning to Reason from Active Interaction**|Junnan Liu et.al.|[2605.08401v1](http://arxiv.org/abs/2605.08401v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08401)|
 |**2026-05-07**|**Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization**|Da Long et.al.|[2605.07011v1](http://arxiv.org/abs/2605.07011v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07011)|
 |**2026-05-07**|**SANEmerg: An Emergent Communication Framework for Semantic-aware Agentic AI Networking**|Yong Xiao et.al.|[2605.05861v1](http://arxiv.org/abs/2605.05861v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.05861)|
 |**2026-05-06**|**SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition**|Naiyu Zheng et.al.|[2605.04608v1](http://arxiv.org/abs/2605.04608v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.04608)|

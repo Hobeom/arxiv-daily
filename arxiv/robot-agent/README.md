@@ -1,9 +1,21 @@
 ## Robot & Agent
 
-### Updated on 2026.05.11
+### Updated on 2026.05.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-11**|**Guided Streaming Stochastic Interpolant Policy**|Puming Jiang et.al.|[2605.10051v1](http://arxiv.org/abs/2605.10051v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10051)|
+|**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998v1](http://arxiv.org/abs/2605.09998v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09998)|
+|**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874v1](http://arxiv.org/abs/2605.09874v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09874)|
+|**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑0](https://alphaxiv.org/abs/2605.09826)|
+|**2026-05-10**|**Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching**|Kejia Ren et.al.|[2605.09789v1](http://arxiv.org/abs/2605.09789v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09789)|
+|**2026-05-10**|**Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding**|Zehang Zhang et.al.|[2605.09522v1](http://arxiv.org/abs/2605.09522v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09522)|
+|**2026-05-10**|**Kintsugi: Learning Policies by Repairing Executable Knowledge Bases**|Teng Cao et.al.|[2605.09487v1](http://arxiv.org/abs/2605.09487v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09487)|
+|**2026-05-10**|**Beyond Isolation: A Unified Benchmark for General-Purpose Navigation**|Samson Sun et.al.|[2605.09441v1](http://arxiv.org/abs/2605.09441v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09441)|
+|**2026-05-10**|**SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning**|Haoqiang Kang et.al.|[2605.09423v1](http://arxiv.org/abs/2605.09423v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09423)|
+|**2026-05-10**|**NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning**|Tiehan Cui et.al.|[2605.09387v1](http://arxiv.org/abs/2605.09387v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09387)|
+|**2026-05-09**|**Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents**|Ying Chen et.al.|[2605.08747v1](http://arxiv.org/abs/2605.08747v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08747)|
+|**2026-05-09**|**BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation**|Antong Zhang et.al.|[2605.08571v1](http://arxiv.org/abs/2605.08571v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08571)|
 |**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687v1](http://arxiv.org/abs/2605.07687v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07687)|
 |**2026-05-08**|**MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents**|Xin Ding et.al.|[2605.07594v1](http://arxiv.org/abs/2605.07594v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07594)|
 |**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306v1](http://arxiv.org/abs/2605.07306v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07306)|

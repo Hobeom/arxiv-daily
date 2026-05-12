@@ -4,10 +4,16 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.11
+### Updated on 2026.05.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-11**|**HYPERPOSE: Hyperbolic Kinematic Phase-Space Attention for 3D Human Pose Estimation**|Vinduja T. et.al.|[2605.10100v1](http://arxiv.org/abs/2605.10100v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10100)|
+|**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699v1](http://arxiv.org/abs/2605.09699v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09699)|
+|**2026-05-09**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v1](http://arxiv.org/abs/2605.08806v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08806)|
+|**2026-05-09**|**Egocentric Whole-Body Human Mesh Recovery with Prior-Guided Learning**|Soyeon Na et.al.|[2605.08606v1](http://arxiv.org/abs/2605.08606v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08606)|
+|**2026-05-09**|**Cross-Modal RGB-D Fusion Transformer for 6D Pose Estimation of Non-Cooperative Spacecraft with Stereo-Derived Depth**|Yongliang Zhen et.al.|[2605.08592v1](http://arxiv.org/abs/2605.08592v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08592)|
+|**2026-05-08**|**Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning**|Karolina Źróbek et.al.|[2605.08330v1](http://arxiv.org/abs/2605.08330v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08330)|
 |**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|[link](https://github.com/ameermasood/HeatNet)|[αX↑0](https://alphaxiv.org/abs/2605.08059)|
 |**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07978)|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07741)|

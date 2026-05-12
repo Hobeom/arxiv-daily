@@ -4,10 +4,21 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.05.11
+### Updated on 2026.05.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094v1](http://arxiv.org/abs/2605.10094v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10094)|
+|**2026-05-11**|**LoopVLA: Learning Sufficiency in Recurrent Refinement for Vision-Language-Action Models**|Boyang Shen et.al.|[2605.09948v1](http://arxiv.org/abs/2605.09948v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09948)|
+|**2026-05-10**|**Drift is a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning**|Kewei Chen et.al.|[2605.09537v1](http://arxiv.org/abs/2605.09537v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09537)|
+|**2026-05-10**|**RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models**|Weijia Liufu et.al.|[2605.09410v1](http://arxiv.org/abs/2605.09410v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09410)|
+|**2026-05-09**|**Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models**|Ming Sun et.al.|[2605.09005v1](http://arxiv.org/abs/2605.09005v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09005)|
+|**2026-05-09**|**Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT**|Tianyi Zhang et.al.|[2605.08879v1](http://arxiv.org/abs/2605.08879v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08879)|
+|**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830v1](http://arxiv.org/abs/2605.08830v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08830)|
+|**2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Yinwei Dai et.al.|[2605.08638v1](http://arxiv.org/abs/2605.08638v1)|[link](https://github.com/dywsjtu/keystone)|[αX↑0](https://alphaxiv.org/abs/2605.08638)|
+|**2026-05-09**|**ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models**|Kewei Chen et.al.|[2605.08612v1](http://arxiv.org/abs/2605.08612v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08612)|
+|**2026-05-08**|**Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models**|Meng Zheng et.al.|[2605.08434v1](http://arxiv.org/abs/2605.08434v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08434)|
+|**2026-05-06**|**Test-Time Training for Visual Foresight Vision-Language-Action Models**|Sangwu Park et.al.|[2605.08215v1](http://arxiv.org/abs/2605.08215v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08215)|
 |**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931v1](http://arxiv.org/abs/2605.07931v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07931)|
 |**2026-05-08**|**EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting**|Jaeyoung Choi et.al.|[2605.07642v1](http://arxiv.org/abs/2605.07642v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07642)|
 |**2026-05-08**|**ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations**|Yuhao Zhou et.al.|[2605.07474v1](http://arxiv.org/abs/2605.07474v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07474)|
