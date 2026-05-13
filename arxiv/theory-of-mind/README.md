@@ -6,8 +6,8 @@
 |---|---|---|---|---|---|
 |**2026-05-11**|**Mind Modeling: A ToM-Based Framework for Personalization**|Cristina Gena et.al.|[2605.10306v1](http://arxiv.org/abs/2605.10306v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10306)|
 |**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑2](https://alphaxiv.org/abs/2605.09826)|
-|**2026-05-06**|**LLMorphism: When humans come to see themselves as language models**|Valerio Capraro et.al.|[2605.05419v1](http://arxiv.org/abs/2605.05419v1)|null|[αX↑11](https://alphaxiv.org/abs/2605.05419)|
-|**2026-05-06**|**Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior**|Shinas Shaji et.al.|[2605.03855v2](http://arxiv.org/abs/2605.03855v2)|null|[αX↑2](https://alphaxiv.org/abs/2605.03855)|
+|**2026-05-06**|**LLMorphism: When humans come to see themselves as language models**|Valerio Capraro et.al.|[2605.05419v1](http://arxiv.org/abs/2605.05419v1)|null|[αX↑13](https://alphaxiv.org/abs/2605.05419)|
+|**2026-05-06**|**Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior**|Shinas Shaji et.al.|[2605.03855v2](http://arxiv.org/abs/2605.03855v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.03855)|
 |**2026-05-04**|**SOTOPIA-TOM: Evaluating Information Management in Multi-Agent Interaction with Theory of Mind**|Yashwanth YS et.al.|[2605.02307v1](http://arxiv.org/abs/2605.02307v1)|[link](https://github.com/sotopia-lab/sotopia)|[αX↑4](https://alphaxiv.org/abs/2605.02307)|
 |**2026-05-01**|**ARIS: Agentic and Relationship Intelligence System for Social Robots**|Stavya Datta et.al.|[2605.00943v1](http://arxiv.org/abs/2605.00943v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.00943)|
 |**2026-04-25**|**StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning**|Xuanyue Zhong et.al.|[2604.23198v1](http://arxiv.org/abs/2604.23198v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.23198)|
