@@ -4,15 +4,23 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.12
+### Updated on 2026.05.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369v1](http://arxiv.org/abs/2605.12369v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12369)|
+|**2026-05-12**|**TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning**|Matthew M. Hong et.al.|[2605.12236v1](http://arxiv.org/abs/2605.12236v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12236)|
+|**2026-05-12**|**Nautilus: From One Prompt to Plug-and-Play Robot Learning**|Yufeng Jin et.al.|[2605.11665v1](http://arxiv.org/abs/2605.11665v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11665)|
+|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Pablo Ortega-Kral et.al.|[2605.11564v1](http://arxiv.org/abs/2605.11564v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11564)|
+|**2026-05-12**|**PRISM: : Planning and Reasoning with Intent in Simulated Embodied Environments**|Yunn Kang Lim et.al.|[2605.11534v1](http://arxiv.org/abs/2605.11534v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11534)|
+|**2026-05-12**|**Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation**|Hao Wang et.al.|[2605.11479v1](http://arxiv.org/abs/2605.11479v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11479)|
+|**2026-05-12**|**3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**|Yifan Yin et.al.|[2605.11367v1](http://arxiv.org/abs/2605.11367v1)|[link](https://github.com/3D-Belief/3d-belief.git)|[αX↑0](https://alphaxiv.org/abs/2605.11367)|
+|**2026-05-11**|**RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking**|Andrew Choi et.al.|[2605.11151v1](http://arxiv.org/abs/2605.11151v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11151)|
 |**2026-05-11**|**EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents**|Ruofei Ju et.al.|[2605.10332v1](http://arxiv.org/abs/2605.10332v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10332)|
-|**2026-05-11**|**Guided Streaming Stochastic Interpolant Policy**|Puming Jiang et.al.|[2605.10051v1](http://arxiv.org/abs/2605.10051v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10051)|
-|**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998v1](http://arxiv.org/abs/2605.09998v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09998)|
-|**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874v1](http://arxiv.org/abs/2605.09874v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09874)|
-|**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑0](https://alphaxiv.org/abs/2605.09826)|
+|**2026-05-11**|**Guided Streaming Stochastic Interpolant Policy**|Puming Jiang et.al.|[2605.10051v1](http://arxiv.org/abs/2605.10051v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10051)|
+|**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998v1](http://arxiv.org/abs/2605.09998v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.09998)|
+|**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874v1](http://arxiv.org/abs/2605.09874v1)|[link](https://github.com/Ziyang412/EgoMemReason)|[αX↑3](https://alphaxiv.org/abs/2605.09874)|
+|**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑2](https://alphaxiv.org/abs/2605.09826)|
 |**2026-05-10**|**Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching**|Kejia Ren et.al.|[2605.09789v1](http://arxiv.org/abs/2605.09789v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09789)|
 |**2026-05-10**|**Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding**|Zehang Zhang et.al.|[2605.09522v1](http://arxiv.org/abs/2605.09522v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09522)|
 |**2026-05-10**|**Kintsugi: Learning Policies by Repairing Executable Knowledge Bases**|Teng Cao et.al.|[2605.09487v1](http://arxiv.org/abs/2605.09487v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09487)|
@@ -20,12 +28,12 @@ layout: default
 |**2026-05-10**|**SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning**|Haoqiang Kang et.al.|[2605.09423v1](http://arxiv.org/abs/2605.09423v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09423)|
 |**2026-05-10**|**NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning**|Tiehan Cui et.al.|[2605.09387v1](http://arxiv.org/abs/2605.09387v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09387)|
 |**2026-05-09**|**Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents**|Ying Chen et.al.|[2605.08747v1](http://arxiv.org/abs/2605.08747v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08747)|
-|**2026-05-09**|**BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation**|Antong Zhang et.al.|[2605.08571v1](http://arxiv.org/abs/2605.08571v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08571)|
+|**2026-05-12**|**BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation**|Antong Zhang et.al.|[2605.08571v2](http://arxiv.org/abs/2605.08571v2)|null|[αX↑2](https://alphaxiv.org/abs/2605.08571)|
 |**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687v1](http://arxiv.org/abs/2605.07687v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.07687)|
 |**2026-05-08**|**MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents**|Xin Ding et.al.|[2605.07594v1](http://arxiv.org/abs/2605.07594v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07594)|
 |**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306v1](http://arxiv.org/abs/2605.07306v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07306)|
 |**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Xinyu Zhang et.al.|[2605.07079v1](http://arxiv.org/abs/2605.07079v1)|[link](https://github.com/mlzxy/rla-wm)|[αX↑1](https://alphaxiv.org/abs/2605.07079)|
-|**2026-05-07**|**MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware**|Senthil Palanisamy et.al.|[2605.05945v1](http://arxiv.org/abs/2605.05945v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.05945)|
+|**2026-05-12**|**MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware**|Senthil Palanisamy et.al.|[2605.05945v2](http://arxiv.org/abs/2605.05945v2)|null|[αX↑5](https://alphaxiv.org/abs/2605.05945)|
 |**2026-05-06**|**PRISM: Perception Reasoning Interleaved for Sequential Decision Making**|Mohamed Salim Aissi et.al.|[2605.05407v1](http://arxiv.org/abs/2605.05407v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.05407)|
 |**2026-05-06**|**When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning**|Lakshita Dodeja et.al.|[2605.05172v1](http://arxiv.org/abs/2605.05172v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.05172)|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163v1](http://arxiv.org/abs/2605.05163v1)|[link](https://github.com/HKU-MMLab/PhysForge)|[🤗👍34](https://huggingface.co/papers/2605.05163) [αX↑16](https://alphaxiv.org/abs/2605.05163)|

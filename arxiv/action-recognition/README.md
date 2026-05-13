@@ -1,13 +1,13 @@
 ## Action Recognition
 
-### Updated on 2026.05.12
+### Updated on 2026.05.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-05-11**|**iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning**|Kaicong Huang et.al.|[2605.10732v1](http://arxiv.org/abs/2605.10732v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10732)|
 |**2026-05-11**|**Improving Temporal Action Segmentation via Constraint-Aware Decoding**|Yeo Keat Ee et.al.|[2605.10149v1](http://arxiv.org/abs/2605.10149v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10149)|
 |**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094v1](http://arxiv.org/abs/2605.10094v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10094)|
-|**2026-05-11**|**OZ-TAL: Online Zero-Shot Temporal Action Localization**|Chaolei Han et.al.|[2605.09976v1](http://arxiv.org/abs/2605.09976v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09976)|
+|**2026-05-11**|**OZ-TAL: Online Zero-Shot Temporal Action Localization**|Chaolei Han et.al.|[2605.09976v1](http://arxiv.org/abs/2605.09976v1)|[link](https://github.com/Chaolei98/OZ-TAL)|[αX↑1](https://alphaxiv.org/abs/2605.09976)|
 |**2026-05-10**|**DAP: Doppler-aware Point Network for Heterogeneous mmWave Action Recognition**|Jiaying Lin et.al.|[2605.09604v1](http://arxiv.org/abs/2605.09604v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09604)|
 |**2026-05-10**|**An Elastic Shape Variational Autoencoder for Skeleton Pose Trajectories**|Arafat Rahman et.al.|[2605.09231v1](http://arxiv.org/abs/2605.09231v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09231)|
 |**2026-05-09**|**ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation**|Youhe Feng et.al.|[2605.08774v1](http://arxiv.org/abs/2605.08774v1)|[link](https://github.com/ProcVLM/ProcVLM)|[αX↑0](https://alphaxiv.org/abs/2605.08774)|

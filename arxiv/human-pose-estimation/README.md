@@ -1,15 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.05.12
+### Updated on 2026.05.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297v1](http://arxiv.org/abs/2605.12297v1)|[link](https://github.com/ZJUWang01/EgoEV-HandPose)|[αX↑0](https://alphaxiv.org/abs/2605.12297)|
+|**2026-05-12**|**Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation**|Xinhao Hu et.al.|[2605.12198v1](http://arxiv.org/abs/2605.12198v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12198)|
+|**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027v1](http://arxiv.org/abs/2605.12027v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12027)|
+|**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497v1](http://arxiv.org/abs/2605.11497v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11497)|
 |**2026-05-11**|**Learning Point Cloud Geometry as a Statistical Manifold: Theory and Practice**|Jinwoo Lee et.al.|[2605.10456v1](http://arxiv.org/abs/2605.10456v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10456)|
-|**2026-05-11**|**HYPERPOSE: Hyperbolic Kinematic Phase-Space Attention for 3D Human Pose Estimation**|Vinduja T. et.al.|[2605.10100v1](http://arxiv.org/abs/2605.10100v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10100)|
-|**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699v1](http://arxiv.org/abs/2605.09699v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09699)|
-|**2026-05-09**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v1](http://arxiv.org/abs/2605.08806v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08806)|
-|**2026-05-09**|**Egocentric Whole-Body Human Mesh Recovery with Prior-Guided Learning**|Soyeon Na et.al.|[2605.08606v1](http://arxiv.org/abs/2605.08606v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08606)|
-|**2026-05-09**|**Cross-Modal RGB-D Fusion Transformer for 6D Pose Estimation of Non-Cooperative Spacecraft with Stereo-Derived Depth**|Yongliang Zhen et.al.|[2605.08592v1](http://arxiv.org/abs/2605.08592v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08592)|
+|**2026-05-11**|**HYPERPOSE: Hyperbolic Kinematic Phase-Space Attention for 3D Human Pose Estimation**|Vinduja T. et.al.|[2605.10100v1](http://arxiv.org/abs/2605.10100v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10100)|
+|**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699v1](http://arxiv.org/abs/2605.09699v1)|[link](https://github.com/Yan-s-Lab/Data-Engine)|[αX↑2](https://alphaxiv.org/abs/2605.09699)|
+|**2026-05-12**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v2](http://arxiv.org/abs/2605.08806v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.08806)|
+|**2026-05-09**|**Egocentric Whole-Body Human Mesh Recovery with Prior-Guided Learning**|Soyeon Na et.al.|[2605.08606v1](http://arxiv.org/abs/2605.08606v1)|[link](https://github.com/naso06/EgoSMPLX)|[αX↑1](https://alphaxiv.org/abs/2605.08606)|
+|**2026-05-09**|**Cross-Modal RGB-D Fusion Transformer for 6D Pose Estimation of Non-Cooperative Spacecraft with Stereo-Derived Depth**|Yongliang Zhen et.al.|[2605.08592v1](http://arxiv.org/abs/2605.08592v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.08592)|
 |**2026-05-08**|**Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning**|Karolina Źróbek et.al.|[2605.08330v1](http://arxiv.org/abs/2605.08330v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08330)|
 |**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|[link](https://github.com/ameermasood/HeatNet)|[αX↑3](https://alphaxiv.org/abs/2605.08059)|
 |**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.07978)|
