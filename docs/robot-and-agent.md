@@ -4,10 +4,18 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.13
+### Updated on 2026.05.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13632)|
+|**2026-05-13**|**Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning**|Qinchuan Cheng et.al.|[2605.13335v1](http://arxiv.org/abs/2605.13335v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13335)|
+|**2026-05-13**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276v1](http://arxiv.org/abs/2605.13276v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13276)|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119v1](http://arxiv.org/abs/2605.13119v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13119)|
+|**2026-05-13**|**When Absolute State Fails: Evaluating Proprioceptive Encodings for Robust Manipulation**|Maxime Alvarez et.al.|[2605.13067v1](http://arxiv.org/abs/2605.13067v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13067)|
+|**2026-05-13**|**EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing**|Inwoo Hwang et.al.|[2605.13041v1](http://arxiv.org/abs/2605.13041v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13041)|
+|**2026-05-13**|**Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**|Vardhan Dongre et.al.|[2605.12920v1](http://arxiv.org/abs/2605.12920v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12920)|
+|**2026-05-12**|**Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**|Nishad Singhi et.al.|[2605.12620v1](http://arxiv.org/abs/2605.12620v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12620)|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369v1](http://arxiv.org/abs/2605.12369v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12369)|
 |**2026-05-12**|**TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning**|Matthew M. Hong et.al.|[2605.12236v1](http://arxiv.org/abs/2605.12236v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12236)|
 |**2026-05-12**|**Nautilus: From One Prompt to Plug-and-Play Robot Learning**|Yufeng Jin et.al.|[2605.11665v1](http://arxiv.org/abs/2605.11665v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11665)|
@@ -33,7 +41,7 @@ layout: default
 |**2026-05-08**|**MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents**|Xin Ding et.al.|[2605.07594v1](http://arxiv.org/abs/2605.07594v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07594)|
 |**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306v1](http://arxiv.org/abs/2605.07306v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07306)|
 |**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Xinyu Zhang et.al.|[2605.07079v1](http://arxiv.org/abs/2605.07079v1)|[link](https://github.com/mlzxy/rla-wm)|[αX↑1](https://alphaxiv.org/abs/2605.07079)|
-|**2026-05-12**|**MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware**|Senthil Palanisamy et.al.|[2605.05945v2](http://arxiv.org/abs/2605.05945v2)|null|[αX↑6](https://alphaxiv.org/abs/2605.05945)|
+|**2026-05-13**|**MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware**|Senthil Palanisamy et.al.|[2605.05945v3](http://arxiv.org/abs/2605.05945v3)|null|[αX↑6](https://alphaxiv.org/abs/2605.05945)|
 |**2026-05-06**|**PRISM: Perception Reasoning Interleaved for Sequential Decision Making**|Mohamed Salim Aissi et.al.|[2605.05407v1](http://arxiv.org/abs/2605.05407v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.05407)|
 |**2026-05-06**|**When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning**|Lakshita Dodeja et.al.|[2605.05172v1](http://arxiv.org/abs/2605.05172v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.05172)|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163v1](http://arxiv.org/abs/2605.05163v1)|[link](https://github.com/HKU-MMLab/PhysForge)|[🤗👍34](https://huggingface.co/papers/2605.05163) [αX↑16](https://alphaxiv.org/abs/2605.05163)|

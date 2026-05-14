@@ -4,10 +4,16 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.13
+### Updated on 2026.05.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-13**|**Rethinking Graph Convolution for 2D-to-3D Hand Pose Lifting**|Chanyoung Kim et.al.|[2605.13604v1](http://arxiv.org/abs/2605.13604v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13604)|
+|**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233v1](http://arxiv.org/abs/2605.13233v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13233)|
+|**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151v1](http://arxiv.org/abs/2605.13151v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13151)|
+|**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018v1](http://arxiv.org/abs/2605.13018v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13018)|
+|**2026-05-13**|**AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects**|Danrui Li et.al.|[2605.12845v1](http://arxiv.org/abs/2605.12845v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12845)|
+|**2026-05-12**|**WildPose: A Unified Framework for Robust Pose Estimation in the Wild**|Jianhao Zheng et.al.|[2605.12774v1](http://arxiv.org/abs/2605.12774v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12774)|
 |**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297v1](http://arxiv.org/abs/2605.12297v1)|[link](https://github.com/ZJUWang01/EgoEV-HandPose)|[αX↑0](https://alphaxiv.org/abs/2605.12297)|
 |**2026-05-12**|**Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation**|Xinhao Hu et.al.|[2605.12198v1](http://arxiv.org/abs/2605.12198v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12198)|
 |**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027v1](http://arxiv.org/abs/2605.12027v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12027)|

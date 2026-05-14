@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.05.13
+### Updated on 2026.05.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-12**|**What Do You Think I Think? Accounting for Human Beliefs Using Second-Order Theory of Mind**|Patrick Callaghan et.al.|[2605.12745v1](http://arxiv.org/abs/2605.12745v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12745)|
 |**2026-05-11**|**Mind Modeling: A ToM-Based Framework for Personalization**|Cristina Gena et.al.|[2605.10306v1](http://arxiv.org/abs/2605.10306v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.10306)|
 |**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑2](https://alphaxiv.org/abs/2605.09826)|
 |**2026-05-06**|**LLMorphism: When humans come to see themselves as language models**|Valerio Capraro et.al.|[2605.05419v1](http://arxiv.org/abs/2605.05419v1)|null|[αX↑13](https://alphaxiv.org/abs/2605.05419)|

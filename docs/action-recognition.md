@@ -4,10 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.05.13
+### Updated on 2026.05.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Hongli Liu et.al.|[2605.13202v1](http://arxiv.org/abs/2605.13202v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13202)|
+|**2026-05-12**|**Is Video Anomaly Detection Misframed? Evidence from LLM-Based and Multi-Scene Models**|Furkan Mumcu et.al.|[2605.12725v1](http://arxiv.org/abs/2605.12725v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12725)|
 |**2026-05-12**|**Background-free measurement of exciton-exciton annihilation by two-quantum fluorescence-detected pump-probe spectroscopy**|Ajay Jayachandran et.al.|[2605.11984v1](http://arxiv.org/abs/2605.11984v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11984)|
 |**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497v1](http://arxiv.org/abs/2605.11497v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11497)|
 |**2026-05-11**|**iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning**|Kaicong Huang et.al.|[2605.10732v1](http://arxiv.org/abs/2605.10732v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.10732)|
