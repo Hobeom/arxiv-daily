@@ -1,25 +1,29 @@
 ## Vision Language Action Model
 
-### Updated on 2026.05.14
+### Updated on 2026.05.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-13**|**Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs**|Jiahui Niu et.al.|[2605.13778v1](http://arxiv.org/abs/2605.13778v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13778)|
-|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13632)|
-|**2026-05-13**|**AttenA+: Rectifying Action Inequality in Robotic Foundation Models**|Daojie Peng et.al.|[2605.13548v1](http://arxiv.org/abs/2605.13548v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13548)|
-|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403v1](http://arxiv.org/abs/2605.13403v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13403)|
-|**2026-05-13**|**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**|Ruiheng Wang et.al.|[2605.13382v1](http://arxiv.org/abs/2605.13382v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13382)|
-|**2026-05-13**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276v1](http://arxiv.org/abs/2605.13276v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13276)|
-|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119v1](http://arxiv.org/abs/2605.13119v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13119)|
-|**2026-05-13**|**What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models**|Yuanfang Peng et.al.|[2605.13105v1](http://arxiv.org/abs/2605.13105v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.13105)|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195v1](http://arxiv.org/abs/2605.15195v1)|[link](https://github.com/facebookresearch/vggt-omega)|[αX↑0](https://alphaxiv.org/abs/2605.15195)|
+|**2026-05-14**|**Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction**|Zhuohang Li et.al.|[2605.15157v1](http://arxiv.org/abs/2605.15157v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.15157)|
+|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950v1](http://arxiv.org/abs/2605.14950v1)|[link](https://github.com/MINT-SJTU/Evo-Depth)|[αX↑0](https://alphaxiv.org/abs/2605.14950)|
+|**2026-05-13**|**MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2605.14201v1](http://arxiv.org/abs/2605.14201v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.14201)|
+|**2026-05-13**|**Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs**|Jiahui Niu et.al.|[2605.13778v1](http://arxiv.org/abs/2605.13778v1)|[link](https://github.com/dexmal/realtime-vla-flash)|[αX↑11](https://alphaxiv.org/abs/2605.13778)|
+|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|[link](https://github.com/FutianLabs/GTA-VLA)|[αX↑2](https://alphaxiv.org/abs/2605.13632)|
+|**2026-05-13**|**AttenA+: Rectifying Action Inequality in Robotic Foundation Models**|Daojie Peng et.al.|[2605.13548v1](http://arxiv.org/abs/2605.13548v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.13548)|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403v1](http://arxiv.org/abs/2605.13403v1)|[link](https://github.com/qiweili00/RotVLA)|[αX↑4](https://alphaxiv.org/abs/2605.13403)|
+|**2026-05-13**|**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**|Ruiheng Wang et.al.|[2605.13382v1](http://arxiv.org/abs/2605.13382v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.13382)|
+|**2026-05-14**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276v2](http://arxiv.org/abs/2605.13276v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.13276)|
+|**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119v1](http://arxiv.org/abs/2605.13119v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.13119)|
+|**2026-05-13**|**What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models**|Yuanfang Peng et.al.|[2605.13105v1](http://arxiv.org/abs/2605.13105v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.13105)|
 |**2026-05-12**|**MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving**|Yuzhou Huang et.al.|[2605.12624v1](http://arxiv.org/abs/2605.12624v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12624)|
 |**2026-05-12**|**Action Emergence from Streaming Intent**|Pengfei Jing et.al.|[2605.12622v1](http://arxiv.org/abs/2605.12622v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12622)|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369v1](http://arxiv.org/abs/2605.12369v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12369)|
 |**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Yucen Wang et.al.|[2605.12334v1](http://arxiv.org/abs/2605.12334v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12334)|
 |**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Siyin Wang et.al.|[2605.12090v1](http://arxiv.org/abs/2605.12090v1)|[link](https://github.com/OpenMOSS/Awesome-WAM)|[αX↑0](https://alphaxiv.org/abs/2605.12090)|
 |**2026-05-12**|**Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation**|Junjin Xiao et.al.|[2605.11832v1](http://arxiv.org/abs/2605.11832v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11832)|
-|**2026-05-12**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817v1](http://arxiv.org/abs/2605.11817v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11817)|
-|**2026-05-12**|**Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models**|Huoren Yang et.al.|[2605.11809v1](http://arxiv.org/abs/2605.11809v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11809)|
+|**2026-05-12**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817v1](http://arxiv.org/abs/2605.11817v1)|[link](https://github.com/Fediory/Grid-Sampler)|[αX↑2](https://alphaxiv.org/abs/2605.11817)|
+|**2026-05-12**|**Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models**|Huoren Yang et.al.|[2605.11809v1](http://arxiv.org/abs/2605.11809v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.11809)|
 |**2026-05-12**|**DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies**|Xianzhe Fan et.al.|[2605.11750v1](http://arxiv.org/abs/2605.11750v1)|[link](https://github.com/XianzheFan/DreamAvoid)|[αX↑0](https://alphaxiv.org/abs/2605.11750)|
 |**2026-05-12**|**OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models**|Seungwoo Roh et.al.|[2605.11678v1](http://arxiv.org/abs/2605.11678v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11678)|
 |**2026-05-12**|**Dynamic Execution Commitment of Vision-Language-Action Models**|Feng Chen et.al.|[2605.11567v1](http://arxiv.org/abs/2605.11567v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11567)|
