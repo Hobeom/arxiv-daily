@@ -4,12 +4,12 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑6](https://alphaxiv.org/abs/2605.11732)|
-|**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|[link](https://github.com/nyuad-cai/AgentRX)|[αX↑1](https://alphaxiv.org/abs/2605.10286)|
+|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑8](https://alphaxiv.org/abs/2605.11732)|
+|**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|[link](https://github.com/nyuad-cai/AgentRX)|[αX↑2](https://alphaxiv.org/abs/2605.10286)|
 |**2026-05-08**|**AIPO: : Learning to Reason from Active Interaction**|Junnan Liu et.al.|[2605.08401v1](http://arxiv.org/abs/2605.08401v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.08401)|
 |**2026-05-07**|**Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization**|Da Long et.al.|[2605.07011v1](http://arxiv.org/abs/2605.07011v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.07011)|
-|**2026-05-07**|**SANEmerg: An Emergent Communication Framework for Semantic-aware Agentic AI Networking**|Yong Xiao et.al.|[2605.05861v1](http://arxiv.org/abs/2605.05861v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.05861)|
-|**2026-05-06**|**SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition**|Naiyu Zheng et.al.|[2605.04608v1](http://arxiv.org/abs/2605.04608v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.04608)|
+|**2026-05-07**|**SANEmerg: An Emergent Communication Framework for Semantic-aware Agentic AI Networking**|Yong Xiao et.al.|[2605.05861v1](http://arxiv.org/abs/2605.05861v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.05861)|
+|**2026-05-06**|**SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition**|Naiyu Zheng et.al.|[2605.04608v1](http://arxiv.org/abs/2605.04608v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.04608)|
 |**2026-05-01**|**Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2605.00931v1](http://arxiv.org/abs/2605.00931v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.00931)|
 |**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043v1](http://arxiv.org/abs/2604.28043v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.28043)|
 |**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18612)|
