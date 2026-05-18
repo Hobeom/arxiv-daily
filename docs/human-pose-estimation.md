@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.16
+### Updated on 2026.05.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -35,8 +35,8 @@ layout: default
 |**2026-05-08**|**Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**|Jingyi Liu et.al.|[2605.07354v1](http://arxiv.org/abs/2605.07354v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07354)|
 |**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351v1](http://arxiv.org/abs/2605.07351v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07351)|
 |**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192v1](http://arxiv.org/abs/2605.07192v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07192)|
-|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041v1](http://arxiv.org/abs/2605.07041v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07041)|
-|**2026-05-07**|**OneViewAll: Semantic Prior Guided One-View 6D Pose Estimation for Novel Objects**|Yang Luo et.al.|[2605.07023v1](http://arxiv.org/abs/2605.07023v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.07023)|
+|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041v1](http://arxiv.org/abs/2605.07041v1)|[link](https://github.com/utiasASRL/dr_ba)|[αX↑0](https://alphaxiv.org/abs/2605.07041)|
+|**2026-05-07**|**OneViewAll: Semantic Prior Guided One-View 6D Pose Estimation for Novel Objects**|Yang Luo et.al.|[2605.07023v1](http://arxiv.org/abs/2605.07023v1)|[link](https://github.com/tilaba/OneViewAll.git)|[αX↑0](https://alphaxiv.org/abs/2605.07023)|
 |**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889v1](http://arxiv.org/abs/2605.06889v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.06889)|
 |**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|[link](https://github.com/zhenqis123/EgoEMG)|[αX↑1](https://alphaxiv.org/abs/2605.05712)|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|[link](https://github.com/jzr99/Syn4D)|[αX↑16](https://alphaxiv.org/abs/2605.05207)|

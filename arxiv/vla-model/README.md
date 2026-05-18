@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.05.16
+### Updated on 2026.05.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -18,20 +18,20 @@
 |**2026-05-13**|**What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models**|Yuanfang Peng et.al.|[2605.13105v1](http://arxiv.org/abs/2605.13105v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.13105)|
 |**2026-05-12**|**MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving**|Yuzhou Huang et.al.|[2605.12624v1](http://arxiv.org/abs/2605.12624v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12624)|
 |**2026-05-12**|**Action Emergence from Streaming Intent**|Pengfei Jing et.al.|[2605.12622v1](http://arxiv.org/abs/2605.12622v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12622)|
-|**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369v1](http://arxiv.org/abs/2605.12369v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12369)|
+|**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369v1](http://arxiv.org/abs/2605.12369v1)|[link](https://github.com/GuidedVLA/GuidedVLA)|[αX↑0](https://alphaxiv.org/abs/2605.12369)|
 |**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Yucen Wang et.al.|[2605.12334v1](http://arxiv.org/abs/2605.12334v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.12334)|
 |**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Siyin Wang et.al.|[2605.12090v1](http://arxiv.org/abs/2605.12090v1)|[link](https://github.com/OpenMOSS/Awesome-WAM)|[αX↑0](https://alphaxiv.org/abs/2605.12090)|
-|**2026-05-12**|**Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation**|Junjin Xiao et.al.|[2605.11832v1](http://arxiv.org/abs/2605.11832v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11832)|
+|**2026-05-12**|**Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation**|Junjin Xiao et.al.|[2605.11832v1](http://arxiv.org/abs/2605.11832v1)|[link](https://github.com/junjxiao/Multi-view-VLA)|[αX↑0](https://alphaxiv.org/abs/2605.11832)|
 |**2026-05-12**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817v1](http://arxiv.org/abs/2605.11817v1)|[link](https://github.com/Fediory/Grid-Sampler)|[αX↑3](https://alphaxiv.org/abs/2605.11817)|
 |**2026-05-12**|**Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models**|Huoren Yang et.al.|[2605.11809v1](http://arxiv.org/abs/2605.11809v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.11809)|
 |**2026-05-12**|**DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies**|Xianzhe Fan et.al.|[2605.11750v1](http://arxiv.org/abs/2605.11750v1)|[link](https://github.com/XianzheFan/DreamAvoid)|[αX↑0](https://alphaxiv.org/abs/2605.11750)|
 |**2026-05-12**|**OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models**|Seungwoo Roh et.al.|[2605.11678v1](http://arxiv.org/abs/2605.11678v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.11678)|
 |**2026-05-12**|**Dynamic Execution Commitment of Vision-Language-Action Models**|Feng Chen et.al.|[2605.11567v1](http://arxiv.org/abs/2605.11567v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11567)|
-|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Pablo Ortega-Kral et.al.|[2605.11564v1](http://arxiv.org/abs/2605.11564v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11564)|
-|**2026-05-12**|**Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation**|Hao Wang et.al.|[2605.11479v1](http://arxiv.org/abs/2605.11479v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11479)|
+|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Pablo Ortega-Kral et.al.|[2605.11564v1](http://arxiv.org/abs/2605.11564v1)|[link](https://github.com/robot-i-o/rio)|[αX↑0](https://alphaxiv.org/abs/2605.11564)|
+|**2026-05-12**|**Offline Policy Evaluation for Manipulation Policies via Discounted Liveness Formulation**|Hao Wang et.al.|[2605.11479v1](http://arxiv.org/abs/2605.11479v1)|[link](https://github.com/haowwang/offline_policy_eval_manipulation)|[αX↑0](https://alphaxiv.org/abs/2605.11479)|
 |**2026-05-12**|**Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models**|Yanyan Zhang et.al.|[2605.11459v1](http://arxiv.org/abs/2605.11459v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11459)|
-|**2026-05-11**|**Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?**|Dominik Helfenstein et.al.|[2605.11223v1](http://arxiv.org/abs/2605.11223v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11223)|
-|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942v1](http://arxiv.org/abs/2605.10942v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.10942)|
+|**2026-05-11**|**Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?**|Dominik Helfenstein et.al.|[2605.11223v1](http://arxiv.org/abs/2605.11223v1)|[link](https://github.com/Marco2929/FMVLATIMBench)|[αX↑0](https://alphaxiv.org/abs/2605.11223)|
+|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942v1](http://arxiv.org/abs/2605.10942v1)|[link](https://github.com/xuanxuanzzzii/HarmoWAM)|[αX↑5](https://alphaxiv.org/abs/2605.10942)|
 |**2026-05-11**|**PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models**|Xinyu Guo et.al.|[2605.10925v1](http://arxiv.org/abs/2605.10925v1)|[link](https://github.com/xinyuguo1566/PriorVLA)|[αX↑16](https://alphaxiv.org/abs/2605.10925)|
 |**2026-05-11**|**CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models**|Wenxuan Song et.al.|[2605.10903v1](http://arxiv.org/abs/2605.10903v1)|[link](https://github.com/OpenHelix-Team/CapVector)|[🤗👍0](https://huggingface.co/papers/2605.10903) [αX↑6](https://alphaxiv.org/abs/2605.10903)|
 |**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821v1](http://arxiv.org/abs/2605.10821v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.10821)|
@@ -43,7 +43,7 @@
 |**2026-05-10**|**Drift is a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning**|Kewei Chen et.al.|[2605.09537v1](http://arxiv.org/abs/2605.09537v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09537)|
 |**2026-05-10**|**RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models**|Weijia Liufu et.al.|[2605.09410v1](http://arxiv.org/abs/2605.09410v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09410)|
 |**2026-05-09**|**Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models**|Ming Sun et.al.|[2605.09005v1](http://arxiv.org/abs/2605.09005v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.09005)|
-|**2026-05-09**|**Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT**|Tianyi Zhang et.al.|[2605.08879v1](http://arxiv.org/abs/2605.08879v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08879)|
+|**2026-05-09**|**Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT**|Tianyi Zhang et.al.|[2605.08879v1](http://arxiv.org/abs/2605.08879v1)|[link](https://github.com/tyzhang2907/ConservativeSFT)|[αX↑0](https://alphaxiv.org/abs/2605.08879)|
 |**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830v1](http://arxiv.org/abs/2605.08830v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08830)|
 |**2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Yinwei Dai et.al.|[2605.08638v1](http://arxiv.org/abs/2605.08638v1)|[link](https://github.com/dywsjtu/keystone)|[αX↑0](https://alphaxiv.org/abs/2605.08638)|
 |**2026-05-09**|**ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models**|Kewei Chen et.al.|[2605.08612v1](http://arxiv.org/abs/2605.08612v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.08612)|
