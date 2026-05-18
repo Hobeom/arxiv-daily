@@ -4,10 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|[link](https://github.com/wzzheng/IVGT/)|[αX↑5](https://alphaxiv.org/abs/2605.16258)|
+|**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828v1](http://arxiv.org/abs/2605.15828v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.15828)|
+|**2026-05-15**|**Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion**|Xiongjun Guan et.al.|[2605.15796v1](http://arxiv.org/abs/2605.15796v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.15796)|
+|**2026-05-15**|**DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation**|Yifan Gao et.al.|[2605.15728v1](http://arxiv.org/abs/2605.15728v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.15728)|
+|**2026-05-15**|**Unsupervised 3D Human Pose Estimation via Conditional Multi-view Ancestral Sampling**|Ryohei Goto et.al.|[2605.15583v1](http://arxiv.org/abs/2605.15583v1)|[link](https://github.com/asaa0001/c-MAS)|[αX↑1](https://alphaxiv.org/abs/2605.15583)|
 |**2026-05-14**|**SOCC-ICP: Semantics-Assisted Odometry based on Occupancy Grids and ICP**|Johannes Scherer et.al.|[2605.15074v1](http://arxiv.org/abs/2605.15074v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.15074)|
 |**2026-05-14**|**FU-MPC: Frontier- and Uncertainty-Aware Model Predictive Control for Efficient and Accurate UAV Exploration with Motorized LiDAR**|Jianping Li et.al.|[2605.14920v1](http://arxiv.org/abs/2605.14920v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.14920)|
 |**2026-05-14**|**From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper**|Ling Li et.al.|[2605.14525v1](http://arxiv.org/abs/2605.14525v1)|[link](https://github.com/lingli1724/DenseWarper-ICLR2026)|[αX↑0](https://alphaxiv.org/abs/2605.14525)|
-|**2026-05-13**|**Rethinking Graph Convolution for 2D-to-3D Hand Pose Lifting**|Chanyoung Kim et.al.|[2605.13604v1](http://arxiv.org/abs/2605.13604v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.13604)|
+|**2026-05-13**|**Rethinking Graph Convolution for 2D-to-3D Hand Pose Lifting**|Chanyoung Kim et.al.|[2605.13604v1](http://arxiv.org/abs/2605.13604v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.13604)|
 |**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233v1](http://arxiv.org/abs/2605.13233v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.13233)|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151v1](http://arxiv.org/abs/2605.13151v1)|[link](https://github.com/Raojiyong/GenCape)|[αX↑2](https://alphaxiv.org/abs/2605.13151)|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018v1](http://arxiv.org/abs/2605.13018v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.13018)|
