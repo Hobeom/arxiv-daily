@@ -8,6 +8,13 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|null|
+|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|null|
+|**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|null|
+|**2026-05-17**|**LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**|Chenyi Xu et.al.|[2605.17303v1](http://arxiv.org/abs/2605.17303v1)|null|null|
+|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|null|
+|**2026-05-16**|**Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy**|Wenxiao Chen et.al.|[2605.17033v1](http://arxiv.org/abs/2605.17033v1)|null|null|
+|**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981v1](http://arxiv.org/abs/2605.16981v1)|null|null|
 |**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|[link](https://github.com/wzzheng/IVGT/)|[αX↑5](https://alphaxiv.org/abs/2605.16258)|
 |**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828v1](http://arxiv.org/abs/2605.15828v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.15828)|
 |**2026-05-15**|**Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion**|Xiongjun Guan et.al.|[2605.15796v1](http://arxiv.org/abs/2605.15796v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.15796)|
