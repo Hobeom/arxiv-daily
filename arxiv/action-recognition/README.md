@@ -1,13 +1,16 @@
 ## Action Recognition
 
-### Updated on 2026.05.19
+### Updated on 2026.05.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-19**|**Lens Privacy Sealing: A New Benchmark and Method for Physical Privacy-Preserving Action Recognition**|Mengyuan Liu et.al.|[2605.19578v1](http://arxiv.org/abs/2605.19578v1)|null|null|
+|**2026-05-19**|**Return of Frustratingly Easy Unsupervised Video Domain Adaptation**|Pengfei Wei et.al.|[2605.19510v1](http://arxiv.org/abs/2605.19510v1)|null|null|
+|**2026-05-18**|**From Division to Decision: Leveraging Temporal Cell-Stage Segmentation for Embryo Transferability Prediction**|Yasmine Hachani et.al.|[2605.18923v1](http://arxiv.org/abs/2605.18923v1)|null|null|
 |**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214v1](http://arxiv.org/abs/2605.18214v1)|null|null|
 |**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573v1](http://arxiv.org/abs/2605.17573v1)|null|null|
 |**2026-05-16**|**ATRACT: A Trustworthy Robotic Autonomous system to support Casualty Triage**|Tasweer Ahmad et.al.|[2605.17123v1](http://arxiv.org/abs/2605.17123v1)|null|null|
-|**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑5](https://alphaxiv.org/abs/2605.15964)|
+|**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑8](https://alphaxiv.org/abs/2605.15964)|
 |**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Hongli Liu et.al.|[2605.13202v1](http://arxiv.org/abs/2605.13202v1)|[link](https://github.com/HongliLiu1/STAR-main)|[αX↑1](https://alphaxiv.org/abs/2605.13202)|
 |**2026-05-12**|**Is Video Anomaly Detection Misframed? Evidence from LLM-Based and Multi-Scene Models**|Furkan Mumcu et.al.|[2605.12725v1](http://arxiv.org/abs/2605.12725v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.12725)|
 |**2026-05-12**|**Background-free measurement of exciton-exciton annihilation by two-quantum fluorescence-detected pump-probe spectroscopy**|Ajay Jayachandran et.al.|[2605.11984v1](http://arxiv.org/abs/2605.11984v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.11984)|

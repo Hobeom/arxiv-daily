@@ -1,10 +1,11 @@
 ## Dialogue Agents
 
-### Updated on 2026.05.19
+### Updated on 2026.05.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑10](https://alphaxiv.org/abs/2605.11732)|
+|**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|Arthur Capozzi et.al.|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)|null|null|
+|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑11](https://alphaxiv.org/abs/2605.11732)|
 |**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|[link](https://github.com/nyuad-cai/AgentRX)|[αX↑3](https://alphaxiv.org/abs/2605.10286)|
 |**2026-05-15**|**AIPO: Learning to Reason from Active Interaction**|Junnan Liu et.al.|[2605.08401v2](http://arxiv.org/abs/2605.08401v2)|null|[αX↑2](https://alphaxiv.org/abs/2605.08401)|
 |**2026-05-07**|**Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization**|Da Long et.al.|[2605.07011v1](http://arxiv.org/abs/2605.07011v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.07011)|

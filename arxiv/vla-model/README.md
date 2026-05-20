@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.05.19
+### Updated on 2026.05.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|

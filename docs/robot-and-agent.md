@@ -4,10 +4,15 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.19
+### Updated on 2026.05.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-19**|**P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation**|Kai Sheng et.al.|[2605.19634v1](http://arxiv.org/abs/2605.19634v1)|null|null|
+|**2026-05-19**|**ContextFlow: Hierarchical Task-State Alignment for Long-Horizon Embodied Agents**|Shuhan Guo et.al.|[2605.19314v1](http://arxiv.org/abs/2605.19314v1)|null|null|
+|**2026-05-18**|**COBALT: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones**|Ayush Agarwal et.al.|[2605.19138v1](http://arxiv.org/abs/2605.19138v1)|null|null|
+|**2026-05-18**|**Automatically Improving Simulation Physics for Articulated Objects**|Anh-Quan Pham et.al.|[2605.19136v1](http://arxiv.org/abs/2605.19136v1)|null|null|
+|**2026-05-18**|**EgoBabyVLM: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data**|Dongyan Lin et.al.|[2605.19130v1](http://arxiv.org/abs/2605.19130v1)|null|null|
 |**2026-05-18**|**Code as Agent Harness**|Xuying Ning et.al.|[2605.18747v1](http://arxiv.org/abs/2605.18747v1)|[link](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)|null|
 |**2026-05-18**|**Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction**|Nga Teng Chan et.al.|[2605.18729v1](http://arxiv.org/abs/2605.18729v1)|null|null|
 |**2026-05-18**|**DexHoldem: Playing Texas Hold'em with Dexterous Embodied System**|Feng Chen et.al.|[2605.18727v1](http://arxiv.org/abs/2605.18727v1)|null|null|
