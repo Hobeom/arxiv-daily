@@ -4,18 +4,22 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-19**|**Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation**|He-Yang Xu et.al.|[2605.19986v1](http://arxiv.org/abs/2605.19986v1)|null|null|
+|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678v1](http://arxiv.org/abs/2605.19678v1)|null|null|
+|**2026-05-19**|**PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models**|Peizheng Guo et.al.|[2605.19580v1](http://arxiv.org/abs/2605.19580v1)|null|null|
+|**2026-05-19**|**SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving**|Kefei Tian et.al.|[2605.19524v1](http://arxiv.org/abs/2605.19524v1)|null|null|
 |**2026-05-18**|**Dexora: Open-source VLA for High-DoF Bimanual Dexterity**|Zongzheng Zhang et.al.|[2605.18722v1](http://arxiv.org/abs/2605.18722v1)|null|null|
-|**2026-05-18**|**StableVLA: Towards Robust Vision-Language-Action Models without Extra Data**|Yiyang Fu et.al.|[2605.18287v1](http://arxiv.org/abs/2605.18287v1)|[link](https://github.com/DAGroup-PKU/HumanNet)|null|
+|**2026-05-18**|**StableVLA: Towards Robust Vision-Language-Action Models without Extra Data**|Yiyang Fu et.al.|[2605.18287v1](http://arxiv.org/abs/2605.18287v1)|[link](https://github.com/DAGroup-PKU/HumanNet)|[🤗👍13](https://huggingface.co/papers/2605.18287)|
 |**2026-05-17**|**AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment**|Weijie Kong et.al.|[2605.17517v1](http://arxiv.org/abs/2605.17517v1)|null|null|
 |**2026-05-17**|**DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization**|Sixu Lin et.al.|[2605.17486v1](http://arxiv.org/abs/2605.17486v1)|null|null|
 |**2026-05-17**|**CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving**|Ruiyang Zhu et.al.|[2605.17284v1](http://arxiv.org/abs/2605.17284v1)|null|null|
 |**2026-05-16**|**Contrastive Conceptor Activation Steering (COAST): Unlocking Vision-Language-Action Models through Hidden States**|Miranda Muqing Miao et.al.|[2605.17144v1](http://arxiv.org/abs/2605.17144v1)|null|null|
-|**2026-05-15**|**Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control**|Hüseyin Arslan et.al.|[2605.16056v1](http://arxiv.org/abs/2605.16056v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.16056)|
+|**2026-05-15**|**Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control**|Hüseyin Arslan et.al.|[2605.16056v1](http://arxiv.org/abs/2605.16056v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.16056)|
 |**2026-05-18**|**UAM: A Dual-Stream Perspective on Forgetting in VLA Training**|Jianke Zhang et.al.|[2605.15735v2](http://arxiv.org/abs/2605.15735v2)|[link](https://github.com/CladernyJorn/UAM)|[αX↑4](https://alphaxiv.org/abs/2605.15735)|
-|**2026-05-14**|**PhysBrain 1.0 Technical Report**|Shijie Lian et.al.|[2605.15298v1](http://arxiv.org/abs/2605.15298v1)|[link](https://github.com/Phys-Brain/PhysBrain-VLA)|[🤗👍134](https://huggingface.co/papers/2605.15298) [αX↑8](https://alphaxiv.org/abs/2605.15298)|
-|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195v1](http://arxiv.org/abs/2605.15195v1)|[link](https://github.com/facebookresearch/vggt-omega)|[αX↑106](https://alphaxiv.org/abs/2605.15195)|
+|**2026-05-14**|**PhysBrain 1.0 Technical Report**|Shijie Lian et.al.|[2605.15298v1](http://arxiv.org/abs/2605.15298v1)|[link](https://github.com/Phys-Brain/PhysBrain-VLA)|[🤗👍137](https://huggingface.co/papers/2605.15298) [αX↑28](https://alphaxiv.org/abs/2605.15298)|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195v1](http://arxiv.org/abs/2605.15195v1)|[link](https://github.com/facebookresearch/vggt-omega)|[αX↑157](https://alphaxiv.org/abs/2605.15195)|
 |**2026-05-14**|**Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction**|Zhuohang Li et.al.|[2605.15157v1](http://arxiv.org/abs/2605.15157v1)|[link](https://github.com/RomanHauksson/academic-project-astro-template)|[αX↑15](https://alphaxiv.org/abs/2605.15157)|
-|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950v1](http://arxiv.org/abs/2605.14950v1)|[link](https://github.com/MINT-SJTU/Evo-Depth)|[αX↑16](https://alphaxiv.org/abs/2605.14950)|
+|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950v1](http://arxiv.org/abs/2605.14950v1)|[link](https://github.com/MINT-SJTU/Evo-Depth)|[αX↑19](https://alphaxiv.org/abs/2605.14950)|
 |**2026-05-13**|**MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2605.14201v1](http://arxiv.org/abs/2605.14201v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.14201)|
 |**2026-05-13**|**Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs**|Jiahui Niu et.al.|[2605.13778v1](http://arxiv.org/abs/2605.13778v1)|[link](https://github.com/dexmal/realtime-vla-flash)|[αX↑32](https://alphaxiv.org/abs/2605.13778)|
 |**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|[link](https://github.com/FutianLabs/GTA-VLA)|[αX↑13](https://alphaxiv.org/abs/2605.13632)|
