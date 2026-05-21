@@ -1,18 +1,22 @@
 ## Human Pose Estimation
 
-### Updated on 2026.05.20
+### Updated on 2026.05.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|null|null|
-|**2026-05-19**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v1](http://arxiv.org/abs/2605.19649v1)|null|null|
-|**2026-05-19**|**Component-Aware Structure-Preserving Style Transfer for Satellite Sim2Real 6D Pose Estimation**|Yonglong Zhang et.al.|[2605.19624v1](http://arxiv.org/abs/2605.19624v1)|null|null|
-|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|null|
-|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|null|
-|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|null|
+|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21421)|
+|**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20889)|
+|**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20392)|
+|**2026-05-19**|**How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction**|Sejoon Jun et.al.|[2605.20388v1](http://arxiv.org/abs/2605.20388v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20388)|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19797)|
+|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v2](http://arxiv.org/abs/2605.19649v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.19649)|
+|**2026-05-20**|**Component-Aware Structure-Preserving Style Transfer for Satellite Visual Sim2Real Data Construction**|Zongwu Xie et.al.|[2605.19624v2](http://arxiv.org/abs/2605.19624v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.19624)|
+|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19556)|
+|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18553)|
+|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17777)|
 |**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|null|
 |**2026-05-17**|**LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**|Chenyi Xu et.al.|[2605.17303v1](http://arxiv.org/abs/2605.17303v1)|null|null|
-|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|null|
+|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17120)|
 |**2026-05-16**|**Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy**|Wenxiao Chen et.al.|[2605.17033v1](http://arxiv.org/abs/2605.17033v1)|null|null|
 |**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981v1](http://arxiv.org/abs/2605.16981v1)|null|null|
 |**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|[link](https://github.com/wzzheng/IVGT/)|[αX↑5](https://alphaxiv.org/abs/2605.16258)|

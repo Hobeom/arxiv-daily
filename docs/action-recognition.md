@@ -4,16 +4,19 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.05.20
+### Updated on 2026.05.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-19**|**Lens Privacy Sealing: A New Benchmark and Method for Physical Privacy-Preserving Action Recognition**|Mengyuan Liu et.al.|[2605.19578v1](http://arxiv.org/abs/2605.19578v1)|null|null|
-|**2026-05-19**|**Return of Frustratingly Easy Unsupervised Video Domain Adaptation**|Pengfei Wei et.al.|[2605.19510v1](http://arxiv.org/abs/2605.19510v1)|null|null|
-|**2026-05-18**|**From Division to Decision: Leveraging Temporal Cell-Stage Segmentation for Embryo Transferability Prediction**|Yasmine Hachani et.al.|[2605.18923v1](http://arxiv.org/abs/2605.18923v1)|null|null|
-|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214v1](http://arxiv.org/abs/2605.18214v1)|null|null|
-|**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573v1](http://arxiv.org/abs/2605.17573v1)|null|null|
-|**2026-05-16**|**ATRACT: A Trustworthy Robotic Autonomous system to support Casualty Triage**|Tasweer Ahmad et.al.|[2605.17123v1](http://arxiv.org/abs/2605.17123v1)|null|null|
+|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21421)|
+|**2026-05-20**|**DarkShake-DVS: Event-based Human Action Recognition under Low-light andShaking Camera Conditions**|Jiaqi Chen et.al.|[2605.20680v1](http://arxiv.org/abs/2605.20680v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20680)|
+|**2026-05-20**|**Seeing Through Fog: Towards Fog-Invariant Action Recognition**|Enqi Liu et.al.|[2605.20645v1](http://arxiv.org/abs/2605.20645v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20645)|
+|**2026-05-19**|**Lens Privacy Sealing: A New Benchmark and Method for Physical Privacy-Preserving Action Recognition**|Mengyuan Liu et.al.|[2605.19578v1](http://arxiv.org/abs/2605.19578v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19578)|
+|**2026-05-19**|**Return of Frustratingly Easy Unsupervised Video Domain Adaptation**|Pengfei Wei et.al.|[2605.19510v1](http://arxiv.org/abs/2605.19510v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19510)|
+|**2026-05-18**|**From Division to Decision: Leveraging Temporal Cell-Stage Segmentation for Embryo Transferability Prediction**|Yasmine Hachani et.al.|[2605.18923v1](http://arxiv.org/abs/2605.18923v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18923)|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214v1](http://arxiv.org/abs/2605.18214v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18214)|
+|**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573v1](http://arxiv.org/abs/2605.17573v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17573)|
+|**2026-05-16**|**ATRACT: A Trustworthy Robotic Autonomous system to support Casualty Triage**|Tasweer Ahmad et.al.|[2605.17123v1](http://arxiv.org/abs/2605.17123v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17123)|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑8](https://alphaxiv.org/abs/2605.15964)|
 |**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Hongli Liu et.al.|[2605.13202v1](http://arxiv.org/abs/2605.13202v1)|[link](https://github.com/HongliLiu1/STAR-main)|[αX↑1](https://alphaxiv.org/abs/2605.13202)|
 |**2026-05-12**|**Is Video Anomaly Detection Misframed? Evidence from LLM-Based and Multi-Scene Models**|Furkan Mumcu et.al.|[2605.12725v1](http://arxiv.org/abs/2605.12725v1)|null|[αX↑9](https://alphaxiv.org/abs/2605.12725)|
@@ -21,7 +24,7 @@ layout: default
 |**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497v1](http://arxiv.org/abs/2605.11497v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.11497)|
 |**2026-05-11**|**iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning**|Kaicong Huang et.al.|[2605.10732v1](http://arxiv.org/abs/2605.10732v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.10732)|
 |**2026-05-11**|**Improving Temporal Action Segmentation via Constraint-Aware Decoding**|Yeo Keat Ee et.al.|[2605.10149v1](http://arxiv.org/abs/2605.10149v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10149)|
-|**2026-05-12**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094v2](http://arxiv.org/abs/2605.10094v2)|null|[αX↑15](https://alphaxiv.org/abs/2605.10094)|
+|**2026-05-12**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094v2](http://arxiv.org/abs/2605.10094v2)|null|[αX↑16](https://alphaxiv.org/abs/2605.10094)|
 |**2026-05-11**|**OZ-TAL: Online Zero-Shot Temporal Action Localization**|Chaolei Han et.al.|[2605.09976v1](http://arxiv.org/abs/2605.09976v1)|[link](https://github.com/Chaolei98/OZ-TAL)|[αX↑2](https://alphaxiv.org/abs/2605.09976)|
 |**2026-05-10**|**DAP: Doppler-aware Point Network for Heterogeneous mmWave Action Recognition**|Jiaying Lin et.al.|[2605.09604v1](http://arxiv.org/abs/2605.09604v1)|[link](https://github.com/jolin830/DAP-Net)|[αX↑4](https://alphaxiv.org/abs/2605.09604)|
 |**2026-05-15**|**An Elastic Shape Variational Autoencoder for Skeleton Pose Trajectories**|Arafat Rahman et.al.|[2605.09231v3](http://arxiv.org/abs/2605.09231v3)|null|[αX↑7](https://alphaxiv.org/abs/2605.09231)|

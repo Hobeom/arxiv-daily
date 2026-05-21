@@ -4,36 +4,40 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.20
+### Updated on 2026.05.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-19**|**P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation**|Kai Sheng et.al.|[2605.19634v1](http://arxiv.org/abs/2605.19634v1)|null|null|
-|**2026-05-19**|**ContextFlow: Hierarchical Task-State Alignment for Long-Horizon Embodied Agents**|Shuhan Guo et.al.|[2605.19314v1](http://arxiv.org/abs/2605.19314v1)|null|null|
-|**2026-05-18**|**COBALT: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones**|Ayush Agarwal et.al.|[2605.19138v1](http://arxiv.org/abs/2605.19138v1)|null|null|
-|**2026-05-18**|**Automatically Improving Simulation Physics for Articulated Objects**|Anh-Quan Pham et.al.|[2605.19136v1](http://arxiv.org/abs/2605.19136v1)|null|null|
-|**2026-05-18**|**EgoBabyVLM: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data**|Dongyan Lin et.al.|[2605.19130v1](http://arxiv.org/abs/2605.19130v1)|null|null|
-|**2026-05-18**|**Code as Agent Harness**|Xuying Ning et.al.|[2605.18747v1](http://arxiv.org/abs/2605.18747v1)|[link](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)|[🤗👍165](https://huggingface.co/papers/2605.18747)|
-|**2026-05-18**|**Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction**|Nga Teng Chan et.al.|[2605.18729v1](http://arxiv.org/abs/2605.18729v1)|null|null|
-|**2026-05-18**|**DexHoldem: Playing Texas Hold'em with Dexterous Embodied System**|Feng Chen et.al.|[2605.18727v1](http://arxiv.org/abs/2605.18727v1)|null|[🤗👍2](https://huggingface.co/papers/2605.18727)|
-|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|null|
+|**2026-05-20**|**To Select or not to Select, that is the Question: Distilling Robot Skill Prediction into a Small Ensemble**|Haechan Mark Bong et.al.|[2605.21242v1](http://arxiv.org/abs/2605.21242v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21242)|
+|**2026-05-20**|**KSOS-BO: Improving Sampling in Bayesian Optimization via Kernel Sum of Squares**|Buqing Ou et.al.|[2605.21179v1](http://arxiv.org/abs/2605.21179v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21179)|
+|**2026-05-19**|**The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents**|Doguhan Yeke et.al.|[2605.20544v1](http://arxiv.org/abs/2605.20544v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20544)|
+|**2026-05-19**|**Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent Reinforcement Learning**|Dongjie Yu et.al.|[2605.19919v1](http://arxiv.org/abs/2605.19919v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19919)|
+|**2026-05-19**|**P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation**|Kai Sheng et.al.|[2605.19634v1](http://arxiv.org/abs/2605.19634v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19634)|
+|**2026-05-19**|**ContextFlow: Hierarchical Task-State Alignment for Long-Horizon Embodied Agents**|Shuhan Guo et.al.|[2605.19314v1](http://arxiv.org/abs/2605.19314v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19314)|
+|**2026-05-20**|**COBALT: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones**|Ayush Agarwal et.al.|[2605.19138v2](http://arxiv.org/abs/2605.19138v2)|[link](https://github.com/pairlab/COBALT)|[αX↑0](https://alphaxiv.org/abs/2605.19138)|
+|**2026-05-18**|**Automatically Improving Simulation Physics for Articulated Objects**|Anh-Quan Pham et.al.|[2605.19136v1](http://arxiv.org/abs/2605.19136v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19136)|
+|**2026-05-18**|**EgoBabyVLM: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data**|Dongyan Lin et.al.|[2605.19130v1](http://arxiv.org/abs/2605.19130v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19130)|
+|**2026-05-18**|**Code as Agent Harness**|Xuying Ning et.al.|[2605.18747v1](http://arxiv.org/abs/2605.18747v1)|[link](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)|[🤗👍165](https://huggingface.co/papers/2605.18747) [αX↑0](https://alphaxiv.org/abs/2605.18747)|
+|**2026-05-18**|**Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction**|Nga Teng Chan et.al.|[2605.18729v1](http://arxiv.org/abs/2605.18729v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18729)|
+|**2026-05-18**|**DexHoldem: Playing Texas Hold'em with Dexterous Embodied System**|Feng Chen et.al.|[2605.18727v1](http://arxiv.org/abs/2605.18727v1)|null|[🤗👍2](https://huggingface.co/papers/2605.18727) [αX↑0](https://alphaxiv.org/abs/2605.18727)|
+|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18553)|
 |**2026-05-17**|**DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking**|Guyue Hu et.al.|[2605.17451v1](http://arxiv.org/abs/2605.17451v1)|null|null|
-|**2026-05-16**|**How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning**|Bosung Kim et.al.|[2605.17077v1](http://arxiv.org/abs/2605.17077v1)|null|null|
+|**2026-05-16**|**How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning**|Bosung Kim et.al.|[2605.17077v1](http://arxiv.org/abs/2605.17077v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17077)|
 |**2026-05-16**|**EPIC-Bench: A Perception-Centric Benchmark for Fine-Grained Embodied Visual Grounding in Vision-Language Models**|Haozhe Shan et.al.|[2605.17070v1](http://arxiv.org/abs/2605.17070v1)|null|null|
 |**2026-05-16**|**SADP: Subgoal-Aware Diffusion Policy for Explainable Robots Learned from Foundation Model Generated Demonstrations**|Site Hu et.al.|[2605.16871v1](http://arxiv.org/abs/2605.16871v1)|null|null|
 |**2026-05-16**|**EgoKit: Towards Unified Low-Cost Egocentric Data Collection with Heterogeneous Devices**|Liuchuan Yu et.al.|[2605.16797v1](http://arxiv.org/abs/2605.16797v1)|null|null|
-|**2026-05-16**|**LACE: Latent Visual Representation for Cross-Embodiment Learning**|Yoo Sung Jang et.al.|[2605.16743v1](http://arxiv.org/abs/2605.16743v1)|null|null|
+|**2026-05-16**|**LACE: Latent Visual Representation for Cross-Embodiment Learning**|Yoo Sung Jang et.al.|[2605.16743v1](http://arxiv.org/abs/2605.16743v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.16743)|
 |**2026-05-15**|**DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo**|Hanwen Wang et.al.|[2605.16257v1](http://arxiv.org/abs/2605.16257v1)|[link](https://github.com/brave-eai/dexjoco)|[🤗👍48](https://huggingface.co/papers/2605.16257) [αX↑6](https://alphaxiv.org/abs/2605.16257)|
 |**2026-05-15**|**Learning Sim-Grounded Policies for Bimanual Rope Manipulation from Human Teleoperation Data**|Gina Wigginghaus et.al.|[2605.16043v1](http://arxiv.org/abs/2605.16043v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.16043)|
 |**2026-05-14**|**Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding**|Arsha Nagrani et.al.|[2605.15342v1](http://arxiv.org/abs/2605.15342v1)|[link](https://github.com/google-deepmind/neptune)|[αX↑2](https://alphaxiv.org/abs/2605.15342)|
 |**2026-05-14**|**SR-Platform: An Agentic Pipeline for Natural Language-Driven Robot Simulation Environment Synthesis**|Ben Wei Lim et.al.|[2605.14700v1](http://arxiv.org/abs/2605.14700v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.14700)|
 |**2026-05-14**|**TeachAnything: A Multimodal Crowdsourcing Platform for Training Embodied AI Agents in Symmetrical Reality**|Zidong Liu et.al.|[2605.14556v1](http://arxiv.org/abs/2605.14556v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.14556)|
 |**2026-05-14**|**When Robots Do the Chores: A Benchmark and Agent for Long-Horizon Household Task Execution**|Zilin Zhu et.al.|[2605.14504v1](http://arxiv.org/abs/2605.14504v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.14504)|
-|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|[link](https://github.com/FutianLabs/GTA-VLA)|[αX↑13](https://alphaxiv.org/abs/2605.13632)|
+|**2026-05-13**|**Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models**|Yiran Ling et.al.|[2605.13632v1](http://arxiv.org/abs/2605.13632v1)|[link](https://github.com/FutianLabs/GTA-VLA)|[αX↑15](https://alphaxiv.org/abs/2605.13632)|
 |**2026-05-13**|**Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning**|Qinchuan Cheng et.al.|[2605.13335v1](http://arxiv.org/abs/2605.13335v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.13335)|
 |**2026-05-14**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276v2](http://arxiv.org/abs/2605.13276v2)|null|[αX↑9](https://alphaxiv.org/abs/2605.13276)|
 |**2026-05-13**|**Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models**|Zixing Lei et.al.|[2605.13119v1](http://arxiv.org/abs/2605.13119v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.13119)|
-|**2026-05-13**|**When Absolute State Fails: Evaluating Proprioceptive Encodings for Robust Manipulation**|Maxime Alvarez et.al.|[2605.13067v1](http://arxiv.org/abs/2605.13067v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.13067)|
+|**2026-05-13**|**When Absolute State Fails: Evaluating Proprioceptive Encodings for Robust Manipulation**|Maxime Alvarez et.al.|[2605.13067v1](http://arxiv.org/abs/2605.13067v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.13067)|
 |**2026-05-13**|**EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing**|Inwoo Hwang et.al.|[2605.13041v1](http://arxiv.org/abs/2605.13041v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.13041)|
 |**2026-05-13**|**Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**|Vardhan Dongre et.al.|[2605.12920v1](http://arxiv.org/abs/2605.12920v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.12920)|
 |**2026-05-12**|**Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**|Nishad Singhi et.al.|[2605.12620v1](http://arxiv.org/abs/2605.12620v1)|[link](https://github.com/nishadsinghi/vegas)|[αX↑3](https://alphaxiv.org/abs/2605.12620)|
@@ -46,7 +50,7 @@ layout: default
 |**2026-05-12**|**3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**|Yifan Yin et.al.|[2605.11367v1](http://arxiv.org/abs/2605.11367v1)|[link](https://github.com/3D-Belief/3d-belief.git)|[αX↑0](https://alphaxiv.org/abs/2605.11367)|
 |**2026-05-11**|**RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking**|Andrew Choi et.al.|[2605.11151v1](http://arxiv.org/abs/2605.11151v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.11151)|
 |**2026-05-11**|**EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents**|Ruofei Ju et.al.|[2605.10332v1](http://arxiv.org/abs/2605.10332v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.10332)|
-|**2026-05-11**|**Guided Streaming Stochastic Interpolant Policy**|Puming Jiang et.al.|[2605.10051v1](http://arxiv.org/abs/2605.10051v1)|null|[αX↑31](https://alphaxiv.org/abs/2605.10051)|
+|**2026-05-11**|**Guided Streaming Stochastic Interpolant Policy**|Puming Jiang et.al.|[2605.10051v1](http://arxiv.org/abs/2605.10051v1)|null|[αX↑33](https://alphaxiv.org/abs/2605.10051)|
 |**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998v1](http://arxiv.org/abs/2605.09998v1)|[link](https://github.com/sethkarten/continual-harness)|[αX↑3](https://alphaxiv.org/abs/2605.09998)|
 |**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874v1](http://arxiv.org/abs/2605.09874v1)|[link](https://github.com/Ziyang412/EgoMemReason)|[αX↑3](https://alphaxiv.org/abs/2605.09874)|
 |**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v1](http://arxiv.org/abs/2605.09826v1)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑2](https://alphaxiv.org/abs/2605.09826)|
