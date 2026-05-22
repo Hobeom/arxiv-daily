@@ -4,10 +4,11 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.05.21
+### Updated on 2026.05.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21956)|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|Arthur Capozzi et.al.|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18770)|
 |**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑12](https://alphaxiv.org/abs/2605.11732)|
 |**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|[link](https://github.com/nyuad-cai/AgentRX)|[αX↑3](https://alphaxiv.org/abs/2605.10286)|
