@@ -8,16 +8,16 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|[link](https://github.com/cambrian-mllm/cambrian-p)|[αX↑0](https://alphaxiv.org/abs/2605.22819)|
-|**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22467)|
-|**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22231)|
-|**2026-05-21**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al.|[2605.21957v1](http://arxiv.org/abs/2605.21957v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21957)|
-|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21421)|
-|**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.20889)|
-|**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.20392)|
-|**2026-05-19**|**How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction**|Sejoon Jun et.al.|[2605.20388v1](http://arxiv.org/abs/2605.20388v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.20388)|
+|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|[link](https://github.com/cambrian-mllm/cambrian-p)|[αX↑9](https://alphaxiv.org/abs/2605.22819)|
+|**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.22467)|
+|**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22231)|
+|**2026-05-21**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al.|[2605.21957v1](http://arxiv.org/abs/2605.21957v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21957)|
+|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21421)|
+|**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.20889)|
+|**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.20392)|
+|**2026-05-19**|**How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction**|Sejoon Jun et.al.|[2605.20388v1](http://arxiv.org/abs/2605.20388v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.20388)|
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|[link](https://github.com/kocurvik/depth2pose)|[αX↑1](https://alphaxiv.org/abs/2605.19797)|
-|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v2](http://arxiv.org/abs/2605.19649v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.19649)|
+|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v2](http://arxiv.org/abs/2605.19649v2)|null|[αX↑1](https://alphaxiv.org/abs/2605.19649)|
 |**2026-05-20**|**Component-Aware Structure-Preserving Style Transfer for Satellite Visual Sim2Real Data Construction**|Zongwu Xie et.al.|[2605.19624v2](http://arxiv.org/abs/2605.19624v2)|null|[αX↑0](https://alphaxiv.org/abs/2605.19624)|
 |**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19556)|
 |**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18553)|

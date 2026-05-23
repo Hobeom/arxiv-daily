@@ -4,11 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-21**|**Think Thrice Before You Speak: Dual knowledge-enhanced Theory-of-Mind Reasoning for Persuasive Agents**|Minghui Ma et.al.|[2605.22602v1](http://arxiv.org/abs/2605.22602v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22602)|
-|**2026-05-19**|**Reinforcing Human Behavior Simulation via Verbal Feedback**|Weiwei Sun et.al.|[2605.20506v1](http://arxiv.org/abs/2605.20506v1)|[link](https://github.com/sunnweiwei/OdysSim)|[αX↑1](https://alphaxiv.org/abs/2605.20506)|
-|**2026-05-19**|**OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind**|Sharmin Sultana Srishty et.al.|[2605.20423v1](http://arxiv.org/abs/2605.20423v1)|[link](https://github.com/sharminsrishty/osct)|[αX↑0](https://alphaxiv.org/abs/2605.20423)|
+|**2026-05-21**|**Think Thrice Before You Speak: Dual knowledge-enhanced Theory-of-Mind Reasoning for Persuasive Agents**|Minghui Ma et.al.|[2605.22602v1](http://arxiv.org/abs/2605.22602v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.22602)|
+|**2026-05-19**|**Reinforcing Human Behavior Simulation via Verbal Feedback**|Weiwei Sun et.al.|[2605.20506v1](http://arxiv.org/abs/2605.20506v1)|[link](https://github.com/sunnweiwei/OdysSim)|[αX↑2](https://alphaxiv.org/abs/2605.20506)|
+|**2026-05-19**|**OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind**|Sharmin Sultana Srishty et.al.|[2605.20423v1](http://arxiv.org/abs/2605.20423v1)|[link](https://github.com/sharminsrishty/osct)|[αX↑1](https://alphaxiv.org/abs/2605.20423)|
 |**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach et.al.|[2605.20175v1](http://arxiv.org/abs/2605.20175v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.20175)|
-|**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194v1](http://arxiv.org/abs/2605.18194v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.18194)|
+|**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194v1](http://arxiv.org/abs/2605.18194v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.18194)|
 |**2026-05-15**|**GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions**|Junho Kim et.al.|[2605.15764v1](http://arxiv.org/abs/2605.15764v1)|null|[🤗👍1](https://huggingface.co/papers/2605.15764) [αX↑3](https://alphaxiv.org/abs/2605.15764)|
 |**2026-04-28**|**Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations**|Nanxu Gong et.al.|[2605.15205v1](http://arxiv.org/abs/2605.15205v1)|[link](https://github.com/NanxuGong/ToM-HAI)|[αX↑0](https://alphaxiv.org/abs/2605.15205)|
 |**2026-05-16**|**GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations**|Jingbo Yang et.al.|[2605.14498v2](http://arxiv.org/abs/2605.14498v2)|[link](https://github.com/UCSB-NLP-Chang/GroupMemBench)|[αX↑9](https://alphaxiv.org/abs/2605.14498)|
