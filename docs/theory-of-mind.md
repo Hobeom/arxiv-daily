@@ -4,7 +4,7 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.05.22
+### Updated on 2026.05.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -15,7 +15,7 @@ layout: default
 |**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194v1](http://arxiv.org/abs/2605.18194v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.18194)|
 |**2026-05-15**|**GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions**|Junho Kim et.al.|[2605.15764v1](http://arxiv.org/abs/2605.15764v1)|null|[🤗👍1](https://huggingface.co/papers/2605.15764) [αX↑3](https://alphaxiv.org/abs/2605.15764)|
 |**2026-04-28**|**Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations**|Nanxu Gong et.al.|[2605.15205v1](http://arxiv.org/abs/2605.15205v1)|[link](https://github.com/NanxuGong/ToM-HAI)|[αX↑0](https://alphaxiv.org/abs/2605.15205)|
-|**2026-05-16**|**GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations**|Jingbo Yang et.al.|[2605.14498v2](http://arxiv.org/abs/2605.14498v2)|[link](https://github.com/UCSB-NLP-Chang/GroupMemBench)|[αX↑8](https://alphaxiv.org/abs/2605.14498)|
+|**2026-05-16**|**GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations**|Jingbo Yang et.al.|[2605.14498v2](http://arxiv.org/abs/2605.14498v2)|[link](https://github.com/UCSB-NLP-Chang/GroupMemBench)|[αX↑9](https://alphaxiv.org/abs/2605.14498)|
 |**2026-05-12**|**What Do You Think I Think? Accounting for Human Beliefs Using Second-Order Theory of Mind**|Patrick Callaghan et.al.|[2605.12745v1](http://arxiv.org/abs/2605.12745v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.12745)|
 |**2026-05-11**|**Mind Modeling: A ToM-Based Framework for Personalization**|Cristina Gena et.al.|[2605.10306v1](http://arxiv.org/abs/2605.10306v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.10306)|
 |**2026-05-15**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826v2](http://arxiv.org/abs/2605.09826v2)|[link](https://github.com/ThePickleGawd/EnactTom)|[αX↑12](https://alphaxiv.org/abs/2605.09826)|
