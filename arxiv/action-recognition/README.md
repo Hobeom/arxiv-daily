@@ -1,23 +1,23 @@
 ## Action Recognition
 
-### Updated on 2026.05.23
+### Updated on 2026.05.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-05-21**|**Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions**|Yannick Porto et.al.|[2605.22697v1](http://arxiv.org/abs/2605.22697v1)|[link](https://github.com/yanik-porto/OrientationAware-HAR)|[αX↑0](https://alphaxiv.org/abs/2605.22697)|
 |**2026-05-21**|**Improving Viewpoint-Invariance and Temporal Consistency for Action Detection**|Yannick Porto et.al.|[2605.22695v1](http://arxiv.org/abs/2605.22695v1)|[link](https://github.com/yanik-porto/HydraView-TAD)|[αX↑1](https://alphaxiv.org/abs/2605.22695)|
 |**2026-05-21**|**MOTOR: A Multimodal Dataset for Two-Wheeler Rider Behavior Understanding**|Varun A. Paturkar et.al.|[2605.22550v1](http://arxiv.org/abs/2605.22550v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22550)|
-|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22201)|
+|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|[link](https://github.com/benedettaliberatori/tegu.git)|[αX↑0](https://alphaxiv.org/abs/2605.22201)|
 |**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21956)|
 |**2026-05-20**|**Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly**|Aditya Chetan et.al.|[2605.21625v1](http://arxiv.org/abs/2605.21625v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21625)|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21421)|
-|**2026-05-20**|**DarkShake-DVS: Event-based Human Action Recognition under Low-light andShaking Camera Conditions**|Jiaqi Chen et.al.|[2605.20680v1](http://arxiv.org/abs/2605.20680v1)|[link](https://github.com/Typistchen/DarkShake-DVS)|[αX↑2](https://alphaxiv.org/abs/2605.20680)|
-|**2026-05-20**|**Seeing Through Fog: Towards Fog-Invariant Action Recognition**|Enqi Liu et.al.|[2605.20645v1](http://arxiv.org/abs/2605.20645v1)|[link](https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition)|[αX↑2](https://alphaxiv.org/abs/2605.20645)|
+|**2026-05-20**|**DarkShake-DVS: Event-based Human Action Recognition under Low-light andShaking Camera Conditions**|Jiaqi Chen et.al.|[2605.20680v1](http://arxiv.org/abs/2605.20680v1)|[link](https://github.com/Typistchen/DarkShake-DVS)|[αX↑3](https://alphaxiv.org/abs/2605.20680)|
+|**2026-05-20**|**Seeing Through Fog: Towards Fog-Invariant Action Recognition**|Enqi Liu et.al.|[2605.20645v1](http://arxiv.org/abs/2605.20645v1)|[link](https://github.com/Liu-arch/Seeing-Through-Fog-Towards-Fog-Invariant-Action-Recognition)|[αX↑3](https://alphaxiv.org/abs/2605.20645)|
 |**2026-05-21**|**Lens Privacy Sealing: A New Benchmark and Method for Physical Privacy-Preserving Action Recognition**|Mengyuan Liu et.al.|[2605.19578v2](http://arxiv.org/abs/2605.19578v2)|[link](https://github.com/wangzy01/P3AR-NTU)|[αX↑2](https://alphaxiv.org/abs/2605.19578)|
-|**2026-05-19**|**Return of Frustratingly Easy Unsupervised Video Domain Adaptation**|Pengfei Wei et.al.|[2605.19510v1](http://arxiv.org/abs/2605.19510v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.19510)|
+|**2026-05-19**|**Return of Frustratingly Easy Unsupervised Video Domain Adaptation**|Pengfei Wei et.al.|[2605.19510v1](http://arxiv.org/abs/2605.19510v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.19510)|
 |**2026-05-18**|**From Division to Decision: Leveraging Temporal Cell-Stage Segmentation for Embryo Transferability Prediction**|Yasmine Hachani et.al.|[2605.18923v1](http://arxiv.org/abs/2605.18923v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18923)|
-|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214v1](http://arxiv.org/abs/2605.18214v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.18214)|
-|**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573v1](http://arxiv.org/abs/2605.17573v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.17573)|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214v1](http://arxiv.org/abs/2605.18214v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.18214)|
+|**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573v1](http://arxiv.org/abs/2605.17573v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.17573)|
 |**2026-05-16**|**ATRACT: A Trustworthy Robotic Autonomous system to support Casualty Triage**|Tasweer Ahmad et.al.|[2605.17123v1](http://arxiv.org/abs/2605.17123v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17123)|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑13](https://alphaxiv.org/abs/2605.15964)|
 |**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Hongli Liu et.al.|[2605.13202v1](http://arxiv.org/abs/2605.13202v1)|[link](https://github.com/HongliLiu1/STAR-main)|[αX↑1](https://alphaxiv.org/abs/2605.13202)|
