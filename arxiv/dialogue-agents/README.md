@@ -1,12 +1,12 @@
 ## Dialogue Agents
 
-### Updated on 2026.05.24
+### Updated on 2026.05.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21956)|
 |**2026-04-15**|**Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI**|Arthur Capozzi et.al.|[2605.18770v1](http://arxiv.org/abs/2605.18770v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18770)|
-|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑12](https://alphaxiv.org/abs/2605.11732)|
+|**2026-05-12**|**AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents**|Jiarui Jin et.al.|[2605.11732v1](http://arxiv.org/abs/2605.11732v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑13](https://alphaxiv.org/abs/2605.11732)|
 |**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286v1](http://arxiv.org/abs/2605.10286v1)|[link](https://github.com/nyuad-cai/AgentRX)|[αX↑3](https://alphaxiv.org/abs/2605.10286)|
 |**2026-05-15**|**AIPO: Learning to Reason from Active Interaction**|Junnan Liu et.al.|[2605.08401v2](http://arxiv.org/abs/2605.08401v2)|null|[αX↑2](https://alphaxiv.org/abs/2605.08401)|
 |**2026-05-07**|**Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization**|Da Long et.al.|[2605.07011v1](http://arxiv.org/abs/2605.07011v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.07011)|
@@ -32,7 +32,7 @@
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.18520)|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18304)|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|[αX↑9](https://alphaxiv.org/abs/2603.16783)|
-|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑28](https://alphaxiv.org/abs/2603.16496)|
+|**2026-04-29**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v2](http://arxiv.org/abs/2603.16496v2)|null|[🤗👍13](https://huggingface.co/papers/2603.16496) [αX↑29](https://alphaxiv.org/abs/2603.16496)|
 |**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.15121)|
 |**2026-03-15**|**Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models**|Thuy Ngoc Nguyen et.al.|[2603.14646v1](http://arxiv.org/abs/2603.14646v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.14646)|
 |**2026-03-12**|**ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**|Songlin Yang et.al.|[2603.11421v1](http://arxiv.org/abs/2603.11421v1)|[link](https://github.com/Songlin1998/ShotVerse)|[🤗👍34](https://huggingface.co/papers/2603.11421) [αX↑25](https://alphaxiv.org/abs/2603.11421)|

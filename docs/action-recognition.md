@@ -4,14 +4,15 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.05.24
+### Updated on 2026.05.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-22**|**Decoupling Spatio-Temporal Adapter for Fine-Grained Badminton Action Localization**|Tianyu Wang et.al.|[2605.23355v1](http://arxiv.org/abs/2605.23355v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.23355)|
 |**2026-05-21**|**Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions**|Yannick Porto et.al.|[2605.22697v1](http://arxiv.org/abs/2605.22697v1)|[link](https://github.com/yanik-porto/OrientationAware-HAR)|[αX↑0](https://alphaxiv.org/abs/2605.22697)|
 |**2026-05-21**|**Improving Viewpoint-Invariance and Temporal Consistency for Action Detection**|Yannick Porto et.al.|[2605.22695v1](http://arxiv.org/abs/2605.22695v1)|[link](https://github.com/yanik-porto/HydraView-TAD)|[αX↑1](https://alphaxiv.org/abs/2605.22695)|
 |**2026-05-21**|**MOTOR: A Multimodal Dataset for Two-Wheeler Rider Behavior Understanding**|Varun A. Paturkar et.al.|[2605.22550v1](http://arxiv.org/abs/2605.22550v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22550)|
-|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|[link](https://github.com/benedettaliberatori/tegu.git)|[αX↑0](https://alphaxiv.org/abs/2605.22201)|
+|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|[link](https://github.com/benedettaliberatori/tegu.git)|[αX↑1](https://alphaxiv.org/abs/2605.22201)|
 |**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21956)|
 |**2026-05-20**|**Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly**|Aditya Chetan et.al.|[2605.21625v1](http://arxiv.org/abs/2605.21625v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.21625)|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21421)|

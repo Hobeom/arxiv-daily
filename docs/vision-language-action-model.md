@@ -4,27 +4,30 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.05.24
+### Updated on 2026.05.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812v1](http://arxiv.org/abs/2605.22812v1)|[link](https://github.com/GWxuan/GesVLA)|[αX↑4](https://alphaxiv.org/abs/2605.22812)|
-|**2026-05-21**|**From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model**|Bing Hu et.al.|[2605.22671v1](http://arxiv.org/abs/2605.22671v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2605.22671)|
-|**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446v1](http://arxiv.org/abs/2605.22446v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.22446)|
-|**2026-05-21**|**How can reasoning capability empower the AI copilot robot in endoscopic surgery**|Guankun Wang et.al.|[2605.22322v1](http://arxiv.org/abs/2605.22322v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.22322)|
-|**2026-05-21**|**Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action**|Pengteng Li et.al.|[2605.22283v1](http://arxiv.org/abs/2605.22283v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.22283)|
-|**2026-05-21**|**Action with Visual Primitives**|Weilong Guo et.al.|[2605.22183v1](http://arxiv.org/abs/2605.22183v1)|[link](https://github.com/ontu1995/Technology-)|[αX↑4](https://alphaxiv.org/abs/2605.22183)|
-|**2026-05-21**|**LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model**|Xiaodong Mei et.al.|[2605.22089v1](http://arxiv.org/abs/2605.22089v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22089)|
-|**2026-05-21**|**CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models**|Zhi Liu et.al.|[2605.21854v1](http://arxiv.org/abs/2605.21854v1)|[link](https://github.com/lz-googlefycy/vla-lab)|[αX↑0](https://alphaxiv.org/abs/2605.21854)|
-|**2026-05-20**|**PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction**|Shizhe Chen et.al.|[2605.21414v1](http://arxiv.org/abs/2605.21414v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.21414)|
+|**2026-05-22**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163v1](http://arxiv.org/abs/2605.23163v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.23163)|
+|**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Huanming Liu et.al.|[2605.23128v1](http://arxiv.org/abs/2605.23128v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.23128)|
+|**2026-05-21**|**Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models**|Ruofan Jin et.al.|[2605.22896v1](http://arxiv.org/abs/2605.22896v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22896)|
+|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812v1](http://arxiv.org/abs/2605.22812v1)|[link](https://github.com/GWxuan/GesVLA)|[αX↑9](https://alphaxiv.org/abs/2605.22812)|
+|**2026-05-21**|**From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model**|Bing Hu et.al.|[2605.22671v1](http://arxiv.org/abs/2605.22671v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑6](https://alphaxiv.org/abs/2605.22671)|
+|**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446v1](http://arxiv.org/abs/2605.22446v1)|null|[αX↑12](https://alphaxiv.org/abs/2605.22446)|
+|**2026-05-21**|**How can reasoning capability empower the AI copilot robot in endoscopic surgery**|Guankun Wang et.al.|[2605.22322v1](http://arxiv.org/abs/2605.22322v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22322)|
+|**2026-05-21**|**Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action**|Pengteng Li et.al.|[2605.22283v1](http://arxiv.org/abs/2605.22283v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.22283)|
+|**2026-05-21**|**Action with Visual Primitives**|Weilong Guo et.al.|[2605.22183v1](http://arxiv.org/abs/2605.22183v1)|[link](https://github.com/ontu1995/Technology-)|[αX↑10](https://alphaxiv.org/abs/2605.22183)|
+|**2026-05-21**|**LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model**|Xiaodong Mei et.al.|[2605.22089v1](http://arxiv.org/abs/2605.22089v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.22089)|
+|**2026-05-21**|**CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models**|Zhi Liu et.al.|[2605.21854v1](http://arxiv.org/abs/2605.21854v1)|[link](https://github.com/lz-googlefycy/vla-lab)|[αX↑2](https://alphaxiv.org/abs/2605.21854)|
+|**2026-05-20**|**PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction**|Shizhe Chen et.al.|[2605.21414v1](http://arxiv.org/abs/2605.21414v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.21414)|
 |**2026-05-21**|**DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions**|Weicheng Zheng et.al.|[2605.21273v2](http://arxiv.org/abs/2605.21273v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.21273)|
-|**2026-05-20**|**VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models**|Alex S. Huang et.al.|[2605.20774v1](http://arxiv.org/abs/2605.20774v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.20774)|
+|**2026-05-20**|**VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models**|Alex S. Huang et.al.|[2605.20774v1](http://arxiv.org/abs/2605.20774v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.20774)|
 |**2026-05-19**|**Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation**|He-Yang Xu et.al.|[2605.19986v1](http://arxiv.org/abs/2605.19986v1)|[link](https://github.com/Hiangx-robotics/MetaFine)|[αX↑2](https://alphaxiv.org/abs/2605.19986)|
-|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678v1](http://arxiv.org/abs/2605.19678v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.19678)|
-|**2026-05-19**|**PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models**|Peizheng Guo et.al.|[2605.19580v1](http://arxiv.org/abs/2605.19580v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.19580)|
+|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678v1](http://arxiv.org/abs/2605.19678v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.19678)|
+|**2026-05-19**|**PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models**|Peizheng Guo et.al.|[2605.19580v1](http://arxiv.org/abs/2605.19580v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.19580)|
 |**2026-05-19**|**SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving**|Kefei Tian et.al.|[2605.19524v1](http://arxiv.org/abs/2605.19524v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.19524)|
 |**2026-05-18**|**Dexora: Open-source VLA for High-DoF Bimanual Dexterity**|Zongzheng Zhang et.al.|[2605.18722v1](http://arxiv.org/abs/2605.18722v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.18722)|
-|**2026-05-18**|**StableVLA: Towards Robust Vision-Language-Action Models without Extra Data**|Yiyang Fu et.al.|[2605.18287v1](http://arxiv.org/abs/2605.18287v1)|[link](https://github.com/DAGroup-PKU/HumanNet)|[🤗👍14](https://huggingface.co/papers/2605.18287) [αX↑8](https://alphaxiv.org/abs/2605.18287)|
+|**2026-05-18**|**StableVLA: Towards Robust Vision-Language-Action Models without Extra Data**|Yiyang Fu et.al.|[2605.18287v1](http://arxiv.org/abs/2605.18287v1)|[link](https://github.com/DAGroup-PKU/HumanNet)|[🤗👍14](https://huggingface.co/papers/2605.18287) [αX↑11](https://alphaxiv.org/abs/2605.18287)|
 |**2026-05-17**|**AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment**|Weijie Kong et.al.|[2605.17517v1](http://arxiv.org/abs/2605.17517v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.17517)|
 |**2026-05-17**|**DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization**|Sixu Lin et.al.|[2605.17486v1](http://arxiv.org/abs/2605.17486v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17486)|
 |**2026-05-17**|**CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving**|Ruiyang Zhu et.al.|[2605.17284v1](http://arxiv.org/abs/2605.17284v1)|null|null|
