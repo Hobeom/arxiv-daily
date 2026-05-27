@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.05.26
+### Updated on 2026.05.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304v1](http://arxiv.org/abs/2605.27304v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27304)|
 |**2026-05-25**|**UAV-OVO: Out-of-Viewpoint Generalization in UAV Action Recognition**|Yu Xia et.al.|[2605.25615v1](http://arxiv.org/abs/2605.25615v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.25615)|
 |**2026-05-24**|**Uncertainty-DTW for Sequences and Visual Tokens**|Lei Wang et.al.|[2605.25110v1](http://arxiv.org/abs/2605.25110v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.25110)|
 |**2026-05-23**|**EgoAction: Egocentric Action Composition with Reliability-Aware Temporal Fusion for the EPIC-KITCHENS Action Detection Challenge at CVPR 2026**|Zhiheng Fu et.al.|[2605.24496v1](http://arxiv.org/abs/2605.24496v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24496)|
