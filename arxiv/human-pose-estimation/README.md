@@ -5,14 +5,14 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598v1](http://arxiv.org/abs/2605.25598v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.25598)|
-|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|[link](https://github.com/RenHuan1999/ComPose)|[αX↑4](https://alphaxiv.org/abs/2605.25553)|
+|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|[link](https://github.com/RenHuan1999/ComPose)|[αX↑6](https://alphaxiv.org/abs/2605.25553)|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.25216)|
-|**2026-05-23**|**How Noisy Poses Break Inverse Dynamics: Analysis and Mitigation for Video-Based Joint Torque Estimation**|Donghyun Kim et.al.|[2605.24776v1](http://arxiv.org/abs/2605.24776v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24776)|
-|**2026-05-22**|**ComPose: When to Trust Hands for Object Pose Tracking**|Jisu Shin et.al.|[2605.23523v1](http://arxiv.org/abs/2605.23523v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.23523)|
-|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|[link](https://github.com/cambrian-mllm/cambrian-p)|[αX↑38](https://alphaxiv.org/abs/2605.22819)|
+|**2026-05-23**|**How Noisy Poses Break Inverse Dynamics: Analysis and Mitigation for Video-Based Joint Torque Estimation**|Donghyun Kim et.al.|[2605.24776v1](http://arxiv.org/abs/2605.24776v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24776)|
+|**2026-05-22**|**ComPose: When to Trust Hands for Object Pose Tracking**|Jisu Shin et.al.|[2605.23523v1](http://arxiv.org/abs/2605.23523v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.23523)|
+|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|[link](https://github.com/cambrian-mllm/cambrian-p)|[αX↑47](https://alphaxiv.org/abs/2605.22819)|
 |**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.22467)|
-|**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.22231)|
-|**2026-05-21**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al.|[2605.21957v1](http://arxiv.org/abs/2605.21957v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.21957)|
+|**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.22231)|
+|**2026-05-21**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al.|[2605.21957v1](http://arxiv.org/abs/2605.21957v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.21957)|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21421)|
 |**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.20889)|
 |**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.20392)|
