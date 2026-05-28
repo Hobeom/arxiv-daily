@@ -1,21 +1,22 @@
 ## Action Recognition
 
-### Updated on 2026.05.27
+### Updated on 2026.05.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304v1](http://arxiv.org/abs/2605.27304v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27304)|
-|**2026-05-25**|**UAV-OVO: Out-of-Viewpoint Generalization in UAV Action Recognition**|Yu Xia et.al.|[2605.25615v1](http://arxiv.org/abs/2605.25615v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.25615)|
+|**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et.al.|[2605.28387v1](http://arxiv.org/abs/2605.28387v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28387)|
+|**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304v1](http://arxiv.org/abs/2605.27304v1)|[link](https://github.com/sbhattlab/PlayClassCV4Animals)|[αX↑0](https://alphaxiv.org/abs/2605.27304)|
+|**2026-05-25**|**UAV-OVO: Out-of-Viewpoint Generalization in UAV Action Recognition**|Yu Xia et.al.|[2605.25615v1](http://arxiv.org/abs/2605.25615v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.25615)|
 |**2026-05-24**|**Uncertainty-DTW for Sequences and Visual Tokens**|Lei Wang et.al.|[2605.25110v1](http://arxiv.org/abs/2605.25110v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.25110)|
 |**2026-05-23**|**EgoAction: Egocentric Action Composition with Reliability-Aware Temporal Fusion for the EPIC-KITCHENS Action Detection Challenge at CVPR 2026**|Zhiheng Fu et.al.|[2605.24496v1](http://arxiv.org/abs/2605.24496v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24496)|
-|**2026-05-23**|**Cross-Modal Action Recognition in Egocentric Video Using Mamba: Integrating RGB and Hand Skeleton Streams via CLS Token Fusion Strategies**|Juan Ignacio Bustos Gorostegui et.al.|[2605.24302v1](http://arxiv.org/abs/2605.24302v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24302)|
+|**2026-05-26**|**Cross-Modal Action Recognition in Egocentric Video Using Mamba: Integrating RGB and Hand Skeleton Streams via CLS Token Fusion Strategies**|Juan Ignacio Bustos Gorostegui et.al.|[2605.24302v2](http://arxiv.org/abs/2605.24302v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.24302)|
 |**2026-05-22**|**New substellar candidates identified through deep learning in the F150 sample of the large-scale SHINE direct imaging survey**|Carles Cantero Mitjans et.al.|[2605.23700v1](http://arxiv.org/abs/2605.23700v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.23700)|
-|**2026-05-22**|**Decoupling Spatio-Temporal Adapter for Fine-Grained Badminton Action Localization**|Tianyu Wang et.al.|[2605.23355v1](http://arxiv.org/abs/2605.23355v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.23355)|
+|**2026-05-22**|**Decoupling Spatio-Temporal Adapter for Fine-Grained Badminton Action Localization**|Tianyu Wang et.al.|[2605.23355v1](http://arxiv.org/abs/2605.23355v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.23355)|
 |**2026-05-22**|**Spatio-Temporal Similarity Volume Aggregation for Open-Vocabulary Action Recognition**|Yerim So et.al.|[2605.23288v1](http://arxiv.org/abs/2605.23288v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.23288)|
-|**2026-05-21**|**Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions**|Yannick Porto et.al.|[2605.22697v1](http://arxiv.org/abs/2605.22697v1)|[link](https://github.com/yanik-porto/OrientationAware-HAR)|[αX↑3](https://alphaxiv.org/abs/2605.22697)|
+|**2026-05-21**|**Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions**|Yannick Porto et.al.|[2605.22697v1](http://arxiv.org/abs/2605.22697v1)|[link](https://github.com/yanik-porto/OrientationAware-HAR)|[αX↑4](https://alphaxiv.org/abs/2605.22697)|
 |**2026-05-21**|**Improving Viewpoint-Invariance and Temporal Consistency for Action Detection**|Yannick Porto et.al.|[2605.22695v1](http://arxiv.org/abs/2605.22695v1)|[link](https://github.com/yanik-porto/HydraView-TAD)|[αX↑3](https://alphaxiv.org/abs/2605.22695)|
-|**2026-05-21**|**MOTOR: A Multimodal Dataset for Two-Wheeler Rider Behavior Understanding**|Varun A. Paturkar et.al.|[2605.22550v1](http://arxiv.org/abs/2605.22550v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.22550)|
-|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|[link](https://github.com/benedettaliberatori/tegu.git)|[αX↑5](https://alphaxiv.org/abs/2605.22201)|
+|**2026-05-21**|**MOTOR: A Multimodal Dataset for Two-Wheeler Rider Behavior Understanding**|Varun A. Paturkar et.al.|[2605.22550v1](http://arxiv.org/abs/2605.22550v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22550)|
+|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201v1](http://arxiv.org/abs/2605.22201v1)|[link](https://github.com/benedettaliberatori/tegu.git)|[αX↑7](https://alphaxiv.org/abs/2605.22201)|
 |**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.21956)|
 |**2026-05-20**|**Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly**|Aditya Chetan et.al.|[2605.21625v1](http://arxiv.org/abs/2605.21625v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21625)|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.21421)|

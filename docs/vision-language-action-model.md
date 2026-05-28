@@ -4,25 +4,32 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.05.27
+### Updated on 2026.05.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-26**|**FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies**|Xintong Hu et.al.|[2605.27284v1](http://arxiv.org/abs/2605.27284v1)|[link](https://github.com/csgeekhuang/FineVLA)|[αX↑0](https://alphaxiv.org/abs/2605.27284)|
-|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26820)|
-|**2026-05-26**|**Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models**|Jianwei Tai et.al.|[2605.25889v2](http://arxiv.org/abs/2605.25889v2)|null|[αX↑1](https://alphaxiv.org/abs/2605.25889)|
+|**2026-05-27**|**Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling**|Xinyu Wang et.al.|[2605.28803v1](http://arxiv.org/abs/2605.28803v1)|[link](https://github.com/UCMP13753/Omega-QVLA)|[αX↑3](https://alphaxiv.org/abs/2605.28803)|
+|**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28634)|
+|**2026-05-27**|**Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation**|Yongchen Wang et.al.|[2605.28486v1](http://arxiv.org/abs/2605.28486v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.28486)|
+|**2026-05-27**|**ProgVLA: Progress-Aware Robot Manipulation Skill Learning**|Seungsu Kim et.al.|[2605.28231v1](http://arxiv.org/abs/2605.28231v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.28231)|
+|**2026-05-27**|**VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking**|Jiyuan Fu et.al.|[2605.28083v1](http://arxiv.org/abs/2605.28083v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28083)|
+|**2026-05-27**|**Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language**|Qiwei Wu et.al.|[2605.27886v1](http://arxiv.org/abs/2605.27886v1)|[link](https://github.com/NathanWu7/Tabero)|[αX↑3](https://alphaxiv.org/abs/2605.27886)|
+|**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759v1](http://arxiv.org/abs/2605.27759v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.27759)|
+|**2026-05-26**|**FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies**|Xintong Hu et.al.|[2605.27284v1](http://arxiv.org/abs/2605.27284v1)|[link](https://github.com/csgeekhuang/FineVLA)|[αX↑11](https://alphaxiv.org/abs/2605.27284)|
+|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.26820)|
+|**2026-05-26**|**Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models**|Jianwei Tai et.al.|[2605.25889v2](http://arxiv.org/abs/2605.25889v2)|null|[αX↑2](https://alphaxiv.org/abs/2605.25889)|
 |**2026-05-25**|**OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation**|Xinzhe Chen et.al.|[2605.25829v1](http://arxiv.org/abs/2605.25829v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.25829)|
 |**2026-05-25**|**Rethinking VLM Representation for VLA Initialization**|Weifeng Lin et.al.|[2605.25802v1](http://arxiv.org/abs/2605.25802v1)|[link](https://github.com/AFeng-x/Rethink_VLA_Initialization)|[αX↑3](https://alphaxiv.org/abs/2605.25802)|
-|**2026-05-25**|**EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models**|Perry Dong et.al.|[2605.25477v1](http://arxiv.org/abs/2605.25477v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.25477)|
-|**2026-05-24**|**X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models**|Boyu Li et.al.|[2605.25044v1](http://arxiv.org/abs/2605.25044v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.25044)|
+|**2026-05-25**|**EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models**|Perry Dong et.al.|[2605.25477v1](http://arxiv.org/abs/2605.25477v1)|null|[αX↑19](https://alphaxiv.org/abs/2605.25477)|
+|**2026-05-24**|**X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models**|Boyu Li et.al.|[2605.25044v1](http://arxiv.org/abs/2605.25044v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.25044)|
 |**2026-05-24**|**X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling**|Baolu Li et.al.|[2605.24892v1](http://arxiv.org/abs/2605.24892v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24892)|
-|**2026-05-24**|**QuoVLA: Quotient Space for Vision-Language-Action Models**|Xuan Wang et.al.|[2605.24890v1](http://arxiv.org/abs/2605.24890v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24890)|
-|**2026-05-23**|**Understanding the Impact of Geometric Foundation Models on Vision-Language-Action Models**|Yurou Yang et.al.|[2605.24642v1](http://arxiv.org/abs/2605.24642v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.24642)|
+|**2026-05-24**|**QuoVLA: Quotient Space for Vision-Language-Action Models**|Xuan Wang et.al.|[2605.24890v1](http://arxiv.org/abs/2605.24890v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24890)|
+|**2026-05-23**|**Understanding the Impact of Geometric Foundation Models on Vision-Language-Action Models**|Yurou Yang et.al.|[2605.24642v1](http://arxiv.org/abs/2605.24642v1)|null|[αX↑14](https://alphaxiv.org/abs/2605.24642)|
 |**2026-05-22**|**Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance**|Runze Wang et.al.|[2605.24203v1](http://arxiv.org/abs/2605.24203v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24203)|
 |**2026-05-25**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163v2](http://arxiv.org/abs/2605.23163v2)|[link](https://github.com/NVlabs/Fast-dLLM)|[αX↑2](https://alphaxiv.org/abs/2605.23163)|
 |**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Huanming Liu et.al.|[2605.23128v1](http://arxiv.org/abs/2605.23128v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.23128)|
 |**2026-05-21**|**Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models**|Ruofan Jin et.al.|[2605.22896v1](http://arxiv.org/abs/2605.22896v1)|null|[αX↑11](https://alphaxiv.org/abs/2605.22896)|
-|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812v1](http://arxiv.org/abs/2605.22812v1)|[link](https://github.com/GWxuan/GesVLA)|[αX↑14](https://alphaxiv.org/abs/2605.22812)|
+|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812v1](http://arxiv.org/abs/2605.22812v1)|[link](https://github.com/GWxuan/GesVLA)|[αX↑17](https://alphaxiv.org/abs/2605.22812)|
 |**2026-05-21**|**From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model**|Bing Hu et.al.|[2605.22671v1](http://arxiv.org/abs/2605.22671v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑9](https://alphaxiv.org/abs/2605.22671)|
 |**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446v1](http://arxiv.org/abs/2605.22446v1)|null|[αX↑12](https://alphaxiv.org/abs/2605.22446)|
 |**2026-05-21**|**How can reasoning capability empower the AI copilot robot in endoscopic surgery**|Guankun Wang et.al.|[2605.22322v1](http://arxiv.org/abs/2605.22322v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22322)|

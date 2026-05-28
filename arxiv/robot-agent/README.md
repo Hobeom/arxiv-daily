@@ -1,25 +1,33 @@
 ## Robot & Agent
 
-### Updated on 2026.05.27
+### Updated on 2026.05.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-05-26**|**The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology**|G. Nagarjuna et.al.|[2605.26856v1](http://arxiv.org/abs/2605.26856v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26856)|
-|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26820)|
-|**2026-05-26**|**On the Generalization Capabilities, Design Choices and Limitations of Keypoint Imitation Learning**|Thomas Lips et.al.|[2605.26649v1](http://arxiv.org/abs/2605.26649v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26649)|
-|**2026-05-25**|**E $^3$ C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control**|Qiao Gu et.al.|[2605.26316v1](http://arxiv.org/abs/2605.26316v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26316)|
-|**2026-05-25**|**Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions**|Jeongeun Lee et.al.|[2605.26256v1](http://arxiv.org/abs/2605.26256v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26256)|
-|**2026-05-25**|**Sentinel: Embodied Cooperative Spatial Reasoning and Planning**|Xiangye Lin et.al.|[2605.26239v1](http://arxiv.org/abs/2605.26239v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26239)|
-|**2026-05-24**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi et.al.|[2605.24934v1](http://arxiv.org/abs/2605.24934v1)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑10](https://alphaxiv.org/abs/2605.24934)|
-|**2026-05-24**|**Learning High-Frequency Continuous Action Chunks in Latent Space**|Kunyun Wang et.al.|[2605.24931v1](http://arxiv.org/abs/2605.24931v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24931)|
+|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816v1](http://arxiv.org/abs/2605.28816v1)|[link](https://github.com/nv-tlabs/Gamma-World)|[αX↑10](https://alphaxiv.org/abs/2605.28816)|
+|**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28634)|
+|**2026-05-27**|**What Frozen VLAs Already Know About Success: A Probing Study of Value-Like Structure in Foundation Robot Policies**|Jiachen Zhang et.al.|[2605.28527v1](http://arxiv.org/abs/2605.28527v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28527)|
+|**2026-05-27**|**ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents**|Xue Qin et.al.|[2605.28097v1](http://arxiv.org/abs/2605.28097v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28097)|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Sizhe Lester Li et.al.|[2605.27817v1](http://arxiv.org/abs/2605.27817v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.27817)|
+|**2026-05-26**|**PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft**|Yuchen Guo et.al.|[2605.27762v1](http://arxiv.org/abs/2605.27762v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.27762)|
+|**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759v1](http://arxiv.org/abs/2605.27759v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.27759)|
+|**2026-05-26**|**GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation**|Boxiang Qiu et.al.|[2605.27491v1](http://arxiv.org/abs/2605.27491v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.27491)|
+|**2026-05-26**|**The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology**|G. Nagarjuna et.al.|[2605.26856v1](http://arxiv.org/abs/2605.26856v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.26856)|
+|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.26820)|
+|**2026-05-26**|**On the Generalization Capabilities, Design Choices and Limitations of Keypoint Imitation Learning**|Thomas Lips et.al.|[2605.26649v1](http://arxiv.org/abs/2605.26649v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.26649)|
+|**2026-05-25**|**E $^3$ C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control**|Qiao Gu et.al.|[2605.26316v1](http://arxiv.org/abs/2605.26316v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.26316)|
+|**2026-05-25**|**Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions**|Jeongeun Lee et.al.|[2605.26256v1](http://arxiv.org/abs/2605.26256v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.26256)|
+|**2026-05-25**|**Sentinel: Embodied Cooperative Spatial Reasoning and Planning**|Xiangye Lin et.al.|[2605.26239v1](http://arxiv.org/abs/2605.26239v1)|[link](https://github.com/UMass-Embodied-AGI/Sentinel)|[αX↑1](https://alphaxiv.org/abs/2605.26239)|
+|**2026-05-24**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi et.al.|[2605.24934v1](http://arxiv.org/abs/2605.24934v1)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑40](https://alphaxiv.org/abs/2605.24934)|
+|**2026-05-24**|**Learning High-Frequency Continuous Action Chunks in Latent Space**|Kunyun Wang et.al.|[2605.24931v1](http://arxiv.org/abs/2605.24931v1)|[link](https://github.com/tars-robotics/RTR)|[🤗👍3](https://huggingface.co/papers/2605.24931) [αX↑8](https://alphaxiv.org/abs/2605.24931)|
 |**2026-05-24**|**MuJoCoUni:Persistent Batched Runtime Primitives for MuJoCo**|Yufei Jia et.al.|[2605.24922v1](http://arxiv.org/abs/2605.24922v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24922)|
 |**2026-05-24**|**Fishbone: From One 3D Asset to a Million Controllable Edits**|Yumeng He et.al.|[2605.24805v1](http://arxiv.org/abs/2605.24805v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24805)|
-|**2026-05-23**|**Smoother Action Chunking Flow Policy via Prior-Corrected Orthogonal Trust-Region Guidance**|Kai Fang et.al.|[2605.24433v1](http://arxiv.org/abs/2605.24433v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24433)|
-|**2026-05-22**|**Point Tracking Improves World Action Models**|Jiarui Guan et.al.|[2605.23856v1](http://arxiv.org/abs/2605.23856v1)|null|[αX↑12](https://alphaxiv.org/abs/2605.23856)|
+|**2026-05-23**|**Smoother Action Chunking Flow Policy via Prior-Corrected Orthogonal Trust-Region Guidance**|Kai Fang et.al.|[2605.24433v1](http://arxiv.org/abs/2605.24433v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.24433)|
+|**2026-05-22**|**Point Tracking Improves World Action Models**|Jiarui Guan et.al.|[2605.23856v1](http://arxiv.org/abs/2605.23856v1)|null|[αX↑19](https://alphaxiv.org/abs/2605.23856)|
 |**2026-05-22**|**6G Communication Networks Enabling Embodied Agents: Architecture and Prototype**|Lipeng Dai et.al.|[2605.23263v1](http://arxiv.org/abs/2605.23263v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.23263)|
 |**2026-05-22**|**IntentionNav: A Benchmark for Intent-Driven Object Navigation from Implicit Human Instruction**|Lin Qian et.al.|[2605.23187v1](http://arxiv.org/abs/2605.23187v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.23187)|
 |**2026-05-25**|**SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-based Humanoid Control**|Jingyan Zhang et.al.|[2605.22894v2](http://arxiv.org/abs/2605.22894v2)|null|[αX↑5](https://alphaxiv.org/abs/2605.22894)|
-|**2026-05-21**|**Symmetries Here and There, Combined Everywhere: Cross-space Symmetry Compositions in Robotics**|Loizos Hadjiloizou et.al.|[2605.22639v1](http://arxiv.org/abs/2605.22639v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.22639)|
+|**2026-05-21**|**Symmetries Here and There, Combined Everywhere: Cross-space Symmetry Compositions in Robotics**|Loizos Hadjiloizou et.al.|[2605.22639v1](http://arxiv.org/abs/2605.22639v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.22639)|
 |**2026-05-20**|**PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects**|Ziang Cao et.al.|[2605.21572v1](http://arxiv.org/abs/2605.21572v1)|[link](https://github.com/physx-omni/PhysX-Omni)|[🤗👍48](https://huggingface.co/papers/2605.21572) [αX↑18](https://alphaxiv.org/abs/2605.21572)|
 |**2026-05-20**|**To Select or not to Select, that is the Question: Distilling Robot Skill Prediction into a Small Ensemble**|Haechan Mark Bong et.al.|[2605.21242v1](http://arxiv.org/abs/2605.21242v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.21242)|
 |**2026-05-20**|**KSOS-BO: Improving Sampling in Bayesian Optimization via Kernel Sum of Squares**|Buqing Ou et.al.|[2605.21179v1](http://arxiv.org/abs/2605.21179v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.21179)|

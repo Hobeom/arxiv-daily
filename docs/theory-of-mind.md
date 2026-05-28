@@ -4,19 +4,20 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.05.27
+### Updated on 2026.05.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[αX↑0](https://alphaxiv.org/abs/2605.27068)|
-|**2026-05-25**|**OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling**|Adam Bawatneh et.al.|[2605.26322v1](http://arxiv.org/abs/2605.26322v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.26322)|
-|**2026-05-23**|**Emotional intelligence in large language models is fragmented across perception, cognition, and interaction**|Minghao Lv et.al.|[2605.24686v1](http://arxiv.org/abs/2605.24686v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24686)|
-|**2026-05-22**|**Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning**|Nesreen K. Ahmed et.al.|[2605.24216v1](http://arxiv.org/abs/2605.24216v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24216)|
-|**2026-05-22**|**Naturalistic measure of social norms alignment**|Yevhen Kostiuk et.al.|[2605.23420v1](http://arxiv.org/abs/2605.23420v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.23420)|
+|**2026-05-26**|**UserHarness: Harnessing User Minds for Stronger Agent Theory-of-Mind**|Cheng Qian et.al.|[2605.27721v1](http://arxiv.org/abs/2605.27721v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27721)|
+|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[🤗👍14](https://huggingface.co/papers/2605.27068) [αX↑0](https://alphaxiv.org/abs/2605.27068)|
+|**2026-05-25**|**OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling**|Adam Bawatneh et.al.|[2605.26322v1](http://arxiv.org/abs/2605.26322v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.26322)|
+|**2026-05-23**|**Emotional intelligence in large language models is fragmented across perception, cognition, and interaction**|Minghao Lv et.al.|[2605.24686v1](http://arxiv.org/abs/2605.24686v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24686)|
+|**2026-05-22**|**Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning**|Nesreen K. Ahmed et.al.|[2605.24216v1](http://arxiv.org/abs/2605.24216v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24216)|
+|**2026-05-22**|**Naturalistic measure of social norms alignment**|Yevhen Kostiuk et.al.|[2605.23420v1](http://arxiv.org/abs/2605.23420v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.23420)|
 |**2026-05-21**|**Think Thrice Before You Speak: Dual knowledge-enhanced Theory-of-Mind Reasoning for Persuasive Agents**|Minghui Ma et.al.|[2605.22602v1](http://arxiv.org/abs/2605.22602v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.22602)|
-|**2026-05-19**|**Reinforcing Human Behavior Simulation via Verbal Feedback**|Weiwei Sun et.al.|[2605.20506v1](http://arxiv.org/abs/2605.20506v1)|[link](https://github.com/sunnweiwei/OdysSim)|[αX↑11](https://alphaxiv.org/abs/2605.20506)|
+|**2026-05-19**|**Reinforcing Human Behavior Simulation via Verbal Feedback**|Weiwei Sun et.al.|[2605.20506v1](http://arxiv.org/abs/2605.20506v1)|[link](https://github.com/sunnweiwei/OdysSim)|[αX↑16](https://alphaxiv.org/abs/2605.20506)|
 |**2026-05-19**|**OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind**|Sharmin Sultana Srishty et.al.|[2605.20423v1](http://arxiv.org/abs/2605.20423v1)|[link](https://github.com/sharminsrishty/osct)|[αX↑2](https://alphaxiv.org/abs/2605.20423)|
-|**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach et.al.|[2605.20175v1](http://arxiv.org/abs/2605.20175v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.20175)|
+|**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach et.al.|[2605.20175v1](http://arxiv.org/abs/2605.20175v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.20175)|
 |**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194v1](http://arxiv.org/abs/2605.18194v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.18194)|
 |**2026-05-15**|**GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions**|Junho Kim et.al.|[2605.15764v1](http://arxiv.org/abs/2605.15764v1)|null|[🤗👍3](https://huggingface.co/papers/2605.15764) [αX↑6](https://alphaxiv.org/abs/2605.15764)|
 |**2026-04-28**|**Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations**|Nanxu Gong et.al.|[2605.15205v1](http://arxiv.org/abs/2605.15205v1)|[link](https://github.com/NanxuGong/ToM-HAI)|[αX↑0](https://alphaxiv.org/abs/2605.15205)|
