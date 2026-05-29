@@ -1,9 +1,11 @@
 ## Robot & Agent
 
-### Updated on 2026.05.28
+### Updated on 2026.05.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326v1](http://arxiv.org/abs/2605.30326v1)|[link](https://github.com/UMass-Embodied-AGI/RoboWits)|[αX↑0](https://alphaxiv.org/abs/2605.30326)|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816v1](http://arxiv.org/abs/2605.28816v1)|[link](https://github.com/nv-tlabs/Gamma-World)|[αX↑10](https://alphaxiv.org/abs/2605.28816)|
 |**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28634)|
 |**2026-05-27**|**What Frozen VLAs Already Know About Success: A Probing Study of Value-Like Structure in Foundation Robot Policies**|Jiachen Zhang et.al.|[2605.28527v1](http://arxiv.org/abs/2605.28527v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28527)|
@@ -18,7 +20,7 @@
 |**2026-05-25**|**E $^3$ C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control**|Qiao Gu et.al.|[2605.26316v1](http://arxiv.org/abs/2605.26316v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.26316)|
 |**2026-05-25**|**Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions**|Jeongeun Lee et.al.|[2605.26256v1](http://arxiv.org/abs/2605.26256v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.26256)|
 |**2026-05-25**|**Sentinel: Embodied Cooperative Spatial Reasoning and Planning**|Xiangye Lin et.al.|[2605.26239v1](http://arxiv.org/abs/2605.26239v1)|[link](https://github.com/UMass-Embodied-AGI/Sentinel)|[αX↑1](https://alphaxiv.org/abs/2605.26239)|
-|**2026-05-24**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi et.al.|[2605.24934v1](http://arxiv.org/abs/2605.24934v1)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑40](https://alphaxiv.org/abs/2605.24934)|
+|**2026-05-28**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi Wang et.al.|[2605.24934v2](http://arxiv.org/abs/2605.24934v2)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑40](https://alphaxiv.org/abs/2605.24934)|
 |**2026-05-24**|**Learning High-Frequency Continuous Action Chunks in Latent Space**|Kunyun Wang et.al.|[2605.24931v1](http://arxiv.org/abs/2605.24931v1)|[link](https://github.com/tars-robotics/RTR)|[🤗👍3](https://huggingface.co/papers/2605.24931) [αX↑8](https://alphaxiv.org/abs/2605.24931)|
 |**2026-05-24**|**MuJoCoUni:Persistent Batched Runtime Primitives for MuJoCo**|Yufei Jia et.al.|[2605.24922v1](http://arxiv.org/abs/2605.24922v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24922)|
 |**2026-05-24**|**Fishbone: From One 3D Asset to a Million Controllable Edits**|Yumeng He et.al.|[2605.24805v1](http://arxiv.org/abs/2605.24805v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24805)|

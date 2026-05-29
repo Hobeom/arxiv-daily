@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.05.28
+### Updated on 2026.05.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-28**|**SURGENT: A Surgical Multi-Agent Assistance System Across the Perioperative Workflow**|Dongsheng Shi et.al.|[2605.29368v1](http://arxiv.org/abs/2605.29368v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29368)|
 |**2026-05-27**|**Personality, Role, and Expressive Style in Large Language Models: An Interactionist Analysis**|Moe Nagao et.al.|[2605.28037v1](http://arxiv.org/abs/2605.28037v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28037)|
 |**2026-05-22**|**MGRetrieval: Memory-Guided Reflective Retrieval for Long-Term Dialogue Agents**|Tan Wang et.al.|[2605.27437v1](http://arxiv.org/abs/2605.27437v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27437)|
 |**2026-05-26**|**From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator**|Xiaohua Wang et.al.|[2605.26403v1](http://arxiv.org/abs/2605.26403v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.26403)|
