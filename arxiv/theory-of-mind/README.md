@@ -4,8 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-28**|**User-Aware Active Knowledge Acquisition for Emotional Support Dialogue**|Mufan Xu et.al.|[2605.29715v1](http://arxiv.org/abs/2605.29715v1)|[link](https://github.com/Xmuffins/UKA)|[αX↑1](https://alphaxiv.org/abs/2605.29715)|
+|**2026-05-28**|**CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems**|Ziyang Ma et.al.|[2605.29612v1](http://arxiv.org/abs/2605.29612v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29612)|
+|**2026-05-28**|**MINDGAMES: A Live Arena for Evaluating Social and Strategic Reasoning in Multi-Agent LLMs**|Kevin Wang et.al.|[2605.29512v1](http://arxiv.org/abs/2605.29512v1)|[link](https://github.com/mind-games-challenge/mindgames-starter-kit)|[αX↑1](https://alphaxiv.org/abs/2605.29512)|
 |**2026-05-26**|**UserHarness: Harnessing User Minds for Stronger Agent Theory-of-Mind**|Cheng Qian et.al.|[2605.27721v1](http://arxiv.org/abs/2605.27721v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27721)|
-|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[🤗👍14](https://huggingface.co/papers/2605.27068) [αX↑0](https://alphaxiv.org/abs/2605.27068)|
+|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[🤗👍16](https://huggingface.co/papers/2605.27068) [αX↑0](https://alphaxiv.org/abs/2605.27068)|
 |**2026-05-25**|**OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling**|Adam Bawatneh et.al.|[2605.26322v1](http://arxiv.org/abs/2605.26322v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.26322)|
 |**2026-05-23**|**Emotional intelligence in large language models is fragmented across perception, cognition, and interaction**|Minghao Lv et.al.|[2605.24686v1](http://arxiv.org/abs/2605.24686v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24686)|
 |**2026-05-22**|**Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning**|Nesreen K. Ahmed et.al.|[2605.24216v1](http://arxiv.org/abs/2605.24216v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24216)|

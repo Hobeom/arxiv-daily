@@ -4,6 +4,17 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Kuangji Zuo et.al.|[2605.30282v1](http://arxiv.org/abs/2605.30282v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30282)|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280v1](http://arxiv.org/abs/2605.30280v1)|[link](https://github.com/QwenLM/Qwen-VLA)|[αX↑24](https://alphaxiv.org/abs/2605.30280)|
+|**2026-05-28**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Zhongxi Chen et.al.|[2605.30226v1](http://arxiv.org/abs/2605.30226v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30226)|
+|**2026-05-28**|**VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing**|Haoyuan Shi et.al.|[2605.30117v1](http://arxiv.org/abs/2605.30117v1)|[link](https://github.com/VLA-Trace/VLA-Trace)|[αX↑2](https://alphaxiv.org/abs/2605.30117)|
+|**2026-05-28**|**SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation**|Shilin Ma et.al.|[2605.29662v1](http://arxiv.org/abs/2605.29662v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29662)|
+|**2026-05-28**|**VLAConf: Calibrated Task-Success Confidence for Vision-Language-Action Models**|Dehao Huang et.al.|[2605.29605v1](http://arxiv.org/abs/2605.29605v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29605)|
+|**2026-05-28**|**Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning**|Kyujin Lee et.al.|[2605.29577v1](http://arxiv.org/abs/2605.29577v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29577)|
+|**2026-05-28**|**VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models**|Shengyu Si et.al.|[2605.29562v1](http://arxiv.org/abs/2605.29562v1)|[link](https://github.com/ketchup45/VLA-Pro)|[αX↑2](https://alphaxiv.org/abs/2605.29562)|
+|**2026-05-28**|**ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models**|Ye Li et.al.|[2605.29438v1](http://arxiv.org/abs/2605.29438v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29438)|
+|**2026-05-28**|**3DVLA: Enhancing Vision-Language-Action Models via 3D Spatial and Instance Understanding**|Zhongyu Xia et.al.|[2605.29416v1](http://arxiv.org/abs/2605.29416v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29416)|
+|**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114v1](http://arxiv.org/abs/2605.29114v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29114)|
 |**2026-05-27**|**Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling**|Xinyu Wang et.al.|[2605.28803v1](http://arxiv.org/abs/2605.28803v1)|[link](https://github.com/UCMP13753/Omega-QVLA)|[αX↑3](https://alphaxiv.org/abs/2605.28803)|
 |**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28634)|
 |**2026-05-27**|**Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation**|Yongchen Wang et.al.|[2605.28486v1](http://arxiv.org/abs/2605.28486v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.28486)|
