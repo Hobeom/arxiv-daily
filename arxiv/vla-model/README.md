@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.05.29
+### Updated on 2026.05.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -15,9 +15,9 @@
 |**2026-05-28**|**ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models**|Ye Li et.al.|[2605.29438v1](http://arxiv.org/abs/2605.29438v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29438)|
 |**2026-05-28**|**3DVLA: Enhancing Vision-Language-Action Models via 3D Spatial and Instance Understanding**|Zhongyu Xia et.al.|[2605.29416v1](http://arxiv.org/abs/2605.29416v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29416)|
 |**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114v1](http://arxiv.org/abs/2605.29114v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29114)|
-|**2026-05-27**|**Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling**|Xinyu Wang et.al.|[2605.28803v1](http://arxiv.org/abs/2605.28803v1)|[link](https://github.com/UCMP13753/Omega-QVLA)|[αX↑3](https://alphaxiv.org/abs/2605.28803)|
+|**2026-05-27**|**Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling**|Xinyu Wang et.al.|[2605.28803v1](http://arxiv.org/abs/2605.28803v1)|[link](https://github.com/UCMP13753/Omega-QVLA)|[αX↑4](https://alphaxiv.org/abs/2605.28803)|
 |**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.28634)|
-|**2026-05-27**|**Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation**|Yongchen Wang et.al.|[2605.28486v1](http://arxiv.org/abs/2605.28486v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.28486)|
+|**2026-05-27**|**Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation**|Yongchen Wang et.al.|[2605.28486v1](http://arxiv.org/abs/2605.28486v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.28486)|
 |**2026-05-27**|**ProgVLA: Progress-Aware Robot Manipulation Skill Learning**|Seungsu Kim et.al.|[2605.28231v1](http://arxiv.org/abs/2605.28231v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.28231)|
 |**2026-05-27**|**VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking**|Jiyuan Fu et.al.|[2605.28083v1](http://arxiv.org/abs/2605.28083v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28083)|
 |**2026-05-27**|**Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language**|Qiwei Wu et.al.|[2605.27886v1](http://arxiv.org/abs/2605.27886v1)|[link](https://github.com/NathanWu7/Tabero)|[αX↑3](https://alphaxiv.org/abs/2605.27886)|

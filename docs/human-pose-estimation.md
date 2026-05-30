@@ -4,19 +4,19 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.05.29
+### Updated on 2026.05.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.30127)|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29953)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29298)|
-|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑3](https://alphaxiv.org/abs/2605.28477)|
-|**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍1](https://huggingface.co/papers/2605.28257) [αX↑1](https://alphaxiv.org/abs/2605.28257)|
-|**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28172)|
+|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑4](https://alphaxiv.org/abs/2605.28477)|
+|**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍1](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|
+|**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.28172)|
 |**2026-05-27**|**Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry**|Haolan Zhang et.al.|[2605.27952v1](http://arxiv.org/abs/2605.27952v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.27952)|
-|**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598v1](http://arxiv.org/abs/2605.25598v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.25598)|
-|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|[link](https://github.com/RenHuan1999/ComPose)|[αX↑7](https://alphaxiv.org/abs/2605.25553)|
+|**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598v1](http://arxiv.org/abs/2605.25598v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.25598)|
+|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|[link](https://github.com/RenHuan1999/ComPose)|[αX↑8](https://alphaxiv.org/abs/2605.25553)|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.25216)|
 |**2026-05-23**|**How Noisy Poses Break Inverse Dynamics: Analysis and Mitigation for Video-Based Joint Torque Estimation**|Donghyun Kim et.al.|[2605.24776v1](http://arxiv.org/abs/2605.24776v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.24776)|
 |**2026-05-22**|**ComPose: When to Trust Hands for Object Pose Tracking**|Jisu Shin et.al.|[2605.23523v1](http://arxiv.org/abs/2605.23523v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.23523)|
