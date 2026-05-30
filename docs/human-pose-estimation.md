@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.30127)|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29953)|
-|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.29298)|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑4](https://alphaxiv.org/abs/2605.28477)|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍1](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|
 |**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.28172)|
