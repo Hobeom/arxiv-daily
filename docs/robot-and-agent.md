@@ -4,32 +4,32 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.05.30
+### Updated on 2026.05.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350v1](http://arxiv.org/abs/2605.30350v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30350)|
+|**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350v1](http://arxiv.org/abs/2605.30350v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.30350)|
 |**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326v1](http://arxiv.org/abs/2605.30326v1)|[link](https://github.com/UMass-Embodied-AGI/RoboWits)|[αX↑1](https://alphaxiv.org/abs/2605.30326)|
-|**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Kuangji Zuo et.al.|[2605.30282v1](http://arxiv.org/abs/2605.30282v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30282)|
-|**2026-05-28**|**MARS Policy: Multimodality Only When It Matters**|Jindou Jia et.al.|[2605.29766v1](http://arxiv.org/abs/2605.29766v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.29766)|
+|**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Kuangji Zuo et.al.|[2605.30282v1](http://arxiv.org/abs/2605.30282v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30282)|
+|**2026-05-28**|**MARS Policy: Multimodality Only When It Matters**|Jindou Jia et.al.|[2605.29766v1](http://arxiv.org/abs/2605.29766v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.29766)|
 |**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Tianzhuo Yang et.al.|[2605.29360v1](http://arxiv.org/abs/2605.29360v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29360)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
-|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816v1](http://arxiv.org/abs/2605.28816v1)|[link](https://github.com/nv-tlabs/Gamma-World)|[🤗👍199](https://huggingface.co/papers/2605.28816) [αX↑25](https://alphaxiv.org/abs/2605.28816)|
-|**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑9](https://alphaxiv.org/abs/2605.28634)|
+|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816v1](http://arxiv.org/abs/2605.28816v1)|[link](https://github.com/nv-tlabs/Gamma-World)|[🤗👍199](https://huggingface.co/papers/2605.28816) [αX↑34](https://alphaxiv.org/abs/2605.28816)|
+|**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑12](https://alphaxiv.org/abs/2605.28634)|
 |**2026-05-27**|**What Frozen VLAs Already Know About Success: A Probing Study of Value-Like Structure in Foundation Robot Policies**|Jiachen Zhang et.al.|[2605.28527v1](http://arxiv.org/abs/2605.28527v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.28527)|
 |**2026-05-27**|**ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents**|Xue Qin et.al.|[2605.28097v1](http://arxiv.org/abs/2605.28097v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.28097)|
-|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Sizhe Lester Li et.al.|[2605.27817v1](http://arxiv.org/abs/2605.27817v1)|null|[αX↑15](https://alphaxiv.org/abs/2605.27817)|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Sizhe Lester Li et.al.|[2605.27817v1](http://arxiv.org/abs/2605.27817v1)|null|[αX↑17](https://alphaxiv.org/abs/2605.27817)|
 |**2026-05-26**|**PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft**|Yuchen Guo et.al.|[2605.27762v1](http://arxiv.org/abs/2605.27762v1)|null|[🤗👍0](https://huggingface.co/papers/2605.27762) [αX↑5](https://alphaxiv.org/abs/2605.27762)|
-|**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759v1](http://arxiv.org/abs/2605.27759v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.27759)|
-|**2026-05-26**|**GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation**|Boxiang Qiu et.al.|[2605.27491v1](http://arxiv.org/abs/2605.27491v1)|[link](https://github.com/AgibotTech/GE-Sim-V2)|[🤗👍14](https://huggingface.co/papers/2605.27491) [αX↑10](https://alphaxiv.org/abs/2605.27491)|
+|**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759v1](http://arxiv.org/abs/2605.27759v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.27759)|
+|**2026-05-26**|**GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation**|Boxiang Qiu et.al.|[2605.27491v1](http://arxiv.org/abs/2605.27491v1)|[link](https://github.com/AgibotTech/GE-Sim-V2)|[🤗👍14](https://huggingface.co/papers/2605.27491) [αX↑14](https://alphaxiv.org/abs/2605.27491)|
 |**2026-05-26**|**The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology**|G. Nagarjuna et.al.|[2605.26856v1](http://arxiv.org/abs/2605.26856v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.26856)|
-|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.26820)|
+|**2026-05-26**|**Can VLA Models Learn from Real-World Data Continually without Forgetting?**|Jiarun Zhu et.al.|[2605.26820v1](http://arxiv.org/abs/2605.26820v1)|null|[αX↑11](https://alphaxiv.org/abs/2605.26820)|
 |**2026-05-26**|**On the Generalization Capabilities, Design Choices and Limitations of Keypoint Imitation Learning**|Thomas Lips et.al.|[2605.26649v1](http://arxiv.org/abs/2605.26649v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.26649)|
 |**2026-05-25**|**E $^3$ C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control**|Qiao Gu et.al.|[2605.26316v1](http://arxiv.org/abs/2605.26316v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.26316)|
 |**2026-05-25**|**Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions**|Jeongeun Lee et.al.|[2605.26256v1](http://arxiv.org/abs/2605.26256v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.26256)|
 |**2026-05-25**|**Sentinel: Embodied Cooperative Spatial Reasoning and Planning**|Xiangye Lin et.al.|[2605.26239v1](http://arxiv.org/abs/2605.26239v1)|[link](https://github.com/UMass-Embodied-AGI/Sentinel)|[αX↑1](https://alphaxiv.org/abs/2605.26239)|
-|**2026-05-28**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi Wang et.al.|[2605.24934v2](http://arxiv.org/abs/2605.24934v2)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑56](https://alphaxiv.org/abs/2605.24934)|
-|**2026-05-24**|**Learning High-Frequency Continuous Action Chunks in Latent Space**|Kunyun Wang et.al.|[2605.24931v1](http://arxiv.org/abs/2605.24931v1)|[link](https://github.com/tars-robotics/RTR)|[🤗👍3](https://huggingface.co/papers/2605.24931) [αX↑8](https://alphaxiv.org/abs/2605.24931)|
+|**2026-05-28**|**HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos**|Zhi Wang et.al.|[2605.24934v2](http://arxiv.org/abs/2605.24934v2)|[link](https://github.com/TX-Leo/HumanEgo)|[αX↑61](https://alphaxiv.org/abs/2605.24934)|
+|**2026-05-24**|**Learning High-Frequency Continuous Action Chunks in Latent Space**|Kunyun Wang et.al.|[2605.24931v1](http://arxiv.org/abs/2605.24931v1)|[link](https://github.com/tars-robotics/RTR)|[🤗👍3](https://huggingface.co/papers/2605.24931) [αX↑9](https://alphaxiv.org/abs/2605.24931)|
 |**2026-05-24**|**MuJoCoUni:Persistent Batched Runtime Primitives for MuJoCo**|Yufei Jia et.al.|[2605.24922v1](http://arxiv.org/abs/2605.24922v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.24922)|
 |**2026-05-24**|**Fishbone: From One 3D Asset to a Million Controllable Edits**|Yumeng He et.al.|[2605.24805v1](http://arxiv.org/abs/2605.24805v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.24805)|
 |**2026-05-23**|**Smoother Action Chunking Flow Policy via Prior-Corrected Orthogonal Trust-Region Guidance**|Kai Fang et.al.|[2605.24433v1](http://arxiv.org/abs/2605.24433v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.24433)|
