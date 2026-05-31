@@ -9,7 +9,7 @@ layout: default
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350v1](http://arxiv.org/abs/2605.30350v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.30350)|
-|**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326v1](http://arxiv.org/abs/2605.30326v1)|[link](https://github.com/UMass-Embodied-AGI/RoboWits)|[αX↑1](https://alphaxiv.org/abs/2605.30326)|
+|**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326v1](http://arxiv.org/abs/2605.30326v1)|[link](https://github.com/UMass-Embodied-AGI/RoboWits)|[αX↑2](https://alphaxiv.org/abs/2605.30326)|
 |**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Kuangji Zuo et.al.|[2605.30282v1](http://arxiv.org/abs/2605.30282v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30282)|
 |**2026-05-28**|**MARS Policy: Multimodality Only When It Matters**|Jindou Jia et.al.|[2605.29766v1](http://arxiv.org/abs/2605.29766v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.29766)|
 |**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Tianzhuo Yang et.al.|[2605.29360v1](http://arxiv.org/abs/2605.29360v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29360)|
