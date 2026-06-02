@@ -1,9 +1,23 @@
 ## Vision Language Action Model
 
-### Updated on 2026.06.01
+### Updated on 2026.06.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-01**|**Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation**|Shahram Najam Syed et.al.|[2606.02486v1](http://arxiv.org/abs/2606.02486v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.02486)|
+|**2026-06-01**|**Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO**|Tianyang Chen et.al.|[2606.02313v1](http://arxiv.org/abs/2606.02313v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02313)|
+|**2026-06-01**|**FATE-VLA:Failue-aware test generation for vision-language-action models**|Arusa Kanwal et.al.|[2606.02307v1](http://arxiv.org/abs/2606.02307v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02307)|
+|**2026-06-01**|**RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models**|Bin Yu et.al.|[2606.02277v1](http://arxiv.org/abs/2606.02277v1)|[link](https://github.com/ZGC-EmbodyAI/RoboSemanticBench)|[αX↑2](https://alphaxiv.org/abs/2606.02277)|
+|**2026-06-01**|**Co-training with Ego-centric Video and Demonstration for Robot Navigation Task**|Shoya Kuno et.al.|[2606.01951v1](http://arxiv.org/abs/2606.01951v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01951)|
+|**2026-05-31**|**OneVLA: A Unified Framework for Embodied Tasks**|Lingfeng Zhang et.al.|[2606.01241v1](http://arxiv.org/abs/2606.01241v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.01241)|
+|**2026-05-31**|**ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning**|Xuchen Liu et.al.|[2606.01205v1](http://arxiv.org/abs/2606.01205v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.01205)|
+|**2026-05-31**|**Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies**|Hikmet Simsir et.al.|[2606.01151v1](http://arxiv.org/abs/2606.01151v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01151)|
+|**2026-05-31**|**Make Your VLA More Robust Without More Data By Interleaving Motion Planning**|Dan BW Choe et.al.|[2606.00985v1](http://arxiv.org/abs/2606.00985v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.00985)|
+|**2026-05-31**|**Threading Optimization for Vision-Language-Action Model Inference in Low-Cost Smart Agricultural Manipulation**|Keith Truongcao et.al.|[2606.00966v1](http://arxiv.org/abs/2606.00966v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.00966)|
+|**2026-05-30**|**SafeVLA-Bench: A Benchmark for the Success-Safety Gap in Vision-Language-Action Models**|Jialiang Fan et.al.|[2606.00773v1](http://arxiv.org/abs/2606.00773v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.00773)|
+|**2026-05-30**|**PaCo-VLA: Passivity-Shielded Compliance Prior for Contact-Rich Vision-Language-Action Manipulation**|Haofan Cao et.al.|[2606.00515v1](http://arxiv.org/abs/2606.00515v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.00515)|
+|**2026-05-29**|**Closed-Loop Neural Activation Control in Vision-Language-Action Models**|Abhijith Babu et.al.|[2606.00269v1](http://arxiv.org/abs/2606.00269v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.00269)|
+|**2026-05-29**|**Per-Group Error, Not Total MSE: Fine-Tuning Vision-Language-Action Models for 11-DoF Mobile Manipulation**|Pau Montagut Bofi et.al.|[2606.00253v1](http://arxiv.org/abs/2606.00253v1)|[link](https://github.com/paumontagut/per-group-mse-vla)|[αX↑0](https://alphaxiv.org/abs/2606.00253)|
 |**2026-05-29**|**DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions**|Weicheng Zheng et.al.|[2605.31271v1](http://arxiv.org/abs/2605.31271v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.31271)|
 |**2026-05-29**|**HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model**|Xiang Zhu et.al.|[2605.31234v1](http://arxiv.org/abs/2605.31234v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.31234)|
 |**2026-05-29**|**Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air**|Tianle Zeng et.al.|[2605.31066v1](http://arxiv.org/abs/2605.31066v1)|[link](https://github.com/louiszengCN/CarlaAir)|[αX↑1](https://alphaxiv.org/abs/2605.31066)|

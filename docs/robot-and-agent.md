@@ -4,10 +4,25 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.01
+### Updated on 2026.06.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-01**|**RoboDream: Compositional World Models for Scalable Robot Data Synthesis**|Junjie Ye et.al.|[2606.02577v1](http://arxiv.org/abs/2606.02577v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.02577)|
+|**2026-06-01**|**MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence**|Hilton Raj et.al.|[2606.02463v1](http://arxiv.org/abs/2606.02463v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02463)|
+|**2026-06-01**|**FATE-VLA:Failue-aware test generation for vision-language-action models**|Arusa Kanwal et.al.|[2606.02307v1](http://arxiv.org/abs/2606.02307v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02307)|
+|**2026-06-01**|**Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning**|Huayi Zhou et.al.|[2606.02274v1](http://arxiv.org/abs/2606.02274v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02274)|
+|**2026-05-29**|**Ego-METAS: Egocentric online Multimodal Energy-efficient Temporal Action Segmentation benchmark**|Maria Santos-Villafranca et.al.|[2606.02246v1](http://arxiv.org/abs/2606.02246v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.02246)|
+|**2026-06-01**|**World-Task Factorization for Robot Learning**|Eduardo Sebastián et.al.|[2606.02027v1](http://arxiv.org/abs/2606.02027v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02027)|
+|**2026-06-01**|**Co-training with Ego-centric Video and Demonstration for Robot Navigation Task**|Shoya Kuno et.al.|[2606.01951v1](http://arxiv.org/abs/2606.01951v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01951)|
+|**2026-06-01**|**PHASOR: Phase-Anchored Universal Action Representations for Humanoid Embodiments**|Kihyun Kim et.al.|[2606.01851v1](http://arxiv.org/abs/2606.01851v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.01851)|
+|**2026-06-01**|**RescueBench: Can Embodied Agents Save Lives in the Wild ?**|Kui Wu et.al.|[2606.01848v1](http://arxiv.org/abs/2606.01848v1)|[link](https://github.com/UnrealZoo/RescueBench)|[αX↑2](https://alphaxiv.org/abs/2606.01848)|
+|**2026-06-01**|**PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation**|Weixing Chen et.al.|[2606.01649v1](http://arxiv.org/abs/2606.01649v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01649)|
+|**2026-05-31**|**PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making**|Rufeng Chen et.al.|[2606.01313v1](http://arxiv.org/abs/2606.01313v1)|[link](https://github.com/Chenrf1121/psg-nav)|[αX↑2](https://alphaxiv.org/abs/2606.01313)|
+|**2026-05-31**|**MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention**|Ruoxuan Zhang et.al.|[2606.01063v1](http://arxiv.org/abs/2606.01063v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.01063)|
+|**2026-05-31**|**OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation**|Hshmat Sahak et.al.|[2606.00990v1](http://arxiv.org/abs/2606.00990v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.00990)|
+|**2026-05-30**|**Infeasible optimization problems and the hierarchical augmented Lagrangian method in imitation learning**|Roland Andrews et.al.|[2606.00730v1](http://arxiv.org/abs/2606.00730v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.00730)|
+|**2026-05-30**|**PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking**|Junnan Nie et.al.|[2606.00537v1](http://arxiv.org/abs/2606.00537v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.00537)|
 |**2026-05-29**|**Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning**|Yue Wang et.al.|[2605.31481v1](http://arxiv.org/abs/2605.31481v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.31481)|
 |**2026-05-29**|**On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making**|Joonhee Lee et.al.|[2605.31460v1](http://arxiv.org/abs/2605.31460v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.31460)|
 |**2026-05-29**|**ERGeoBench:A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models**|Kaiwen Xue et.al.|[2605.31251v1](http://arxiv.org/abs/2605.31251v1)|[link](https://github.com/kaiXuewen/ERGeoBench)|[αX↑1](https://alphaxiv.org/abs/2605.31251)|
@@ -15,7 +30,7 @@ layout: default
 |**2026-05-29**|**Task-Focused Memorization for Multimodal Agents**|Tao Zou et.al.|[2605.31075v1](http://arxiv.org/abs/2605.31075v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑4](https://alphaxiv.org/abs/2605.31075)|
 |**2026-05-29**|**RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning**|Zijian Zhu et.al.|[2605.30957v1](http://arxiv.org/abs/2605.30957v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30957)|
 |**2026-05-29**|**EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents**|Dongwook Choi et.al.|[2605.30924v1](http://arxiv.org/abs/2605.30924v1)|[link](https://github.com/dongwxxkchoi/EMBGuard)|[αX↑0](https://alphaxiv.org/abs/2605.30924)|
-|**2026-05-29**|**Wall-OSS-0.5 Technical Report**|Ryan Yu et.al.|[2605.30877v1](http://arxiv.org/abs/2605.30877v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30877)|
+|**2026-06-01**|**Wall-OSS-0.5 Technical Report**|Ryan Yu et.al.|[2605.30877v2](http://arxiv.org/abs/2605.30877v2)|null|[αX↑3](https://alphaxiv.org/abs/2605.30877)|
 |**2026-05-29**|**Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia**|Jesse Cool et.al.|[2605.30708v1](http://arxiv.org/abs/2605.30708v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.30708)|
 |**2026-05-29**|**ElasticMem: Latent Memory as a Learnable Resource for LLM Agents**|Tao Feng et.al.|[2605.30690v1](http://arxiv.org/abs/2605.30690v1)|[link](https://github.com/ulab-uiuc/ElasticMem)|[αX↑0](https://alphaxiv.org/abs/2605.30690)|
 |**2026-05-28**|**PInVerify: An Offline Embodied Benchmark for Active Instance Verification**|Yuhang Jiang et.al.|[2605.30639v1](http://arxiv.org/abs/2605.30639v1)|[link](https://github.com/Avalon-S/PInVerify)|[αX↑0](https://alphaxiv.org/abs/2605.30639)|
@@ -25,7 +40,7 @@ layout: default
 |**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Kuangji Zuo et.al.|[2605.30282v1](http://arxiv.org/abs/2605.30282v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30282)|
 |**2026-05-28**|**MARS Policy: Multimodality Only When It Matters**|Jindou Jia et.al.|[2605.29766v1](http://arxiv.org/abs/2605.29766v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.29766)|
 |**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Tianzhuo Yang et.al.|[2605.29360v1](http://arxiv.org/abs/2605.29360v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.29360)|
-|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Fangfu Liu et.al.|[2605.28816v1](http://arxiv.org/abs/2605.28816v1)|[link](https://github.com/nv-tlabs/Gamma-World)|[🤗👍199](https://huggingface.co/papers/2605.28816) [αX↑34](https://alphaxiv.org/abs/2605.28816)|
 |**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|[αX↑15](https://alphaxiv.org/abs/2605.28634)|
 |**2026-05-27**|**What Frozen VLAs Already Know About Success: A Probing Study of Value-Like Structure in Foundation Robot Policies**|Jiachen Zhang et.al.|[2605.28527v1](http://arxiv.org/abs/2605.28527v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.28527)|

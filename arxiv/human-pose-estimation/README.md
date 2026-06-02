@@ -1,16 +1,26 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.01
+### Updated on 2026.06.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-01**|**Quantitative Movement Testing: Measuring Patient Movements from a Single Smartphone Video**|Pranav Mahajan et.al.|[2606.02301v1](http://arxiv.org/abs/2606.02301v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02301)|
+|**2026-06-01**|**FW-NKF: Frequency-Weighted Neural Kalman Filters**|Adnan Harun Dogan et.al.|[2606.02251v1](http://arxiv.org/abs/2606.02251v1)|[link](https://github.com/eth-siplab/Frequency-weighted-neural-Kalman-filters)|[αX↑0](https://alphaxiv.org/abs/2606.02251)|
+|**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219v1](http://arxiv.org/abs/2606.02219v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑1](https://alphaxiv.org/abs/2606.02219)|
+|**2026-06-01**|**Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking From Sparse Inertial Sensors and Ranging-Based Between-Sensor Distances**|Dominik Hollidt et.al.|[2606.02153v1](http://arxiv.org/abs/2606.02153v1)|[link](https://github.com/eth-siplab/UltraDiffusionPoser)|[αX↑2](https://alphaxiv.org/abs/2606.02153)|
+|**2026-06-01**|**Closed-Form Pose Estimation of Endoluminal Medical Devices via Gradiometer-Based Electromagnetic Localization System**|Zhiwei Wu et.al.|[2606.01946v1](http://arxiv.org/abs/2606.01946v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.01946)|
+|**2026-06-01**|**SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation**|Can Zhang et.al.|[2606.01940v1](http://arxiv.org/abs/2606.01940v1)|[link](https://github.com/lulusindazc/SCAPOproject)|[αX↑0](https://alphaxiv.org/abs/2606.01940)|
+|**2026-06-01**|**DisFlow: Scene Flow from Distance Field for Object Pose, Velocity Tracking, and Dynamic Object Reconstruction**|Lan Wu et.al.|[2606.01824v1](http://arxiv.org/abs/2606.01824v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.01824)|
+|**2026-05-30**|**Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation**|Zhijie Yan et.al.|[2606.00576v1](http://arxiv.org/abs/2606.00576v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.00576)|
+|**2026-05-29**|**SoFiE: Soft Finger Exoskeleton for Intelligent Grasping**|Magnus Malthe Sigsgaard Nielsen et.al.|[2606.00397v1](http://arxiv.org/abs/2606.00397v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.00397)|
+|**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307v1](http://arxiv.org/abs/2606.00307v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.00307)|
 |**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597v1](http://arxiv.org/abs/2605.31597v1)|[link](https://github.com/GenIntel/SOCO)|[αX↑2](https://alphaxiv.org/abs/2605.31597)|
 |**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551v1](http://arxiv.org/abs/2605.31551v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.31551)|
 |**2026-05-29**|**TALON: Token-Aligned Lightweight Adapters for 6-DoF Spacecraft Pose Estimation**|Abid Ali et.al.|[2605.31217v1](http://arxiv.org/abs/2605.31217v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.31217)|
 |**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30581)|
 |**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|[link](https://github.com/facebookresearch/VLM3)|[αX↑10](https://alphaxiv.org/abs/2605.30561)|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30127)|
-|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.29953)|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.29953)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑5](https://alphaxiv.org/abs/2605.28477)|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍6](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|

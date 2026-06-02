@@ -4,17 +4,20 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.06.01
+### Updated on 2026.06.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-05-31**|**Perception First: A Frontier Native-Video Model with Self-Consistency for Implicit Video Question Answering**|Ali Alavi et.al.|[2606.01485v1](http://arxiv.org/abs/2606.01485v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01485)|
+|**2026-05-31**|**MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention**|Ruoxuan Zhang et.al.|[2606.01063v1](http://arxiv.org/abs/2606.01063v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.01063)|
+|**2026-05-29**|**MindZero: Learning Online Mental Reasoning With Zero Annotations**|Shunchi Zhang et.al.|[2606.00240v1](http://arxiv.org/abs/2606.00240v1)|[link](https://github.com/SCAI-JHU/MindZero)|[αX↑1](https://alphaxiv.org/abs/2606.00240)|
 |**2026-05-29**|**Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning**|Tomas Leroy-Stone et.al.|[2605.31361v1](http://arxiv.org/abs/2605.31361v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.31361)|
 |**2026-05-28**|**Social Reasoning in Machines: Investigating Collective Truth-Seeking Dynamics in Large Language Model Debate**|Tom Pecher et.al.|[2605.30391v1](http://arxiv.org/abs/2605.30391v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.30391)|
 |**2026-05-28**|**User-Aware Active Knowledge Acquisition for Emotional Support Dialogue**|Mufan Xu et.al.|[2605.29715v1](http://arxiv.org/abs/2605.29715v1)|[link](https://github.com/Xmuffins/UKA)|[αX↑4](https://alphaxiv.org/abs/2605.29715)|
-|**2026-05-28**|**CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems**|Ziyang Ma et.al.|[2605.29612v1](http://arxiv.org/abs/2605.29612v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29612)|
+|**2026-05-28**|**CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems**|Ziyang Ma et.al.|[2605.29612v1](http://arxiv.org/abs/2605.29612v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.29612)|
 |**2026-05-28**|**MINDGAMES: A Live Arena for Evaluating Social and Strategic Reasoning in Multi-Agent LLMs**|Kevin Wang et.al.|[2605.29512v1](http://arxiv.org/abs/2605.29512v1)|[link](https://github.com/mind-games-challenge/mindgames-starter-kit)|[αX↑5](https://alphaxiv.org/abs/2605.29512)|
-|**2026-05-26**|**UserHarness: Harnessing User Minds for Stronger Agent Theory-of-Mind**|Cheng Qian et.al.|[2605.27721v1](http://arxiv.org/abs/2605.27721v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.27721)|
-|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[🤗👍20](https://huggingface.co/papers/2605.27068) [αX↑1](https://alphaxiv.org/abs/2605.27068)|
+|**2026-05-26**|**UserHarness: Harnessing User Minds for Stronger Agent Theory-of-Mind**|Cheng Qian et.al.|[2605.27721v1](http://arxiv.org/abs/2605.27721v1)|null|[αX↑9](https://alphaxiv.org/abs/2605.27721)|
+|**2026-05-26**|**QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents**|Ye Yuan et.al.|[2605.27068v1](http://arxiv.org/abs/2605.27068v1)|[link](https://github.com/AAAAA-Academia-Attractions/QUACK)|[🤗👍23](https://huggingface.co/papers/2605.27068) [αX↑1](https://alphaxiv.org/abs/2605.27068)|
 |**2026-05-25**|**OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling**|Adam Bawatneh et.al.|[2605.26322v1](http://arxiv.org/abs/2605.26322v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.26322)|
 |**2026-05-23**|**Emotional intelligence in large language models is fragmented across perception, cognition, and interaction**|Minghao Lv et.al.|[2605.24686v1](http://arxiv.org/abs/2605.24686v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.24686)|
 |**2026-05-22**|**Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning**|Nesreen K. Ahmed et.al.|[2605.24216v1](http://arxiv.org/abs/2605.24216v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.24216)|
