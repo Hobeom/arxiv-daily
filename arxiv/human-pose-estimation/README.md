@@ -1,9 +1,20 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.05
+### Updated on 2026.06.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑3](https://alphaxiv.org/abs/2606.06292)|
+|**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|[link](https://github.com/Lumos-Jiateng/Brick-Composer)|[αX↑0](https://alphaxiv.org/abs/2606.05445)|
+|**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.05437)|
+|**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|[link](https://github.com/yurimjeon1892/CIPER)|[αX↑2](https://alphaxiv.org/abs/2606.05011)|
+|**2026-06-03**|**Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly: Investigating Workload and Efficiency**|Shiyu Li et.al.|[2606.04992v1](http://arxiv.org/abs/2606.04992v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.04992)|
+|**2026-06-03**|**A New Angle on Bones: Robust Pose Estimation in X-Ray and Ultrasound**|Ron Keuth et.al.|[2606.04700v1](http://arxiv.org/abs/2606.04700v1)|[link](https://github.com/multimodallearning/RobustBonePoseEstimation)|[αX↑0](https://alphaxiv.org/abs/2606.04700)|
+|**2026-06-03**|**IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation**|Haoyang Ge et.al.|[2606.04480v1](http://arxiv.org/abs/2606.04480v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.04480)|
+|**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.03931)|
+|**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.03905)|
+|**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|[link](https://github.com/ultralytics/ultralytics)|[🤗👍5](https://huggingface.co/papers/2606.03748) [αX↑9](https://alphaxiv.org/abs/2606.03748)|
+|**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937v1](http://arxiv.org/abs/2606.02937v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02937)|
 |**2026-06-01**|**Quantitative Movement Testing: Measuring Patient Movements from a Single Smartphone Video**|Pranav Mahajan et.al.|[2606.02301v1](http://arxiv.org/abs/2606.02301v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02301)|
 |**2026-06-01**|**FW-NKF: Frequency-Weighted Neural Kalman Filters**|Adnan Harun Dogan et.al.|[2606.02251v1](http://arxiv.org/abs/2606.02251v1)|[link](https://github.com/eth-siplab/Frequency-weighted-neural-Kalman-filters)|[αX↑0](https://alphaxiv.org/abs/2606.02251)|
 |**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219v1](http://arxiv.org/abs/2606.02219v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑1](https://alphaxiv.org/abs/2606.02219)|
