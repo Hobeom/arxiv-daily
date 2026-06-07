@@ -1,15 +1,15 @@
 ## Dialogue Agents
 
-### Updated on 2026.06.06
+### Updated on 2026.06.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian et.al.|[2606.05793v1](http://arxiv.org/abs/2606.05793v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.05793)|
-|**2026-06-02**|**Human-AI Collaboration and the Transformation of Software Engineering Work**|Mamdouh Alenezi et.al.|[2606.03394v1](http://arxiv.org/abs/2606.03394v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.03394)|
-|**2026-06-02**|**FederatedSkill: Federated Learning for Agentic Skill Evolution**|Jingbo Yang et.al.|[2606.03143v1](http://arxiv.org/abs/2606.03143v1)|[link](https://github.com/UCSB-NLP-Chang/FederatedSkill)|[αX↑3](https://alphaxiv.org/abs/2606.03143)|
-|**2026-05-28**|**Counterfactual Graph for Multi-Agent LLM Calibration**|Jiatan Huang et.al.|[2605.30653v1](http://arxiv.org/abs/2605.30653v1)|[link](https://github.com/J-Huang01/Counterfactual-Graph-Calibration-for-Multi-Agent-LLMs)|[αX↑2](https://alphaxiv.org/abs/2605.30653)|
-|**2026-05-28**|**SURGENT: A Surgical Multi-Agent Assistance System Across the Perioperative Workflow**|Dongsheng Shi et.al.|[2605.29368v1](http://arxiv.org/abs/2605.29368v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.29368)|
-|**2026-05-27**|**Personality, Role, and Expressive Style in Large Language Models: An Interactionist Analysis**|Moe Nagao et.al.|[2605.28037v1](http://arxiv.org/abs/2605.28037v1)|null|[αX↑5](https://alphaxiv.org/abs/2605.28037)|
+|**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian et.al.|[2606.05793v1](http://arxiv.org/abs/2606.05793v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.05793)|
+|**2026-06-02**|**Human-AI Collaboration and the Transformation of Software Engineering Work**|Mamdouh Alenezi et.al.|[2606.03394v1](http://arxiv.org/abs/2606.03394v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.03394)|
+|**2026-06-02**|**FederatedSkill: Federated Learning for Agentic Skill Evolution**|Jingbo Yang et.al.|[2606.03143v1](http://arxiv.org/abs/2606.03143v1)|[link](https://github.com/UCSB-NLP-Chang/FederatedSkill)|[αX↑5](https://alphaxiv.org/abs/2606.03143)|
+|**2026-05-28**|**Counterfactual Graph for Multi-Agent LLM Calibration**|Jiatan Huang et.al.|[2605.30653v1](http://arxiv.org/abs/2605.30653v1)|[link](https://github.com/J-Huang01/Counterfactual-Graph-Calibration-for-Multi-Agent-LLMs)|[αX↑4](https://alphaxiv.org/abs/2605.30653)|
+|**2026-05-28**|**SURGENT: A Surgical Multi-Agent Assistance System Across the Perioperative Workflow**|Dongsheng Shi et.al.|[2605.29368v1](http://arxiv.org/abs/2605.29368v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.29368)|
+|**2026-05-27**|**Personality, Role, and Expressive Style in Large Language Models: An Interactionist Analysis**|Moe Nagao et.al.|[2605.28037v1](http://arxiv.org/abs/2605.28037v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.28037)|
 |**2026-05-22**|**MGRetrieval: Memory-Guided Reflective Retrieval for Long-Term Dialogue Agents**|Tan Wang et.al.|[2605.27437v1](http://arxiv.org/abs/2605.27437v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.27437)|
 |**2026-05-26**|**From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator**|Xiaohua Wang et.al.|[2605.26403v1](http://arxiv.org/abs/2605.26403v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.26403)|
 |**2026-05-21**|**Detecting Offensive Cyber Agents: A Detection-in-Depth Approach**|Matt Mittelsteadt et.al.|[2605.21956v1](http://arxiv.org/abs/2605.21956v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.21956)|

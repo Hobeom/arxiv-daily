@@ -4,27 +4,27 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.06
+### Updated on 2026.06.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-04**|**Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss**|Thomas T. Zhang et.al.|[2606.06418v1](http://arxiv.org/abs/2606.06418v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.06418)|
+|**2026-06-04**|**Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss**|Thomas T. Zhang et.al.|[2606.06418v1](http://arxiv.org/abs/2606.06418v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.06418)|
 |**2026-06-04**|**VOLT: Vision and Language Trajectory Segmentation for Faster-than-Demonstration Policies**|Robert Ramirez Sanchez et.al.|[2606.06323v1](http://arxiv.org/abs/2606.06323v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.06323)|
-|**2026-06-04**|**RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning**|Chaoyi Xu et.al.|[2606.06033v1](http://arxiv.org/abs/2606.06033v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06033)|
-|**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737v1](http://arxiv.org/abs/2606.05737v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05737)|
-|**2026-06-04**|**KV-Control: Parameter-Efficient K/V Injection for Trajectory-Controlled Text-to-Motion**|Tengjiao Sun et.al.|[2606.05624v1](http://arxiv.org/abs/2606.05624v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.05624)|
-|**2026-06-03**|**VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents**|Yunhao Yang et.al.|[2606.05395v1](http://arxiv.org/abs/2606.05395v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05395)|
-|**2026-06-03**|**HORIZON: Recoverability-Governed Curriculum for Physical-Domain Scaling**|Chenhao Bai et.al.|[2606.05143v1](http://arxiv.org/abs/2606.05143v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.05143)|
-|**2026-06-03**|**Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation**|Luca Zanatta et.al.|[2606.05015v1](http://arxiv.org/abs/2606.05015v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.05015)|
-|**2026-06-04**|**OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics**|Zhuoyuan Wu et.al.|[2606.04463v2](http://arxiv.org/abs/2606.04463v2)|null|[αX↑14](https://alphaxiv.org/abs/2606.04463)|
-|**2026-06-02**|**PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification**|Charlie Gauthier et.al.|[2606.04226v1](http://arxiv.org/abs/2606.04226v1)|[link](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)|[αX↑2](https://alphaxiv.org/abs/2606.04226)|
-|**2026-06-02**|**Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies**|Xiangdong Feng et.al.|[2606.03847v1](http://arxiv.org/abs/2606.03847v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.03847)|
-|**2026-06-02**|**Same Weights, Different Robot: A Deployment Safety View of VLA Policies**|Jianwei Tai et.al.|[2606.03724v1](http://arxiv.org/abs/2606.03724v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.03724)|
+|**2026-06-04**|**RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning**|Chaoyi Xu et.al.|[2606.06033v1](http://arxiv.org/abs/2606.06033v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.06033)|
+|**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737v1](http://arxiv.org/abs/2606.05737v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.05737)|
+|**2026-06-04**|**KV-Control: Parameter-Efficient K/V Injection for Trajectory-Controlled Text-to-Motion**|Tengjiao Sun et.al.|[2606.05624v1](http://arxiv.org/abs/2606.05624v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05624)|
+|**2026-06-03**|**VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents**|Yunhao Yang et.al.|[2606.05395v1](http://arxiv.org/abs/2606.05395v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.05395)|
+|**2026-06-03**|**HORIZON: Recoverability-Governed Curriculum for Physical-Domain Scaling**|Chenhao Bai et.al.|[2606.05143v1](http://arxiv.org/abs/2606.05143v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.05143)|
+|**2026-06-03**|**Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation**|Luca Zanatta et.al.|[2606.05015v1](http://arxiv.org/abs/2606.05015v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.05015)|
+|**2026-06-04**|**OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics**|Zhuoyuan Wu et.al.|[2606.04463v2](http://arxiv.org/abs/2606.04463v2)|null|[αX↑15](https://alphaxiv.org/abs/2606.04463)|
+|**2026-06-02**|**PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification**|Charlie Gauthier et.al.|[2606.04226v1](http://arxiv.org/abs/2606.04226v1)|[link](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)|[αX↑3](https://alphaxiv.org/abs/2606.04226)|
+|**2026-06-02**|**Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies**|Xiangdong Feng et.al.|[2606.03847v1](http://arxiv.org/abs/2606.03847v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.03847)|
+|**2026-06-02**|**Same Weights, Different Robot: A Deployment Safety View of VLA Policies**|Jianwei Tai et.al.|[2606.03724v1](http://arxiv.org/abs/2606.03724v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.03724)|
 |**2026-06-03**|**A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature**|Xuhui Lin et.al.|[2606.03609v2](http://arxiv.org/abs/2606.03609v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.03609)|
-|**2026-06-02**|**NVIDIA Isaac Sim: Enabling Scalable, GPU-Accelerated Simulation for Robotics**|Sicong Gao et.al.|[2606.03551v1](http://arxiv.org/abs/2606.03551v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.03551)|
-|**2026-06-02**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374v1](http://arxiv.org/abs/2606.03374v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.03374)|
+|**2026-06-02**|**NVIDIA Isaac Sim: Enabling Scalable, GPU-Accelerated Simulation for Robotics**|Sicong Gao et.al.|[2606.03551v1](http://arxiv.org/abs/2606.03551v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.03551)|
+|**2026-06-02**|**eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents**|A. Haroon Rasheed et.al.|[2606.03374v1](http://arxiv.org/abs/2606.03374v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.03374)|
 |**2026-06-03**|**Ask When It Pays: Cost-Aware Open-Ended Interaction for Instance Goal Navigation**|Xunyi Zhao et.al.|[2606.03175v2](http://arxiv.org/abs/2606.03175v2)|null|[αX↑0](https://alphaxiv.org/abs/2606.03175)|
-|**2026-06-01**|**Cosmos 3: Omnimodal World Models for Physical AI**|Aditi et.al.|[2606.02800v1](http://arxiv.org/abs/2606.02800v1)|[link](https://github.com/NVIDIA/cosmos)|[🤗👍80](https://huggingface.co/papers/2606.02800) [αX↑91](https://alphaxiv.org/abs/2606.02800)|
+|**2026-06-01**|**Cosmos 3: Omnimodal World Models for Physical AI**|Aditi et.al.|[2606.02800v1](http://arxiv.org/abs/2606.02800v1)|[link](https://github.com/NVIDIA/cosmos)|[🤗👍80](https://huggingface.co/papers/2606.02800) [αX↑120](https://alphaxiv.org/abs/2606.02800)|
 |**2026-06-01**|**AURA: Action-Gated Memory for Robot Policies at Constant VRAM**|Josef Chen et.al.|[2606.02775v1](http://arxiv.org/abs/2606.02775v1)|null|[🤗👍3](https://huggingface.co/papers/2606.02775) [αX↑2](https://alphaxiv.org/abs/2606.02775)|
 |**2026-06-01**|**SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos**|Jaehyeon Son et.al.|[2606.02745v1](http://arxiv.org/abs/2606.02745v1)|[link](https://github.com/jaehyeon-son/SeeTraceAct)|[αX↑6](https://alphaxiv.org/abs/2606.02745)|
 |**2026-06-01**|**RoboDream: Compositional World Models for Scalable Robot Data Synthesis**|Junjie Ye et.al.|[2606.02577v1](http://arxiv.org/abs/2606.02577v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.02577)|

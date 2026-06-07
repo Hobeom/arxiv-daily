@@ -4,23 +4,23 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.06
+### Updated on 2026.06.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491v1](http://arxiv.org/abs/2606.06491v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06491)|
-|**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155v1](http://arxiv.org/abs/2606.06155v1)|[link](https://github.com/Skywalker-yqz/AffordanceVLA)|[αX↑0](https://alphaxiv.org/abs/2606.06155)|
-|**2026-06-04**|**WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation**|Shengtao Zheng et.al.|[2606.06147v1](http://arxiv.org/abs/2606.06147v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.06147)|
-|**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Yi Yang et.al.|[2606.05979v1](http://arxiv.org/abs/2606.05979v1)|[link](https://github.com/SJTU-DENG-Lab/WLA)|[αX↑0](https://alphaxiv.org/abs/2606.05979)|
-|**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737v1](http://arxiv.org/abs/2606.05737v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05737)|
-|**2026-06-03**|**FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization**|Yihao Wu et.al.|[2606.05468v1](http://arxiv.org/abs/2606.05468v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.05468)|
-|**2026-06-04**|**VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training**|Siyuan Yang et.al.|[2606.04708v2](http://arxiv.org/abs/2606.04708v2)|[link](https://github.com/TeleHuman/umi-vista)|[αX↑4](https://alphaxiv.org/abs/2606.04708)|
-|**2026-06-03**|**3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training**|Jiaxin Shi et.al.|[2606.04436v1](http://arxiv.org/abs/2606.04436v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.04436)|
+|**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491v1](http://arxiv.org/abs/2606.06491v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.06491)|
+|**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155v1](http://arxiv.org/abs/2606.06155v1)|[link](https://github.com/Skywalker-yqz/AffordanceVLA)|[αX↑6](https://alphaxiv.org/abs/2606.06155)|
+|**2026-06-04**|**WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation**|Shengtao Zheng et.al.|[2606.06147v1](http://arxiv.org/abs/2606.06147v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.06147)|
+|**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Yi Yang et.al.|[2606.05979v1](http://arxiv.org/abs/2606.05979v1)|[link](https://github.com/SJTU-DENG-Lab/WLA)|[αX↑13](https://alphaxiv.org/abs/2606.05979)|
+|**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737v1](http://arxiv.org/abs/2606.05737v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.05737)|
+|**2026-06-03**|**FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization**|Yihao Wu et.al.|[2606.05468v1](http://arxiv.org/abs/2606.05468v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.05468)|
+|**2026-06-04**|**VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training**|Siyuan Yang et.al.|[2606.04708v2](http://arxiv.org/abs/2606.04708v2)|[link](https://github.com/TeleHuman/umi-vista)|[αX↑8](https://alphaxiv.org/abs/2606.04708)|
+|**2026-06-03**|**3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training**|Jiaxin Shi et.al.|[2606.04436v1](http://arxiv.org/abs/2606.04436v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.04436)|
 |**2026-06-02**|**Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation**|Boyuan Xiao et.al.|[2606.04046v1](http://arxiv.org/abs/2606.04046v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.04046)|
-|**2026-06-03**|**Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation**|Nan Sun et.al.|[2606.03784v2](http://arxiv.org/abs/2606.03784v2)|null|[αX↑8](https://alphaxiv.org/abs/2606.03784)|
-|**2026-06-03**|**PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models**|Ziyang Chen et.al.|[2606.03598v2](http://arxiv.org/abs/2606.03598v2)|null|[αX↑3](https://alphaxiv.org/abs/2606.03598)|
-|**2026-06-02**|**Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics**|Xiaofei Wang et.al.|[2606.03556v1](http://arxiv.org/abs/2606.03556v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.03556)|
-|**2026-06-02**|**TTT-VLA: Test-Time Latent Prompt Optimization for Vision-Language-Action Models**|Wenbo Zhang et.al.|[2606.03127v1](http://arxiv.org/abs/2606.03127v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.03127)|
+|**2026-06-03**|**Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation**|Nan Sun et.al.|[2606.03784v2](http://arxiv.org/abs/2606.03784v2)|null|[αX↑15](https://alphaxiv.org/abs/2606.03784)|
+|**2026-06-03**|**PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models**|Ziyang Chen et.al.|[2606.03598v2](http://arxiv.org/abs/2606.03598v2)|null|[αX↑7](https://alphaxiv.org/abs/2606.03598)|
+|**2026-06-02**|**Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics**|Xiaofei Wang et.al.|[2606.03556v1](http://arxiv.org/abs/2606.03556v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.03556)|
+|**2026-06-02**|**TTT-VLA: Test-Time Latent Prompt Optimization for Vision-Language-Action Models**|Wenbo Zhang et.al.|[2606.03127v1](http://arxiv.org/abs/2606.03127v1)|null|[αX↑15](https://alphaxiv.org/abs/2606.03127)|
 |**2026-06-01**|**SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos**|Jaehyeon Son et.al.|[2606.02745v1](http://arxiv.org/abs/2606.02745v1)|[link](https://github.com/jaehyeon-son/SeeTraceAct)|[αX↑6](https://alphaxiv.org/abs/2606.02745)|
 |**2026-06-01**|**Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation**|Shahram Najam Syed et.al.|[2606.02486v1](http://arxiv.org/abs/2606.02486v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.02486)|
 |**2026-06-01**|**Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO**|Tianyang Chen et.al.|[2606.02313v1](http://arxiv.org/abs/2606.02313v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02313)|

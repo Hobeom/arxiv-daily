@@ -1,21 +1,21 @@
 ## Action Recognition
 
-### Updated on 2026.06.06
+### Updated on 2026.06.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610v1](http://arxiv.org/abs/2606.03610v1)|[link](https://github.com/lya19971103/SkelHCC)|[αX↑4](https://alphaxiv.org/abs/2606.03610)|
+|**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610v1](http://arxiv.org/abs/2606.03610v1)|[link](https://github.com/lya19971103/SkelHCC)|[αX↑5](https://alphaxiv.org/abs/2606.03610)|
 |**2026-06-02**|**TrAction: Action Recognition with Sparse Trajectories**|Jan F. Meier et.al.|[2606.03490v1](http://arxiv.org/abs/2606.03490v1)|[link](https://github.com/ecker-lab/TrAction)|[αX↑3](https://alphaxiv.org/abs/2606.03490)|
 |**2026-06-02**|**SRENet: Spectral Re-Entry Network for Point Cloud Action Recognition**|Qiuxia Wu et.al.|[2606.03160v1](http://arxiv.org/abs/2606.03160v1)|[link](https://github.com/tomlan2026/SRENet)|[αX↑1](https://alphaxiv.org/abs/2606.03160)|
-|**2026-06-01**|**Before Fusion, Ask What to Keep: Contextual Calibration of Multimodal Signals**|Jiyuan Liu et.al.|[2606.02679v1](http://arxiv.org/abs/2606.02679v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02679)|
+|**2026-06-01**|**Before Fusion, Ask What to Keep: Contextual Calibration of Multimodal Signals**|Jiyuan Liu et.al.|[2606.02679v1](http://arxiv.org/abs/2606.02679v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.02679)|
 |**2026-05-29**|**Ego-METAS: Egocentric online Multimodal Energy-efficient Temporal Action Segmentation benchmark**|Maria Santos-Villafranca et.al.|[2606.02246v1](http://arxiv.org/abs/2606.02246v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02246)|
-|**2026-06-01**|**Understanding-Enhanced Model Collaboration for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2606.02120v1](http://arxiv.org/abs/2606.02120v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.02120)|
+|**2026-06-01**|**Understanding-Enhanced Model Collaboration for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2606.02120v1](http://arxiv.org/abs/2606.02120v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02120)|
 |**2026-06-01**|**Physics-Guided Attention in a Lightweight TCN for Efficient WiFi CSI-Based Human Activity Recognition**|Chinthaka Ranasingha et.al.|[2606.01834v1](http://arxiv.org/abs/2606.01834v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.01834)|
-|**2026-05-30**|**MMDG-Bench: A Benchmark for Multimodal Domain Generalization**|Qianshan Zhan et.al.|[2606.00891v1](http://arxiv.org/abs/2606.00891v1)|[link](https://github.com/qszhan/MMDG-Bench)|[αX↑1](https://alphaxiv.org/abs/2606.00891)|
+|**2026-05-30**|**MMDG-Bench: A Benchmark for Multimodal Domain Generalization**|Qianshan Zhan et.al.|[2606.00891v1](http://arxiv.org/abs/2606.00891v1)|[link](https://github.com/qszhan/MMDG-Bench)|[αX↑2](https://alphaxiv.org/abs/2606.00891)|
 |**2026-05-30**|**SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Horizon Memory**|Samiul Alam et.al.|[2606.00825v1](http://arxiv.org/abs/2606.00825v1)|[link](https://github.com/AIoT-MLSys-Lab/supermemory-vqa)|[🤗👍1](https://huggingface.co/papers/2606.00825) [αX↑1](https://alphaxiv.org/abs/2606.00825)|
 |**2026-05-29**|**Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning**|Hao Zheng et.al.|[2605.31115v1](http://arxiv.org/abs/2605.31115v1)|[link](https://github.com/x-labs-xyz/Polyphony-Dual-hand-Action-Segmentation)|[αX↑1](https://alphaxiv.org/abs/2605.31115)|
 |**2026-05-29**|**Remembering by Reconstructing: Domain Incremental Learning With Test-Time Training on Video Streams**|Jonathan Swinnen et.al.|[2605.31108v1](http://arxiv.org/abs/2605.31108v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.31108)|
-|**2026-05-29**|**ConTrans: Learning Text-enhanced Local-global Temporal Representations for Zero-shot Temporal Action Localization**|Kanchan Keisham et.al.|[2605.30689v1](http://arxiv.org/abs/2605.30689v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30689)|
+|**2026-05-29**|**ConTrans: Learning Text-enhanced Local-global Temporal Representations for Zero-shot Temporal Action Localization**|Kanchan Keisham et.al.|[2605.30689v1](http://arxiv.org/abs/2605.30689v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.30689)|
 |**2026-05-28**|**Masked Diffusion Vision-Language Models for Temporal Action Localization**|Fengshun Wang et.al.|[2605.29858v1](http://arxiv.org/abs/2605.29858v1)|null|[αX↑11](https://alphaxiv.org/abs/2605.29858)|
 |**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et.al.|[2605.28387v1](http://arxiv.org/abs/2605.28387v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.28387)|
 |**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304v1](http://arxiv.org/abs/2605.27304v1)|[link](https://github.com/sbhattlab/PlayClassCV4Animals)|[αX↑3](https://alphaxiv.org/abs/2605.27304)|
