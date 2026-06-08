@@ -1,17 +1,20 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.07
+### Updated on 2026.06.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑3](https://alphaxiv.org/abs/2606.06292)|
+|**2026-06-05**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v1](http://arxiv.org/abs/2606.07419v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07419)|
+|**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.06903)|
+|**2026-06-05**|**A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation**|Kangjian Zhu et.al.|[2606.06878v1](http://arxiv.org/abs/2606.06878v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.06878)|
+|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑4](https://alphaxiv.org/abs/2606.06292)|
 |**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|[link](https://github.com/Lumos-Jiateng/Brick-Composer)|[αX↑1](https://alphaxiv.org/abs/2606.05445)|
 |**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05437)|
-|**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|[link](https://github.com/yurimjeon1892/CIPER)|[αX↑2](https://alphaxiv.org/abs/2606.05011)|
+|**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|[link](https://github.com/yurimjeon1892/CIPER)|[αX↑3](https://alphaxiv.org/abs/2606.05011)|
 |**2026-06-03**|**Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly: Investigating Workload and Efficiency**|Shiyu Li et.al.|[2606.04992v1](http://arxiv.org/abs/2606.04992v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.04992)|
 |**2026-06-03**|**A New Angle on Bones: Robust Pose Estimation in X-Ray and Ultrasound**|Ron Keuth et.al.|[2606.04700v1](http://arxiv.org/abs/2606.04700v1)|[link](https://github.com/multimodallearning/RobustBonePoseEstimation)|[αX↑1](https://alphaxiv.org/abs/2606.04700)|
-|**2026-06-03**|**IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation**|Haoyang Ge et.al.|[2606.04480v1](http://arxiv.org/abs/2606.04480v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.04480)|
-|**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.03931)|
+|**2026-06-03**|**IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation**|Haoyang Ge et.al.|[2606.04480v1](http://arxiv.org/abs/2606.04480v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.04480)|
+|**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.03931)|
 |**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.03905)|
 |**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|[link](https://github.com/ultralytics/ultralytics)|[🤗👍5](https://huggingface.co/papers/2606.03748) [αX↑11](https://alphaxiv.org/abs/2606.03748)|
 |**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937v1](http://arxiv.org/abs/2606.02937v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.02937)|
@@ -31,7 +34,7 @@
 |**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.30581)|
 |**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|[link](https://github.com/facebookresearch/VLM3)|[αX↑10](https://alphaxiv.org/abs/2605.30561)|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30127)|
-|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.29953)|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.29953)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑5](https://alphaxiv.org/abs/2605.28477)|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍6](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|
@@ -58,7 +61,7 @@
 |**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17777)|
 |**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|[αX↑1](https://alphaxiv.org/abs/2605.17742)|
 |**2026-05-17**|**LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**|Chenyi Xu et.al.|[2605.17303v1](http://arxiv.org/abs/2605.17303v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.17303)|
-|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.17120)|
+|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.17120)|
 |**2026-05-16**|**Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy**|Wenxiao Chen et.al.|[2605.17033v1](http://arxiv.org/abs/2605.17033v1)|null|[αX↑0](https://alphaxiv.org/abs/2605.17033)|
 |**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981v1](http://arxiv.org/abs/2605.16981v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.16981)|
 |**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|[link](https://github.com/wzzheng/IVGT/)|[αX↑5](https://alphaxiv.org/abs/2605.16258)|
