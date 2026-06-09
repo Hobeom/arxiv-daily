@@ -4,10 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.06.08
+### Updated on 2026.06.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-08**|**Real-time body pose non-verbal communication with a consistency-based reliability measure**|Alina Marcu et.al.|[2606.09390v1](http://arxiv.org/abs/2606.09390v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09390)|
+|**2026-06-06**|**Uncertainty-Aware Intention Prediction for Human-to-Robot Assembly Teleoperation**|Fnu Heman et.al.|[2606.08341v1](http://arxiv.org/abs/2606.08341v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08341)|
 |**2026-06-05**|**FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness**|Feiyu Ji et.al.|[2606.06856v1](http://arxiv.org/abs/2606.06856v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.06856)|
 |**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610v1](http://arxiv.org/abs/2606.03610v1)|[link](https://github.com/lya19971103/SkelHCC)|[αX↑6](https://alphaxiv.org/abs/2606.03610)|
 |**2026-06-02**|**TrAction: Action Recognition with Sparse Trajectories**|Jan F. Meier et.al.|[2606.03490v1](http://arxiv.org/abs/2606.03490v1)|[link](https://github.com/ecker-lab/TrAction)|[αX↑4](https://alphaxiv.org/abs/2606.03490)|

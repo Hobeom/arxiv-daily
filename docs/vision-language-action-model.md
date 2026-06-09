@@ -4,10 +4,21 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.08
+### Updated on 2026.06.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiacheng Li et.al.|[2606.09572v1](http://arxiv.org/abs/2606.09572v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09572)|
+|**2026-06-08**|**Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer**|Sanghoon Lee et.al.|[2606.09416v1](http://arxiv.org/abs/2606.09416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09416)|
+|**2026-06-08**|**TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation**|Huaihang Zheng et.al.|[2606.09337v1](http://arxiv.org/abs/2606.09337v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09337)|
+|**2026-06-08**|**Scaling by Diversified Experience for Vision-Language-Action Models**|Leiyu Wang et.al.|[2606.09009v1](http://arxiv.org/abs/2606.09009v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09009)|
+|**2026-06-07**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Yi Yu et.al.|[2606.08881v1](http://arxiv.org/abs/2606.08881v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08881)|
+|**2026-06-07**|**BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving**|George Ling et.al.|[2606.08684v1](http://arxiv.org/abs/2606.08684v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08684)|
+|**2026-06-07**|**GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation**|Yuan Zhang et.al.|[2606.08530v1](http://arxiv.org/abs/2606.08530v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08530)|
+|**2026-06-06**|**MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model**|Shanglin Yuan et.al.|[2606.08288v1](http://arxiv.org/abs/2606.08288v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08288)|
+|**2026-06-06**|**SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation**|Songlin Wei et.al.|[2606.08278v1](http://arxiv.org/abs/2606.08278v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08278)|
+|**2026-06-06**|**vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models**|Khanh D. Nguyen et.al.|[2606.08094v1](http://arxiv.org/abs/2606.08094v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08094)|
+|**2026-06-05**|**TBD-VLA: Temporal Block Diffusion Vision Language Action Model**|Sung-Wook Lee et.al.|[2606.07895v1](http://arxiv.org/abs/2606.07895v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07895)|
 |**2026-06-05**|**RhinoVLA Technical Report**|Huixi Intelligence et.al.|[2606.07383v1](http://arxiv.org/abs/2606.07383v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07383)|
 |**2026-06-05**|**Robotic Policy Adaptation via Weight-Space Meta-Learning**|Christian Bianchi et.al.|[2606.07217v1](http://arxiv.org/abs/2606.07217v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07217)|
 |**2026-06-05**|**Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models**|Jinhao Wu et.al.|[2606.07107v1](http://arxiv.org/abs/2606.07107v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07107)|
