@@ -4,13 +4,14 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.06.09
+### Updated on 2026.06.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-08**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669v1](http://arxiv.org/abs/2606.09669v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09669)|
+|**2026-06-01**|**EstRTL: Functional Estimation Guided RTL Code Generation**|Qi Xiong et.al.|[2606.09867v1](http://arxiv.org/abs/2606.09867v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09867)|
+|**2026-06-08**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669v1](http://arxiv.org/abs/2606.09669v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.09669)|
 |**2026-06-08**|**LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization**|Yuyang Ye et.al.|[2606.08944v1](http://arxiv.org/abs/2606.08944v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08944)|
-|**2026-06-06**|**MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory**|Suleyman Armagan Er et.al.|[2606.07909v1](http://arxiv.org/abs/2606.07909v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07909)|
+|**2026-06-06**|**MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory**|Suleyman Armagan Er et.al.|[2606.07909v1](http://arxiv.org/abs/2606.07909v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.07909)|
 |**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian et.al.|[2606.05793v1](http://arxiv.org/abs/2606.05793v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.05793)|
 |**2026-06-02**|**Human-AI Collaboration and the Transformation of Software Engineering Work**|Mamdouh Alenezi et.al.|[2606.03394v1](http://arxiv.org/abs/2606.03394v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.03394)|
 |**2026-06-02**|**FederatedSkill: Federated Learning for Agentic Skill Evolution**|Jingbo Yang et.al.|[2606.03143v1](http://arxiv.org/abs/2606.03143v1)|[link](https://github.com/UCSB-NLP-Chang/FederatedSkill)|[αX↑10](https://alphaxiv.org/abs/2606.03143)|

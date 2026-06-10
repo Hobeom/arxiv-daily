@@ -4,17 +4,22 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.09
+### Updated on 2026.06.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-09**|**LIBERO-Occ: Evaluating and Improving Vision-Language-Action Models under Scene-Induced Occlusion via Viewpoint Imagination**|Taishan Li et.al.|[2606.10862v1](http://arxiv.org/abs/2606.10862v1)|[link](https://github.com/litsh/Libero-Occ)|[αX↑0](https://alphaxiv.org/abs/2606.10862)|
+|**2026-06-09**|**VeriSpace: Spatially Grounded Action Verification for Vision-Language-Action Models**|Guiyu Zhao et.al.|[2606.10568v1](http://arxiv.org/abs/2606.10568v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10568)|
+|**2026-06-09**|**Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults**|Minsoo Jo et.al.|[2606.10501v1](http://arxiv.org/abs/2606.10501v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10501)|
+|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495v1](http://arxiv.org/abs/2606.10495v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10495)|
+|**2026-06-08**|**Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs**|Jonathan C. Kao et.al.|[2606.10180v1](http://arxiv.org/abs/2606.10180v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10180)|
 |**2026-06-08**|**MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models**|Hao Shi et.al.|[2606.09827v1](http://arxiv.org/abs/2606.09827v1)|[link](https://github.com/shihao1895/MemoryVLA)|[αX↑7](https://alphaxiv.org/abs/2606.09827)|
 |**2026-06-08**|**Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models**|Seongbin Park et.al.|[2606.09749v1](http://arxiv.org/abs/2606.09749v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09749)|
 |**2026-06-08**|**ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models**|Fan Zhang et.al.|[2606.09740v1](http://arxiv.org/abs/2606.09740v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09740)|
-|**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiacheng Li et.al.|[2606.09572v1](http://arxiv.org/abs/2606.09572v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09572)|
-|**2026-06-08**|**Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer**|Sanghoon Lee et.al.|[2606.09416v1](http://arxiv.org/abs/2606.09416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09416)|
+|**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiacheng Li et.al.|[2606.09572v1](http://arxiv.org/abs/2606.09572v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09572)|
+|**2026-06-08**|**Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer**|Sanghoon Lee et.al.|[2606.09416v1](http://arxiv.org/abs/2606.09416v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09416)|
 |**2026-06-08**|**TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation**|Huaihang Zheng et.al.|[2606.09337v1](http://arxiv.org/abs/2606.09337v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09337)|
-|**2026-06-08**|**Scaling by Diversified Experience for Vision-Language-Action Models**|Leiyu Wang et.al.|[2606.09009v1](http://arxiv.org/abs/2606.09009v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09009)|
+|**2026-06-08**|**Scaling by Diversified Experience for Vision-Language-Action Models**|Leiyu Wang et.al.|[2606.09009v1](http://arxiv.org/abs/2606.09009v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑3](https://alphaxiv.org/abs/2606.09009)|
 |**2026-06-07**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Yi Yu et.al.|[2606.08881v1](http://arxiv.org/abs/2606.08881v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08881)|
 |**2026-06-07**|**BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving**|George Ling et.al.|[2606.08684v1](http://arxiv.org/abs/2606.08684v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08684)|
 |**2026-06-07**|**GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation**|Yuan Zhang et.al.|[2606.08530v1](http://arxiv.org/abs/2606.08530v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08530)|

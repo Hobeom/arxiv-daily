@@ -4,12 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.06.09
+### Updated on 2026.06.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746v1](http://arxiv.org/abs/2606.09746v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09746)|
-|**2026-06-08**|**Real-time body pose non-verbal communication with a consistency-based reliability measure**|Alina Marcu et.al.|[2606.09390v1](http://arxiv.org/abs/2606.09390v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09390)|
+|**2026-06-08**|**Real-time body pose non-verbal communication with a consistency-based reliability measure**|Alina Marcu et.al.|[2606.09390v1](http://arxiv.org/abs/2606.09390v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09390)|
 |**2026-06-06**|**Uncertainty-Aware Intention Prediction for Human-to-Robot Assembly Teleoperation**|Fnu Heman et.al.|[2606.08341v1](http://arxiv.org/abs/2606.08341v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08341)|
 |**2026-06-05**|**FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness**|Feiyu Ji et.al.|[2606.06856v1](http://arxiv.org/abs/2606.06856v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06856)|
 |**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610v1](http://arxiv.org/abs/2606.03610v1)|[link](https://github.com/lya19971103/SkelHCC)|[αX↑7](https://alphaxiv.org/abs/2606.03610)|

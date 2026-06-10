@@ -1,15 +1,16 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.09
+### Updated on 2026.06.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10048)|
 |**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09569)|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09477)|
-|**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09262)|
+|**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09262)|
 |**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139v1](http://arxiv.org/abs/2606.09139v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09139)|
-|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284v1](http://arxiv.org/abs/2606.08284v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08284)|
-|**2026-06-06**|**Mind Your Steps: A General Learning Framework for Accurate Humanoid Foothold Tracking**|Alessandro Montenegro et.al.|[2606.08253v1](http://arxiv.org/abs/2606.08253v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08253)|
+|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284v1](http://arxiv.org/abs/2606.08284v1)|[link](https://github.com/WeiYuFei0217/G2G)|[αX↑1](https://alphaxiv.org/abs/2606.08284)|
+|**2026-06-06**|**Mind Your Steps: A General Learning Framework for Accurate Humanoid Foothold Tracking**|Alessandro Montenegro et.al.|[2606.08253v1](http://arxiv.org/abs/2606.08253v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.08253)|
 |**2026-06-05**|**C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance**|Ethan Luk et.al.|[2606.07891v1](http://arxiv.org/abs/2606.07891v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07891)|
 |**2026-06-08**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v2](http://arxiv.org/abs/2606.07419v2)|null|[αX↑3](https://alphaxiv.org/abs/2606.07419)|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06903)|

@@ -1,22 +1,27 @@
 ## Robot & Agent
 
-### Updated on 2026.06.09
+### Updated on 2026.06.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-09**|**Task Robustness via Re-Labelling Vision-Action Robot Data**|Artur Kuramshin et.al.|[2606.10918v1](http://arxiv.org/abs/2606.10918v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10918)|
+|**2026-06-09**|**MODIP: Efficient Model-Based Optimization for Diffusion Policies**|Zakariae El Asri et.al.|[2606.10825v1](http://arxiv.org/abs/2606.10825v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10825)|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371v1](http://arxiv.org/abs/2606.10371v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10371)|
+|**2026-06-09**|**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**|Dongjun Lee et.al.|[2606.10276v1](http://arxiv.org/abs/2606.10276v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10276)|
+|**2026-06-09**|**What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents**|Jiaheng Hu et.al.|[2606.10267v1](http://arxiv.org/abs/2606.10267v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10267)|
 |**2026-06-08**|**iMaC: Translating Actions into Motion and Contact Images for Embodied World Models**|Zhenyu Wu et.al.|[2606.09813v1](http://arxiv.org/abs/2606.09813v1)|[link](https://github.com/imac-wm/iMaC)|[αX↑4](https://alphaxiv.org/abs/2606.09813)|
 |**2026-06-08**|**AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning**|Hong Li et.al.|[2606.09777v1](http://arxiv.org/abs/2606.09777v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09777)|
-|**2026-06-08**|**Targeting World Models to Compromise Robot Learning Pipelines**|Ethan Rathbun et.al.|[2606.09499v1](http://arxiv.org/abs/2606.09499v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09499)|
-|**2026-06-08**|**Goal Sets, Not Goal States: Queryable Robot Goals through Goal-Set Hindsight Relabeling**|Carlos Vélez García et.al.|[2606.09476v1](http://arxiv.org/abs/2606.09476v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09476)|
-|**2026-06-08**|**ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration**|Yuying Zhang et.al.|[2606.09381v1](http://arxiv.org/abs/2606.09381v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.09381)|
-|**2026-06-07**|**Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video**|Yunhai Han et.al.|[2606.08828v1](http://arxiv.org/abs/2606.08828v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08828)|
+|**2026-06-08**|**Targeting World Models to Compromise Robot Learning Pipelines**|Ethan Rathbun et.al.|[2606.09499v1](http://arxiv.org/abs/2606.09499v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.09499)|
+|**2026-06-08**|**Goal Sets, Not Goal States: Queryable Robot Goals through Goal-Set Hindsight Relabeling**|Carlos Vélez García et.al.|[2606.09476v1](http://arxiv.org/abs/2606.09476v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09476)|
+|**2026-06-08**|**ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration**|Yuying Zhang et.al.|[2606.09381v1](http://arxiv.org/abs/2606.09381v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09381)|
+|**2026-06-07**|**Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video**|Yunhai Han et.al.|[2606.08828v1](http://arxiv.org/abs/2606.08828v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.08828)|
 |**2026-06-07**|**IR-SIM: A Lightweight Skill-Native Simulator for Navigation, Learning, and Benchmarking**|Ruihua Han et.al.|[2606.08729v1](http://arxiv.org/abs/2606.08729v1)|[link](https://github.com/hanruihua/ir-sim)|[αX↑0](https://alphaxiv.org/abs/2606.08729)|
 |**2026-06-07**|**HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning**|Zechu Li et.al.|[2606.08610v1](http://arxiv.org/abs/2606.08610v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08610)|
-|**2026-06-07**|**Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data**|Linqi Yin et.al.|[2606.08520v1](http://arxiv.org/abs/2606.08520v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08520)|
+|**2026-06-07**|**Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data**|Linqi Yin et.al.|[2606.08520v1](http://arxiv.org/abs/2606.08520v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.08520)|
 |**2026-06-07**|**ActProbe: Action-Space Probe for Early Failure Detection of Generative Robot Policies**|Bingjia Huang et.al.|[2606.08508v1](http://arxiv.org/abs/2606.08508v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08508)|
-|**2026-06-06**|**MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model**|Shanglin Yuan et.al.|[2606.08288v1](http://arxiv.org/abs/2606.08288v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08288)|
-|**2026-06-06**|**Light-WAM: Efficient World Action Models with State-Fusion Action Decoding**|Ziang Li et.al.|[2606.08242v1](http://arxiv.org/abs/2606.08242v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08242)|
-|**2026-06-06**|**EgoAERO: Learning Dexterous Manipulation from a Single Egocentric Video without Object Assets**|Yichen Niu et.al.|[2606.08057v1](http://arxiv.org/abs/2606.08057v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.08057)|
+|**2026-06-06**|**MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model**|Shanglin Yuan et.al.|[2606.08288v1](http://arxiv.org/abs/2606.08288v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.08288)|
+|**2026-06-06**|**Light-WAM: Efficient World Action Models with State-Fusion Action Decoding**|Ziang Li et.al.|[2606.08242v1](http://arxiv.org/abs/2606.08242v1)|[link](https://github.com/L1ziang/Light-WAM)|[αX↑4](https://alphaxiv.org/abs/2606.08242)|
+|**2026-06-06**|**EgoAERO: Learning Dexterous Manipulation from a Single Egocentric Video without Object Assets**|Yichen Niu et.al.|[2606.08057v1](http://arxiv.org/abs/2606.08057v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.08057)|
 |**2026-06-06**|**Efficient Skill Grounding via Code Refactoring with Small Language Models**|Sera Choi et.al.|[2606.07999v1](http://arxiv.org/abs/2606.07999v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07999)|
 |**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Mengze Tian et.al.|[2606.07386v1](http://arxiv.org/abs/2606.07386v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.07386)|
 |**2026-06-05**|**RhinoVLA Technical Report**|Huixi Intelligence et.al.|[2606.07383v1](http://arxiv.org/abs/2606.07383v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.07383)|
