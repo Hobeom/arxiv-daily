@@ -4,13 +4,24 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.10
+### Updated on 2026.06.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-09**|**LIBERO-Occ: Evaluating and Improving Vision-Language-Action Models under Scene-Induced Occlusion via Viewpoint Imagination**|Taishan Li et.al.|[2606.10862v1](http://arxiv.org/abs/2606.10862v1)|[link](https://github.com/litsh/Libero-Occ)|[αX↑0](https://alphaxiv.org/abs/2606.10862)|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12403)|
+|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396v1](http://arxiv.org/abs/2606.12396v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12396)|
+|**2026-06-10**|**APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies**|Kechun Xu et.al.|[2606.12366v1](http://arxiv.org/abs/2606.12366v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12366)|
+|**2026-06-10**|**CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy**|Ria Doshi et.al.|[2606.12352v1](http://arxiv.org/abs/2606.12352v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12352)|
+|**2026-06-10**|**Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering**|Hyun Joe Jeong et.al.|[2606.12299v1](http://arxiv.org/abs/2606.12299v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12299)|
+|**2026-06-10**|**Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning**|Chuanke Pang et.al.|[2606.12109v1](http://arxiv.org/abs/2606.12109v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12109)|
+|**2026-06-10**|**DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model**|Pankhuri Vanjani et.al.|[2606.12105v1](http://arxiv.org/abs/2606.12105v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12105)|
+|**2026-06-10**|**When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models**|Xuan Dong et.al.|[2606.11906v1](http://arxiv.org/abs/2606.11906v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11906)|
+|**2026-06-10**|**TacCoRL: Integrating Tactile Feedback into VLA via Simulation**|Siyu Ma et.al.|[2606.11743v1](http://arxiv.org/abs/2606.11743v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11743)|
+|**2026-06-10**|**Vision-Language-Action Models Meet World Models: Embodied Agentic AI for Low-Altitude Wireless Networks**|Feibo Jiang et.al.|[2606.11618v1](http://arxiv.org/abs/2606.11618v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11618)|
+|**2026-06-09**|**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**|Yuchi Zhao et.al.|[2606.11408v1](http://arxiv.org/abs/2606.11408v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11408)|
+|**2026-06-09**|**LIBERO-Occ: Evaluating and Improving Vision-Language-Action Models under Scene-Induced Occlusion via Viewpoint Imagination**|Taishan Li et.al.|[2606.10862v1](http://arxiv.org/abs/2606.10862v1)|[link](https://github.com/litsh/Libero-Occ)|[αX↑1](https://alphaxiv.org/abs/2606.10862)|
 |**2026-06-09**|**VeriSpace: Spatially Grounded Action Verification for Vision-Language-Action Models**|Guiyu Zhao et.al.|[2606.10568v1](http://arxiv.org/abs/2606.10568v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10568)|
-|**2026-06-09**|**Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults**|Minsoo Jo et.al.|[2606.10501v1](http://arxiv.org/abs/2606.10501v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10501)|
+|**2026-06-09**|**Uncovering Vulnerability of Vision-Language-Action Models under Joint-Level Physical Faults**|Minsoo Jo et.al.|[2606.10501v1](http://arxiv.org/abs/2606.10501v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.10501)|
 |**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495v1](http://arxiv.org/abs/2606.10495v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10495)|
 |**2026-06-08**|**Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs**|Jonathan C. Kao et.al.|[2606.10180v1](http://arxiv.org/abs/2606.10180v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10180)|
 |**2026-06-08**|**MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models**|Hao Shi et.al.|[2606.09827v1](http://arxiv.org/abs/2606.09827v1)|[link](https://github.com/shihao1895/MemoryVLA)|[αX↑16](https://alphaxiv.org/abs/2606.09827)|
