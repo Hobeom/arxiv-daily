@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.06.11
+### Updated on 2026.06.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|Minjun Choi et.al.|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13115)|
 |**2026-06-01**|**EstRTL: Functional Estimation Guided RTL Code Generation**|Qi Xiong et.al.|[2606.09867v1](http://arxiv.org/abs/2606.09867v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09867)|
 |**2026-06-08**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669v1](http://arxiv.org/abs/2606.09669v1)|[link](https://github.com/Hongcheng-Gao/SpatialWorld)|[🤗👍41](https://huggingface.co/papers/2606.09669) [αX↑17](https://alphaxiv.org/abs/2606.09669)|
 |**2026-06-08**|**LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization**|Yuyang Ye et.al.|[2606.08944v1](http://arxiv.org/abs/2606.08944v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.08944)|
