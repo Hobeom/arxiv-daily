@@ -8,7 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Felix Tristram et.al.|[2606.13332v1](http://arxiv.org/abs/2606.13332v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13332)|
+|**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Felix Tristram et.al.|[2606.13332v1](http://arxiv.org/abs/2606.13332v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.13332)|
 |**2026-06-11**|**Quality-Preserving Imperceptible Adversarial Attack on Skeleton-based Human Action Recognition**|Ziyi Chang et.al.|[2606.13022v1](http://arxiv.org/abs/2606.13022v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13022)|
 |**2026-06-10**|**SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection**|Min Yang et.al.|[2606.12033v1](http://arxiv.org/abs/2606.12033v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12033)|
 |**2026-06-10**|**Motion Reinforces Appearance: RGB-Skeleton Gated Residual Fusion for Micro-Gesture Online Recognition**|Jialin Liu et.al.|[2606.11645v1](http://arxiv.org/abs/2606.11645v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11645)|
