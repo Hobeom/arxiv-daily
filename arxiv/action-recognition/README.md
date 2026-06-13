@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2026.06.12
+### Updated on 2026.06.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -9,10 +9,10 @@
 |**2026-06-10**|**SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection**|Min Yang et.al.|[2606.12033v1](http://arxiv.org/abs/2606.12033v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12033)|
 |**2026-06-10**|**Motion Reinforces Appearance: RGB-Skeleton Gated Residual Fusion for Micro-Gesture Online Recognition**|Jialin Liu et.al.|[2606.11645v1](http://arxiv.org/abs/2606.11645v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11645)|
 |**2026-06-09**|**Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition**|Shengkai Sun et.al.|[2606.11450v1](http://arxiv.org/abs/2606.11450v1)|[link](https://github.com/AshenOne1005/AMR)|[αX↑2](https://alphaxiv.org/abs/2606.11450)|
-|**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746v1](http://arxiv.org/abs/2606.09746v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09746)|
+|**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746v1](http://arxiv.org/abs/2606.09746v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09746)|
 |**2026-06-08**|**Real-time body pose non-verbal communication with a consistency-based reliability measure**|Alina Marcu et.al.|[2606.09390v1](http://arxiv.org/abs/2606.09390v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.09390)|
 |**2026-06-06**|**Uncertainty-Aware Intention Prediction for Human-to-Robot Assembly Teleoperation**|Fnu Heman et.al.|[2606.08341v1](http://arxiv.org/abs/2606.08341v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.08341)|
-|**2026-06-05**|**FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness**|Feiyu Ji et.al.|[2606.06856v1](http://arxiv.org/abs/2606.06856v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.06856)|
+|**2026-06-05**|**FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness**|Feiyu Ji et.al.|[2606.06856v1](http://arxiv.org/abs/2606.06856v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.06856)|
 |**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610v1](http://arxiv.org/abs/2606.03610v1)|[link](https://github.com/lya19971103/SkelHCC)|[αX↑7](https://alphaxiv.org/abs/2606.03610)|
 |**2026-06-02**|**TrAction: Action Recognition with Sparse Trajectories**|Jan F. Meier et.al.|[2606.03490v1](http://arxiv.org/abs/2606.03490v1)|[link](https://github.com/ecker-lab/TrAction)|[αX↑5](https://alphaxiv.org/abs/2606.03490)|
 |**2026-06-02**|**SRENet: Spectral Re-Entry Network for Point Cloud Action Recognition**|Qiuxia Wu et.al.|[2606.03160v1](http://arxiv.org/abs/2606.03160v1)|[link](https://github.com/tomlan2026/SRENet)|[αX↑3](https://alphaxiv.org/abs/2606.03160)|

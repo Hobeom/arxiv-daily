@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.06.12
+### Updated on 2026.06.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -26,7 +26,7 @@ layout: default
 |**2026-06-08**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v2](http://arxiv.org/abs/2606.07419v2)|null|[αX↑4](https://alphaxiv.org/abs/2606.07419)|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06903)|
 |**2026-06-05**|**A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation**|Kangjian Zhu et.al.|[2606.06878v1](http://arxiv.org/abs/2606.06878v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06878)|
-|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑7](https://alphaxiv.org/abs/2606.06292)|
+|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑8](https://alphaxiv.org/abs/2606.06292)|
 |**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|[link](https://github.com/Lumos-Jiateng/Brick-Composer)|[αX↑1](https://alphaxiv.org/abs/2606.05445)|
 |**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05437)|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|[link](https://github.com/yurimjeon1892/CIPER)|[αX↑3](https://alphaxiv.org/abs/2606.05011)|
