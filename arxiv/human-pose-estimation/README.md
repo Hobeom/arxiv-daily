@@ -1,18 +1,18 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.13
+### Updated on 2026.06.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.12988)|
 |**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.12473)|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑2](https://alphaxiv.org/abs/2606.11880)|
-|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11739)|
-|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11619)|
-|**2026-06-09**|**From Simulation to Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting**|Woojung Son et.al.|[2606.11381v1](http://arxiv.org/abs/2606.11381v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.11381)|
-|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|[link](https://github.com/phai-lab/DarkVGGT)|[αX↑2](https://alphaxiv.org/abs/2606.11326)|
+|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11739)|
+|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11619)|
+|**2026-06-09**|**From Simulation to Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting**|Woojung Son et.al.|[2606.11381v1](http://arxiv.org/abs/2606.11381v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11381)|
+|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|[link](https://github.com/phai-lab/DarkVGGT)|[αX↑3](https://alphaxiv.org/abs/2606.11326)|
 |**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10048)|
-|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09569)|
+|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09569)|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09477)|
 |**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09262)|
 |**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139v1](http://arxiv.org/abs/2606.09139v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09139)|
