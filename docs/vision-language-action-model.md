@@ -4,21 +4,28 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.14
+### Updated on 2026.06.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|He Zhang et.al.|[2606.14409v1](http://arxiv.org/abs/2606.14409v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14409)|
+|**2026-06-12**|**Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models**|Ge Wang et.al.|[2606.14375v1](http://arxiv.org/abs/2606.14375v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14375)|
+|**2026-06-12**|**ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation**|Yanzhao Guo et.al.|[2606.14255v1](http://arxiv.org/abs/2606.14255v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14255)|
+|**2026-06-12**|**RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation**|Xiangyu Huang et.al.|[2606.14010v1](http://arxiv.org/abs/2606.14010v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14010)|
+|**2026-06-11**|**PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation**|Namai Chandra et.al.|[2606.13886v1](http://arxiv.org/abs/2606.13886v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13886)|
+|**2026-06-11**|**Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning**|Jeffrin Sam et.al.|[2606.13856v1](http://arxiv.org/abs/2606.13856v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13856)|
+|**2026-06-11**|**$μ_0$ : A Scalable 3D Interaction-Trace World Model**|Seungjae Lee et.al.|[2606.13769v1](http://arxiv.org/abs/2606.13769v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13769)|
 |**2026-06-11**|**LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories**|Baochang Ren et.al.|[2606.13578v1](http://arxiv.org/abs/2606.13578v1)|[link](https://github.com/zjunlp/LabVLA)|[αX↑3](https://alphaxiv.org/abs/2606.13578)|
 |**2026-06-11**|**GIVE: Grounding Human Gestures in Vision-Language-Action Models**|Pengfei Liu et.al.|[2606.13435v1](http://arxiv.org/abs/2606.13435v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.13435)|
 |**2026-06-11**|**Real-Time Execution with Autoregressive Policies**|Sangkyu Lee et.al.|[2606.13355v1](http://arxiv.org/abs/2606.13355v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.13355)|
 |**2026-06-11**|**Trajectory-Level Redirection Attacks on Vision-Language-Action Models**|Gokul Puthumanaillam et.al.|[2606.12978v1](http://arxiv.org/abs/2606.12978v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12978)|
 |**2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Sunghwan Kim et.al.|[2606.12956v1](http://arxiv.org/abs/2606.12956v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12956)|
 |**2026-06-10**|**VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving**|Thach Nguyen et.al.|[2606.12706v1](http://arxiv.org/abs/2606.12706v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.12706)|
-|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|[link](https://github.com/ZefuLin/WorldPilot)|[🤗👍23](https://huggingface.co/papers/2606.12403) [αX↑18](https://alphaxiv.org/abs/2606.12403)|
-|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396v1](http://arxiv.org/abs/2606.12396v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.12396)|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|[link](https://github.com/ZefuLin/WorldPilot)|[🤗👍23](https://huggingface.co/papers/2606.12403) [αX↑22](https://alphaxiv.org/abs/2606.12403)|
+|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396v1](http://arxiv.org/abs/2606.12396v1)|null|[αX↑16](https://alphaxiv.org/abs/2606.12396)|
 |**2026-06-10**|**APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies**|Kechun Xu et.al.|[2606.12366v1](http://arxiv.org/abs/2606.12366v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.12366)|
 |**2026-06-10**|**CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy**|Ria Doshi et.al.|[2606.12352v1](http://arxiv.org/abs/2606.12352v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.12352)|
-|**2026-06-10**|**Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering**|Hyun Joe Jeong et.al.|[2606.12299v1](http://arxiv.org/abs/2606.12299v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.12299)|
+|**2026-06-10**|**Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering**|Hyun Joe Jeong et.al.|[2606.12299v1](http://arxiv.org/abs/2606.12299v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.12299)|
 |**2026-06-10**|**Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning**|Chuanke Pang et.al.|[2606.12109v1](http://arxiv.org/abs/2606.12109v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.12109)|
 |**2026-06-10**|**DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model**|Pankhuri Vanjani et.al.|[2606.12105v1](http://arxiv.org/abs/2606.12105v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.12105)|
 |**2026-06-10**|**When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models**|Xuan Dong et.al.|[2606.11906v1](http://arxiv.org/abs/2606.11906v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.11906)|

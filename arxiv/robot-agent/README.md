@@ -1,9 +1,17 @@
 ## Robot & Agent
 
-### Updated on 2026.06.14
+### Updated on 2026.06.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Jixuan Chen et.al.|[2606.14674v1](http://arxiv.org/abs/2606.14674v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14674)|
+|**2026-06-12**|**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**|Yue Xu et.al.|[2606.14665v1](http://arxiv.org/abs/2606.14665v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14665)|
+|**2026-06-12**|**ORCA: A Platform for Open-Source Dexterity Research**|Francesco Capuano et.al.|[2606.14561v1](http://arxiv.org/abs/2606.14561v1)|[link](https://github.com/orcahand)|[αX↑0](https://alphaxiv.org/abs/2606.14561)|
+|**2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|He Zhang et.al.|[2606.14409v1](http://arxiv.org/abs/2606.14409v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14409)|
+|**2026-06-12**|**The N2D Haptic Glove: A Multi-Finger Glove for 2D Directional Force Feedback for Contact Rich Manipulation**|Yao-Ting Huang et.al.|[2606.14083v1](http://arxiv.org/abs/2606.14083v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14083)|
+|**2026-06-11**|**An Attention-based Model for Robust Forecasting with Missing Modality**|Zhitian Zhang et.al.|[2606.13970v1](http://arxiv.org/abs/2606.13970v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13970)|
+|**2026-06-11**|**FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift**|Yitao Jiang et.al.|[2606.13817v1](http://arxiv.org/abs/2606.13817v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13817)|
+|**2026-06-11**|**$μ_0$ : A Scalable 3D Interaction-Trace World Model**|Seungjae Lee et.al.|[2606.13769v1](http://arxiv.org/abs/2606.13769v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13769)|
 |**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674v1](http://arxiv.org/abs/2606.13674v1)|[link](https://github.com/wdrink/RepWAM)|[🤗👍5](https://huggingface.co/papers/2606.13674) [αX↑13](https://alphaxiv.org/abs/2606.13674)|
 |**2026-06-11**|**SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale**|Nils Blank et.al.|[2606.13497v1](http://arxiv.org/abs/2606.13497v1)|[link](https://github.com/intuitive-robots/sparc-labeling)|[αX↑3](https://alphaxiv.org/abs/2606.13497)|
 |**2026-06-11**|**FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation**|Chengbo Yuan et.al.|[2606.13102v1](http://arxiv.org/abs/2606.13102v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.13102)|
@@ -13,20 +21,20 @@
 |**2026-06-11**|**WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning**|Renmin Cheng et.al.|[2606.12852v1](http://arxiv.org/abs/2606.12852v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.12852)|
 |**2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Yangcen Liu et.al.|[2606.12604v1](http://arxiv.org/abs/2606.12604v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.12604)|
 |**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402v1](http://arxiv.org/abs/2606.12402v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑10](https://alphaxiv.org/abs/2606.12402)|
-|**2026-06-10**|**CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy**|Ria Doshi et.al.|[2606.12352v1](http://arxiv.org/abs/2606.12352v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.12352)|
+|**2026-06-10**|**CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy**|Ria Doshi et.al.|[2606.12352v1](http://arxiv.org/abs/2606.12352v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.12352)|
 |**2026-06-10**|**When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models**|Xuan Dong et.al.|[2606.11906v1](http://arxiv.org/abs/2606.11906v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.11906)|
 |**2026-06-10**|**TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation**|Kailin Lyu et.al.|[2606.11637v1](http://arxiv.org/abs/2606.11637v1)|[link](https://github.com/lvkailin0118/TouchThinker)|[αX↑3](https://alphaxiv.org/abs/2606.11637)|
 |**2026-06-10**|**LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Videos for Scalable Dexterous Robot Skill Acquisition**|Harsh Gupta et.al.|[2606.11628v1](http://arxiv.org/abs/2606.11628v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.11628)|
 |**2026-06-10**|**Vision-Language-Action Models Meet World Models: Embodied Agentic AI for Low-Altitude Wireless Networks**|Feibo Jiang et.al.|[2606.11618v1](http://arxiv.org/abs/2606.11618v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.11618)|
-|**2026-06-09**|**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**|Yuchi Zhao et.al.|[2606.11408v1](http://arxiv.org/abs/2606.11408v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.11408)|
+|**2026-06-09**|**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**|Yuchi Zhao et.al.|[2606.11408v1](http://arxiv.org/abs/2606.11408v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.11408)|
 |**2026-06-09**|**Task Robustness via Re-Labelling Vision-Action Robot Data**|Artur Kuramshin et.al.|[2606.10918v1](http://arxiv.org/abs/2606.10918v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.10918)|
 |**2026-06-09**|**MODIP: Efficient Model-Based Optimization for Diffusion Policies**|Zakariae El Asri et.al.|[2606.10825v1](http://arxiv.org/abs/2606.10825v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.10825)|
 |**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371v1](http://arxiv.org/abs/2606.10371v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.10371)|
 |**2026-06-09**|**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**|Dongjun Lee et.al.|[2606.10276v1](http://arxiv.org/abs/2606.10276v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.10276)|
-|**2026-06-09**|**What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents**|Jiaheng Hu et.al.|[2606.10267v1](http://arxiv.org/abs/2606.10267v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.10267)|
+|**2026-06-09**|**What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents**|Jiaheng Hu et.al.|[2606.10267v1](http://arxiv.org/abs/2606.10267v1)|null|[αX↑18](https://alphaxiv.org/abs/2606.10267)|
 |**2026-06-08**|**iMaC: Translating Actions into Motion and Contact Images for Embodied World Models**|Zhenyu Wu et.al.|[2606.09813v1](http://arxiv.org/abs/2606.09813v1)|[link](https://github.com/imac-wm/iMaC)|[αX↑9](https://alphaxiv.org/abs/2606.09813)|
 |**2026-06-08**|**AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning**|Hong Li et.al.|[2606.09777v1](http://arxiv.org/abs/2606.09777v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09777)|
-|**2026-06-08**|**Targeting World Models to Compromise Robot Learning Pipelines**|Ethan Rathbun et.al.|[2606.09499v1](http://arxiv.org/abs/2606.09499v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.09499)|
+|**2026-06-08**|**Targeting World Models to Compromise Robot Learning Pipelines**|Ethan Rathbun et.al.|[2606.09499v1](http://arxiv.org/abs/2606.09499v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.09499)|
 |**2026-06-08**|**Goal Sets, Not Goal States: Queryable Robot Goals through Goal-Set Hindsight Relabeling**|Carlos Vélez García et.al.|[2606.09476v1](http://arxiv.org/abs/2606.09476v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09476)|
 |**2026-06-08**|**ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration**|Yuying Zhang et.al.|[2606.09381v1](http://arxiv.org/abs/2606.09381v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09381)|
 |**2026-06-07**|**Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video**|Yunhai Han et.al.|[2606.08828v1](http://arxiv.org/abs/2606.08828v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.08828)|

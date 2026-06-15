@@ -4,19 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.06.14
+### Updated on 2026.06.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14389)|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12988)|
 |**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12473)|
-|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑2](https://alphaxiv.org/abs/2606.11880)|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑4](https://alphaxiv.org/abs/2606.11880)|
 |**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11739)|
 |**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11619)|
 |**2026-06-09**|**From Simulation to Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting**|Woojung Son et.al.|[2606.11381v1](http://arxiv.org/abs/2606.11381v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11381)|
-|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|[link](https://github.com/phai-lab/DarkVGGT)|[αX↑3](https://alphaxiv.org/abs/2606.11326)|
+|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|[link](https://github.com/phai-lab/DarkVGGT)|[αX↑4](https://alphaxiv.org/abs/2606.11326)|
 |**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10048)|
-|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09569)|
+|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.09569)|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09477)|
 |**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09262)|
 |**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139v1](http://arxiv.org/abs/2606.09139v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09139)|
@@ -26,7 +27,7 @@ layout: default
 |**2026-06-08**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v2](http://arxiv.org/abs/2606.07419v2)|null|[αX↑4](https://alphaxiv.org/abs/2606.07419)|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06903)|
 |**2026-06-05**|**A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation**|Kangjian Zhu et.al.|[2606.06878v1](http://arxiv.org/abs/2606.06878v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06878)|
-|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑8](https://alphaxiv.org/abs/2606.06292)|
+|**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292v1](http://arxiv.org/abs/2606.06292v1)|[link](https://github.com/arielherreraaguiar/Grasping-Points-Detection)|[αX↑9](https://alphaxiv.org/abs/2606.06292)|
 |**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|[link](https://github.com/Lumos-Jiateng/Brick-Composer)|[αX↑1](https://alphaxiv.org/abs/2606.05445)|
 |**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.05437)|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|[link](https://github.com/yurimjeon1892/CIPER)|[αX↑3](https://alphaxiv.org/abs/2606.05011)|
@@ -53,7 +54,7 @@ layout: default
 |**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|[link](https://github.com/JacksonTao888/industrial-visual-sim2real-priors)|[αX↑2](https://alphaxiv.org/abs/2605.30581)|
 |**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|[link](https://github.com/facebookresearch/VLM3)|[αX↑10](https://alphaxiv.org/abs/2605.30561)|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30127)|
-|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑8](https://alphaxiv.org/abs/2605.29953)|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑9](https://alphaxiv.org/abs/2605.29953)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑5](https://alphaxiv.org/abs/2605.28477)|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍6](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|
@@ -161,7 +162,7 @@ layout: default
 |**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446v1](http://arxiv.org/abs/2604.17446v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17446)|
 |**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.16954)|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.16540)|
-|**2026-04-16**|**Fast Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v1](http://arxiv.org/abs/2604.16522v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.16522)|
+|**2026-06-12**|**Efficient Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v2](http://arxiv.org/abs/2604.16522v2)|null|[αX↑2](https://alphaxiv.org/abs/2604.16522)|
 |**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|[link](https://github.com/url-kaist/gaussianflow-slam)|[αX↑1](https://alphaxiv.org/abs/2604.15612)|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.15221)|
 |**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew et.al.|[2604.14846v1](http://arxiv.org/abs/2604.14846v1)|[link](https://github.com/xHaileab/Paza-AI)|[αX↑0](https://alphaxiv.org/abs/2604.14846)|
