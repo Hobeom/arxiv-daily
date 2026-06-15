@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14389)|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12988)|
-|**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12473)|
+|**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.12473)|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑4](https://alphaxiv.org/abs/2606.11880)|
 |**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11739)|
 |**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11619)|
