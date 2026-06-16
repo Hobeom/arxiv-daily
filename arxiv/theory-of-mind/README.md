@@ -1,16 +1,18 @@
 ## Theory of Mind
 
-### Updated on 2026.06.15
+### Updated on 2026.06.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944v1](http://arxiv.org/abs/2606.16944v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16944)|
+|**2026-06-13**|**Self-Driving Negotiator: An interactive, verifiable benchmark for social negotiation and theory of mind under hidden intent**|Ashutosh Kumar et.al.|[2606.15139v1](http://arxiv.org/abs/2606.15139v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.15139)|
 |**2026-06-10**|**The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism**|Nikolos Gurney et.al.|[2606.12721v1](http://arxiv.org/abs/2606.12721v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.12721)|
-|**2026-06-10**|**Mind the Perspective: Let's Reason Recursively for Theory of Mind**|Chao Lei et.al.|[2606.11724v1](http://arxiv.org/abs/2606.11724v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11724)|
-|**2026-06-08**|**From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning**|Jike Zhong et.al.|[2606.09092v1](http://arxiv.org/abs/2606.09092v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.09092)|
-|**2026-06-08**|**Agent Economics: An Entropy-Controlled Pluralistic Alignment Framework for Preventing Artificial Hivemind in Autonomous Agents**|Cheonsu Jeong et.al.|[2606.09039v1](http://arxiv.org/abs/2606.09039v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.09039)|
+|**2026-06-10**|**Mind the Perspective: Let's Reason Recursively for Theory of Mind**|Chao Lei et.al.|[2606.11724v1](http://arxiv.org/abs/2606.11724v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.11724)|
+|**2026-06-08**|**From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning**|Jike Zhong et.al.|[2606.09092v1](http://arxiv.org/abs/2606.09092v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.09092)|
+|**2026-06-15**|**Agent Economics: An Entropy-Controlled Pluralistic Alignment Framework for Preventing Artificial Hivemind in Autonomous Agents**|Cheonsu Jeong et.al.|[2606.09039v2](http://arxiv.org/abs/2606.09039v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.09039)|
 |**2026-06-11**|**Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models**|Dewi Gould et.al.|[2606.07157v2](http://arxiv.org/abs/2606.07157v2)|null|[αX↑8](https://alphaxiv.org/abs/2606.07157)|
 |**2026-06-04**|**Resonant Minds: Closed-Loop Social Avatars with Theory of Mind**|Jianxu Shangguan et.al.|[2606.05896v1](http://arxiv.org/abs/2606.05896v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.05896)|
-|**2026-06-02**|**GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs**|Weidong Tang et.al.|[2606.04184v1](http://arxiv.org/abs/2606.04184v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.04184)|
+|**2026-06-15**|**GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs**|Weidong Tang et.al.|[2606.04184v2](http://arxiv.org/abs/2606.04184v2)|null|[αX↑8](https://alphaxiv.org/abs/2606.04184)|
 |**2026-06-02**|**A formal definition and meta-model for a machine theory of mind**|Fabio Cuzzolin et.al.|[2606.03471v1](http://arxiv.org/abs/2606.03471v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.03471)|
 |**2026-05-31**|**Perception First: A Frontier Native-Video Model with Self-Consistency for Implicit Video Question Answering**|Ali Alavi et.al.|[2606.01485v1](http://arxiv.org/abs/2606.01485v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.01485)|
 |**2026-05-31**|**MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention**|Ruoxuan Zhang et.al.|[2606.01063v1](http://arxiv.org/abs/2606.01063v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.01063)|

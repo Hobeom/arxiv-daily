@@ -1,15 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.15
+### Updated on 2026.06.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14389)|
+|**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638v1](http://arxiv.org/abs/2606.16638v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16638)|
+|**2026-06-15**|**Rotational Symmetry based Object Pose Estimation from Point Clouds in the Absence of Known 3D Models**|Weichen Dai et.al.|[2606.16593v1](http://arxiv.org/abs/2606.16593v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.16593)|
+|**2026-06-14**|**Leveraging Deep Learning for Object and Position Recognition of Load Carriers for Autonomous Logistics Vehicles**|Christoph Legat et.al.|[2606.16042v1](http://arxiv.org/abs/2606.16042v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16042)|
+|**2026-06-10**|**Deep Learning-Based Lunar Crater Terrain Relative Navigation**|Batu Candan et.al.|[2606.14776v1](http://arxiv.org/abs/2606.14776v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14776)|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.14389)|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.12988)|
 |**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.12473)|
-|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑4](https://alphaxiv.org/abs/2606.11880)|
-|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11739)|
-|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11619)|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|[link](https://github.com/DmblnNicole/sg2loc)|[αX↑6](https://alphaxiv.org/abs/2606.11880)|
+|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.11739)|
+|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.11619)|
 |**2026-06-09**|**From Simulation to Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting**|Woojung Son et.al.|[2606.11381v1](http://arxiv.org/abs/2606.11381v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.11381)|
 |**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|[link](https://github.com/phai-lab/DarkVGGT)|[αX↑4](https://alphaxiv.org/abs/2606.11326)|
 |**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.10048)|

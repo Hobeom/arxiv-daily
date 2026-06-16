@@ -4,19 +4,33 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.15
+### Updated on 2026.06.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Jixuan Chen et.al.|[2606.14674v1](http://arxiv.org/abs/2606.14674v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14674)|
-|**2026-06-12**|**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**|Yue Xu et.al.|[2606.14665v1](http://arxiv.org/abs/2606.14665v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14665)|
-|**2026-06-12**|**ORCA: A Platform for Open-Source Dexterity Research**|Francesco Capuano et.al.|[2606.14561v1](http://arxiv.org/abs/2606.14561v1)|[link](https://github.com/orcahand)|[αX↑0](https://alphaxiv.org/abs/2606.14561)|
-|**2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|He Zhang et.al.|[2606.14409v1](http://arxiv.org/abs/2606.14409v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14409)|
+|**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.17046)|
+|**2026-06-15**|**Unified Motion-Action Modeling for Heterogeneous Robot Learning**|Yunhao Cao et.al.|[2606.16917v1](http://arxiv.org/abs/2606.16917v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16917)|
+|**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898v1](http://arxiv.org/abs/2606.16898v1)|[link](https://github.com/ndb796/SemanticFlip)|[αX↑0](https://alphaxiv.org/abs/2606.16898)|
+|**2026-06-15**|**DataLadder: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Peidong Liu et.al.|[2606.16776v1](http://arxiv.org/abs/2606.16776v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16776)|
+|**2026-06-15**|**VENOM: Versatile Embodied Network for Omni-bodied Motion tracking**|Siddharth Padmanabhan et.al.|[2606.16696v1](http://arxiv.org/abs/2606.16696v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16696)|
+|**2026-06-15**|**Robots that Collaborate: Sequential Asymmetric Imitation for Learning Coupled Robot Policies**|Yincong Chen et.al.|[2606.16490v1](http://arxiv.org/abs/2606.16490v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.16490)|
+|**2026-06-15**|**ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture**|Changyi Lin et.al.|[2606.16370v1](http://arxiv.org/abs/2606.16370v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.16370)|
+|**2026-06-14**|**GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects**|Qiutian Li et.al.|[2606.15909v1](http://arxiv.org/abs/2606.15909v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.15909)|
+|**2026-06-14**|**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**|Jialei Chen et.al.|[2606.15768v1](http://arxiv.org/abs/2606.15768v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.15768)|
+|**2026-06-14**|**Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models**|Hanyang Chen et.al.|[2606.15714v1](http://arxiv.org/abs/2606.15714v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.15714)|
+|**2026-06-14**|**SAPS: Shared Autonomy for Policy Steering by Blending Teleoperation with a Pretrained VLA**|Crystal Zhou et.al.|[2606.15568v1](http://arxiv.org/abs/2606.15568v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.15568)|
+|**2026-06-13**|**Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities**|Hassan Ismkhan et.al.|[2606.15514v1](http://arxiv.org/abs/2606.15514v1)|[link](https://github.com/h-ismkhan/Reinforcement-Learning-via-kNN-for-Robotic-Learning-with-Missing-Camera)|[αX↑1](https://alphaxiv.org/abs/2606.15514)|
+|**2026-06-12**|**Inference-time Policy Steering via Vision and Touch**|Yilin Wu et.al.|[2606.14981v1](http://arxiv.org/abs/2606.14981v1)|[link](https://github.com/corl2026vital/corl2026vital.github.io)|[αX↑2](https://alphaxiv.org/abs/2606.14981)|
+|**2026-06-12**|**TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations**|Kevin Robledo et.al.|[2606.14862v1](http://arxiv.org/abs/2606.14862v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.14862)|
+|**2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Jixuan Chen et.al.|[2606.14674v1](http://arxiv.org/abs/2606.14674v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.14674)|
+|**2026-06-12**|**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**|Yue Xu et.al.|[2606.14665v1](http://arxiv.org/abs/2606.14665v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.14665)|
+|**2026-06-12**|**ORCA: A Platform for Open-Source Dexterity Research**|Francesco Capuano et.al.|[2606.14561v1](http://arxiv.org/abs/2606.14561v1)|[link](https://github.com/orcahand)|[αX↑3](https://alphaxiv.org/abs/2606.14561)|
+|**2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|He Zhang et.al.|[2606.14409v1](http://arxiv.org/abs/2606.14409v1)|[link](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA)|[🤗👍11](https://huggingface.co/papers/2606.14409) [αX↑31](https://alphaxiv.org/abs/2606.14409)|
 |**2026-06-12**|**The N2D Haptic Glove: A Multi-Finger Glove for 2D Directional Force Feedback for Contact Rich Manipulation**|Yao-Ting Huang et.al.|[2606.14083v1](http://arxiv.org/abs/2606.14083v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14083)|
 |**2026-06-11**|**An Attention-based Model for Robust Forecasting with Missing Modality**|Zhitian Zhang et.al.|[2606.13970v1](http://arxiv.org/abs/2606.13970v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13970)|
 |**2026-06-11**|**FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift**|Yitao Jiang et.al.|[2606.13817v1](http://arxiv.org/abs/2606.13817v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13817)|
 |**2026-06-11**|**$μ_0$ : A Scalable 3D Interaction-Trace World Model**|Seungjae Lee et.al.|[2606.13769v1](http://arxiv.org/abs/2606.13769v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13769)|
-|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674v1](http://arxiv.org/abs/2606.13674v1)|[link](https://github.com/wdrink/RepWAM)|[🤗👍6](https://huggingface.co/papers/2606.13674) [αX↑28](https://alphaxiv.org/abs/2606.13674)|
+|**2026-06-13**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674v2](http://arxiv.org/abs/2606.13674v2)|[link](https://github.com/wdrink/RepWAM)|[🤗👍6](https://huggingface.co/papers/2606.13674) [αX↑28](https://alphaxiv.org/abs/2606.13674)|
 |**2026-06-11**|**SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale**|Nils Blank et.al.|[2606.13497v1](http://arxiv.org/abs/2606.13497v1)|[link](https://github.com/intuitive-robots/sparc-labeling)|[αX↑3](https://alphaxiv.org/abs/2606.13497)|
 |**2026-06-11**|**FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation**|Chengbo Yuan et.al.|[2606.13102v1](http://arxiv.org/abs/2606.13102v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.13102)|
 |**2026-06-11**|**Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents**|Saehun Chun et.al.|[2606.13097v1](http://arxiv.org/abs/2606.13097v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.13097)|

@@ -4,12 +4,27 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.15
+### Updated on 2026.06.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-15**|**T-Rex: Tactile-Reactive Dexterous Manipulation**|Dantong Niu et.al.|[2606.17055v1](http://arxiv.org/abs/2606.17055v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.17055)|
+|**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.17046)|
+|**2026-06-15**|**ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning**|Wei Xiao et.al.|[2606.17011v1](http://arxiv.org/abs/2606.17011v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.17011)|
+|**2026-06-15**|**Learned Image Compression for Vision-Language-Action Models**|Hyeonjun Kim et.al.|[2606.16253v1](http://arxiv.org/abs/2606.16253v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16253)|
+|**2026-06-15**|**ATHENA: Accelerated Multi-Task Heterogeneous Influence Functions for Robot Data Curation**|Tao Xu et.al.|[2606.16208v1](http://arxiv.org/abs/2606.16208v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16208)|
+|**2026-06-14**|**Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation**|Jingyu Li et.al.|[2606.15869v1](http://arxiv.org/abs/2606.15869v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.15869)|
+|**2026-06-14**|**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**|Jialei Chen et.al.|[2606.15768v1](http://arxiv.org/abs/2606.15768v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.15768)|
+|**2026-06-14**|**Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models**|Hanyang Chen et.al.|[2606.15714v1](http://arxiv.org/abs/2606.15714v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.15714)|
+|**2026-06-14**|**Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time**|Jeongeun Park et.al.|[2606.15631v1](http://arxiv.org/abs/2606.15631v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.15631)|
+|**2026-06-14**|**SAPS: Shared Autonomy for Policy Steering by Blending Teleoperation with a Pretrained VLA**|Crystal Zhou et.al.|[2606.15568v1](http://arxiv.org/abs/2606.15568v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.15568)|
+|**2026-06-13**|**Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models**|Shenhao Yan et.al.|[2606.15285v1](http://arxiv.org/abs/2606.15285v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.15285)|
+|**2026-06-13**|**VLALeaks: Membership Inference Attacks against Vision-Language-Action Models**|Xukun Luan et.al.|[2606.15165v1](http://arxiv.org/abs/2606.15165v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.15165)|
+|**2026-06-13**|**MotionVLA: Vision-Language-Action Model for Humanoid Motion**|Nonghai Zhang et.al.|[2606.15142v1](http://arxiv.org/abs/2606.15142v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.15142)|
+|**2026-06-13**|**Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models**|Dianqiao Lei et.al.|[2606.15099v1](http://arxiv.org/abs/2606.15099v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.15099)|
+|**2026-06-12**|**Steering Autoregressive Vision-Language-Action Policies via Action Token Intervention**|Jason Chan et.al.|[2606.15021v1](http://arxiv.org/abs/2606.15021v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.15021)|
 |**2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|He Zhang et.al.|[2606.14409v1](http://arxiv.org/abs/2606.14409v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14409)|
-|**2026-06-12**|**Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models**|Ge Wang et.al.|[2606.14375v1](http://arxiv.org/abs/2606.14375v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14375)|
+|**2026-06-12**|**Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models**|Ge Wang et.al.|[2606.14375v1](http://arxiv.org/abs/2606.14375v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.14375)|
 |**2026-06-12**|**ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation**|Yanzhao Guo et.al.|[2606.14255v1](http://arxiv.org/abs/2606.14255v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14255)|
 |**2026-06-12**|**RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation**|Xiangyu Huang et.al.|[2606.14010v1](http://arxiv.org/abs/2606.14010v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.14010)|
 |**2026-06-11**|**PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation**|Namai Chandra et.al.|[2606.13886v1](http://arxiv.org/abs/2606.13886v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.13886)|
