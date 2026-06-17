@@ -1,9 +1,16 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.16
+### Updated on 2026.06.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-16**|**A Hybrid Optimization Framework for Grasp Synthesis under Partial Observations**|Wenzheng Zhang et.al.|[2606.18053v1](http://arxiv.org/abs/2606.18053v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18053)|
+|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17936)|
+|**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17935)|
+|**2026-06-16**|**A Wearable Multimodal Ultrasound+Inertial System for Real-Time Virtual Reality Interaction**|Giusy Spacone et.al.|[2606.17741v1](http://arxiv.org/abs/2606.17741v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17741)|
+|**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534v1](http://arxiv.org/abs/2606.17534v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17534)|
+|**2026-06-16**|**Impact of Hand Impairment and Occlusions on Hand Pose Estimation Accuracy in Augmented Reality Applications**|Damian M. Manzone et.al.|[2606.17427v1](http://arxiv.org/abs/2606.17427v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17427)|
+|**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340v1](http://arxiv.org/abs/2606.17340v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17340)|
 |**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638v1](http://arxiv.org/abs/2606.16638v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16638)|
 |**2026-06-15**|**Rotational Symmetry based Object Pose Estimation from Point Clouds in the Absence of Known 3D Models**|Weichen Dai et.al.|[2606.16593v1](http://arxiv.org/abs/2606.16593v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.16593)|
 |**2026-06-14**|**Leveraging Deep Learning for Object and Position Recognition of Load Carriers for Autonomous Logistics Vehicles**|Christoph Legat et.al.|[2606.16042v1](http://arxiv.org/abs/2606.16042v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16042)|

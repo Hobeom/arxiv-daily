@@ -4,7 +4,7 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.06.16
+### Updated on 2026.06.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|

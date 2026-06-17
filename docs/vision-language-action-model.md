@@ -4,10 +4,15 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.16
+### Updated on 2026.06.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-16**|**Uncertainty Quantification for Flow-Based Vision-Language-Action Models**|Ralf Römer et.al.|[2606.18043v1](http://arxiv.org/abs/2606.18043v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18043)|
+|**2026-06-16**|**ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation**|Tianyi Lu et.al.|[2606.17937v1](http://arxiv.org/abs/2606.17937v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17937)|
+|**2026-06-16**|**PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space**|Bochen Yang et.al.|[2606.17924v1](http://arxiv.org/abs/2606.17924v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17924)|
+|**2026-06-16**|**MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation**|Xingyuming Liu et.al.|[2606.17598v1](http://arxiv.org/abs/2606.17598v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17598)|
+|**2026-06-15**|**ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining**|Hao Li et.al.|[2606.17200v1](http://arxiv.org/abs/2606.17200v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.17200)|
 |**2026-06-15**|**T-Rex: Tactile-Reactive Dexterous Manipulation**|Dantong Niu et.al.|[2606.17055v1](http://arxiv.org/abs/2606.17055v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.17055)|
 |**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.17046)|
 |**2026-06-15**|**ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning**|Wei Xiao et.al.|[2606.17011v1](http://arxiv.org/abs/2606.17011v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.17011)|

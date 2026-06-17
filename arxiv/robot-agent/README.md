@@ -1,11 +1,22 @@
 ## Robot & Agent
 
-### Updated on 2026.06.16
+### Updated on 2026.06.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247v1](http://arxiv.org/abs/2606.18247v1)|[link](https://github.com/princeton-prism/veritas)|[αX↑0](https://alphaxiv.org/abs/2606.18247)|
+|**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18235)|
+|**2026-06-16**|**Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So**|Josef Liyanjun Chen et.al.|[2606.18144v1](http://arxiv.org/abs/2606.18144v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18144)|
+|**2026-06-16**|**From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets**|Dzmitry Katsiuba et.al.|[2606.17839v1](http://arxiv.org/abs/2606.17839v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17839)|
+|**2026-06-16**|**ERQA-Plus: A Diagnostic Benchmark for Reasoning in Embodied AI**|Hong Yang et.al.|[2606.17639v1](http://arxiv.org/abs/2606.17639v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17639)|
+|**2026-06-16**|**GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments**|Jiawei Zhang et.al.|[2606.17520v1](http://arxiv.org/abs/2606.17520v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17520)|
+|**2026-06-16**|**MagicSim: A Unified Infrastructure for Executable Embodied Interaction**|Haoran Lu et.al.|[2606.17511v1](http://arxiv.org/abs/2606.17511v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17511)|
+|**2026-06-16**|**When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning**|Nethmi Jayasinghe et.al.|[2606.17493v1](http://arxiv.org/abs/2606.17493v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17493)|
+|**2026-06-16**|**DexLink Hand: A Compact, Affordable, 16-DOF Linkage-Driven Hand with Human-Like Dexterity**|Hao Wu et.al.|[2606.17418v1](http://arxiv.org/abs/2606.17418v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17418)|
+|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408v1](http://arxiv.org/abs/2606.17408v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17408)|
+|**2026-06-16**|**EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning**|Gaotian Wang et.al.|[2606.17385v1](http://arxiv.org/abs/2606.17385v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17385)|
 |**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.17046)|
-|**2026-06-15**|**Unified Motion-Action Modeling for Heterogeneous Robot Learning**|Yunhao Cao et.al.|[2606.16917v1](http://arxiv.org/abs/2606.16917v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16917)|
+|**2026-06-16**|**Unified Motion-Action Modeling for Heterogeneous Robot Learning**|Yunhao Cao et.al.|[2606.16917v2](http://arxiv.org/abs/2606.16917v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.16917)|
 |**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898v1](http://arxiv.org/abs/2606.16898v1)|[link](https://github.com/ndb796/SemanticFlip)|[αX↑0](https://alphaxiv.org/abs/2606.16898)|
 |**2026-06-15**|**DataLadder: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Peidong Liu et.al.|[2606.16776v1](http://arxiv.org/abs/2606.16776v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.16776)|
 |**2026-06-15**|**VENOM: Versatile Embodied Network for Omni-bodied Motion tracking**|Siddharth Padmanabhan et.al.|[2606.16696v1](http://arxiv.org/abs/2606.16696v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16696)|

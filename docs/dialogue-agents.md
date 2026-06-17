@@ -4,12 +4,12 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.06.16
+### Updated on 2026.06.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-06-14**|**Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft**|Juheon Yi et.al.|[2606.15684v1](http://arxiv.org/abs/2606.15684v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.15684)|
-|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|Minjun Choi et.al.|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.13115)|
+|**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|Minjun Choi et.al.|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.13115)|
 |**2026-06-01**|**EstRTL: Functional Estimation Guided RTL Code Generation**|Qi Xiong et.al.|[2606.09867v1](http://arxiv.org/abs/2606.09867v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09867)|
 |**2026-06-13**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669v2](http://arxiv.org/abs/2606.09669v2)|[link](https://github.com/Hongcheng-Gao/SpatialWorld)|[🤗👍42](https://huggingface.co/papers/2606.09669) [αX↑33](https://alphaxiv.org/abs/2606.09669)|
 |**2026-06-08**|**LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization**|Yuyang Ye et.al.|[2606.08944v1](http://arxiv.org/abs/2606.08944v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.08944)|
