@@ -207557,7 +207557,7 @@
     }
   },
   "2026-05-18": {
-    "fetched_at": "2026-06-16T14:22:45.092533",
+    "fetched_at": "2026-06-17T12:55:21.882146",
     "count": 43,
     "papers": {
       "2605.12882": {
@@ -207666,7 +207666,7 @@
         ],
         "upvotes": 59,
         "github_repo": "https://github.com/caiyuchen-ustc/EffOPD",
-        "github_stars": 68,
+        "github_stars": 69,
         "published_at": "2026-05-13T00:00:00.000Z",
         "num_comments": 2
       },
@@ -207691,7 +207691,7 @@
         ],
         "upvotes": 54,
         "github_repo": "https://github.com/brave-eai/dexjoco",
-        "github_stars": 113,
+        "github_stars": 116,
         "published_at": "2026-05-15T00:00:00.000Z",
         "num_comments": 1
       },
@@ -207713,7 +207713,7 @@
         ],
         "upvotes": 54,
         "github_repo": "https://github.com/eric-ai-lab/HarnessAudit",
-        "github_stars": 46,
+        "github_stars": 47,
         "published_at": "2026-05-14T00:00:00.000Z",
         "num_comments": 2
       },
@@ -207727,7 +207727,7 @@
           "Seunghwan Bang",
           "Hwanjun Song"
         ],
-        "upvotes": 41,
+        "upvotes": 42,
         "github_repo": "https://github.com/DISL-Lab/CoRD",
         "github_stars": 2,
         "published_at": "2026-05-04T00:00:00.000Z",
@@ -207809,7 +207809,7 @@
         ],
         "upvotes": 28,
         "github_repo": "https://github.com/INV-WZQ/ReactiveGWM",
-        "github_stars": 74,
+        "github_stars": 75,
         "published_at": "2026-05-14T00:00:00.000Z",
         "num_comments": 2
       },
@@ -208015,7 +208015,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/fpv-labs/stera-sdk",
-        "github_stars": 26,
+        "github_stars": 27,
         "published_at": "2026-05-07T00:00:00.000Z",
         "num_comments": 3
       },
@@ -208350,7 +208350,7 @@
     }
   },
   "2026-05-19": {
-    "fetched_at": "2026-06-16T14:22:43.897473",
+    "fetched_at": "2026-06-17T12:55:20.765838",
     "count": 48,
     "papers": {
       "2605.18747": {
@@ -208402,7 +208402,7 @@
         ],
         "upvotes": 219,
         "github_repo": "https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers",
-        "github_stars": 427,
+        "github_stars": 434,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 3
       },
@@ -208419,7 +208419,7 @@
         ],
         "upvotes": 127,
         "github_repo": "https://github.com/MemTensor/skills-vote",
-        "github_stars": 279,
+        "github_stars": 281,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -208446,7 +208446,7 @@
         ],
         "upvotes": 113,
         "github_repo": "https://github.com/NVlabs/LongLive",
-        "github_stars": 2344,
+        "github_stars": 2350,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 4
       },
@@ -208501,7 +208501,7 @@
         ],
         "upvotes": 67,
         "github_repo": "https://github.com/worldbench/awesome-ai-auto-research",
-        "github_stars": 374,
+        "github_stars": 380,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -208519,7 +208519,7 @@
         ],
         "upvotes": 64,
         "github_repo": "https://github.com/FutureMLS-Lab/OSCAR",
-        "github_stars": 529,
+        "github_stars": 530,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -208565,7 +208565,7 @@
         "github_repo": "https://github.com/actava-ai/chi-bench",
         "github_stars": 39,
         "published_at": "2026-05-15T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 3
       },
       "2605.18451": {
         "id": "2605.18451",
@@ -208735,6 +208735,27 @@
         "published_at": "2026-05-15T00:00:00.000Z",
         "num_comments": 2
       },
+      "2605.15565": {
+        "id": "2605.15565",
+        "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
+        "authors": [
+          "Haizhong Zheng",
+          "Yizhuo Di",
+          "Jiahui Wang",
+          "Shuowei Jin",
+          "Xueshen Liu",
+          "Yongji Wu",
+          "Z. Morley Mao",
+          "Ion Stoica",
+          "Jiawei Zhao",
+          "Beidi Chen"
+        ],
+        "upvotes": 17,
+        "github_repo": "https://github.com/Infini-AI-Lab/astraflow",
+        "github_stars": 87,
+        "published_at": "2026-05-15T00:00:00.000Z",
+        "num_comments": 2
+      },
       "2605.14589": {
         "id": "2605.14589",
         "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
@@ -208756,27 +208777,6 @@
         "github_repo": "https://github.com/clx1415926/EndPrompt",
         "github_stars": null,
         "published_at": "2026-05-14T00:00:00.000Z",
-        "num_comments": 2
-      },
-      "2605.15565": {
-        "id": "2605.15565",
-        "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
-        "authors": [
-          "Haizhong Zheng",
-          "Yizhuo Di",
-          "Jiahui Wang",
-          "Shuowei Jin",
-          "Xueshen Liu",
-          "Yongji Wu",
-          "Z. Morley Mao",
-          "Ion Stoica",
-          "Jiawei Zhao",
-          "Beidi Chen"
-        ],
-        "upvotes": 16,
-        "github_repo": "https://github.com/Infini-AI-Lab/astraflow",
-        "github_stars": 87,
-        "published_at": "2026-05-15T00:00:00.000Z",
         "num_comments": 2
       },
       "2605.14368": {
@@ -208928,6 +208928,25 @@
         "published_at": "2026-05-16T00:00:00.000Z",
         "num_comments": 1
       },
+      "2605.16865": {
+        "id": "2605.16865",
+        "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
+        "authors": [
+          "Jiarui Liu",
+          "Lechen Zhang",
+          "Yongjin Yang",
+          "Yinghui He",
+          "Yingheng Wang",
+          "Weihao Xuan",
+          "Zhijing Jin",
+          "Mona Diab"
+        ],
+        "upvotes": 9,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-05-16T00:00:00.000Z",
+        "num_comments": 1
+      },
       "2605.18652": {
         "id": "2605.18652",
         "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
@@ -208943,25 +208962,6 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-18T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2605.16865": {
-        "id": "2605.16865",
-        "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
-        "authors": [
-          "Jiarui Liu",
-          "Lechen Zhang",
-          "Yongjin Yang",
-          "Yinghui He",
-          "Yingheng Wang",
-          "Weihao Xuan",
-          "Zhijing Jin",
-          "Mona Diab"
-        ],
-        "upvotes": 8,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-05-16T00:00:00.000Z",
         "num_comments": 1
       },
       "2605.15482": {
@@ -209044,6 +209044,24 @@
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 0
       },
+      "2605.18743": {
+        "id": "2605.18743",
+        "title": "Actionable World Representation",
+        "authors": [
+          "Kunqi Xu",
+          "Jitao Li",
+          "Jianglong Ye",
+          "Tianshu Tang",
+          "Isabella Liu",
+          "Sifei Liu",
+          "Xueyan Zou"
+        ],
+        "upvotes": 6,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-05-18T00:00:00.000Z",
+        "num_comments": 0
+      },
       "2605.17698": {
         "id": "2605.17698",
         "title": "Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces",
@@ -209087,24 +209105,6 @@
         "github_stars": 2,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
-      },
-      "2605.18743": {
-        "id": "2605.18743",
-        "title": "Actionable World Representation",
-        "authors": [
-          "Kunqi Xu",
-          "Jitao Li",
-          "Jianglong Ye",
-          "Tianshu Tang",
-          "Isabella Liu",
-          "Sifei Liu",
-          "Xueyan Zou"
-        ],
-        "upvotes": 5,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-05-18T00:00:00.000Z",
-        "num_comments": 0
       },
       "2605.18719": {
         "id": "2605.18719",
@@ -209324,7 +209324,7 @@
     }
   },
   "2026-05-20": {
-    "fetched_at": "2026-06-16T14:22:42.712909",
+    "fetched_at": "2026-06-17T12:55:19.617610",
     "count": 53,
     "papers": {
       "2605.11609": {
@@ -209387,7 +209387,7 @@
         ],
         "upvotes": 189,
         "github_repo": "https://github.com/aiming-lab/AutoResearchClaw",
-        "github_stars": 13438,
+        "github_stars": 13451,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209465,7 +209465,7 @@
         ],
         "upvotes": 59,
         "github_repo": "https://github.com/xiaoxuanNLP/GoLongRL",
-        "github_stars": 47,
+        "github_stars": 48,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209510,7 +209510,7 @@
         ],
         "upvotes": 50,
         "github_repo": "https://github.com/LARK-AI-Lab/EnvFactory",
-        "github_stars": 66,
+        "github_stars": 68,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209634,7 +209634,7 @@
         ],
         "upvotes": 16,
         "github_repo": "https://github.com/omni-gui/OmniGUI",
-        "github_stars": 15,
+        "github_stars": 16,
         "published_at": "2026-04-03T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209729,7 +209729,7 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/kailaisun/GenAI4Urban-Energy",
-        "github_stars": 4,
+        "github_stars": 5,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209819,7 +209819,7 @@
         ],
         "upvotes": 9,
         "github_repo": "https://github.com/sjj118/RT-Splatting",
-        "github_stars": 102,
+        "github_stars": 103,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -209954,7 +209954,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/kts707/matern-fm",
-        "github_stars": 23,
+        "github_stars": 24,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 1
       },
@@ -210168,7 +210168,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/OpenBMB/Omni-DuplexEval",
-        "github_stars": 8,
+        "github_stars": 9,
         "published_at": "2026-05-17T00:00:00.000Z",
         "num_comments": 1
       },
@@ -210332,7 +210332,7 @@
     }
   },
   "2026-05-21": {
-    "fetched_at": "2026-06-16T14:22:41.514748",
+    "fetched_at": "2026-06-17T12:55:18.477702",
     "count": 43,
     "papers": {
       "2605.20613": {
@@ -210351,7 +210351,7 @@
         ],
         "upvotes": 315,
         "github_repo": "https://github.com/sapientinc/HRM-Text",
-        "github_stars": 1388,
+        "github_stars": 1412,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 4
       },
@@ -210388,7 +210388,7 @@
         ],
         "upvotes": 134,
         "github_repo": "https://github.com/xzf-thu/Mega-ASR",
-        "github_stars": 1013,
+        "github_stars": 1020,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 3
       },
@@ -210477,7 +210477,7 @@
         ],
         "upvotes": 56,
         "github_repo": "https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs",
-        "github_stars": 212,
+        "github_stars": 242,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 2
       },
@@ -210562,7 +210562,7 @@
           "Ameet Talwalkar",
           "David Asker"
         ],
-        "upvotes": 38,
+        "upvotes": 39,
         "github_repo": "https://github.com/DataDog/toto",
         "github_stars": 475,
         "published_at": "2026-05-19T00:00:00.000Z",
@@ -210680,7 +210680,7 @@
         ],
         "upvotes": 21,
         "github_repo": "https://github.com/CUC-MIPG/CutVerse",
-        "github_stars": 9,
+        "github_stars": 10,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 1
       },
@@ -210698,7 +210698,7 @@
         ],
         "upvotes": 19,
         "github_repo": "https://github.com/Stability-AI/stable-audio-3",
-        "github_stars": 490,
+        "github_stars": 496,
         "published_at": "2026-05-18T00:00:00.000Z",
         "num_comments": 1
       },
@@ -211194,7 +211194,7 @@
     }
   },
   "2026-05-22": {
-    "fetched_at": "2026-06-16T14:22:40.309796",
+    "fetched_at": "2026-06-17T12:55:17.377306",
     "count": 49,
     "papers": {
       "2605.21467": {
@@ -211332,7 +211332,7 @@
         ],
         "upvotes": 53,
         "github_repo": "https://github.com/physx-omni/PhysX-Omni",
-        "github_stars": 245,
+        "github_stars": 253,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 1
       },
@@ -211364,7 +211364,7 @@
         ],
         "upvotes": 46,
         "github_repo": "https://github.com/yfanDai/LatentOmni",
-        "github_stars": 18,
+        "github_stars": 19,
         "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 1
       },
@@ -211455,7 +211455,7 @@
         ],
         "upvotes": 32,
         "github_repo": "https://github.com/NVlabs/GatedDeltaNet-2",
-        "github_stars": 218,
+        "github_stars": 220,
         "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 1
       },
@@ -211644,7 +211644,7 @@
         ],
         "upvotes": 14,
         "github_repo": "https://github.com/MeiGen-AI/GenEvolve",
-        "github_stars": 65,
+        "github_stars": 66,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 2
       },
@@ -211777,7 +211777,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/EuniAI/TerminalWorld",
-        "github_stars": 21,
+        "github_stars": 23,
         "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 2
       },
@@ -211868,7 +211868,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/rladmstn1714/CoTrace",
-        "github_stars": 4,
+        "github_stars": 6,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 1
       },
@@ -211922,7 +211922,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/Breezelled/AnyMo",
-        "github_stars": null,
+        "github_stars": 1,
         "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 1
       },
@@ -212051,7 +212051,7 @@
         ],
         "upvotes": 2,
         "github_repo": "https://github.com/ZacharyNovack/live-music-diffusion-models",
-        "github_stars": 45,
+        "github_stars": 46,
         "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 1
       },
@@ -212090,7 +212090,7 @@
     }
   },
   "2026-05-26": {
-    "fetched_at": "2026-06-16T14:22:37.897117",
+    "fetched_at": "2026-06-17T12:55:15.164573",
     "count": 53,
     "papers": {
       "2605.25604": {
@@ -212126,7 +212126,7 @@
         ],
         "upvotes": 102,
         "github_repo": "https://github.com/meituan-longcat/WBench",
-        "github_stars": 144,
+        "github_stars": 146,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 3
       },
@@ -212207,7 +212207,7 @@
         ],
         "upvotes": 52,
         "github_repo": "https://github.com/ziplab/TriSplat",
-        "github_stars": 311,
+        "github_stars": 313,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 2
       },
@@ -212285,7 +212285,7 @@
         ],
         "upvotes": 42,
         "github_repo": "https://github.com/OSU-NLP-Group/QUEST",
-        "github_stars": 49,
+        "github_stars": 51,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 3
       },
@@ -212322,7 +212322,7 @@
         ],
         "upvotes": 34,
         "github_repo": "https://github.com/xlang-ai/CUA-Gym",
-        "github_stars": 155,
+        "github_stars": 156,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 2
       },
@@ -212465,21 +212465,6 @@
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 6
       },
-      "2605.26535": {
-        "id": "2605.26535",
-        "title": "Recursive Flow Matching",
-        "authors": [
-          "Jiahe Huang",
-          "Sihan Xu",
-          "Sharvaree Vadgama",
-          "Rose Yu"
-        ],
-        "upvotes": 20,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-05-26T00:00:00.000Z",
-        "num_comments": 2
-      },
       "2605.25449": {
         "id": "2605.25449",
         "title": "Pantheon360: Taming Digital Twin Generation via 3D-Aware 360° Video Diffusion",
@@ -212498,11 +212483,26 @@
           "Yue Wang",
           "Liu Ren"
         ],
-        "upvotes": 20,
+        "upvotes": 21,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 3
+      },
+      "2605.26535": {
+        "id": "2605.26535",
+        "title": "Recursive Flow Matching",
+        "authors": [
+          "Jiahe Huang",
+          "Sihan Xu",
+          "Sharvaree Vadgama",
+          "Rose Yu"
+        ],
+        "upvotes": 20,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-05-26T00:00:00.000Z",
+        "num_comments": 2
       },
       "2605.26105": {
         "id": "2605.26105",
@@ -212873,7 +212873,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/Harahan/RTDMD",
-        "github_stars": 29,
+        "github_stars": 31,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 4
       },
@@ -212991,7 +212991,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/3DAgentWorld/HorizonStream",
-        "github_stars": 129,
+        "github_stars": 133,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 3
       },
@@ -213111,7 +213111,7 @@
     }
   },
   "2026-05-25": {
-    "fetched_at": "2026-06-16T14:22:39.072050",
+    "fetched_at": "2026-06-17T12:55:16.260822",
     "count": 28,
     "papers": {
       "2605.23904": {
@@ -213136,7 +213136,7 @@
         ],
         "upvotes": 233,
         "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 7471,
+        "github_stars": 7844,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 4
       },
@@ -213161,7 +213161,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-20T00:00:00.000Z",
-        "num_comments": 5
+        "num_comments": 6
       },
       "2605.21573": {
         "id": "2605.21573",
@@ -213191,7 +213191,7 @@
         ],
         "upvotes": 110,
         "github_repo": "https://github.com/microsoft/Lens",
-        "github_stars": 242,
+        "github_stars": 243,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 4
       },
@@ -213213,7 +213213,7 @@
         ],
         "upvotes": 58,
         "github_repo": "https://github.com/zjunlp/SciAtlas",
-        "github_stars": 129,
+        "github_stars": 131,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 2
       },
@@ -213386,7 +213386,7 @@
         ],
         "upvotes": 29,
         "github_repo": "https://github.com/microsoft/SkillLens",
-        "github_stars": 94,
+        "github_stars": 97,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 2
       },
@@ -213480,7 +213480,7 @@
         ],
         "upvotes": 17,
         "github_repo": "https://github.com/z2tong/SCOPE",
-        "github_stars": 73,
+        "github_stars": 72,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 2
       },
@@ -213583,7 +213583,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/UCSC-VLAA/VLM-CapCurriculum",
-        "github_stars": 12,
+        "github_stars": 13,
         "published_at": "2026-05-19T00:00:00.000Z",
         "num_comments": 2
       },
@@ -213726,7 +213726,7 @@
     }
   },
   "2026-05-27": {
-    "fetched_at": "2026-06-16T14:22:36.710893",
+    "fetched_at": "2026-06-17T12:55:14.056194",
     "count": 40,
     "papers": {
       "2605.27365": {
@@ -213832,31 +213832,9 @@
         ],
         "upvotes": 64,
         "github_repo": "https://github.com/Purewhiter/mobilegym",
-        "github_stars": 626,
+        "github_stars": 628,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 3
-      },
-      "2605.26230": {
-        "id": "2605.26230",
-        "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
-        "authors": [
-          "Jin Hyeon Kim",
-          "Jaeeun Lee",
-          "Claire Kim",
-          "Kyoungjin Oh",
-          "Paul Hyunbin Cho",
-          "Jaewon Min",
-          "Yeji Choi",
-          "Jihye Park",
-          "Hyunhee Park",
-          "Minkyu Park",
-          "Seungryong Kim"
-        ],
-        "upvotes": 41,
-        "github_repo": "https://github.com/cvlab-kaist/GARD",
-        "github_stars": 47,
-        "published_at": "2026-05-25T00:00:00.000Z",
-        "num_comments": 2
       },
       "2605.26494": {
         "id": "2605.26494",
@@ -214069,11 +214047,33 @@
           "Ziying Chen",
           "Ziyue Ge"
         ],
-        "upvotes": 40,
+        "upvotes": 41,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 1
+      },
+      "2605.26230": {
+        "id": "2605.26230",
+        "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
+        "authors": [
+          "Jin Hyeon Kim",
+          "Jaeeun Lee",
+          "Claire Kim",
+          "Kyoungjin Oh",
+          "Paul Hyunbin Cho",
+          "Jaewon Min",
+          "Yeji Choi",
+          "Jihye Park",
+          "Hyunhee Park",
+          "Minkyu Park",
+          "Seungryong Kim"
+        ],
+        "upvotes": 41,
+        "github_repo": "https://github.com/cvlab-kaist/GARD",
+        "github_stars": 47,
+        "published_at": "2026-05-25T00:00:00.000Z",
+        "num_comments": 2
       },
       "2605.25893": {
         "id": "2605.25893",
@@ -214155,7 +214155,7 @@
         "github_repo": "https://github.com/akatsuki-neo/JLT",
         "github_stars": 46,
         "published_at": "2026-05-26T00:00:00.000Z",
-        "num_comments": 3
+        "num_comments": 5
       },
       "2605.27030": {
         "id": "2605.27030",
@@ -214233,7 +214233,7 @@
         ],
         "upvotes": 27,
         "github_repo": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2",
-        "github_stars": 1086,
+        "github_stars": 1089,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 2
       },
@@ -214373,7 +214373,7 @@
         ],
         "upvotes": 20,
         "github_repo": "https://github.com/hyeon-cho/Attention-Symmetric-Decomposition",
-        "github_stars": 4,
+        "github_stars": 5,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 2
       },
@@ -214688,6 +214688,22 @@
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 2
       },
+      "2605.22769": {
+        "id": "2605.22769",
+        "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
+        "authors": [
+          "Pilchen Hippolyte",
+          "Fabre Romain",
+          "Signe Talla Franck",
+          "Perez Patrick",
+          "Grave Edouard"
+        ],
+        "upvotes": 7,
+        "github_repo": "https://github.com/kyutai-labs/kairos",
+        "github_stars": 7,
+        "published_at": "2026-05-21T00:00:00.000Z",
+        "num_comments": 2
+      },
       "2605.26293": {
         "id": "2605.26293",
         "title": "CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations",
@@ -214714,24 +214730,8 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/tars-robotics/RTR",
-        "github_stars": 14,
+        "github_stars": 15,
         "published_at": "2026-05-24T00:00:00.000Z",
-        "num_comments": 2
-      },
-      "2605.22769": {
-        "id": "2605.22769",
-        "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
-        "authors": [
-          "Pilchen Hippolyte",
-          "Fabre Romain",
-          "Signe Talla Franck",
-          "Perez Patrick",
-          "Grave Edouard"
-        ],
-        "upvotes": 6,
-        "github_repo": "https://github.com/kyutai-labs/kairos",
-        "github_stars": 7,
-        "published_at": "2026-05-21T00:00:00.000Z",
         "num_comments": 2
       },
       "2605.26242": {
@@ -214801,7 +214801,7 @@
     }
   },
   "2026-05-28": {
-    "fetched_at": "2026-06-16T14:22:35.520118",
+    "fetched_at": "2026-06-17T12:55:12.960930",
     "count": 60,
     "papers": {
       "2605.28816": {
@@ -214992,7 +214992,7 @@
         ],
         "upvotes": 40,
         "github_repo": "https://github.com/zjunlp/MemTrace",
-        "github_stars": 55,
+        "github_stars": 56,
         "published_at": "2026-05-27T00:00:00.000Z",
         "num_comments": 2
       },
@@ -215265,7 +215265,7 @@
         ],
         "upvotes": 17,
         "github_repo": "https://github.com/AgibotTech/GE-Sim-V2",
-        "github_stars": 60,
+        "github_stars": 61,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 2
       },
@@ -215539,7 +215539,7 @@
         ],
         "upvotes": 8,
         "github_repo": "https://github.com/Sphere-AI-Lab/PEFT-Arena",
-        "github_stars": 24,
+        "github_stars": 25,
         "published_at": "2026-05-27T00:00:00.000Z",
         "num_comments": 2
       },
@@ -215604,7 +215604,7 @@
         ],
         "upvotes": 7,
         "github_repo": "https://github.com/formal-verif-is-cool/verus-spec-gym",
-        "github_stars": 2,
+        "github_stars": 3,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 2
       },
@@ -215740,7 +215740,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/prs-eth/PaGeR",
-        "github_stars": 130,
+        "github_stars": 131,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 2
       },
@@ -215882,7 +215882,7 @@
     }
   },
   "2026-05-29": {
-    "fetched_at": "2026-06-16T14:22:34.311281",
+    "fetched_at": "2026-06-17T12:55:11.845775",
     "count": 59,
     "papers": {
       "2605.29801": {
@@ -215991,7 +215991,7 @@
           "Tao Yu",
           "Xionghui Chen"
         ],
-        "upvotes": 140,
+        "upvotes": 141,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-28T00:00:00.000Z",
@@ -216075,7 +216075,7 @@
         ],
         "upvotes": 58,
         "github_repo": "https://github.com/shengshu-ai/minWM",
-        "github_stars": 596,
+        "github_stars": 603,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 3
       },
@@ -216165,7 +216165,7 @@
         ],
         "upvotes": 33,
         "github_repo": "https://github.com/ernie-research/NAVA",
-        "github_stars": 192,
+        "github_stars": 193,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -216736,6 +216736,18 @@
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
+      "2605.30189": {
+        "id": "2605.30189",
+        "title": "Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection",
+        "authors": [
+          "Travis Lelle"
+        ],
+        "upvotes": 9,
+        "github_repo": "https://github.com/Travis-ML/lora-backdoors",
+        "github_stars": 3,
+        "published_at": "2026-05-28T00:00:00.000Z",
+        "num_comments": 3
+      },
       "2605.24786": {
         "id": "2605.24786",
         "title": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM",
@@ -216763,18 +216775,6 @@
         "github_stars": 2,
         "published_at": "2026-05-20T00:00:00.000Z",
         "num_comments": 2
-      },
-      "2605.30189": {
-        "id": "2605.30189",
-        "title": "Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection",
-        "authors": [
-          "Travis Lelle"
-        ],
-        "upvotes": 8,
-        "github_repo": "https://github.com/Travis-ML/lora-backdoors",
-        "github_stars": 2,
-        "published_at": "2026-05-28T00:00:00.000Z",
-        "num_comments": 3
       },
       "2605.27891": {
         "id": "2605.27891",
@@ -216836,7 +216836,7 @@
         ],
         "upvotes": 7,
         "github_repo": "https://github.com/humansensinglab/MVCHead",
-        "github_stars": 15,
+        "github_stars": 16,
         "published_at": "2026-05-24T00:00:00.000Z",
         "num_comments": 3
       },
@@ -216890,7 +216890,7 @@
         ],
         "upvotes": 3,
         "github_repo": "https://github.com/Lucky-Lance/OmniInteract",
-        "github_stars": 10,
+        "github_stars": 11,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217022,7 +217022,7 @@
     }
   },
   "2026-06-01": {
-    "fetched_at": "2026-06-16T14:22:33.120137",
+    "fetched_at": "2026-06-17T12:55:10.716767",
     "count": 62,
     "papers": {
       "2605.31264": {
@@ -217037,7 +217037,7 @@
         ],
         "upvotes": 112,
         "github_repo": "https://github.com/titanwings/colleague-skill",
-        "github_stars": 19427,
+        "github_stars": 19497,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 3
       },
@@ -217150,7 +217150,7 @@
         ],
         "upvotes": 44,
         "github_repo": "https://github.com/PolyU-VCLab/GGT-100K",
-        "github_stars": 60,
+        "github_stars": 61,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217311,7 +217311,7 @@
         ],
         "upvotes": 26,
         "github_repo": "https://github.com/facebookresearch/VLM3",
-        "github_stars": 311,
+        "github_stars": 316,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217423,6 +217423,27 @@
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
+      "2605.29447": {
+        "id": "2605.29447",
+        "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+        "authors": [
+          "Tianpeng Bu",
+          "Xin Liu",
+          "Qihua Chen",
+          "Hao Jiang",
+          "Shurui Li",
+          "Hongtao Duan",
+          "Lu Jiang",
+          "Lulu Hu",
+          "Bin Yang",
+          "Minying Zhang"
+        ],
+        "upvotes": 21,
+        "github_repo": "https://github.com/AlibabaResearch/RoTS",
+        "github_stars": 4,
+        "published_at": "2026-05-28T00:00:00.000Z",
+        "num_comments": 2
+      },
       "2605.31029": {
         "id": "2605.31029",
         "title": "PEEK: Picking Essential frames via Efficient Knowledge distillation",
@@ -217435,7 +217456,7 @@
         ],
         "upvotes": 20,
         "github_repo": "https://github.com/momentslab/peek",
-        "github_stars": 14,
+        "github_stars": 17,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 7
       },
@@ -217452,28 +217473,7 @@
         ],
         "upvotes": 20,
         "github_repo": "https://github.com/LeapLabTHU/Transformer-to-TTT",
-        "github_stars": 18,
-        "published_at": "2026-05-28T00:00:00.000Z",
-        "num_comments": 2
-      },
-      "2605.29447": {
-        "id": "2605.29447",
-        "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
-        "authors": [
-          "Tianpeng Bu",
-          "Xin Liu",
-          "Qihua Chen",
-          "Hao Jiang",
-          "Shurui Li",
-          "Hongtao Duan",
-          "Lu Jiang",
-          "Lulu Hu",
-          "Bin Yang",
-          "Minying Zhang"
-        ],
-        "upvotes": 20,
-        "github_repo": "https://github.com/AlibabaResearch/RoTS",
-        "github_stars": 4,
+        "github_stars": 19,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217596,7 +217596,7 @@
         ],
         "upvotes": 11,
         "github_repo": "https://github.com/Mengqi-Lei/count-anything",
-        "github_stars": 117,
+        "github_stars": 119,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217608,7 +217608,7 @@
         ],
         "upvotes": 11,
         "github_repo": "https://github.com/daydreamlive/DEMON",
-        "github_stars": 250,
+        "github_stars": 253,
         "published_at": "2026-05-27T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217678,7 +217678,7 @@
         ],
         "upvotes": 9,
         "github_repo": "https://github.com/SafeRL-Lab/cheetahclaws",
-        "github_stars": 729,
+        "github_stars": 731,
         "published_at": "2026-05-25T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217696,7 +217696,7 @@
         ],
         "upvotes": 8,
         "github_repo": "https://github.com/karimknaebel/surge",
-        "github_stars": 57,
+        "github_stars": 58,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217812,7 +217812,7 @@
         ],
         "upvotes": 7,
         "github_repo": "https://github.com/Visual-AI/iVGR",
-        "github_stars": 6,
+        "github_stars": 7,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
@@ -217889,7 +217889,7 @@
         ],
         "upvotes": 7,
         "github_repo": "https://github.com/Aurora-edu/One-Forcing",
-        "github_stars": 57,
+        "github_stars": 60,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 3
       },
@@ -218101,7 +218101,7 @@
     }
   },
   "2026-06-02": {
-    "fetched_at": "2026-06-16T14:22:31.891568",
+    "fetched_at": "2026-06-17T12:55:09.591011",
     "count": 72,
     "papers": {
       "2606.02437": {
@@ -218185,7 +218185,7 @@
         ],
         "upvotes": 193,
         "github_repo": "https://github.com/HaozheZhao/Crafter",
-        "github_stars": 117,
+        "github_stars": 118,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 3
       },
@@ -218282,7 +218282,7 @@
         ],
         "upvotes": 54,
         "github_repo": "https://github.com/pat-jj/harness-1",
-        "github_stars": 661,
+        "github_stars": 674,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 2
       },
@@ -218345,7 +218345,7 @@
         ],
         "upvotes": 35,
         "github_repo": "https://github.com/bingyang-lei/Draft-OPD",
-        "github_stars": 37,
+        "github_stars": 39,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -218433,7 +218433,7 @@
         ],
         "upvotes": 26,
         "github_repo": "https://github.com/yesiltepe-hidir/VideoMLA",
-        "github_stars": 6,
+        "github_stars": 7,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -218469,7 +218469,7 @@
         ],
         "upvotes": 20,
         "github_repo": "https://github.com/OpenWebRL/OpenWebRL",
-        "github_stars": 30,
+        "github_stars": 35,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 3
       },
@@ -218507,7 +218507,7 @@
         ],
         "upvotes": 19,
         "github_repo": "https://github.com/qixinhu11/LongLive-RAG",
-        "github_stars": 70,
+        "github_stars": 71,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 1
       },
@@ -218728,7 +218728,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/Little-Fridge/AutoVisualSkill",
-        "github_stars": 7,
+        "github_stars": 8,
         "published_at": "2026-05-31T00:00:00.000Z",
         "num_comments": 2
       },
@@ -218802,8 +218802,27 @@
         ],
         "upvotes": 8,
         "github_repo": "https://github.com/EricWang12/AFUN",
-        "github_stars": 11,
+        "github_stars": 12,
         "published_at": "2026-06-01T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.01057": {
+        "id": "2606.01057",
+        "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
+        "authors": [
+          "Yipeng Gao",
+          "Lei Shu",
+          "Genzhi Ye",
+          "Xi Xiong",
+          "Ameesh Makadia",
+          "Meiqi Guo",
+          "Laurent Itti",
+          "Jindong Chen"
+        ],
+        "upvotes": 8,
+        "github_repo": "https://github.com/gaoypeng/3dcodebench",
+        "github_stars": 43,
+        "published_at": "2026-05-31T00:00:00.000Z",
         "num_comments": 2
       },
       "2606.00660": {
@@ -218916,25 +218935,6 @@
         "github_repo": "https://github.com/ZGC-EmbodyAI/RoboSemanticBench",
         "github_stars": 2,
         "published_at": "2026-06-01T00:00:00.000Z",
-        "num_comments": 2
-      },
-      "2606.01057": {
-        "id": "2606.01057",
-        "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
-        "authors": [
-          "Yipeng Gao",
-          "Lei Shu",
-          "Genzhi Ye",
-          "Xi Xiong",
-          "Ameesh Makadia",
-          "Meiqi Guo",
-          "Laurent Itti",
-          "Jindong Chen"
-        ],
-        "upvotes": 7,
-        "github_repo": "https://github.com/gaoypeng/3dcodebench",
-        "github_stars": 41,
-        "published_at": "2026-05-31T00:00:00.000Z",
         "num_comments": 2
       },
       "2606.01336": {
@@ -219054,7 +219054,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/SCAI-JHU/MindZero",
-        "github_stars": 6,
+        "github_stars": 7,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 1
       },
@@ -219208,7 +219208,7 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/raphaelrrcoelho/formal-mathfin",
-        "github_stars": 9,
+        "github_stars": 10,
         "published_at": "2026-05-31T00:00:00.000Z",
         "num_comments": 3
       },
@@ -219242,7 +219242,7 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/NVIDIAGameWorks/Kaolin",
-        "github_stars": 5106,
+        "github_stars": 5107,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 2
       },
@@ -219442,7 +219442,7 @@
     }
   },
   "2026-06-03": {
-    "fetched_at": "2026-06-16T14:22:30.642037",
+    "fetched_at": "2026-06-17T12:55:08.477090",
     "count": 42,
     "papers": {
       "2606.00683": {
@@ -219460,7 +219460,7 @@
           "Andrey Galichin",
           "Ivan Oseledets"
         ],
-        "upvotes": 90,
+        "upvotes": 91,
         "github_repo": "https://github.com/optimal-cognitive-core/OCC-RAG",
         "github_stars": 32,
         "published_at": "2026-05-30T00:00:00.000Z",
@@ -219477,9 +219477,9 @@
           "Jiawei Zhuang",
           "Lukas Cavigelli"
         ],
-        "upvotes": 60,
+        "upvotes": 61,
         "github_repo": "https://github.com/huawei-csl/KVarN",
-        "github_stars": 399,
+        "github_stars": 400,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 10
       },
@@ -219501,6 +219501,28 @@
         "github_stars": null,
         "published_at": "2026-05-22T00:00:00.000Z",
         "num_comments": 2
+      },
+      "2606.03920": {
+        "id": "2606.03920",
+        "title": "Benchmarking Visual State Tracking in Multimodal Video Understanding",
+        "authors": [
+          "Sihyun Yu",
+          "Nanye Ma",
+          "Pinzhi Huang",
+          "Hyunseok Lee",
+          "Shusheng Yang",
+          "June Suk Choi",
+          "Ellis Brown",
+          "Oscar Michel",
+          "Boyang Zheng",
+          "Jinwoo Shin",
+          "Saining Xie"
+        ],
+        "upvotes": 47,
+        "github_repo": "https://github.com/vision-x-nyu/vstat",
+        "github_stars": 33,
+        "published_at": "2026-06-02T00:00:00.000Z",
+        "num_comments": 1
       },
       "2606.01249": {
         "id": "2606.01249",
@@ -219538,7 +219560,7 @@
         ],
         "upvotes": 40,
         "github_repo": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
-        "github_stars": 224,
+        "github_stars": 229,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 0
       },
@@ -219610,28 +219632,6 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-01T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.03920": {
-        "id": "2606.03920",
-        "title": "Benchmarking Visual State Tracking in Multimodal Video Understanding",
-        "authors": [
-          "Sihyun Yu",
-          "Nanye Ma",
-          "Pinzhi Huang",
-          "Hyunseok Lee",
-          "Shusheng Yang",
-          "June Suk Choi",
-          "Ellis Brown",
-          "Oscar Michel",
-          "Boyang Zheng",
-          "Jinwoo Shin",
-          "Saining Xie"
-        ],
-        "upvotes": 25,
-        "github_repo": "https://github.com/vision-x-nyu/vstat",
-        "github_stars": 33,
-        "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 1
       },
       "2606.03159": {
@@ -219717,7 +219717,7 @@
         ],
         "upvotes": 23,
         "github_repo": "https://github.com/X-Square-Robot/wall-x",
-        "github_stars": 1092,
+        "github_stars": 1094,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 1
       },
@@ -219768,7 +219768,7 @@
         ],
         "upvotes": 21,
         "github_repo": "https://github.com/naver-ai/merit",
-        "github_stars": 1,
+        "github_stars": 2,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 1
       },
@@ -219792,23 +219792,6 @@
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
-      "2606.01599": {
-        "id": "2606.01599",
-        "title": "TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL",
-        "authors": [
-          "Tianze Yang",
-          "Yucheng Shi",
-          "Ruitong Sun",
-          "Jingyuan Huang",
-          "Ninghao Liu",
-          "Jin Sun"
-        ],
-        "upvotes": 17,
-        "github_repo": "https://github.com/YangTianze009/TRON",
-        "github_stars": 4,
-        "published_at": "2026-06-01T02:52:49.000Z",
-        "num_comments": 1
-      },
       "2606.03264": {
         "id": "2606.03264",
         "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
@@ -219829,10 +219812,27 @@
           "Dianhai Yu",
           "Yanjun Ma"
         ],
-        "upvotes": 16,
+        "upvotes": 18,
         "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-        "github_stars": 82375,
+        "github_stars": 82697,
         "published_at": "2026-06-02T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.01599": {
+        "id": "2606.01599",
+        "title": "TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL",
+        "authors": [
+          "Tianze Yang",
+          "Yucheng Shi",
+          "Ruitong Sun",
+          "Jingyuan Huang",
+          "Ninghao Liu",
+          "Jin Sun"
+        ],
+        "upvotes": 17,
+        "github_repo": "https://github.com/YangTianze009/TRON",
+        "github_stars": 4,
+        "published_at": "2026-06-01T02:52:49.000Z",
         "num_comments": 1
       },
       "2606.03102": {
@@ -219867,7 +219867,7 @@
         ],
         "upvotes": 14,
         "github_repo": "https://github.com/HKU-HealthAI/DRDD",
-        "github_stars": 27,
+        "github_stars": 28,
         "published_at": "2026-05-31T06:38:18.000Z",
         "num_comments": 1
       },
@@ -219886,6 +219886,23 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-01T18:20:27.000Z",
+        "num_comments": 1
+      },
+      "2606.03748": {
+        "id": "2606.03748",
+        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+        "authors": [
+          "Glenn Jocher",
+          "Jing Qiu",
+          "Mengyu Liu",
+          "Shuai Lyu",
+          "Fatih Cagatay Akyon",
+          "Muhammet Esat Kalfaoglu"
+        ],
+        "upvotes": 12,
+        "github_repo": "https://github.com/ultralytics/ultralytics",
+        "github_stars": 58491,
+        "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 1
       },
       "2606.01770": {
@@ -219907,23 +219924,6 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-01T06:51:14.000Z",
-        "num_comments": 1
-      },
-      "2606.03748": {
-        "id": "2606.03748",
-        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-        "authors": [
-          "Glenn Jocher",
-          "Jing Qiu",
-          "Mengyu Liu",
-          "Shuai Lyu",
-          "Fatih Cagatay Akyon",
-          "Muhammet Esat Kalfaoglu"
-        ],
-        "upvotes": 10,
-        "github_repo": "https://github.com/ultralytics/ultralytics",
-        "github_stars": 58466,
-        "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 1
       },
       "2606.01788": {
@@ -220089,7 +220089,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/LIRAM-LIN/AbaqusAgent",
-        "github_stars": 7,
+        "github_stars": 11,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 1
       },
@@ -220217,7 +220217,7 @@
         ],
         "upvotes": 2,
         "github_repo": "https://github.com/zhangganlin/BA-T",
-        "github_stars": 23,
+        "github_stars": 24,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 1
       },
@@ -220236,7 +220236,7 @@
     }
   },
   "2026-06-04": {
-    "fetched_at": "2026-06-16T14:22:29.454831",
+    "fetched_at": "2026-06-17T12:55:07.380120",
     "count": 54,
     "papers": {
       "2606.02800": {
@@ -220537,7 +220537,7 @@
         ],
         "upvotes": 120,
         "github_repo": "https://github.com/NVIDIA/cosmos",
-        "github_stars": 10259,
+        "github_stars": 10296,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 1
       },
@@ -220559,7 +220559,7 @@
         ],
         "upvotes": 112,
         "github_repo": "https://github.com/xzf-thu/Audio-Interaction",
-        "github_stars": 469,
+        "github_stars": 490,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 2
       },
@@ -220681,7 +220681,7 @@
         ],
         "upvotes": 30,
         "github_repo": "https://github.com/autolabhq/autolab",
-        "github_stars": 139,
+        "github_stars": 141,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 0
       },
@@ -220721,7 +220721,7 @@
         ],
         "upvotes": 28,
         "github_repo": "https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Infinity",
-        "github_stars": 89,
+        "github_stars": 90,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 2
       },
@@ -220796,6 +220796,24 @@
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 5
       },
+      "2606.03773": {
+        "id": "2606.03773",
+        "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
+        "authors": [
+          "Maurice Kraus",
+          "Ruben Härle",
+          "Sebastian Sztwiertnia",
+          "Abbas Goher Khan",
+          "Mehdi Ali",
+          "Michael Fromm",
+          "Kristian Kersting"
+        ],
+        "upvotes": 21,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-02T15:28:15.000Z",
+        "num_comments": 6
+      },
       "2606.05102": {
         "id": "2606.05102",
         "title": "ZipSplat: Fewer Gaussians, Better Splats",
@@ -220810,24 +220828,6 @@
         "github_stars": 99,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 1
-      },
-      "2606.03773": {
-        "id": "2606.03773",
-        "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
-        "authors": [
-          "Maurice Kraus",
-          "Ruben Härle",
-          "Sebastian Sztwiertnia",
-          "Abbas Goher Khan",
-          "Mehdi Ali",
-          "Michael Fromm",
-          "Kristian Kersting"
-        ],
-        "upvotes": 20,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-06-02T15:28:15.000Z",
-        "num_comments": 6
       },
       "2606.04513": {
         "id": "2606.04513",
@@ -221260,7 +221260,7 @@
         ],
         "upvotes": 3,
         "github_repo": "https://github.com/yingqi-z20/Agent-libOS",
-        "github_stars": 15,
+        "github_stars": 16,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 1
       },
@@ -221363,7 +221363,7 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/daxintan-cuhk/SpeechEditBench",
-        "github_stars": 2,
+        "github_stars": 3,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 2
       },
@@ -221531,14 +221531,14 @@
         ],
         "upvotes": 0,
         "github_repo": "https://github.com/xjffff/FUNCATTN",
-        "github_stars": 7,
+        "github_stars": 8,
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       }
     }
   },
   "2026-06-05": {
-    "fetched_at": "2026-06-16T14:22:28.213625",
+    "fetched_at": "2026-06-17T12:55:06.262563",
     "count": 50,
     "papers": {
       "2606.06492": {
@@ -221699,9 +221699,25 @@
         ],
         "upvotes": 24,
         "github_repo": "https://github.com/RUCBM/ExpInternalization",
-        "github_stars": 3,
+        "github_stars": 4,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 2
+      },
+      "2605.27079": {
+        "id": "2605.27079",
+        "title": "Trust Region Q Adjoint Matching",
+        "authors": [
+          "Yonghoon Dong",
+          "Kyungmin Lee",
+          "Changyeon Kim",
+          "Jaehyuk Kim",
+          "Jinwoo Shin"
+        ],
+        "upvotes": 23,
+        "github_repo": "https://github.com/yonghdong/trqam",
+        "github_stars": 13,
+        "published_at": "2026-05-26T00:00:00.000Z",
+        "num_comments": 3
       },
       "2606.05275": {
         "id": "2606.05275",
@@ -221740,7 +221756,7 @@
         ],
         "upvotes": 19,
         "github_repo": "https://github.com/InternScience/MLEvolve",
-        "github_stars": 353,
+        "github_stars": 357,
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 2
       },
@@ -221851,7 +221867,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/Skywalker-yqz/AffordanceVLA",
-        "github_stars": 38,
+        "github_stars": 39,
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 3
       },
@@ -221928,7 +221944,7 @@
         ],
         "upvotes": 8,
         "github_repo": "https://github.com/SJTU-DENG-Lab/WLA",
-        "github_stars": 81,
+        "github_stars": 86,
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 1
       },
@@ -222118,6 +222134,24 @@
         "published_at": "2026-05-29T00:00:00.000Z",
         "num_comments": 2
       },
+      "2605.30794": {
+        "id": "2605.30794",
+        "title": "MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding",
+        "authors": [
+          "Qian Kou",
+          "Xiaofeng Shi",
+          "Yulin Li",
+          "Xiaosong Qiu",
+          "Xinyang Wang",
+          "Hua Zhou",
+          "Cao Dongxing"
+        ],
+        "upvotes": 5,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-05-29T00:00:00.000Z",
+        "num_comments": 3
+      },
       "2606.05846": {
         "id": "2606.05846",
         "title": "Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs",
@@ -222178,24 +222212,6 @@
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 4
       },
-      "2605.30794": {
-        "id": "2605.30794",
-        "title": "MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding",
-        "authors": [
-          "Qian Kou",
-          "Xiaofeng Shi",
-          "Yulin Li",
-          "Xiaosong Qiu",
-          "Xinyang Wang",
-          "Hua Zhou",
-          "Cao Dongxing"
-        ],
-        "upvotes": 4,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-05-29T00:00:00.000Z",
-        "num_comments": 3
-      },
       "2606.05833": {
         "id": "2606.05833",
         "title": "Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models",
@@ -222238,22 +222254,6 @@
         "github_stars": 3,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 2
-      },
-      "2605.27079": {
-        "id": "2605.27079",
-        "title": "Trust Region Q Adjoint Matching",
-        "authors": [
-          "Yonghoon Dong",
-          "Kyungmin Lee",
-          "Changyeon Kim",
-          "Jaehyuk Kim",
-          "Jinwoo Shin"
-        ],
-        "upvotes": 3,
-        "github_repo": "https://github.com/yonghdong/trqam",
-        "github_stars": 13,
-        "published_at": "2026-05-26T00:00:00.000Z",
-        "num_comments": 3
       },
       "2606.06443": {
         "id": "2606.06443",
@@ -222354,7 +222354,7 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/sfu-mial/QG-SSL",
-        "github_stars": null,
+        "github_stars": 1,
         "published_at": "2026-06-01T00:00:00.000Z",
         "num_comments": 2
       },
@@ -222448,7 +222448,7 @@
     }
   },
   "2026-06-08": {
-    "fetched_at": "2026-06-16T14:22:27.032340",
+    "fetched_at": "2026-06-17T12:55:05.138436",
     "count": 48,
     "papers": {
       "2606.03988": {
@@ -222467,9 +222467,9 @@
           "Linda Shapiro",
           "Ranjay Krishna"
         ],
-        "upvotes": 119,
+        "upvotes": 120,
         "github_repo": "https://github.com/weikaih04/Imaginative-Perception-Token",
-        "github_stars": 91,
+        "github_stars": 92,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 3
       },
@@ -222545,9 +222545,9 @@
           "Lei Bai",
           "Wenlong Zhang"
         ],
-        "upvotes": 89,
+        "upvotes": 90,
         "github_repo": "https://github.com/InternScience/ResearchClawBench",
-        "github_stars": 161,
+        "github_stars": 165,
         "published_at": "2026-05-28T00:00:00.000Z",
         "num_comments": 6
       },
@@ -222627,7 +222627,7 @@
         ],
         "upvotes": 44,
         "github_repo": "https://github.com/ddlBoJack/MMAE",
-        "github_stars": 93,
+        "github_stars": 94,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 3
       },
@@ -222691,7 +222691,7 @@
         ],
         "upvotes": 27,
         "github_repo": "https://github.com/OpenLAIR/OpenSkill",
-        "github_stars": 53,
+        "github_stars": 54,
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 2
       },
@@ -222848,7 +222848,7 @@
         ],
         "upvotes": 15,
         "github_repo": "https://github.com/rednote-hilab/dots.tts",
-        "github_stars": 678,
+        "github_stars": 698,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
       },
@@ -222870,6 +222870,23 @@
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 2
       },
+      "2606.06361": {
+        "id": "2606.06361",
+        "title": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
+        "authors": [
+          "Woojung Han",
+          "Seil Kang",
+          "Youngjun Jun",
+          "Min-Hung Chen",
+          "Fu-En Yang",
+          "Seong Jae Hwang"
+        ],
+        "upvotes": 15,
+        "github_repo": "https://github.com/dnwjddl/phaselock",
+        "github_stars": 2,
+        "published_at": "2026-06-04T00:00:00.000Z",
+        "num_comments": 3
+      },
       "2606.07514": {
         "id": "2606.07514",
         "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
@@ -222884,26 +222901,9 @@
         ],
         "upvotes": 14,
         "github_repo": "https://github.com/Insta360-Research-Team/UniSHARP",
-        "github_stars": 210,
+        "github_stars": 237,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
-      },
-      "2606.06361": {
-        "id": "2606.06361",
-        "title": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
-        "authors": [
-          "Woojung Han",
-          "Seil Kang",
-          "Youngjun Jun",
-          "Min-Hung Chen",
-          "Fu-En Yang",
-          "Seong Jae Hwang"
-        ],
-        "upvotes": 14,
-        "github_repo": "https://github.com/dnwjddl/phaselock",
-        "github_stars": 2,
-        "published_at": "2026-06-04T00:00:00.000Z",
-        "num_comments": 3
       },
       "2605.27276": {
         "id": "2605.27276",
@@ -222919,7 +222919,7 @@
         ],
         "upvotes": 14,
         "github_repo": "https://github.com/hexo-ai/sia",
-        "github_stars": 1734,
+        "github_stars": 1750,
         "published_at": "2026-05-26T00:00:00.000Z",
         "num_comments": 2
       },
@@ -222941,7 +222941,7 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/OpenRaiser/PaperFlow",
-        "github_stars": 19,
+        "github_stars": 20,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
       },
@@ -222994,7 +222994,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/mingju-c/HarnessForge",
-        "github_stars": 12,
+        "github_stars": 13,
         "published_at": "2026-06-01T07:00:35.000Z",
         "num_comments": 2
       },
@@ -223028,7 +223028,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/texttron/RISE",
-        "github_stars": 15,
+        "github_stars": 17,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
       },
@@ -223334,7 +223334,7 @@
         ],
         "upvotes": 0,
         "github_repo": "https://github.com/PearlLeeStudio/TheArtist",
-        "github_stars": 1,
+        "github_stars": 3,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
       },
@@ -223368,7 +223368,7 @@
     }
   },
   "2026-06-09": {
-    "fetched_at": "2026-06-16T14:22:25.851683",
+    "fetched_at": "2026-06-17T12:55:04.042096",
     "count": 59,
     "papers": {
       "2606.05405": {
@@ -223684,9 +223684,9 @@
           "Somayeh Sojoudi",
           "Dawn Song"
         ],
-        "upvotes": 344,
+        "upvotes": 346,
         "github_repo": "https://github.com/rdi-berkeley/agents-last-exam",
-        "github_stars": 675,
+        "github_stars": 688,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 3
       },
@@ -223706,9 +223706,9 @@
           "Kai Cai",
           "Xiaodong Gu"
         ],
-        "upvotes": 112,
+        "upvotes": 113,
         "github_repo": "https://github.com/Qiushao-E/SWE-Explore-Bench",
-        "github_stars": 18,
+        "github_stars": 19,
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 4
       },
@@ -223726,7 +223726,7 @@
           "Sunbowen Lee",
           "Yi R. Fung"
         ],
-        "upvotes": 71,
+        "upvotes": 72,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-05T00:00:00.000Z",
@@ -223749,7 +223749,7 @@
         ],
         "upvotes": 66,
         "github_repo": "https://github.com/microsoft/LatentSpatialMemory",
-        "github_stars": 208,
+        "github_stars": 220,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 3
       },
@@ -223795,7 +223795,7 @@
         ],
         "upvotes": 61,
         "github_repo": "https://github.com/libertywing/FlashMemory-Deepseek-V4",
-        "github_stars": 72,
+        "github_stars": 74,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 5
       },
@@ -223846,9 +223846,9 @@
           "Nan Duan",
           "Yinpeng Dong"
         ],
-        "upvotes": 42,
+        "upvotes": 43,
         "github_repo": "https://github.com/Hongcheng-Gao/SpatialWorld",
-        "github_stars": 47,
+        "github_stars": 48,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 1
       },
@@ -223892,7 +223892,7 @@
         ],
         "upvotes": 32,
         "github_repo": "https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory",
-        "github_stars": 105,
+        "github_stars": 109,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 2
       },
@@ -223918,7 +223918,7 @@
         ],
         "upvotes": 26,
         "github_repo": "https://github.com/LeonLixyz/LCLM",
-        "github_stars": 59,
+        "github_stars": 65,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224010,9 +224010,9 @@
           "Jiantao Zhou",
           "Xuelong Li"
         ],
-        "upvotes": 15,
+        "upvotes": 16,
         "github_repo": "https://github.com/H-oliday/SwiftVR",
-        "github_stars": 68,
+        "github_stars": 71,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 4
       },
@@ -224099,7 +224099,7 @@
         ],
         "upvotes": 14,
         "github_repo": "https://github.com/DataArcTech/Bayesian-Agent",
-        "github_stars": 41,
+        "github_stars": 42,
         "published_at": "2026-06-06T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224136,7 +224136,7 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/Qwen-Applications/Skill-RM",
-        "github_stars": 9,
+        "github_stars": 12,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224158,6 +224158,21 @@
         "published_at": "2026-06-05T00:00:00.000Z",
         "num_comments": 2
       },
+      "2606.03715": {
+        "id": "2606.03715",
+        "title": "Text-to-Image Models Need Less from Text Encoders Than You Think",
+        "authors": [
+          "Nurit Spingarn",
+          "Noa Cohen",
+          "Tamar Rott Shaham",
+          "Tomer Michaeli"
+        ],
+        "upvotes": 11,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-02T00:00:00.000Z",
+        "num_comments": 2
+      },
       "2606.08242": {
         "id": "2606.08242",
         "title": "Light-WAM: Efficient World Action Models with State-Fusion Action Decoding",
@@ -224173,7 +224188,7 @@
         ],
         "upvotes": 10,
         "github_repo": "https://github.com/L1ziang/Light-WAM",
-        "github_stars": 45,
+        "github_stars": 47,
         "published_at": "2026-06-06T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224192,21 +224207,6 @@
         "github_stars": null,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 4
-      },
-      "2606.03715": {
-        "id": "2606.03715",
-        "title": "Text-to-Image Models Need Less from Text Encoders Than You Think",
-        "authors": [
-          "Nurit Spingarn",
-          "Noa Cohen",
-          "Tamar Rott Shaham",
-          "Tomer Michaeli"
-        ],
-        "upvotes": 10,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-06-02T00:00:00.000Z",
-        "num_comments": 2
       },
       "2606.09380": {
         "id": "2606.09380",
@@ -224275,7 +224275,7 @@
         ],
         "upvotes": 7,
         "github_repo": "https://github.com/louieworth/trd",
-        "github_stars": 18,
+        "github_stars": 20,
         "published_at": "2026-06-07T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224319,7 +224319,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/RickySkywalker/Lean4Agent",
-        "github_stars": 1,
+        "github_stars": 2,
         "published_at": "2026-06-02T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224333,7 +224333,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/ardauzunoglu/trust-functions",
-        "github_stars": null,
+        "github_stars": 1,
         "published_at": "2026-05-31T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224466,7 +224466,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/microsoft/webgym",
-        "github_stars": 41,
+        "github_stars": 42,
         "published_at": "2026-06-04T00:00:00.000Z",
         "num_comments": 2
       },
@@ -224794,7 +224794,7 @@
     }
   },
   "2026-06-10": {
-    "fetched_at": "2026-06-16T14:22:24.608442",
+    "fetched_at": "2026-06-17T12:55:02.921073",
     "count": 45,
     "papers": {
       "2606.09967": {
@@ -224832,7 +224832,7 @@
         ],
         "upvotes": 468,
         "github_repo": "https://github.com/amap-cvlab/ABot-Earth-0.5",
-        "github_stars": 141,
+        "github_stars": 145,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 7
       },
@@ -224894,7 +224894,7 @@
           "Junyu Shi",
           "Ruilin Zhang"
         ],
-        "upvotes": 184,
+        "upvotes": 185,
         "github_repo": "https://github.com/Kwai-Keye/Keye",
         "github_stars": 793,
         "published_at": "2026-06-09T00:00:00.000Z",
@@ -224914,7 +224914,7 @@
         ],
         "upvotes": 76,
         "github_repo": "https://github.com/AMAP-ML/roleagent",
-        "github_stars": 79,
+        "github_stars": 80,
         "published_at": "2026-06-09T14:28:07.000Z",
         "num_comments": 5
       },
@@ -224933,7 +224933,7 @@
         ],
         "upvotes": 52,
         "github_repo": "https://github.com/wbopan/retro-harness",
-        "github_stars": 24,
+        "github_stars": 25,
         "published_at": "2026-06-04T09:26:00.000Z",
         "num_comments": 3
       },
@@ -224954,7 +224954,7 @@
         ],
         "upvotes": 50,
         "github_repo": "https://github.com/Search-Swarm/SearchSwarm",
-        "github_stars": 70,
+        "github_stars": 72,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 3
       },
@@ -224969,7 +224969,7 @@
         ],
         "upvotes": 42,
         "github_repo": "https://github.com/zai-org/SCAIL-2",
-        "github_stars": 528,
+        "github_stars": 588,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225049,7 +225049,7 @@
         ],
         "upvotes": 33,
         "github_repo": "https://github.com/cvlab-kaist/LipForcing",
-        "github_stars": 65,
+        "github_stars": 67,
         "published_at": "2026-06-09T17:56:36.000Z",
         "num_comments": 2
       },
@@ -225066,7 +225066,7 @@
         ],
         "upvotes": 33,
         "github_repo": "https://github.com/Tencent-Hunyuan/UniRL",
-        "github_stars": 623,
+        "github_stars": 631,
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 4
       },
@@ -225088,7 +225088,7 @@
         ],
         "upvotes": 31,
         "github_repo": "https://github.com/alibaba-damo-academy/WorldOlympiad",
-        "github_stars": 48,
+        "github_stars": 49,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 3
       },
@@ -225184,7 +225184,7 @@
           "Zaiyuan Wang",
           "Xiaolong Chang"
         ],
-        "upvotes": 20,
+        "upvotes": 21,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-09T00:00:00.000Z",
@@ -225200,7 +225200,7 @@
         ],
         "upvotes": 18,
         "github_repo": "https://github.com/Princeton-AI2-Lab/EEVEE",
-        "github_stars": 8,
+        "github_stars": 11,
         "published_at": "2026-06-09T17:57:16.000Z",
         "num_comments": 2
       },
@@ -225232,7 +225232,7 @@
           "Huiming Wang",
           "Zhijiang Guo"
         ],
-        "upvotes": 15,
+        "upvotes": 16,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-09T00:00:00.000Z",
@@ -225266,9 +225266,9 @@
           "Jin Lu",
           "Ninghao Liu"
         ],
-        "upvotes": 10,
+        "upvotes": 11,
         "github_repo": "https://github.com/plusnli/skill-dynamic-retrieval",
-        "github_stars": 6,
+        "github_stars": 7,
         "published_at": "2026-06-03T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225395,7 +225395,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/gangweix/next-forcing",
-        "github_stars": 55,
+        "github_stars": 57,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225582,7 +225582,7 @@
         ],
         "upvotes": 3,
         "github_repo": "https://github.com/yuzhenmao/DeLM",
-        "github_stars": 42,
+        "github_stars": 43,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225613,7 +225613,7 @@
         ],
         "upvotes": 3,
         "github_repo": "https://github.com/zhouzypaul/qgf",
-        "github_stars": 69,
+        "github_stars": 73,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225671,7 +225671,7 @@
         ],
         "upvotes": 2,
         "github_repo": "https://github.com/jiarui-liu/overleaf",
-        "github_stars": 19,
+        "github_stars": 20,
         "published_at": "2026-06-07T00:00:00.000Z",
         "num_comments": 2
       },
@@ -225743,7 +225743,7 @@
     }
   },
   "2026-06-11": {
-    "fetched_at": "2026-06-16T14:22:23.432921",
+    "fetched_at": "2026-06-17T12:55:01.818583",
     "count": 42,
     "papers": {
       "2606.11926": {
@@ -225769,9 +225769,9 @@
           "Yutao Zhu",
           "Zhicheng Dou"
         ],
-        "upvotes": 110,
+        "upvotes": 111,
         "github_repo": "https://github.com/RUC-NLPIR/Arbor",
-        "github_stars": 346,
+        "github_stars": 361,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 6
       },
@@ -225813,7 +225813,7 @@
         ],
         "upvotes": 65,
         "github_repo": "https://github.com/opensquilla/claw-swe-bench",
-        "github_stars": 25,
+        "github_stars": 26,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 3
       },
@@ -225889,6 +225889,40 @@
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 3
       },
+      "2606.11324": {
+        "id": "2606.11324",
+        "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
+        "authors": [
+          "Yifu Yuan",
+          "Yaoting Huang",
+          "Xianze Yao",
+          "Yutong Li",
+          "Shuoheng Zhang",
+          "Linqi Han",
+          "Pengyi Li",
+          "Jiangeng Sun",
+          "Wenting Jia",
+          "Zhao Zhang",
+          "Yuhao Liu",
+          "Ruihao Liao",
+          "Yucheng Hu",
+          "Qiyu Wu",
+          "Yuxiao Li",
+          "Zibin Dong",
+          "Fei Ni",
+          "Yan Zheng",
+          "Shuyang Gu",
+          "Yi Ma",
+          "Hongyao Tang",
+          "Han Hu",
+          "Jianye Hao"
+        ],
+        "upvotes": 37,
+        "github_repo": "https://github.com/pickxiguapi/Embodied-R1.5",
+        "github_stars": 28,
+        "published_at": "2026-06-09T00:00:00.000Z",
+        "num_comments": 1
+      },
       "2606.10728": {
         "id": "2606.10728",
         "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch",
@@ -225901,7 +225935,7 @@
           "Ji-Rong Wen",
           "Kai Jia"
         ],
-        "upvotes": 32,
+        "upvotes": 33,
         "github_repo": "https://github.com/AweAI-Team/DeNovoSWE",
         "github_stars": 31,
         "published_at": "2026-06-09T00:00:00.000Z",
@@ -225940,7 +225974,7 @@
         ],
         "upvotes": 25,
         "github_repo": "https://github.com/ZefuLin/WorldPilot",
-        "github_stars": 20,
+        "github_stars": 21,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226059,6 +226093,20 @@
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 3
       },
+      "2606.11817": {
+        "id": "2606.11817",
+        "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+        "authors": [
+          "Yitong Zhang",
+          "Shiteng Lu",
+          "Jia Li"
+        ],
+        "upvotes": 18,
+        "github_repo": "https://github.com/TsinghuaISE/CodeSpear-CodeShield",
+        "github_stars": 6,
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "num_comments": 5
+      },
       "2606.11119": {
         "id": "2606.11119",
         "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
@@ -226081,20 +226129,6 @@
         "github_stars": null,
         "published_at": "2026-06-09T17:16:03.000Z",
         "num_comments": 3
-      },
-      "2606.11817": {
-        "id": "2606.11817",
-        "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
-        "authors": [
-          "Yitong Zhang",
-          "Shiteng Lu",
-          "Jia Li"
-        ],
-        "upvotes": 17,
-        "github_repo": "https://github.com/TsinghuaISE/CodeSpear-CodeShield",
-        "github_stars": 6,
-        "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 5
       },
       "2606.08035": {
         "id": "2606.08035",
@@ -226125,7 +226159,7 @@
         ],
         "upvotes": 15,
         "github_repo": "https://github.com/liusida/ica-lens-paper",
-        "github_stars": 27,
+        "github_stars": 28,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226140,42 +226174,8 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/sebastian-stapf/world-model-self-distillation",
-        "github_stars": 15,
+        "github_stars": 16,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.11324": {
-        "id": "2606.11324",
-        "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
-        "authors": [
-          "Yifu Yuan",
-          "Yaoting Huang",
-          "Xianze Yao",
-          "Yutong Li",
-          "Shuoheng Zhang",
-          "Linqi Han",
-          "Pengyi Li",
-          "Jiangeng Sun",
-          "Wenting Jia",
-          "Zhao Zhang",
-          "Yuhao Liu",
-          "Ruihao Liao",
-          "Yucheng Hu",
-          "Qiyu Wu",
-          "Yuxiao Li",
-          "Zibin Dong",
-          "Fei Ni",
-          "Yan Zheng",
-          "Shuyang Gu",
-          "Yi Ma",
-          "Hongyao Tang",
-          "Han Hu",
-          "Jianye Hao"
-        ],
-        "upvotes": 11,
-        "github_repo": "https://github.com/pickxiguapi/Embodied-R1.5",
-        "github_stars": 26,
-        "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 1
       },
       "2606.11289": {
@@ -226190,9 +226190,9 @@
           "Gabriel Sarch",
           "Zhuang Liu"
         ],
-        "upvotes": 11,
+        "upvotes": 13,
         "github_repo": "https://github.com/zlab-princeton/i1",
-        "github_stars": 124,
+        "github_stars": 127,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226268,7 +226268,7 @@
         ],
         "upvotes": 6,
         "github_repo": "https://github.com/wdrink/RepWAM",
-        "github_stars": 37,
+        "github_stars": 38,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226349,7 +226349,7 @@
         ],
         "upvotes": 3,
         "github_repo": "https://github.com/cal-data-audit/modsleuth",
-        "github_stars": 13,
+        "github_stars": 14,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226548,7 +226548,7 @@
     }
   },
   "2026-06-12": {
-    "fetched_at": "2026-06-16T14:22:22.260352",
+    "fetched_at": "2026-06-17T12:55:00.716284",
     "count": 44,
     "papers": {
       "2606.13392": {
@@ -226567,9 +226567,9 @@
           "Vito Zhang",
           "Pengyu Zhao"
         ],
-        "upvotes": 134,
+        "upvotes": 137,
         "github_repo": "https://github.com/MiniMax-AI/MSA",
-        "github_stars": 301,
+        "github_stars": 313,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 4
       },
@@ -226592,9 +226592,9 @@
           "Bryan Hooi",
           "Zhiyuan Hu"
         ],
-        "upvotes": 132,
+        "upvotes": 135,
         "github_repo": "https://github.com/Aiden0526/EvoArena",
-        "github_stars": 18,
+        "github_stars": 19,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 3
       },
@@ -226632,9 +226632,9 @@
           "Yu-Chiang Frank Wang",
           "Min-Hung Chen"
         ],
-        "upvotes": 95,
+        "upvotes": 97,
         "github_repo": "https://github.com/NVlabs/SpatialClaw",
-        "github_stars": 82,
+        "github_stars": 117,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 3
       },
@@ -226666,7 +226666,7 @@
           "Pengyu Zhao",
           "Yu Cheng"
         ],
-        "upvotes": 87,
+        "upvotes": 88,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
@@ -226686,7 +226686,7 @@
         ],
         "upvotes": 78,
         "github_repo": "https://github.com/zhengdian1/InterleaveThinker",
-        "github_stars": 196,
+        "github_stars": 203,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 3
       },
@@ -226704,9 +226704,9 @@
           "Qingfa Xiao",
           "Qifeng Chen"
         ],
-        "upvotes": 76,
+        "upvotes": 77,
         "github_repo": "https://github.com/jqtangust/Robust-U1",
-        "github_stars": 127,
+        "github_stars": 171,
         "published_at": "2026-06-06T00:00:00.000Z",
         "num_comments": 3
       },
@@ -226727,9 +226727,9 @@
           "Bryan Dai",
           "Ji-Rong Wen"
         ],
-        "upvotes": 72,
+        "upvotes": 73,
         "github_repo": "https://github.com/RUCAIBox/FORT-Searcher",
-        "github_stars": 20,
+        "github_stars": 22,
         "published_at": "2026-06-10T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226758,7 +226758,7 @@
         ],
         "upvotes": 53,
         "github_repo": "https://github.com/zjunlp/LabVLA",
-        "github_stars": 58,
+        "github_stars": 60,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226771,7 +226771,7 @@
           "Yunqiu Xu",
           "Yi Yang"
         ],
-        "upvotes": 34,
+        "upvotes": 35,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-10T00:00:00.000Z",
@@ -226786,7 +226786,7 @@
           "Yang He",
           "Yi Yang"
         ],
-        "upvotes": 31,
+        "upvotes": 32,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-10T00:00:00.000Z",
@@ -226832,7 +226832,7 @@
         ],
         "upvotes": 27,
         "github_repo": "https://github.com/THU-Team-Eureka/EurekAgent",
-        "github_stars": 49,
+        "github_stars": 53,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226919,9 +226919,9 @@
           "Shengfeng He",
           "Jing Li"
         ],
-        "upvotes": 12,
+        "upvotes": 13,
         "github_repo": "https://github.com/Orange-3DV-Team/MoVerse",
-        "github_stars": 77,
+        "github_stars": 78,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
       },
@@ -226994,11 +226994,11 @@
           "Marsha Chechik",
           "Colin Raffel"
         ],
-        "upvotes": 8,
+        "upvotes": 9,
         "github_repo": "https://github.com/r-three/risk-under-pressure",
-        "github_stars": 1,
+        "github_stars": 2,
         "published_at": "2026-06-09T00:00:00.000Z",
-        "num_comments": 3
+        "num_comments": 4
       },
       "2606.09290": {
         "id": "2606.09290",
@@ -227018,6 +227018,25 @@
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 2
       },
+      "2606.12730": {
+        "id": "2606.12730",
+        "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+        "authors": [
+          "Rafal Kocielnik",
+          "Pengrui Han",
+          "Peiyang Song",
+          "Myrl G. Marmarelis",
+          "Ramit Debnath",
+          "Dean Mobbs",
+          "Anima Anandkumar",
+          "R. Michael Alvarez"
+        ],
+        "upvotes": 6,
+        "github_repo": "https://github.com/psychology-of-AI/Rethinking-Pyschometric-Eval-LLMs",
+        "github_stars": 1,
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "num_comments": 3
+      },
       "2606.09304": {
         "id": "2606.09304",
         "title": "SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling",
@@ -227035,24 +227054,23 @@
         "published_at": "2026-06-08T00:00:00.000Z",
         "num_comments": 2
       },
-      "2606.12730": {
-        "id": "2606.12730",
-        "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "2606.12674": {
+        "id": "2606.12674",
+        "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
         "authors": [
-          "Rafal Kocielnik",
-          "Pengrui Han",
-          "Peiyang Song",
-          "Myrl G. Marmarelis",
-          "Ramit Debnath",
-          "Dean Mobbs",
-          "Anima Anandkumar",
-          "R. Michael Alvarez"
+          "Kushal Raj Bhandari",
+          "Ling Yue",
+          "Ching-Yun Ko",
+          "Dhaval Patel",
+          "Shaowu Pan",
+          "Pin-Yu Chen",
+          "Jianxi Gao"
         ],
         "upvotes": 5,
-        "github_repo": "https://github.com/psychology-of-AI/Rethinking-Pyschometric-Eval-LLMs",
-        "github_stars": 1,
+        "github_repo": "https://github.com/IBM/Evoflux",
+        "github_stars": 2,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 3
+        "num_comments": 2
       },
       "2606.13174": {
         "id": "2606.13174",
@@ -227092,24 +227110,6 @@
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
       },
-      "2606.12674": {
-        "id": "2606.12674",
-        "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
-        "authors": [
-          "Kushal Raj Bhandari",
-          "Ling Yue",
-          "Ching-Yun Ko",
-          "Dhaval Patel",
-          "Shaowu Pan",
-          "Pin-Yu Chen",
-          "Jianxi Gao"
-        ],
-        "upvotes": 4,
-        "github_repo": "https://github.com/IBM/Evoflux",
-        "github_stars": 2,
-        "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 2
-      },
       "2606.10896": {
         "id": "2606.10896",
         "title": "Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering",
@@ -227122,7 +227122,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/IBM/Flash-GMM",
-        "github_stars": 13,
+        "github_stars": 15,
         "published_at": "2026-06-09T00:00:00.000Z",
         "num_comments": 3
       },
@@ -227153,7 +227153,7 @@
         ],
         "upvotes": 4,
         "github_repo": "https://github.com/tau-intelligence/MuJoCo-drones-gym",
-        "github_stars": 14,
+        "github_stars": 15,
         "published_at": "2026-06-06T00:00:00.000Z",
         "num_comments": 2
       },
@@ -227178,6 +227178,39 @@
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 3
       },
+      "2606.13672": {
+        "id": "2606.13672",
+        "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
+        "authors": [
+          "Arnav Kumar Jain",
+          "Yilin Wu",
+          "Jesse Farebrother",
+          "Gokul Swamy",
+          "Andrea Bajcsy"
+        ],
+        "upvotes": 3,
+        "github_repo": "https://github.com/arnavkj1995/WEAVER",
+        "github_stars": 17,
+        "published_at": "2026-06-11T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.13644": {
+        "id": "2606.13644",
+        "title": "Surflo: Consistent 3D Surface Flow Model with Global State",
+        "authors": [
+          "Antoine Guédon",
+          "Shu Nakamura",
+          "Nicolas Dufour",
+          "Jiahui Lei",
+          "Ko Nishino",
+          "Angjoo Kanazawa"
+        ],
+        "upvotes": 3,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-11T00:00:00.000Z",
+        "num_comments": 1
+      },
       "2606.13572": {
         "id": "2606.13572",
         "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
@@ -227193,39 +227226,6 @@
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
         "num_comments": 2
-      },
-      "2606.13672": {
-        "id": "2606.13672",
-        "title": "WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
-        "authors": [
-          "Arnav Kumar Jain",
-          "Yilin Wu",
-          "Jesse Farebrother",
-          "Gokul Swamy",
-          "Andrea Bajcsy"
-        ],
-        "upvotes": 2,
-        "github_repo": "https://github.com/arnavkj1995/WEAVER",
-        "github_stars": 15,
-        "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.13644": {
-        "id": "2606.13644",
-        "title": "Surflo: Consistent 3D Surface Flow Model with Global State",
-        "authors": [
-          "Antoine Guédon",
-          "Shu Nakamura",
-          "Nicolas Dufour",
-          "Jiahui Lei",
-          "Ko Nishino",
-          "Angjoo Kanazawa"
-        ],
-        "upvotes": 2,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
       },
       "2606.10423": {
         "id": "2606.10423",
@@ -227356,16 +227356,16 @@
           "Rafal Kocielnik",
           "R. Michael Alvarez"
         ],
-        "upvotes": 0,
+        "upvotes": 1,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-30T00:00:00.000Z",
-        "num_comments": 3
+        "num_comments": 4
       }
     }
   },
   "2026-06-15": {
-    "fetched_at": "2026-06-16T14:22:21.074426",
+    "fetched_at": "2026-06-17T12:54:59.604703",
     "count": 48,
     "papers": {
       "2606.13432": {
@@ -227386,9 +227386,9 @@
         ],
         "upvotes": 96,
         "github_repo": "https://github.com/lisj575/OmniDirector",
-        "github_stars": 42,
+        "github_stars": 45,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 3
+        "num_comments": 5
       },
       "2606.12384": {
         "id": "2606.12384",
@@ -227403,11 +227403,11 @@
           "Pengkun Wang",
           "Xiangxiang Chu"
         ],
-        "upvotes": 69,
+        "upvotes": 73,
         "github_repo": "https://github.com/AMAP-ML/APPO",
-        "github_stars": 56,
+        "github_stars": 60,
         "published_at": "2026-06-10T17:47:07.000Z",
-        "num_comments": 2
+        "num_comments": 4
       },
       "2606.06036": {
         "id": "2606.06036",
@@ -227417,11 +227417,11 @@
           "Yibo Li",
           "Bryan Hooi"
         ],
-        "upvotes": 62,
+        "upvotes": 64,
         "github_repo": "https://github.com/Ji-shuo/MRAgent",
-        "github_stars": 67,
+        "github_stars": 73,
         "published_at": "2026-06-04T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 3
       },
       "2606.14502": {
         "id": "2606.14502",
@@ -227448,11 +227448,11 @@
           "Xing Sun",
           "Philip S. Yu"
         ],
-        "upvotes": 45,
+        "upvotes": 49,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 3
       },
       "2606.12291": {
         "id": "2606.12291",
@@ -227481,11 +227481,11 @@
           "Fenglin Liu",
           "David A. Clifton"
         ],
-        "upvotes": 40,
+        "upvotes": 41,
         "github_repo": "https://github.com/AI-in-Health/MedMisBench",
-        "github_stars": 3,
+        "github_stars": 6,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.13707": {
         "id": "2606.13707",
@@ -227503,11 +227503,11 @@
           "Xin Wang",
           "Pheng-Ann Heng"
         ],
-        "upvotes": 40,
+        "upvotes": 41,
         "github_repo": "https://github.com/zfkarl/Orchestra-o1",
-        "github_stars": 52,
+        "github_stars": 55,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 7
+        "num_comments": 8
       },
       "2606.14249": {
         "id": "2606.14249",
@@ -227528,11 +227528,11 @@
           "Kun Shao",
           "Jian Luan"
         ],
-        "upvotes": 37,
+        "upvotes": 40,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.13141": {
         "id": "2606.13141",
@@ -227551,7 +227551,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 2
+        "num_comments": 3
       },
       "2606.12683": {
         "id": "2606.12683",
@@ -227572,11 +227572,11 @@
           "Thore Graepel",
           "Shane Legg"
         ],
-        "upvotes": 28,
+        "upvotes": 31,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 4
+        "num_comments": 5
       },
       "2606.14702": {
         "id": "2606.14702",
@@ -227588,11 +227588,11 @@
           "Ran He",
           "Caifeng Shan"
         ],
-        "upvotes": 25,
+        "upvotes": 27,
         "github_repo": "https://github.com/MiG-NJU/OmniVideo-100K",
-        "github_stars": 40,
+        "github_stars": 43,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2605.30789": {
         "id": "2605.30789",
@@ -227610,11 +227610,11 @@
           "Yu Qiao",
           "Ruihang Chu"
         ],
-        "upvotes": 22,
+        "upvotes": 24,
         "github_repo": "https://github.com/qishisuren123/S2L-PO",
         "github_stars": 16,
         "published_at": "2026-06-02T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.10813": {
         "id": "2606.10813",
@@ -227624,11 +227624,11 @@
           "Zhitao He",
           "Yi R. Fung"
         ],
-        "upvotes": 18,
+        "upvotes": 21,
         "github_repo": "https://github.com/XuShuwenn/RedAct",
         "github_stars": 13,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.06574": {
         "id": "2606.06574",
@@ -227640,9 +227640,9 @@
         ],
         "upvotes": 18,
         "github_repo": "https://github.com/tianyi-lab/PoLar",
-        "github_stars": 10,
+        "github_stars": 11,
         "published_at": "2026-06-04T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14061": {
         "id": "2606.14061",
@@ -227657,9 +227657,9 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/cslsolow/SeeRepo",
-        "github_stars": 16,
+        "github_stars": 23,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.12594": {
         "id": "2606.12594",
@@ -227676,9 +227676,9 @@
         ],
         "upvotes": 13,
         "github_repo": "https://github.com/Pythagoras-LM/Pythagoras-Prover",
-        "github_stars": 2,
+        "github_stars": 3,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14700": {
         "id": "2606.14700",
@@ -227695,7 +227695,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14409": {
         "id": "2606.14409",
@@ -227732,7 +227732,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 0
+        "num_comments": 1
       },
       "2606.10747": {
         "id": "2606.10747",
@@ -227749,7 +227749,7 @@
         "github_repo": "https://github.com/aisilab/arbiter",
         "github_stars": 5,
         "published_at": "2026-06-09T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.09813": {
         "id": "2606.09813",
@@ -227771,7 +227771,7 @@
         "github_repo": "https://github.com/imac-wm/iMac",
         "github_stars": 14,
         "published_at": "2026-06-08T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.00793": {
         "id": "2606.00793",
@@ -227796,7 +227796,7 @@
         "github_repo": "https://github.com/study-overflow/MBench",
         "github_stars": 18,
         "published_at": "2026-06-08T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.13044": {
         "id": "2606.13044",
@@ -227820,7 +227820,7 @@
         "github_repo": "https://github.com/xyimatvoid/ARGAR",
         "github_stars": 1,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.13769": {
         "id": "2606.13769",
@@ -227840,40 +227840,6 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 0
-      },
-      "2606.06309": {
-        "id": "2606.06309",
-        "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
-        "authors": [
-          "Chensheng Dai",
-          "Shengjun Zhang",
-          "Yifan Li",
-          "Zhang Zhang",
-          "Zheng Zhu",
-          "Yueqi Duan"
-        ],
-        "upvotes": 7,
-        "github_repo": "https://github.com/Simon-Dcs/RhymeFlow",
-        "github_stars": 14,
-        "published_at": "2026-06-04T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.14579": {
-        "id": "2606.14579",
-        "title": "VISTA: View-Consistent Self-Verified Training for GUI Grounding",
-        "authors": [
-          "Xinyu Qiu",
-          "Yunzhu Zhang",
-          "Heng Jia",
-          "Shuheng Shen",
-          "Changhua Meng",
-          "Linchao Zhu"
-        ],
-        "upvotes": 6,
-        "github_repo": "https://github.com/ZJUSCL/VISTA",
-        "github_stars": 6,
-        "published_at": "2026-06-12T00:00:00.000Z",
         "num_comments": 1
       },
       "2606.12883": {
@@ -227894,11 +227860,45 @@
           "Pengzhang Liu",
           "Qixia Jiang"
         ],
-        "upvotes": 6,
+        "upvotes": 7,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
+      },
+      "2606.06309": {
+        "id": "2606.06309",
+        "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+        "authors": [
+          "Chensheng Dai",
+          "Shengjun Zhang",
+          "Yifan Li",
+          "Zhang Zhang",
+          "Zheng Zhu",
+          "Yueqi Duan"
+        ],
+        "upvotes": 7,
+        "github_repo": "https://github.com/Simon-Dcs/RhymeFlow",
+        "github_stars": 15,
+        "published_at": "2026-06-04T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.14579": {
+        "id": "2606.14579",
+        "title": "VISTA: View-Consistent Self-Verified Training for GUI Grounding",
+        "authors": [
+          "Xinyu Qiu",
+          "Yunzhu Zhang",
+          "Heng Jia",
+          "Shuheng Shen",
+          "Changhua Meng",
+          "Linchao Zhu"
+        ],
+        "upvotes": 6,
+        "github_repo": "https://github.com/ZJUSCL/VISTA",
+        "github_stars": 6,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 2
       },
       "2606.13872": {
         "id": "2606.13872",
@@ -227928,11 +227928,47 @@
           "Zilong Nie",
           "Zujin Guo"
         ],
-        "upvotes": 5,
+        "upvotes": 6,
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 0
+        "num_comments": 1
+      },
+      "2606.11599": {
+        "id": "2606.11599",
+        "title": "When is Your LLM Steerable?",
+        "authors": [
+          "Chenrui Fan",
+          "Yize Cheng",
+          "Ming Li",
+          "Soheil Feizi",
+          "Tianyi Zhou"
+        ],
+        "upvotes": 6,
+        "github_repo": "https://github.com/Fcr09/SteerBoost",
+        "github_stars": 9,
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.13652": {
+        "id": "2606.13652",
+        "title": "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "authors": [
+          "Hao Zhang",
+          "Mohamed El Banani",
+          "Jen-Hao Cheng",
+          "Paul Zhang",
+          "Yi Hua",
+          "Ben Mildenhall",
+          "Christoph Lassner",
+          "Narendra Ahuja",
+          "Gengshan Yang"
+        ],
+        "upvotes": 5,
+        "github_repo": "https://github.com/haoz19/world-tracing",
+        "github_stars": 230,
+        "published_at": "2026-06-11T00:00:00.000Z",
+        "num_comments": 2
       },
       "2606.14697": {
         "id": "2606.14697",
@@ -227951,23 +227987,40 @@
         "github_repo": "https://github.com/alibaba-damo-academy/ClinHallu",
         "github_stars": 5,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 2
+        "num_comments": 3
       },
-      "2606.11599": {
-        "id": "2606.11599",
-        "title": "When is Your LLM Steerable?",
+      "2604.18401": {
+        "id": "2604.18401",
+        "title": "StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning",
         "authors": [
-          "Chenrui Fan",
-          "Yize Cheng",
-          "Ming Li",
-          "Soheil Feizi",
-          "Tianyi Zhou"
+          "Daoyu Wang",
+          "Qingchuan Li",
+          "Mingyue Cheng",
+          "Jie Ouyang",
+          "Shuo Yu",
+          "Qi Liu",
+          "Enhong Chen"
         ],
         "upvotes": 4,
-        "github_repo": "https://github.com/Fcr09/SteerBoost",
-        "github_stars": 7,
-        "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
+        "github_repo": "https://github.com/AgentR1/StepPO",
+        "github_stars": 12,
+        "published_at": "2026-06-05T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.01462": {
+        "id": "2606.01462",
+        "title": "An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models",
+        "authors": [
+          "Mingzhong Sun",
+          "Teresa Yeo",
+          "Armando Solar-Lezama",
+          "Tan Zhi-Xuan"
+        ],
+        "upvotes": 4,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-05-31T00:00:00.000Z",
+        "num_comments": 2
       },
       "2606.14600": {
         "id": "2606.14600",
@@ -227981,27 +228034,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.13652": {
-        "id": "2606.13652",
-        "title": "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
-        "authors": [
-          "Hao Zhang",
-          "Mohamed El Banani",
-          "Jen-Hao Cheng",
-          "Paul Zhang",
-          "Yi Hua",
-          "Ben Mildenhall",
-          "Christoph Lassner",
-          "Narendra Ahuja",
-          "Gengshan Yang"
-        ],
-        "upvotes": 3,
-        "github_repo": "https://github.com/haoz19/world-tracing",
-        "github_stars": 216,
-        "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.12736": {
         "id": "2606.12736",
@@ -228045,40 +228078,7 @@
         "github_repo": "https://github.com/HelloWorldLTY/SciAgentArena",
         "github_stars": 3,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2604.18401": {
-        "id": "2604.18401",
-        "title": "StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning",
-        "authors": [
-          "Daoyu Wang",
-          "Qingchuan Li",
-          "Mingyue Cheng",
-          "Jie Ouyang",
-          "Shuo Yu",
-          "Qi Liu",
-          "Enhong Chen"
-        ],
-        "upvotes": 3,
-        "github_repo": "https://github.com/AgentR1/StepPO",
-        "github_stars": 12,
-        "published_at": "2026-06-05T00:00:00.000Z",
-        "num_comments": 1
-      },
-      "2606.01462": {
-        "id": "2606.01462",
-        "title": "An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models",
-        "authors": [
-          "Mingzhong Sun",
-          "Teresa Yeo",
-          "Armando Solar-Lezama",
-          "Tan Zhi-Xuan"
-        ],
-        "upvotes": 3,
-        "github_repo": null,
-        "github_stars": null,
-        "published_at": "2026-05-31T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14240": {
         "id": "2606.14240",
@@ -228093,7 +228093,7 @@
         "github_repo": "https://github.com/1171-jpg/Affordance20Q",
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.13657": {
         "id": "2606.13657",
@@ -228110,7 +228110,7 @@
         "github_repo": "https://github.com/SydCS/OPD-Param-Analysis",
         "github_stars": 3,
         "published_at": "2026-06-11T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.11152": {
         "id": "2606.11152",
@@ -228129,7 +228129,25 @@
         "github_repo": "https://github.com/SpatiaOS/P3D-Bench",
         "github_stars": 41,
         "published_at": "2026-06-09T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
+      },
+      "2606.14694": {
+        "id": "2606.14694",
+        "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+        "authors": [
+          "Junlong Tong",
+          "Wenqi Xu",
+          "Yingqi Fan",
+          "Anhao Zhao",
+          "Xuan Lu",
+          "Yang Tan",
+          "Xiaoyu Shen"
+        ],
+        "upvotes": 1,
+        "github_repo": "https://github.com/EIT-NLP/StreamingLLM",
+        "github_stars": 76,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 3
       },
       "2606.12366": {
         "id": "2606.12366",
@@ -228143,9 +228161,9 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/xukechun/APT",
-        "github_stars": 15,
+        "github_stars": 16,
         "published_at": "2026-06-10T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.08952": {
         "id": "2606.08952",
@@ -228162,9 +228180,9 @@
         ],
         "upvotes": 1,
         "github_repo": "https://github.com/Heathcliff-saku/AlloSpatial",
-        "github_stars": 11,
+        "github_stars": 12,
         "published_at": "2026-06-08T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.06194": {
         "id": "2606.06194",
@@ -228182,7 +228200,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-04T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.05308": {
         "id": "2606.05308",
@@ -228194,7 +228212,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-03T00:00:00.000Z",
-        "num_comments": 2
+        "num_comments": 3
       },
       "2606.01708": {
         "id": "2606.01708",
@@ -228207,7 +228225,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-06-01T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14346": {
         "id": "2606.14346",
@@ -228222,25 +228240,7 @@
         "github_repo": "https://github.com/gluck3d/Squeeze-Release",
         "github_stars": null,
         "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 3
-      },
-      "2606.14694": {
-        "id": "2606.14694",
-        "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-        "authors": [
-          "Junlong Tong",
-          "Wenqi Xu",
-          "Yingqi Fan",
-          "Anhao Zhao",
-          "Xuan Lu",
-          "Yang Tan",
-          "Xiaoyu Shen"
-        ],
-        "upvotes": 0,
-        "github_repo": "https://github.com/EIT-NLP/StreamingLLM",
-        "github_stars": 76,
-        "published_at": "2026-06-12T00:00:00.000Z",
-        "num_comments": 2
+        "num_comments": 4
       },
       "2606.12476": {
         "id": "2606.12476",
@@ -228252,7 +228252,7 @@
         "github_repo": "https://github.com/YehudaItkin/quickest-hallucination-onset",
         "github_stars": null,
         "published_at": "2026-06-10T06:10:02.000Z",
-        "num_comments": 2
+        "num_comments": 3
       },
       "2606.08670": {
         "id": "2606.08670",
@@ -228268,7 +228268,7 @@
         "github_repo": "https://github.com/sisinflab/WaveDiT",
         "github_stars": 3,
         "published_at": "2026-06-07T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 2
       },
       "2606.14732": {
         "id": "2606.14732",
@@ -228298,7 +228298,7 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-31T00:00:00.000Z",
-        "num_comments": 1
+        "num_comments": 3
       },
       "2606.02641": {
         "id": "2606.02641",
@@ -228310,6 +228310,1642 @@
         "github_repo": null,
         "github_stars": null,
         "published_at": "2026-05-31T00:00:00.000Z",
+        "num_comments": 2
+      }
+    }
+  },
+  "2026-06-16": {
+    "fetched_at": "2026-06-17T12:54:58.501604",
+    "count": 43,
+    "papers": {
+      "2606.14777": {
+        "id": "2606.14777",
+        "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+        "authors": [
+          "Dingyu Yao",
+          "Junhao Zhou",
+          "Chenxu Yang",
+          "Chuanyu Qin",
+          "Haowen Hou",
+          "Zheming Liang",
+          "Congcong Wang",
+          "Yuhang Cao",
+          "Shenglong Ye",
+          "Shuai Xie",
+          "Shuhuan Gu",
+          "Haoyang Huang",
+          "Qingyi Si",
+          "Nan Duan",
+          "Jiaqi Wang"
+        ],
+        "upvotes": 169,
+        "github_repo": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
+        "github_stars": 256,
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.11176": {
+        "id": "2606.11176",
+        "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+        "authors": [
+          "Kevin Qinghong Lin",
+          "Batu EI",
+          "Yuhong Shi",
+          "Pan Lu",
+          "Philip Torr",
+          "James Zou"
+        ],
+        "upvotes": 108,
+        "github_repo": "https://github.com/QinghongLin/data2story-skill",
+        "github_stars": 76,
+        "published_at": "2026-06-09T00:00:00.000Z",
+        "num_comments": 5
+      },
+      "2606.17046": {
+        "id": "2606.17046",
+        "title": "Geometric Action Model for Robot Policy Learning",
+        "authors": [
+          "Jisang Han",
+          "Seonghu Jeon",
+          "Jaewoo Jung",
+          "René Zurbrügg",
+          "Honggyu An",
+          "Tifanny Portela",
+          "Marco Hutter",
+          "Marc Pollefeys",
+          "Seungryong Kim",
+          "Sunghwan Hong"
+        ],
+        "upvotes": 99,
+        "github_repo": "https://github.com/cvlab-kaist/Geometric-Action-Model",
+        "github_stars": 64,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 3
+      },
+      "2606.16993": {
+        "id": "2606.16993",
+        "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
+        "authors": [
+          "DreamX Team",
+          "Yancheng Bai",
+          "Rui Chen",
+          "Xiangxiang Chu",
+          "Rujing Dang",
+          "Hao Dou",
+          "Bingjie Gao",
+          "Qiwen Gu",
+          "Siyu Hong",
+          "Jiachen Lei",
+          "Geng Li",
+          "Jifan Li",
+          "Ruimin Lin",
+          "Qingfeng Shi",
+          "Bingze Song",
+          "Lei Sun",
+          "Jing Tang",
+          "Ruitian Tian",
+          "Jun Wang",
+          "Jiahong Wu",
+          "Pengfei Zhang",
+          "Shen Zhang",
+          "Jiashu Zhu"
+        ],
+        "upvotes": 91,
+        "github_repo": "https://github.com/AMAP-ML/DreamX-World",
+        "github_stars": 372,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 7
+      },
+      "2606.16140": {
+        "id": "2606.16140",
+        "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+        "authors": [
+          "Sen Xu",
+          "Shixi Liu",
+          "Wei Wang",
+          "Jixin Min",
+          "Yingwei Dai",
+          "Zhibin Yin",
+          "Yirong Chen",
+          "Xin Zhou",
+          "Junlin Zhang"
+        ],
+        "upvotes": 81,
+        "github_repo": "https://github.com/WeiboAI/VibeThinker",
+        "github_stars": 811,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14066": {
+        "id": "2606.14066",
+        "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
+        "authors": [
+          "Shaoqiu Zhang",
+          "Maoquan Wang",
+          "Yuling Shi",
+          "Yuhang Wang",
+          "Xiaodong Gu",
+          "Yongqiang Yao",
+          "Rao Fu",
+          "Shengyu Fu"
+        ],
+        "upvotes": 81,
+        "github_repo": "https://github.com/microsoft/fastcontext",
+        "github_stars": 455,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 3
+      },
+      "2606.15079": {
+        "id": "2606.15079",
+        "title": "Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale",
+        "authors": [
+          "Ang Li",
+          "Ben Liu",
+          "Bin Han",
+          "Bin Hu",
+          "Bin Jing",
+          "Binbin Hu",
+          "Bing Li",
+          "Cai Chen",
+          "Caizhi Tang",
+          "Changxin Tian",
+          "Chao Huang",
+          "Chao Zhang",
+          "Chen Liang",
+          "Chen Qian",
+          "Chengfu Tang",
+          "Chengyao Wen",
+          "Chilin Fu",
+          "Chunwei Wu",
+          "Cong Zhang",
+          "Cunyin Peng",
+          "Daixin Wang",
+          "Dalong Zhang",
+          "Deng Zhao",
+          "Dingnan Jin",
+          "Dingyuan Zhu",
+          "Donghao Zhang",
+          "Fan Yuan",
+          "Fangzheng Zhao",
+          "Fanzhuang Meng",
+          "Feifan Wu",
+          "Feng Xu",
+          "Fengbin Fang",
+          "Gangshan Wang",
+          "Guodong Yang",
+          "Hailin Zhao",
+          "Haitao Wang",
+          "Haitao Zhang",
+          "Hanxiao Zhang",
+          "Hanzi Wang",
+          "Hao Dai",
+          "Hao Liu",
+          "Hao Qian",
+          "Hao Wu",
+          "Haoxiong Liu",
+          "Haoyu Xu",
+          "Heng Zhang",
+          "Hong Liu",
+          "Hongliang Zhang",
+          "Hongrui Liu",
+          "Hongxun Li",
+          "Hongzhi Ruan",
+          "Huaidong Xiong",
+          "Huihuang Zheng",
+          "Huikang Tang",
+          "Jia Guo",
+          "Jia Li",
+          "Jia Liu",
+          "Jiameng Wang",
+          "Jiaming Liu",
+          "Jiannan Shi",
+          "Jianping Wei",
+          "Jiaolong Yang",
+          "Jiapeng Wang",
+          "Jie Gao",
+          "Jie Wang",
+          "Jiewei Wu",
+          "Jin Yang",
+          "Jinjin Li",
+          "Jinjing Huang",
+          "Jinquan Sun",
+          "Jinyao Chen",
+          "Juanhui Tu",
+          "Jun Liu",
+          "Jun Mei",
+          "Jun Xu",
+          "Jun Zhou",
+          "Junjie Ou",
+          "Junnan Sipan",
+          "Junpeng Fang",
+          "Kaihong Zhang",
+          "Kaiqin Hu",
+          "Ke Shi",
+          "Kuan Xu",
+          "Kun Tang",
+          "Kunlong Chen",
+          "Lanyin Mei",
+          "Lei Chen",
+          "Lei Liang",
+          "Lei Xu",
+          "Li Tang",
+          "Liang Jiang",
+          "Liangcheng Fu",
+          "Lihui Zhang",
+          "Linfeng Shi",
+          "Lintao Ma",
+          "Liyuan Liu",
+          "Longfei Li",
+          "Longfei Zheng",
+          "Lu Liu",
+          "Lu Yu",
+          "Man Li",
+          "Meiqi Zhu",
+          "Meng Li",
+          "Mengjie Gao",
+          "Mengshu Sun",
+          "Mingming Yin",
+          "Mingyang Zhang",
+          "Mingyuan Fan",
+          "Nuo Xu",
+          "Pan Tang",
+          "Peijie Jiang",
+          "Peilong Zhao",
+          "Peng Lin",
+          "Pingping Liu",
+          "Qi Zuo",
+          "Qian Zhao",
+          "Qiang Cheng",
+          "Qianggang Cao",
+          "Qiaoben Bao",
+          "Qing Cui",
+          "Qingyuan Yang",
+          "Qitao Shi",
+          "Qiyin Huang",
+          "Qizheng Zhou",
+          "Quan Wan",
+          "Runyuan Zhao",
+          "Shaomian Zheng",
+          "Shaowei Wei",
+          "Shengnan Zhang",
+          "Shuaicheng Li",
+          "Shujie Li",
+          "Shuo Zhang",
+          "Sikang Bian",
+          "Tianchu Yao",
+          "Tiange Xu",
+          "Tianshu Wang",
+          "Ting Guo",
+          "Tinghao Wang",
+          "Tingwei Huang",
+          "Tong Zhao",
+          "Tongkai Yang",
+          "Wang Hong",
+          "Wanli Gu",
+          "Wei Lu",
+          "Weichang Wu",
+          "Weiguang Han",
+          "Weiquan Li",
+          "Wenbo Shen",
+          "Wenjing Fang",
+          "Wenzhi Tang",
+          "Xiang Shu",
+          "Xiao Shi",
+          "Xiaodong Yan",
+          "Xiaolu Zhang",
+          "Xiaopei Wan",
+          "Xiaqing Sun",
+          "Xin Zhao",
+          "Xingyu Lu",
+          "Xinxing Yang",
+          "Xinyao Tang",
+          "Xinyu Kong",
+          "Xinyu Liu",
+          "Xiong Xu",
+          "Xuan Sun",
+          "Xudong Han",
+          "Xudong Wang",
+          "Xujie Shen",
+          "Yalin Zhang",
+          "Yangyang Hou",
+          "Yankun Ren",
+          "Yao Zhao",
+          "Ye Chen",
+          "Yeyang Chen",
+          "Yibo Cao",
+          "Yifan Zuo",
+          "Yijie Chen",
+          "Ying Li",
+          "Yingjie Song",
+          "Yingxue Li",
+          "Yiqi Wang",
+          "Yixuan Sun",
+          "Yizhu Xiao",
+          "Yongfei Xu",
+          "Yu Liu",
+          "Yuchen Fang",
+          "Yue Gao",
+          "Yue Yu",
+          "Yue Zhang",
+          "Yuqi Zhang",
+          "Yuxiao He",
+          "Yuxiao Lu",
+          "Yuxin Tian",
+          "Yuxuan Li",
+          "Yuzhuo Fu",
+          "Zhankai Xu",
+          "Zhaoxin Huan",
+          "Zhenduo Zhang",
+          "Zhengke Gui",
+          "Zhengyu Huang",
+          "Zhenjun Ma",
+          "Zhenxuan Pan",
+          "Zheping Qu",
+          "Zhibo Zhu",
+          "Zhidong Fan",
+          "Zhigang Huangfu",
+          "Zhihao Wang",
+          "Zhiqiang Zhang",
+          "Zhizhen Liu",
+          "Zhuyan Zhou",
+          "Zibin Lin",
+          "Zihang Zeng",
+          "Zihao Wang",
+          "Zilong Wang",
+          "Ziqi Liu",
+          "Zitao Xuan",
+          "Zixuan Cheng",
+          "Zujie Wen",
+          "Zuoli Tang"
+        ],
+        "upvotes": 67,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-13T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.16281": {
+        "id": "2606.16281",
+        "title": "Who Should Lead Decoding Now? Tracking Reliable Trajectories for Ensembling Masked Diffusion Language Models",
+        "authors": [
+          "Heecheol Yun",
+          "Joonhyung Park",
+          "Joowon Kim",
+          "Eunho Yang"
+        ],
+        "upvotes": 29,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.17049": {
+        "id": "2606.17049",
+        "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+        "authors": [
+          "Yi-Ruei Liu",
+          "Jie-Ying Lee",
+          "Zheng-Hui Huang",
+          "Yu-Lun Liu",
+          "Chih-Hao Lin"
+        ],
+        "upvotes": 26,
+        "github_repo": "https://github.com/shigon255/BRDFusion",
+        "github_stars": 32,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.16295": {
+        "id": "2606.16295",
+        "title": "VisualClaw: A Real-Time, Personalized Agent for the Physical World",
+        "authors": [
+          "Haoqin Tu",
+          "Jianwen Chen",
+          "Zijun Wang",
+          "Siwei Han",
+          "Juncheng Wu",
+          "Hardy Chen",
+          "Haonian Ji",
+          "Kaiwen Xiong",
+          "Jiaqi Liu",
+          "Peng Xia",
+          "Jieru Mei",
+          "Hongliang Fei",
+          "Jason Eshraghian",
+          "Zeyu Zheng",
+          "Yuyin Zhou",
+          "Huaxiu Yao",
+          "Cihang Xie"
+        ],
+        "upvotes": 21,
+        "github_repo": "https://github.com/UCSC-VLAA/VisualClaw",
+        "github_stars": 18,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 0
+      },
+      "2606.17030": {
+        "id": "2606.17030",
+        "title": "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation",
+        "authors": [
+          "Jie Zhang",
+          "Xiaoyue Chen",
+          "Anzhe Chen",
+          "Chenxu Lv",
+          "Deqing Li",
+          "Gengze Zhou",
+          "Hang Yin",
+          "Haoqi Yuan",
+          "Haoyang Li",
+          "Jiahao Li",
+          "Jiazhao Zhang",
+          "Jingren Zhou",
+          "Kaiyuan Gao",
+          "Kun Yan",
+          "Lihan Jiang",
+          "Ningyuan Tang",
+          "Pei Lin",
+          "Qihang Peng",
+          "Shengming Yin",
+          "Tianhe Wu",
+          "Tianyi Yan",
+          "Xiao Xu",
+          "Yan Shu",
+          "Yanran Zhang",
+          "Ye Wang",
+          "Yi Wang",
+          "Yilei Chen",
+          "Yixian Xu",
+          "Yiyang Huang",
+          "Yuxiang Chen",
+          "Zekai Zhang",
+          "Zhendong Wang",
+          "Zhixing Lei",
+          "Zhixuan Liang",
+          "Zihao Liu",
+          "Zikai Zhou",
+          "Xiong-Hui Chen",
+          "Chenfei Wu"
+        ],
+        "upvotes": 18,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.16838": {
+        "id": "2606.16838",
+        "title": "OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation",
+        "authors": [
+          "Jiakai Tang",
+          "Sunhao Dai",
+          "Kun Wang",
+          "Zhiluohan Guo",
+          "Yu Zhao",
+          "Cong Fu",
+          "Kangle Wu",
+          "Yabo Ni",
+          "Anxiang Zeng",
+          "Xu Chen",
+          "Jun Xu"
+        ],
+        "upvotes": 15,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.16519": {
+        "id": "2606.16519",
+        "title": "BadWorld: Adversarial Attacks on World Models",
+        "authors": [
+          "Linghui Shen",
+          "Mingyue Cui",
+          "Xingyi Yang"
+        ],
+        "upvotes": 14,
+        "github_repo": "https://github.com/LinghuiiShen/BadWorld",
+        "github_stars": 14,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.17016": {
+        "id": "2606.17016",
+        "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+        "authors": [
+          "Buqiang Xu",
+          "Zirui Xue",
+          "Dianmou Chen",
+          "Chenyang Fu",
+          "Chiyu Wu",
+          "Caiying Huang",
+          "Chen Jiang",
+          "Jizhan Fang",
+          "Xinle Deng",
+          "Yijun Chen",
+          "Yunzhi Yao",
+          "Xuehai Wang",
+          "Jin Shang",
+          "Gong Yu",
+          "Ningyu Zhang"
+        ],
+        "upvotes": 14,
+        "github_repo": "https://github.com/zjunlp/LightMem2",
+        "github_stars": 16,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.16396": {
+        "id": "2606.16396",
+        "title": "SP^3: Spherical Priors for Plug-and-Play Restoration",
+        "authors": [
+          "Sean Man",
+          "Ron Raphaeli",
+          "Matan Kleiner",
+          "Or Ronai"
+        ],
+        "upvotes": 13,
+        "github_repo": "https://github.com/man-sean/SP3",
+        "github_stars": 3,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15631": {
+        "id": "2606.15631",
+        "title": "Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time",
+        "authors": [
+          "Jeongeun Park",
+          "Juhan Park",
+          "Taekyung Kim",
+          "Sungjoon Choi",
+          "Dongyoon Han",
+          "Sangdoo Yun"
+        ],
+        "upvotes": 13,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-14T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14667": {
+        "id": "2606.14667",
+        "title": "Memento: Reconstruct to Remember for Consistent Long Video Generation",
+        "authors": [
+          "Xuan Wei",
+          "Longbin Ji",
+          "Guan Wang",
+          "Xiangrui Liu",
+          "Zhenyu Zhang",
+          "Shuohuan Wang",
+          "Yu Sun",
+          "Qingqi Hong"
+        ],
+        "upvotes": 13,
+        "github_repo": "https://github.com/ernie-research/Memento",
+        "github_stars": 10,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 4
+      },
+      "2606.15300": {
+        "id": "2606.15300",
+        "title": "CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?",
+        "authors": [
+          "Yuxin Zhang",
+          "Ju Fan",
+          "Meihao Fan",
+          "Shaolei Zhang",
+          "Xiaoyong Du"
+        ],
+        "upvotes": 12,
+        "github_repo": "https://github.com/ruc-datalab/CoDA-Bench",
+        "github_stars": 7,
+        "published_at": "2026-06-13T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15007": {
+        "id": "2606.15007",
+        "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+        "authors": [
+          "NVIDIA",
+          "Aaron Blakeman",
+          "Aaron Thomas",
+          "Aastha Jhunjhunwala",
+          "Abhibha Gupta",
+          "Abhinav Khattar",
+          "Adam Rajfer",
+          "Adi Renduchintala",
+          "Adil Asif",
+          "Aditya Vavre",
+          "Adriana Flores Miranda",
+          "Ahmad Bilal",
+          "Aileen Zaman",
+          "Ajay Hotchandani",
+          "Akanksha Shukla",
+          "Akhiad Bercovich",
+          "Aleksander Ficek",
+          "Alex Gronskiy",
+          "Alex Kondratenko",
+          "Alex Steiner",
+          "Alex Ye",
+          "Alexander Bukharin",
+          "Alexandre Milesi",
+          "Ali Taghibakhshi",
+          "Alice Gatti",
+          "Alisa Liu",
+          "Alok Kumar",
+          "Amar Phanishayee",
+          "Ameya Sunil Mahabaleshwarkar",
+          "Amir Klein",
+          "Amit Zuker",
+          "Amnon Geifman",
+          "Anahita Bhiwandiwalla",
+          "Ananth Subramaniam",
+          "Andrea Santilli",
+          "Andrew Fulks",
+          "Andrew McHarg",
+          "Andrew Tao",
+          "Andrii Skliar",
+          "Anjulie Agrusa",
+          "Ankur Srivastava",
+          "Ankur Verma",
+          "Anna Shors",
+          "Anna Warno",
+          "Antoni-Joan Solergibert I Llaquet",
+          "Arham Mehta",
+          "Arkadiusz Nowaczynski",
+          "Arti Jain",
+          "Ashwath Aithal",
+          "Ashwin Poojary",
+          "Asif Ahamed",
+          "Asit Mishra",
+          "Asma Kuriparambil Thekkumpate",
+          "Atefeh Sohrabizadeh",
+          "Avinash Kaur",
+          "Avinash Vem",
+          "Ayush Dattagupta",
+          "Barath Subramaniam Anandan",
+          "Bardiya Sadeghi",
+          "Ben Lanir",
+          "Benedikt Schifferer",
+          "Besmira Nushi",
+          "Bilal Kartal",
+          "Bill Thiede",
+          "Bita Darvish Rouhani",
+          "Bo Deng",
+          "Bob Schatz",
+          "Boris Ginsburg",
+          "Boxin Wang",
+          "Brad Nemire",
+          "Brandon Norick",
+          "Brian Dang",
+          "Brian Westphal",
+          "Brian Yu",
+          "Brucek Khailany",
+          "Bryan Catanzaro",
+          "Carlo del Mundo",
+          "Caryln Aarish",
+          "Chankyu Lee",
+          "Chantal Hwang",
+          "Charbel Sakr",
+          "Charles Wang",
+          "Charlie Truong",
+          "Chen Cui",
+          "Cheng Cheng",
+          "Cheng-Ping Hsieh",
+          "Chenghao Zhang",
+          "Chenhui Deng",
+          "Chintan Patel",
+          "Chris Alexiuk",
+          "Christian Cosgrove",
+          "Christian Munley",
+          "Christine Harvey",
+          "Christopher Parisien",
+          "Chunyang Shen",
+          "Coco Li",
+          "Collin Neale",
+          "Cynthia Gao",
+          "Cyril Meurillon",
+          "Dan Gil",
+          "Dan Su",
+          "Dan Zhao",
+          "Dane Corneil",
+          "Daniel Afrimi",
+          "Daniel Egert",
+          "Daniel Korzekwa",
+          "Daniel Lo",
+          "Daniel Machlab",
+          "Daniel Serebrenik",
+          "Daniil Sorokin",
+          "Daria Gitman",
+          "Daria Levy",
+          "Darko Stosic",
+          "David Mosallanezhad",
+          "David Yu",
+          "Davit Karamyan",
+          "Deena Donia",
+          "Deep Debroy",
+          "Deepak Narayanan",
+          "Devin O'Kelly",
+          "Dheeraj Peri",
+          "Dhruv Nathawani",
+          "Di",
+          "Wu",
+          "Dima Rekesh",
+          "Divyanshu Kakwani",
+          "Donald Plummer",
+          "Dong Anh",
+          "Dongfeng Yu",
+          "Dongfu Jiang",
+          "Donnie Kim",
+          "Dorrin Poorkay",
+          "Duncan Riach",
+          "Dusan Stosic",
+          "Dustin VanStee",
+          "Eavan Meng",
+          "Edgar Minasyan",
+          "Edward Lin",
+          "Eileen Margaret Peters Long",
+          "Elad Sarafin",
+          "Elad Segal",
+          "Elena Lantz",
+          "Ellie Evans",
+          "Elliott Ning",
+          "Eric Chung",
+          "Eric Harper",
+          "Eric Pham-Hung",
+          "Eric Tramel",
+          "Eric Yang",
+          "Erick Galinkin",
+          "Erik Pounds",
+          "Erika Goncalves Goncalves",
+          "Evan Briones",
+          "Evan Wu",
+          "Evelina Bakhturina",
+          "Evgeny Tsykunov",
+          "Ewa Dobrowolska",
+          "Faisal Ladhak",
+          "Farzan Memarian",
+          "Fay Wang",
+          "Fei Jia",
+          "Felipe Soares",
+          "Felipe Vieira Frujeri",
+          "Feng Chen",
+          "Fengguang Lin",
+          "Ferenc Galko",
+          "Frank Sun",
+          "Frankie Siino",
+          "Frida Hou",
+          "Gal Hubara Agam",
+          "Gal Kaplun",
+          "Gantavya Bhatt",
+          "Gargi Prasad",
+          "Garvit Kulshreshtha",
+          "George Armstrong",
+          "Gerald Shen",
+          "Giulio Borghesi",
+          "Gordana Neskovic",
+          "Gorkem Batmaz",
+          "Grace Lam",
+          "Greg Mason",
+          "Greg Pauloski",
+          "Grigor Nalbandyan",
+          "Grzegorz Chlebus",
+          "Grzegorz Karch",
+          "Guan-Ting Liu",
+          "Guoming Zhang",
+          "Guyue Huang",
+          "Haggai Maron",
+          "Haifeng Qian",
+          "Haim Elisha",
+          "Haoxing Ren",
+          "Haran Kumar Shiv Kumar",
+          "Haribhau Hud",
+          "Harris Nover",
+          "Harrison Saturley Hall",
+          "Hayate Iso",
+          "Helen Ngo",
+          "Herbert Hum",
+          "Herman Sahota",
+          "Hexin Wang",
+          "Himanshu Soni",
+          "Hovhannes Tamoyan",
+          "Hua Li",
+          "Huanhuan Chen",
+          "Hui Li",
+          "Hui Wang",
+          "Huy Nguyen",
+          "Ian Chiles",
+          "Ido Galil",
+          "Ido Shahaf",
+          "Igor Gitman",
+          "Igor Shovkun",
+          "Ilya Loshchilov",
+          "Ingo Guehring",
+          "Itamar Schen",
+          "Itay Levy",
+          "Itay Neeman",
+          "Ivan Moshkov",
+          "Izik Golan",
+          "Izzy Putterman",
+          "Jaemin Choi",
+          "Jakub Slowikowski",
+          "Jan Kautz",
+          "Jane Polak Scowcroft",
+          "Jared Casper",
+          "Jatin Mitra",
+          "Jeffrey Glick",
+          "Jenny Chen",
+          "Jesse Oliver",
+          "Jiacheng Xu",
+          "Jiafan Zhu",
+          "Jialin Song",
+          "Jian Zhang",
+          "Jiantao Jiao",
+          "Jiaqi Zeng",
+          "Jie Lou",
+          "Jim King",
+          "Jimmy Zhang",
+          "Jingquan Wang",
+          "Jinhang Choi",
+          "Jinju Chu",
+          "Joey Conway",
+          "Joey Guman",
+          "Johan Jatko",
+          "Johannes Rausch",
+          "John Kamalu",
+          "John Roberts",
+          "Johnny Greco",
+          "Johnny Mensel",
+          "Jonah Alben",
+          "Jonas Yang",
+          "Jonathan Cohen",
+          "Jonathan Raiman",
+          "Joseph Jennings",
+          "Joshua Mabry",
+          "Joshua Pierce",
+          "Joyjit Daw",
+          "Julien Veron Vialard",
+          "Junkeun Yi",
+          "Jupinder Parmar",
+          "Kajal Jain",
+          "Kan Zhu",
+          "Kari Briski",
+          "Katherine Cheung",
+          "Katherine Luna",
+          "Keith Willowhawk",
+          "Keith Wyss",
+          "Keshav Santhanam",
+          "Kevin Shih",
+          "Kezhi Kong",
+          "Khanh Nguyen",
+          "Khushi Bhardwaj",
+          "Kirthi Shankar Sivamani",
+          "Konstantinos Krommydas",
+          "Krishna C. Puvvada",
+          "Krzysztof Pawelec",
+          "Kumar Anik",
+          "Kyle Keprios",
+          "Kylie Day",
+          "Lawrence McAfee",
+          "Leo Du",
+          "Leon Derczynski",
+          "Li Ding",
+          "Linda Liu",
+          "Lingjie Wu",
+          "Lior Kadoch",
+          "Lizzie Wei",
+          "Luis Vega",
+          "Luke Robison",
+          "Lun Su",
+          "Maarten Van Segbroeck",
+          "Maciej Jakub Mikulski",
+          "Maer Rodrigues de Melo",
+          "Magda Sypula",
+          "Mahan Fathi",
+          "Makesh Narsimhan Sreedhar",
+          "Makesh Tarun Chandran",
+          "Manoj Kilaru",
+          "Maor Ashkenazi",
+          "Marc Cuevas",
+          "Marc Romeijn",
+          "Marcin Chochowski",
+          "Mark Cai",
+          "Mark Mozolewski",
+          "Markus Kliegl",
+          "Marta Stepniewska-Dziubinska",
+          "Martyna Patelka",
+          "Mattei Machczynski",
+          "Matvei Novikov",
+          "Mauricio Ferrato",
+          "Maximilian Golub",
+          "Mehrzad Samadi",
+          "Melissa Corpuz",
+          "Mengru Wang",
+          "Mengxi Wu",
+          "Meredith Price",
+          "Meriem Boubdir",
+          "Micah Schaffer",
+          "Michael Andersch",
+          "Michael Boone",
+          "Michael Gschwind",
+          "Michael Lightstone",
+          "Michael Loh",
+          "Michal Bien",
+          "Michal Zawalski",
+          "Michelle Gill",
+          "Miguel Martinez",
+          "Mikail Khona",
+          "Mike Chrzanowski",
+          "Mike Houston",
+          "Mingyuan Ma",
+          "Minseok Lee",
+          "Mohamed Fawzy",
+          "Mohammad Dabbah",
+          "Mohammad Shoeybi",
+          "Mostofa Patwary",
+          "Nabin Mulepati",
+          "Najeeb Nabwani",
+          "Namit Dhameja",
+          "Narimane Hennouni",
+          "Natalie Hereth",
+          "Nathaniel Pinckney",
+          "Nave Algarici",
+          "Nave Assaf",
+          "Netanel Haber",
+          "Nicholas Knight",
+          "Nick Reamaroon",
+          "Nickson Quak",
+          "Nidhi Bhatia",
+          "Nikhil Desai",
+          "Nikolai Ludwig",
+          "Nima Tajbakhsh",
+          "Ning Xu",
+          "Nir Ailon",
+          "Nirmal Juluru",
+          "Nitin Nitin",
+          "Ofri Masad",
+          "Oleg Rybakov",
+          "Oleksii Hrinchuk",
+          "Oleksii Kuchaiev",
+          "Olivia Viessmann",
+          "Olivier Delalleau",
+          "Oluwatobi Olabiyi",
+          "Omer Ullman Argov",
+          "Omri Puny",
+          "Oren Tropp",
+          "Pablo Ribalta",
+          "Pallab Bhattacharya",
+          "Panos Lampropoulos",
+          "Parth Mannan",
+          "Pasha Shamis",
+          "Patrick Legresley",
+          "Paul Gibbons",
+          "Pavlo Molchanov",
+          "Pawel Morkisz",
+          "Peter Dykas",
+          "Peter Jin",
+          "Pierre-Yves Aquilanti",
+          "Pinky Xu",
+          "Piotr Januszewski",
+          "Piotr Laskiewicz",
+          "Pooya Jannaty",
+          "Prakash Gurumurthy",
+          "Pranav Prashant Thombre",
+          "Prasoon Varshney",
+          "Pritam Gundecha",
+          "Przemek Tredak",
+          "Puhui Meng",
+          "Qiyu Wan",
+          "Rabeeh Karimi Mahabadi",
+          "Rachel Oberman",
+          "Rachit Garg",
+          "Radha Sri-Tharan",
+          "Rahul Kandu",
+          "Rakshit Sanadhya",
+          "Ran El-Yaniv",
+          "Ran Zilberstein",
+          "Rasoul Shafipour",
+          "Ray Macalisang",
+          "Rayen Tian",
+          "Reka Kovacs",
+          "Renjie Pi",
+          "Rick Izzo",
+          "Rima Shahbazyan",
+          "Rishabh Garg",
+          "Rishi Puri",
+          "Rita Fernandes Neves",
+          "Ritchie Zhao",
+          "Ritika Borkar",
+          "Ritu Gala",
+          "Riyad Islam",
+          "Robert Clark",
+          "Robert Hesse",
+          "Robert Kirby",
+          "Roger Waleffe",
+          "Rohit Watve",
+          "Roi Koren",
+          "Ron Banner",
+          "Ruoxi Zhang",
+          "Russell J. Hewett",
+          "Ryan Prenger",
+          "Ryan Stewart",
+          "Ryota Egashira",
+          "Sadegh Mahdavi",
+          "Saee Paliwal",
+          "Sagar Singh",
+          "Sahil Modi",
+          "Salika Dave",
+          "Samantha Shinagawa",
+          "Samuel Kriman",
+          "Sandip Bhaskar",
+          "Sangkug Lym",
+          "Sanjay Kariyappa",
+          "Sanjeev Satheesh",
+          "Saran Vikas Murari",
+          "Satish Pasumarthi",
+          "Saurabh Mishra",
+          "Saurav Muralidharan",
+          "Scott Hara",
+          "Sean Narentharen",
+          "Selvaraj Anandaraj",
+          "Seonjin Na",
+          "Seonmeyong Bak",
+          "Seonmyeong Bak",
+          "Sepehr Sameni",
+          "Seph Mard",
+          "Serge Panev",
+          "Seth Henneman",
+          "Seth Poulos",
+          "Shahar Mor",
+          "Shantanu Acharya",
+          "Shaona Ghosh",
+          "Sharath Turuvekere Sreenivas",
+          "Sharon Mendelson",
+          "Shaun Kotek",
+          "Shawn Wang",
+          "Shay Aharon",
+          "Shaya Gharghabi",
+          "Sheng-Chieh Lin",
+          "Shi Chen",
+          "Shiqing Fan",
+          "Shirish Baskaran",
+          "Shreya Gopa",
+          "Shrimai Prabhumoye",
+          "Shubham Pachori",
+          "Shubham Toshniwal",
+          "Shuoyang Ding",
+          "Shwetha Krishnamurthy",
+          "Siddharth Singh",
+          "Simeng Sun",
+          "Sirshak Das",
+          "Sivakumar Arayandi Thottakara",
+          "Smita Ithape",
+          "Somshubra Majumdar",
+          "Soumye Singhal",
+          "Sri Harsha Singudasu",
+          "Sridhar Bhuvanapalli",
+          "Srimukh Veccham",
+          "Stas Sergienko",
+          "Stefania Alborghetti",
+          "Stephen Ge",
+          "Su Rong",
+          "Sugam Dipak Devare",
+          "Sukrit Rao",
+          "Sumeet Kumar Barua",
+          "Sungsoo Ha",
+          "Sunny Gai",
+          "Suriya Gunasekar",
+          "Suseella Panguluri",
+          "Suyog Gupta",
+          "Sviataslau Hinzburh",
+          "Sweta Priyadarshi",
+          "Syeda Nahida Akter",
+          "Talor Abramovich",
+          "Tan Bui",
+          "Tanay Varshney",
+          "Tatevik Ter-Hovhannisyan",
+          "Teodor-Dumitru Ene",
+          "Terry Kong",
+          "Thanh Do",
+          "Tianhe Zhang",
+          "Tiffany Moore",
+          "Tijmen Blankevoort",
+          "Tim Moon",
+          "Tiyasa Mitra",
+          "Tom Balough",
+          "Tomasz Grzegorzek",
+          "Tomasz Hliwiak",
+          "Tomer Asida",
+          "Tomer Bar Natan",
+          "Tomer Keren",
+          "Tomer Ronen",
+          "Tony Salim",
+          "Tony Wang",
+          "Traian Rebedea",
+          "Tugrul Konuk",
+          "Twinkle Vashishth",
+          "Udi Karpas",
+          "Ushnish De",
+          "Vahid Noorozi",
+          "Venkat Srinivasan",
+          "Venmugil Elango",
+          "Vibhor Agrawal",
+          "Victor Cui",
+          "Vijay Korthikanti",
+          "Vikas Mehta",
+          "Vinay Rao",
+          "Virginia Wu",
+          "Vitaly Kurin",
+          "Vitaly Lavrukhin",
+          "Vladimir Anisimov",
+          "Vu Pham",
+          "Wanli Jiang",
+          "Wasi Uddin Ahmad",
+          "Wataru Ishihara",
+          "Wei Du",
+          "Wei Ping",
+          "Weiheng Chai",
+          "Wenliang Dai",
+          "Wesley Helmholz",
+          "Will Jennings",
+          "Will Zhu",
+          "Wojciech Prazuch",
+          "Xiaowei Ren",
+          "Xiwen Yu",
+          "Yan Breek",
+          "Yang Chen",
+          "Yang Yu",
+          "Yangyi Chen",
+          "Yaniv Galron",
+          "Yashaswi Karnati",
+          "Yejin Choi",
+          "Yev Meyer",
+          "Yi-Fu Wu",
+          "Yian Zhang",
+          "Ying Lin",
+          "Yonatan Geifman",
+          "Yonggan Fu",
+          "Youngeun Kwon",
+          "Yu Yao",
+          "Yugi Guvvla",
+          "Yuki Huang",
+          "Yunsheng Liu",
+          "Zach Moshe",
+          "Zachary Newell",
+          "Zhilin Wang",
+          "Zhiyu Li",
+          "Zhongbo Zhu",
+          "Zhuolin Yang",
+          "Zihan Liu",
+          "Zijie Yan",
+          "Zsolt-Alon Wertheimer"
+        ],
+        "upvotes": 11,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15673": {
+        "id": "2606.15673",
+        "title": "Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking",
+        "authors": [
+          "Jiwan Chung",
+          "JiHyuk Byun",
+          "Vibhav Vineet",
+          "Seon Joo Kim"
+        ],
+        "upvotes": 11,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-04-08T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.16771": {
+        "id": "2606.16771",
+        "title": "GD^2PO: Mitigating Multi-Reward Conflicts via Group-Dynamic reward-Decoupled Policy Optimization",
+        "authors": [
+          "Haotian Liu",
+          "Yihao Liu",
+          "Jingwei Ni",
+          "Siyuan Huang",
+          "Xinpeng Liu",
+          "Pengyu Cheng",
+          "Jiajun Song",
+          "Ruijin Ding",
+          "Junfeng Li",
+          "Zhechao Yu",
+          "Mengyu Zhou",
+          "Hongteng Xu",
+          "Xiaoxi Jiang",
+          "Guanjun Jiang"
+        ],
+        "upvotes": 10,
+        "github_repo": "https://github.com/Qwen-Applications/GD2PO",
+        "github_stars": 7,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.06302": {
+        "id": "2606.06302",
+        "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
+        "authors": [
+          "Hyungmin Kim",
+          "Minsoo Kim",
+          "Hongseok Kim",
+          "Jungwook Choi"
+        ],
+        "upvotes": 9,
+        "github_repo": "https://github.com/aiha-lab/tangram",
+        "github_stars": 6,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 3
+      },
+      "2606.16255": {
+        "id": "2606.16255",
+        "title": "UniDDT: Unifying Multimodal Understanding and Generation with Decoupled Diffusion Transformer",
+        "authors": [
+          "Shuai Wang",
+          "Liang Li",
+          "Yang Chen",
+          "Ruopeng Gao",
+          "Yao Teng",
+          "Limin Wang"
+        ],
+        "upvotes": 9,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15534": {
+        "id": "2606.15534",
+        "title": "Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks",
+        "authors": [
+          "Feng Qiao",
+          "Zhaochong An",
+          "Zhexiao Xiong",
+          "Serge Belongie",
+          "Nathan Jacobs"
+        ],
+        "upvotes": 9,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-14T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14832": {
+        "id": "2606.14832",
+        "title": "PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions",
+        "authors": [
+          "Chenxin Li",
+          "Zhengyao Fang",
+          "Zhengyang Tang",
+          "Pengyuan Lyu",
+          "Xingran Zhou",
+          "Xin Lai",
+          "Fei Tang",
+          "Liang Wu",
+          "Yiduo Guo",
+          "Weinong Wang",
+          "Junyi Li",
+          "Yi Zhang",
+          "Yang Ding",
+          "Huawen Shen",
+          "Sunqi Fan",
+          "Shangpin Peng",
+          "Zheng Ruan",
+          "Anran Zhang",
+          "Benyou Wang",
+          "Chengquan Zhang",
+          "Han Hu"
+        ],
+        "upvotes": 9,
+        "github_repo": "https://github.com/PhoneHarness/PhoneHarness",
+        "github_stars": 23,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14958": {
+        "id": "2606.14958",
+        "title": "MVEB: Massive Video Embedding Benchmark",
+        "authors": [
+          "Adnan El Assadi",
+          "Roman Solomatin",
+          "Isaac Chung",
+          "Chenghao Xiao",
+          "Deep Shah",
+          "Manan Dey",
+          "Shriya Sudhakar",
+          "Zacharie Bugaud",
+          "Wissam Siblini",
+          "Ayush Sunil Munot",
+          "Yashwanth Devavarapu",
+          "Rakshitha Ireddi",
+          "Michelle Yang",
+          "Márton Kardos",
+          "Niklas Muennighoff",
+          "Kenneth Enevoldsen"
+        ],
+        "upvotes": 9,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.17043": {
+        "id": "2606.17043",
+        "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+        "authors": [
+          "Tongyan Fang",
+          "Siyuan Huang",
+          "Naiyu Fang",
+          "Ganlong Zhao",
+          "Zhongjin Luo",
+          "Jianbo Liu",
+          "Xiaogang Wang",
+          "Ying Dong",
+          "Hongsheng Li"
+        ],
+        "upvotes": 7,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15956": {
+        "id": "2606.15956",
+        "title": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences",
+        "authors": [
+          "Ninad Daithankar",
+          "Alexi Gladstone",
+          "Yann LeCun",
+          "Heng Ji"
+        ],
+        "upvotes": 6,
+        "github_repo": "https://github.com/ninaddaithankar/tdv",
+        "github_stars": 12,
+        "published_at": "2026-06-14T00:00:00.000Z",
+        "num_comments": 3
+      },
+      "2606.12138": {
+        "id": "2606.12138",
+        "title": "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders",
+        "authors": [
+          "Gleb Gerasimov",
+          "Timofei Rusalev",
+          "Nikita Balagansky",
+          "Daniil Laptev",
+          "Vadim Kurochkin",
+          "Daniil Gavrilov"
+        ],
+        "upvotes": 6,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.16673": {
+        "id": "2606.16673",
+        "title": "MMDiff: Extending Diffusion Transformers for Multi-Modal Generation",
+        "authors": [
+          "Yagmur Akarken",
+          "Orest Kupyn",
+          "Christian Rupprecht"
+        ],
+        "upvotes": 4,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2602.21103": {
+        "id": "2602.21103",
+        "title": "Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning",
+        "authors": [
+          "Sanket Badhe",
+          "Deep Shah"
+        ],
+        "upvotes": 4,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-02T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.17024": {
+        "id": "2606.17024",
+        "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+        "authors": [
+          "Violet Xiang",
+          "Amrith Setlur",
+          "Chase Blagden",
+          "Nick Haber",
+          "Aviral Kumar"
+        ],
+        "upvotes": 3,
+        "github_repo": "https://github.com/violetxi/ExpRL",
+        "github_stars": 6,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.16449": {
+        "id": "2606.16449",
+        "title": "PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory",
+        "authors": [
+          "Shuai Yang",
+          "Bingjie Gao",
+          "Ziwei Liu",
+          "Jiaqi Wang",
+          "Dahua Lin",
+          "Tong Wu"
+        ],
+        "upvotes": 3,
+        "github_repo": "https://github.com/YS-IMTech/PermaVid",
+        "github_stars": 10,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.15708": {
+        "id": "2606.15708",
+        "title": "Artificial Intelligence Index Report 2026",
+        "authors": [
+          "Sha Sajadieh",
+          "Loredana Fattorini",
+          "Raymond Perrault",
+          "Yolanda Gil",
+          "Vanessa Parli",
+          "Lapo Santarlasci",
+          "Juan Pava",
+          "Nestor Maslej",
+          "Russ Altman",
+          "Erik Brynjolfsson",
+          "Carla Brodley",
+          "Jack Clark",
+          "Virginia Dignum",
+          "Vipin Kumar",
+          "James Landay",
+          "Terah Lyons",
+          "James Manyika",
+          "Juan Carlos Niebles",
+          "Yoav Shoham",
+          "Elham Tabassi",
+          "Russell Wald",
+          "Toby Walsh",
+          "Dan Weld"
+        ],
+        "upvotes": 3,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-04-14T00:00:00.000Z",
+        "num_comments": 0
+      },
+      "2606.16202": {
+        "id": "2606.16202",
+        "title": "EgoPhys: Learning Generalizable Physics Models of Deformable Objects from Egocentric Video",
+        "authors": [
+          "Hyunjin Kim",
+          "Ri-Zhao Qiu",
+          "Guangqi Jiang",
+          "Xiaolong Wang"
+        ],
+        "upvotes": 1,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14142": {
+        "id": "2606.14142",
+        "title": "Implicit Reasoning for Large Language Model-based Generative Recommendation",
+        "authors": [
+          "Yinhan He",
+          "Liam Collins",
+          "Bhuvesh Kumar",
+          "Jundong Li",
+          "Neil Shah",
+          "Donald Loveland"
+        ],
+        "upvotes": 1,
+        "github_repo": null,
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.15768": {
+        "id": "2606.15768",
+        "title": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies",
+        "authors": [
+          "Jialei Chen",
+          "Kai Wang",
+          "Kang Chen",
+          "Shuaihang Chen",
+          "Feng Gao",
+          "Wenhao Tang",
+          "Zhiyuan Li",
+          "Weilin Liu",
+          "Zhuyu Yao",
+          "Boxun Li",
+          "Yuanbo Xu",
+          "Chao Yu"
+        ],
+        "upvotes": 1,
+        "github_repo": "https://github.com/RLinf/LaWAM",
+        "github_stars": 16,
+        "published_at": "2026-06-14T12:06:58.000Z",
+        "num_comments": 1
+      },
+      "2606.16011": {
+        "id": "2606.16011",
+        "title": "Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs",
+        "authors": [
+          "Nafiseh Nikeghbal",
+          "Amir Hossein Kargaran",
+          "Shaghayegh Kolli",
+          "Jana Diesner"
+        ],
+        "upvotes": 1,
+        "github_repo": "https://github.com/nafisenik/WhoFlips",
+        "github_stars": 1,
+        "published_at": "2026-06-14T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.14819": {
+        "id": "2606.14819",
+        "title": "Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks",
+        "authors": [
+          "Igor Itkin"
+        ],
+        "upvotes": 1,
+        "github_repo": "https://github.com/YehudaItkin/noisy-perception-governance",
+        "github_stars": null,
+        "published_at": "2026-06-12T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2505.14608": {
+        "id": "2505.14608",
+        "title": "Attacks on Machine-Text Detectors Retain Stylistic Fingerprints",
+        "authors": [
+          "Rafael Rivera Soto",
+          "Barry Chen",
+          "Nicholas Andrews"
+        ],
+        "upvotes": 1,
+        "github_repo": "https://github.com/rrivera1849/style-aware-paraphrasing",
+        "github_stars": 2,
+        "published_at": "2026-06-08T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.17054": {
+        "id": "2606.17054",
+        "title": "Human Universal Grasping",
+        "authors": [
+          "Kevin Yuanbo Wu",
+          "Tianxing Zhou",
+          "Isaac Tu",
+          "Billy Yan",
+          "Irmak Guzey",
+          "David Fouhey",
+          "Dandan Shan",
+          "Lerrel Pinto"
+        ],
+        "upvotes": 0,
+        "github_repo": "https://github.com/KevinyWu/hug",
+        "github_stars": 16,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 2
+      },
+      "2606.16852": {
+        "id": "2606.16852",
+        "title": "The Ghosts of Polymarket: When Off-Chain Matches Meet On-Chain Reverts",
+        "authors": [
+          "Yiming Shen",
+          "Yuhan Jin",
+          "Shuohan Wu",
+          "Yanlin Wang",
+          "Jiachi Chen"
+        ],
+        "upvotes": 0,
+        "github_repo": "https://github.com/shenyimings/ghost-hunter",
+        "github_stars": null,
+        "published_at": "2026-06-15T00:00:00.000Z",
+        "num_comments": 1
+      },
+      "2606.17006": {
+        "id": "2606.17006",
+        "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
+        "authors": [
+          "Yonghyun Kim",
+          "Junwon Lee",
+          "Haiwen Xia",
+          "Yinghao Ma",
+          "Junghyun Koo",
+          "Koichi Saito",
+          "Yuki Mitsufuji",
+          "Chris Donahue"
+        ],
+        "upvotes": 0,
+        "github_repo": "https://github.com/yonghyunk1m/TuneJury",
+        "github_stars": 9,
+        "published_at": "2026-06-15T00:00:00.000Z",
         "num_comments": 1
       }
     }
