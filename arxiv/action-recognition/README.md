@@ -1,15 +1,15 @@
 ## Action Recognition
 
-### Updated on 2026.06.17
+### Updated on 2026.06.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-06-16**|**Divide, Deliberate, Decide: A Multi-Agent Framework for Fine-Grained Egocentric Action Recognition**|Alessandro Sottovia et.al.|[2606.17627v1](http://arxiv.org/abs/2606.17627v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17627)|
-|**2026-06-15**|**Decoupled Object-Centric Video Understanding for Generating Robotic Manipulation Commands**|Thanh Nguyen Canh et.al.|[2606.16470v1](http://arxiv.org/abs/2606.16470v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.16470)|
+|**2026-06-15**|**Decoupled Object-Centric Video Understanding for Generating Robotic Manipulation Commands**|Thanh Nguyen Canh et.al.|[2606.16470v1](http://arxiv.org/abs/2606.16470v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.16470)|
 |**2026-06-13**|**From Frames to Temporal Graphs: In-Context Egocentric Action Recognition with Vision-Language Models**|Bessie Dominguez-Dager et.al.|[2606.15417v1](http://arxiv.org/abs/2606.15417v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.15417)|
 |**2026-06-13**|**MamBOA: State-Space Architecture for Video Recognition**|Mustafa Bora Çelik et.al.|[2606.15275v1](http://arxiv.org/abs/2606.15275v1)|[link](https://github.com/BOA-clk/MamBOA)|[αX↑0](https://alphaxiv.org/abs/2606.15275)|
-|**2026-06-10**|**FactCheck: Feasibility-aware Long-term Action Anticipation with Multi-agent Collaboration**|Rui Cao et.al.|[2606.14778v1](http://arxiv.org/abs/2606.14778v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.14778)|
-|**2026-06-16**|**A New Multi-Domain Benchmark for Micro-Action Recognition and Detection**|Yanbin Hao et.al.|[2606.14096v2](http://arxiv.org/abs/2606.14096v2)|null|[αX↑1](https://alphaxiv.org/abs/2606.14096)|
+|**2026-06-10**|**FactCheck: Feasibility-aware Long-term Action Anticipation with Multi-agent Collaboration**|Rui Cao et.al.|[2606.14778v1](http://arxiv.org/abs/2606.14778v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.14778)|
+|**2026-06-16**|**A New Multi-Domain Benchmark for Micro-Action Recognition and Detection**|Yanbin Hao et.al.|[2606.14096v2](http://arxiv.org/abs/2606.14096v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.14096)|
 |**2026-06-11**|**PMOF: A Dataset and Benchmark for Passenger Monitoring Using Overhead Fisheye Cameras**|Stella Katharina Wermuth et.al.|[2606.13910v1](http://arxiv.org/abs/2606.13910v1)|[link](https://github.com/swermuth/pmof-code)|[αX↑2](https://alphaxiv.org/abs/2606.13910)|
 |**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Felix Tristram et.al.|[2606.13332v1](http://arxiv.org/abs/2606.13332v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.13332)|
 |**2026-06-11**|**Quality-Preserving Imperceptible Adversarial Attack on Skeleton-based Human Action Recognition**|Ziyi Chang et.al.|[2606.13022v1](http://arxiv.org/abs/2606.13022v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.13022)|
