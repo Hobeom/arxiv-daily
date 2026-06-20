@@ -5,9 +5,9 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20542)|
-|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20272)|
+|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.20272)|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.19176)|
-|**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|[link](https://github.com/MinhasKamal/CAOA)|[αX↑1](https://alphaxiv.org/abs/2606.18429)|
+|**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|[link](https://github.com/MinhasKamal/CAOA)|[αX↑2](https://alphaxiv.org/abs/2606.18429)|
 |**2026-06-16**|**A Hybrid Optimization Framework for Grasp Synthesis under Partial Observations**|Wenzheng Zhang et.al.|[2606.18053v1](http://arxiv.org/abs/2606.18053v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.18053)|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17936)|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.17935)|
