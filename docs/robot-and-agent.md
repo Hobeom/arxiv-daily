@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.21
+### Updated on 2026.06.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -23,7 +23,7 @@ layout: default
 |**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.18959)|
 |**2026-06-17**|**WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents**|Yehang Zhang et.al.|[2606.18847v1](http://arxiv.org/abs/2606.18847v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.18847)|
 |**2026-06-16**|**Guava: An Effective and Universal Harness for Embodied Manipulation**|Haowen Liu et.al.|[2606.18363v1](http://arxiv.org/abs/2606.18363v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18363)|
-|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247v1](http://arxiv.org/abs/2606.18247v1)|[link](https://github.com/princeton-prism/veritas)|[αX↑7](https://alphaxiv.org/abs/2606.18247)|
+|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247v1](http://arxiv.org/abs/2606.18247v1)|[link](https://github.com/princeton-prism/veritas)|[αX↑9](https://alphaxiv.org/abs/2606.18247)|
 |**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.18235)|
 |**2026-06-16**|**Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So**|Josef Liyanjun Chen et.al.|[2606.18144v1](http://arxiv.org/abs/2606.18144v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.18144)|
 |**2026-06-16**|**From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets**|Dzmitry Katsiuba et.al.|[2606.17839v1](http://arxiv.org/abs/2606.17839v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17839)|
@@ -32,7 +32,7 @@ layout: default
 |**2026-06-16**|**MagicSim: A Unified Infrastructure for Executable Embodied Interaction**|Haoran Lu et.al.|[2606.17511v1](http://arxiv.org/abs/2606.17511v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.17511)|
 |**2026-06-16**|**When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning**|Nethmi Jayasinghe et.al.|[2606.17493v1](http://arxiv.org/abs/2606.17493v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17493)|
 |**2026-06-16**|**DexLink Hand: A Compact, Affordable, 16-DOF Linkage-Driven Hand with Human-Like Dexterity**|Hao Wu et.al.|[2606.17418v1](http://arxiv.org/abs/2606.17418v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17418)|
-|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408v1](http://arxiv.org/abs/2606.17408v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.17408)|
+|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408v1](http://arxiv.org/abs/2606.17408v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.17408)|
 |**2026-06-16**|**EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning**|Gaotian Wang et.al.|[2606.17385v1](http://arxiv.org/abs/2606.17385v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17385)|
 |**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|[link](https://github.com/cvlab-kaist/Geometric-Action-Model)|[🤗👍107](https://huggingface.co/papers/2606.17046) [αX↑66](https://alphaxiv.org/abs/2606.17046)|
 |**2026-06-16**|**Unified Motion-Action Modeling for Heterogeneous Robot Learning**|Yunhao Cao et.al.|[2606.16917v2](http://arxiv.org/abs/2606.16917v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.16917)|
