@@ -8,8 +8,8 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.20542)|
-|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.20272)|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|[αX↑16](https://alphaxiv.org/abs/2606.20542)|
+|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.20272)|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.19176)|
 |**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|[link](https://github.com/MinhasKamal/CAOA)|[αX↑3](https://alphaxiv.org/abs/2606.18429)|
 |**2026-06-16**|**A Hybrid Optimization Framework for Grasp Synthesis under Partial Observations**|Wenzheng Zhang et.al.|[2606.18053v1](http://arxiv.org/abs/2606.18053v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.18053)|
@@ -69,7 +69,7 @@ layout: default
 |**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|[link](https://github.com/JacksonTao888/industrial-visual-sim2real-priors)|[αX↑2](https://alphaxiv.org/abs/2605.30581)|
 |**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|[link](https://github.com/facebookresearch/VLM3)|[αX↑10](https://alphaxiv.org/abs/2605.30561)|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|[αX↑3](https://alphaxiv.org/abs/2605.30127)|
-|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑9](https://alphaxiv.org/abs/2605.29953)|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|[αX↑10](https://alphaxiv.org/abs/2605.29953)|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.29298)|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|[link](https://github.com/Runningchauncey/SA4Depth)|[αX↑5](https://alphaxiv.org/abs/2605.28477)|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|[link](https://github.com/GenIntel/HouseCorr3D)|[🤗👍6](https://huggingface.co/papers/2605.28257) [αX↑3](https://alphaxiv.org/abs/2605.28257)|
