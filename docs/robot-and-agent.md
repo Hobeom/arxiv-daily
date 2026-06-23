@@ -4,14 +4,24 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.22
+### Updated on 2026.06.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-21**|**Do Rigid-Body Simulators Dream of Soft Robots? Learning Contact-Rich Manipulation for Tendon-Driven Continuum Robots**|Chengnan Shentu et.al.|[2606.22397v1](http://arxiv.org/abs/2606.22397v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22397)|
+|**2026-06-21**|**Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks**|Trinity Chung et.al.|[2606.22332v1](http://arxiv.org/abs/2606.22332v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22332)|
+|**2026-06-20**|**RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations**|Qian Luo et.al.|[2606.22142v1](http://arxiv.org/abs/2606.22142v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22142)|
+|**2026-06-20**|**DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects**|Yi Yang et.al.|[2606.22116v1](http://arxiv.org/abs/2606.22116v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22116)|
+|**2026-06-20**|**How Should a Simulation-to-Reality Transfer Budget Be Spent?**|Syed Hamzah Rizvi et.al.|[2606.22062v1](http://arxiv.org/abs/2606.22062v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22062)|
+|**2026-06-19**|**Robot Critics that Sweat the Small Stuff**|Sruthi Sudhakar et.al.|[2606.21572v1](http://arxiv.org/abs/2606.21572v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21572)|
+|**2026-06-19**|**Robot Self-Improvement via Human-Video Dynamics Models**|Hanzhi Chen et.al.|[2606.21406v1](http://arxiv.org/abs/2606.21406v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21406)|
+|**2026-06-19**|**PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning**|Youngjoon Jeong et.al.|[2606.21139v1](http://arxiv.org/abs/2606.21139v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21139)|
+|**2026-06-19**|**Inductive Generalization for Robotic Manipulation**|Annabella Macaluso et.al.|[2606.20999v1](http://arxiv.org/abs/2606.20999v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20999)|
+|**2026-06-18**|**Duet: Dual-Robot Understanding via Efficient Teaching**|Yiqi Zhao et.al.|[2606.20990v1](http://arxiv.org/abs/2606.20990v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20990)|
 |**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Sha Yi et.al.|[2606.20549v1](http://arxiv.org/abs/2606.20549v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.20549)|
 |**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537v1](http://arxiv.org/abs/2606.20537v1)|[link](https://github.com/flashrt-project/FlashRT)|[αX↑8](https://alphaxiv.org/abs/2606.20537)|
 |**2026-06-18**|**CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation**|Ziyuan Tang et.al.|[2606.20389v1](http://arxiv.org/abs/2606.20389v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.20389)|
-|**2026-06-18**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Gia-Binh Nguyen et.al.|[2606.20246v1](http://arxiv.org/abs/2606.20246v1)|null|[αX↑18](https://alphaxiv.org/abs/2606.20246)|
+|**2026-06-20**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Gia-Binh Nguyen et.al.|[2606.20246v2](http://arxiv.org/abs/2606.20246v2)|null|[αX↑18](https://alphaxiv.org/abs/2606.20246)|
 |**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Fanfu Xue et.al.|[2606.20045v1](http://arxiv.org/abs/2606.20045v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.20045)|
 |**2026-06-18**|**ENPIRE: Agentic Robot Policy Self-Improvement in the Real World**|Wenli Xiao et.al.|[2606.19980v1](http://arxiv.org/abs/2606.19980v1)|null|[🤗👍11](https://huggingface.co/papers/2606.19980) [αX↑25](https://alphaxiv.org/abs/2606.19980)|
 |**2026-06-18**|**Advancing DialNav through Automatic Embodied Dialog Augmentation**|Leekyeung Han et.al.|[2606.19948v1](http://arxiv.org/abs/2606.19948v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.19948)|

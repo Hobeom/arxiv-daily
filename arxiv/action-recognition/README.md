@@ -1,9 +1,15 @@
 ## Action Recognition
 
-### Updated on 2026.06.22
+### Updated on 2026.06.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416v1](http://arxiv.org/abs/2606.22416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22416)|
+|**2026-06-21**|**Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding**|Haodi Liu et.al.|[2606.22409v1](http://arxiv.org/abs/2606.22409v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22409)|
+|**2026-06-19**|**T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition**|Di Yang et.al.|[2606.21607v1](http://arxiv.org/abs/2606.21607v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21607)|
+|**2026-06-19**|**The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection**|Serdar Ozsoy et.al.|[2606.21579v1](http://arxiv.org/abs/2606.21579v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21579)|
+|**2026-06-19**|**LEViL: Label-Efficient Video Learning via Zero-Shot Distillation over VLM-Generated Pseudo-Label Spaces**|Aslı Çelik et.al.|[2606.21358v1](http://arxiv.org/abs/2606.21358v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21358)|
+|**2026-06-17**|**Robust Zero-Shot Generalization for Open-Vocabulary Action Recognition via Task Arithmetic**|Francesca Morandi et.al.|[2606.20734v1](http://arxiv.org/abs/2606.20734v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20734)|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559v1](http://arxiv.org/abs/2606.20559v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.20559)|
 |**2026-06-18**|**Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration**|James Fant-Male et.al.|[2606.20150v1](http://arxiv.org/abs/2606.20150v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.20150)|
 |**2026-06-16**|**Divide, Deliberate, Decide: A Multi-Agent Framework for Fine-Grained Egocentric Action Recognition**|Alessandro Sottovia et.al.|[2606.17627v1](http://arxiv.org/abs/2606.17627v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.17627)|

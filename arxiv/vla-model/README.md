@@ -1,9 +1,23 @@
 ## Vision Language Action Model
 
-### Updated on 2026.06.22
+### Updated on 2026.06.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-21**|**PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models**|Xianghui Wang et.al.|[2606.22540v1](http://arxiv.org/abs/2606.22540v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22540)|
+|**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363v1](http://arxiv.org/abs/2606.22363v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22363)|
+|**2026-06-20**|**OpenHLM: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation**|Yingdong Hu et.al.|[2606.22174v1](http://arxiv.org/abs/2606.22174v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22174)|
+|**2026-06-20**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yangtao Chen et.al.|[2606.22136v1](http://arxiv.org/abs/2606.22136v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22136)|
+|**2026-06-19**|**UniviewVLA: A Unified Multiview Vision-Language-Action Model with World Modeling**|Tao Xu et.al.|[2606.21501v1](http://arxiv.org/abs/2606.21501v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21501)|
+|**2026-06-19**|**Decoupling the Declarative from the Procedural in Vision-Language-Action Models**|Nikolaos Tsagkas et.al.|[2606.21496v1](http://arxiv.org/abs/2606.21496v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21496)|
+|**2026-06-19**|**Semi-Supervised Vision-Language-Action Model**|Hongyang He et.al.|[2606.21493v1](http://arxiv.org/abs/2606.21493v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21493)|
+|**2026-06-19**|**VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models**|Florian Seligmann et.al.|[2606.21386v1](http://arxiv.org/abs/2606.21386v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21386)|
+|**2026-06-19**|**NAC: Neural Action Codec for Vision-Language-Action Models**|Ahad Jawaid et.al.|[2606.21372v1](http://arxiv.org/abs/2606.21372v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21372)|
+|**2026-06-19**|**Remember what you did?: Learning Behavioral Memories for Partially Observable Object Manipulation**|Kuancheng Wang et.al.|[2606.21188v1](http://arxiv.org/abs/2606.21188v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21188)|
+|**2026-06-19**|**Inductive Generalization for Robotic Manipulation**|Annabella Macaluso et.al.|[2606.20999v1](http://arxiv.org/abs/2606.20999v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20999)|
+|**2026-06-18**|**Geometric Entropy: When Trajectory Diversity Helps and Hurts in Imitation Learning**|Qian Luo et.al.|[2606.20871v1](http://arxiv.org/abs/2606.20871v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20871)|
+|**2026-06-18**|**FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation**|Duc Minh Nguyen et.al.|[2606.20867v1](http://arxiv.org/abs/2606.20867v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20867)|
+|**2026-06-18**|**SignVLA: Real-Time Sign Language-Guided Robotic Manipulation via Attention LSTM and Vision-Language-Action Models**|Ningwei Bai et.al.|[2606.20857v1](http://arxiv.org/abs/2606.20857v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20857)|
 |**2026-06-18**|**Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation**|Zhenghao "Mark'' Peng et.al.|[2606.20458v1](http://arxiv.org/abs/2606.20458v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.20458)|
 |**2026-06-18**|**Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems**|Yandong Wang et.al.|[2606.20285v1](http://arxiv.org/abs/2606.20285v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.20285)|
 |**2026-06-18**|**Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving**|Shihao Ji et.al.|[2606.20274v1](http://arxiv.org/abs/2606.20274v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.20274)|
