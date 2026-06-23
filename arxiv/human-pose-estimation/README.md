@@ -4,6 +4,9 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23293)|
+|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006v1](http://arxiv.org/abs/2606.23006v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23006)|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856v1](http://arxiv.org/abs/2606.22856v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22856)|
 |**2026-06-20**|**Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation**|Seojung Min et.al.|[2606.22251v1](http://arxiv.org/abs/2606.22251v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22251)|
 |**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22076)|
 |**2026-06-19**|**Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers**|Philippe Weinzaepfel et.al.|[2606.21562v1](http://arxiv.org/abs/2606.21562v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21562)|
@@ -13,8 +16,8 @@
 |**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.20272)|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.19176)|
 |**2026-06-18**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v2](http://arxiv.org/abs/2606.18429v2)|[link](https://github.com/MinhasKamal/CAOA)|[αX↑3](https://alphaxiv.org/abs/2606.18429)|
-|**2026-06-16**|**A Hybrid Optimization Framework for Grasp Synthesis under Partial Observations**|Wenzheng Zhang et.al.|[2606.18053v1](http://arxiv.org/abs/2606.18053v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.18053)|
-|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.17936)|
+|**2026-06-16**|**A Hybrid Optimization Framework for Grasp Synthesis under Partial Observations**|Wenzheng Zhang et.al.|[2606.18053v1](http://arxiv.org/abs/2606.18053v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.18053)|
+|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.17936)|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.17935)|
 |**2026-06-16**|**A Wearable Multimodal Ultrasound+Inertial System for Real-Time Virtual Reality Interaction**|Giusy Spacone et.al.|[2606.17741v1](http://arxiv.org/abs/2606.17741v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.17741)|
 |**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534v1](http://arxiv.org/abs/2606.17534v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.17534)|

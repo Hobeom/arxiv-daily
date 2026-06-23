@@ -4,6 +4,12 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Jiaming Liu et.al.|[2606.23685v1](http://arxiv.org/abs/2606.23685v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.23685)|
+|**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617v1](http://arxiv.org/abs/2606.23617v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23617)|
+|**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565v1](http://arxiv.org/abs/2606.23565v1)|[link](https://github.com/HorizonRobotics/HoloAgent)|[αX↑10](https://alphaxiv.org/abs/2606.23565)|
+|**2026-06-22**|**TSD: A Physics-Inspired Trajectory Saliency Detector for Efficient Imitation Learning**|Yiming Zhao et.al.|[2606.23371v1](http://arxiv.org/abs/2606.23371v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23371)|
+|**2026-06-22**|**IOI: Decoupling Kinematics and Physics for Interactive World Models**|Chengyu Bai et.al.|[2606.23296v1](http://arxiv.org/abs/2606.23296v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23296)|
+|**2026-06-22**|**Temporal Logic Guidance for Action-Only Diffusion Policies with World Models**|Moritz Zoellner et.al.|[2606.22729v1](http://arxiv.org/abs/2606.22729v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.22729)|
 |**2026-06-21**|**Do Rigid-Body Simulators Dream of Soft Robots? Learning Contact-Rich Manipulation for Tendon-Driven Continuum Robots**|Chengnan Shentu et.al.|[2606.22397v1](http://arxiv.org/abs/2606.22397v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22397)|
 |**2026-06-21**|**Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks**|Trinity Chung et.al.|[2606.22332v1](http://arxiv.org/abs/2606.22332v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22332)|
 |**2026-06-20**|**RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations**|Qian Luo et.al.|[2606.22142v1](http://arxiv.org/abs/2606.22142v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22142)|
@@ -29,7 +35,7 @@
 |**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.18959)|
 |**2026-06-17**|**WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents**|Yehang Zhang et.al.|[2606.18847v1](http://arxiv.org/abs/2606.18847v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.18847)|
 |**2026-06-16**|**Guava: An Effective and Universal Harness for Embodied Manipulation**|Haowen Liu et.al.|[2606.18363v1](http://arxiv.org/abs/2606.18363v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.18363)|
-|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247v1](http://arxiv.org/abs/2606.18247v1)|[link](https://github.com/princeton-prism/veritas)|[αX↑9](https://alphaxiv.org/abs/2606.18247)|
+|**2026-06-16**|**Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**|Mingtong Zhang et.al.|[2606.18247v1](http://arxiv.org/abs/2606.18247v1)|[link](https://github.com/princeton-prism/veritas)|[αX↑15](https://alphaxiv.org/abs/2606.18247)|
 |**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.18235)|
 |**2026-06-16**|**Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So**|Josef Liyanjun Chen et.al.|[2606.18144v1](http://arxiv.org/abs/2606.18144v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.18144)|
 |**2026-06-16**|**From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets**|Dzmitry Katsiuba et.al.|[2606.17839v1](http://arxiv.org/abs/2606.17839v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17839)|
@@ -38,7 +44,7 @@
 |**2026-06-16**|**MagicSim: A Unified Infrastructure for Executable Embodied Interaction**|Haoran Lu et.al.|[2606.17511v1](http://arxiv.org/abs/2606.17511v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.17511)|
 |**2026-06-16**|**When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning**|Nethmi Jayasinghe et.al.|[2606.17493v1](http://arxiv.org/abs/2606.17493v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17493)|
 |**2026-06-16**|**DexLink Hand: A Compact, Affordable, 16-DOF Linkage-Driven Hand with Human-Like Dexterity**|Hao Wu et.al.|[2606.17418v1](http://arxiv.org/abs/2606.17418v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17418)|
-|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408v1](http://arxiv.org/abs/2606.17408v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.17408)|
+|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408v1](http://arxiv.org/abs/2606.17408v1)|null|[αX↑17](https://alphaxiv.org/abs/2606.17408)|
 |**2026-06-16**|**EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning**|Gaotian Wang et.al.|[2606.17385v1](http://arxiv.org/abs/2606.17385v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.17385)|
 |**2026-06-15**|**Geometric Action Model for Robot Policy Learning**|Jisang Han et.al.|[2606.17046v1](http://arxiv.org/abs/2606.17046v1)|[link](https://github.com/cvlab-kaist/Geometric-Action-Model)|[🤗👍112](https://huggingface.co/papers/2606.17046) [αX↑80](https://alphaxiv.org/abs/2606.17046)|
 |**2026-06-16**|**Unified Motion-Action Modeling for Heterogeneous Robot Learning**|Yunhao Cao et.al.|[2606.16917v2](http://arxiv.org/abs/2606.16917v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.16917)|

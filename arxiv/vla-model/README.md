@@ -4,6 +4,18 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-22**|**LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models**|Rongxu Cui et.al.|[2606.23686v1](http://arxiv.org/abs/2606.23686v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23686)|
+|**2026-06-22**|**Flatness Preserves Instruction Following in Vision-Language-Action Models**|Haochen Zhang et.al.|[2606.23641v1](http://arxiv.org/abs/2606.23641v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23641)|
+|**2026-06-22**|**dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models**|Yuhao Wu et.al.|[2606.23623v1](http://arxiv.org/abs/2606.23623v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.23623)|
+|**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617v1](http://arxiv.org/abs/2606.23617v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23617)|
+|**2026-06-22**|**A Watermark for Vision-Language-Action and World Action Models**|Yule Liu et.al.|[2606.23574v1](http://arxiv.org/abs/2606.23574v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23574)|
+|**2026-06-22**|**BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation**|Jinsong Lin et.al.|[2606.23531v1](http://arxiv.org/abs/2606.23531v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23531)|
+|**2026-06-22**|**Flowing With Purpose: Latent Action Guided Flow Matching Policies For Robotic Manipulation**|Bruno Machado et.al.|[2606.23420v1](http://arxiv.org/abs/2606.23420v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23420)|
+|**2026-06-22**|**Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models**|Pinhao Song et.al.|[2606.23147v1](http://arxiv.org/abs/2606.23147v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23147)|
+|**2026-06-22**|**Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving**|Zisheng Chen et.al.|[2606.22913v1](http://arxiv.org/abs/2606.22913v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.22913)|
+|**2026-06-22**|**HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning**|Jingyi Liu et.al.|[2606.22860v1](http://arxiv.org/abs/2606.22860v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.22860)|
+|**2026-06-22**|**Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA**|Michael Piseno et.al.|[2606.22836v1](http://arxiv.org/abs/2606.22836v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22836)|
+|**2026-06-22**|**UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models**|Lin Sun et.al.|[2606.22794v1](http://arxiv.org/abs/2606.22794v1)|[link](https://github.com/linsun449/UniFS)|[αX↑0](https://alphaxiv.org/abs/2606.22794)|
 |**2026-06-21**|**PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models**|Xianghui Wang et.al.|[2606.22540v1](http://arxiv.org/abs/2606.22540v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22540)|
 |**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363v1](http://arxiv.org/abs/2606.22363v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22363)|
 |**2026-06-20**|**OpenHLM: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation**|Yingdong Hu et.al.|[2606.22174v1](http://arxiv.org/abs/2606.22174v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22174)|

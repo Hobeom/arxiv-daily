@@ -10,6 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-06-20**|**Inverse Turing Bench: Evaluating Language Models as Judges of Human vs. AI Dialogue**|William Hager et.al.|[2606.21844v1](http://arxiv.org/abs/2606.21844v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21844)|
 |**2026-06-17**|**Where Does Social Reasoning Come From? Capability Provenance in Language Models**|Glenn Matlin et.al.|[2606.19625v1](http://arxiv.org/abs/2606.19625v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.19625)|
+|**2026-06-21**|**Mesh Inference: A Formal Model of Collective Inference Without a Center**|Hongwei Xu et.al.|[2606.19537v2](http://arxiv.org/abs/2606.19537v2)|null|[αX↑0](https://alphaxiv.org/abs/2606.19537)|
 |**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944v1](http://arxiv.org/abs/2606.16944v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.16944)|
 |**2026-06-13**|**Self-Driving Negotiator: An interactive, verifiable benchmark for social negotiation and theory of mind under hidden intent**|Ashutosh Kumar et.al.|[2606.15139v1](http://arxiv.org/abs/2606.15139v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.15139)|
 |**2026-06-10**|**The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism**|Nikolos Gurney et.al.|[2606.12721v1](http://arxiv.org/abs/2606.12721v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.12721)|
