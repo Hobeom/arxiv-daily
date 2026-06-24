@@ -8,12 +8,17 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-23**|**Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization**|Zhaopeng Cui et.al.|[2606.24767v1](http://arxiv.org/abs/2606.24767v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24767)|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24448)|
+|**2026-06-23**|**RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes**|Arsh Chawla et.al.|[2606.24403v1](http://arxiv.org/abs/2606.24403v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24403)|
+|**2026-06-23**|**Bengal-HP_RU: A Dataset of Bengal People For Head Pose Estimation**|Md. Ahanaf Arif Khan et.al.|[2606.24122v1](http://arxiv.org/abs/2606.24122v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24122)|
+|**2026-06-22**|**Integrated Sensing and Communications for Real-time Avatar Control in XR over 5G**|Nabeel Nisar Bhat et.al.|[2606.23771v1](http://arxiv.org/abs/2606.23771v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23771)|
 |**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23293)|
 |**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006v1](http://arxiv.org/abs/2606.23006v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23006)|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856v1](http://arxiv.org/abs/2606.22856v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22856)|
-|**2026-06-20**|**Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation**|Seojung Min et.al.|[2606.22251v1](http://arxiv.org/abs/2606.22251v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22251)|
-|**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22076)|
-|**2026-06-19**|**Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers**|Philippe Weinzaepfel et.al.|[2606.21562v1](http://arxiv.org/abs/2606.21562v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21562)|
+|**2026-06-20**|**Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation**|Seojung Min et.al.|[2606.22251v1](http://arxiv.org/abs/2606.22251v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22251)|
+|**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22076)|
+|**2026-06-19**|**Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers**|Philippe Weinzaepfel et.al.|[2606.21562v1](http://arxiv.org/abs/2606.21562v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.21562)|
 |**2026-06-19**|**Unsupervised Domain Adaptation for Sim-to-Real Object Pose Estimation with Contrastive Alignment and Pseudo-Label Refinement**|Nidhal Eddine Chenni et.al.|[2606.21287v1](http://arxiv.org/abs/2606.21287v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21287)|
 |**2026-06-19**|**Pose-Agnostic Robotic Functional Grasping via Observation-Action Canonicalization**|Le Qiu et.al.|[2606.21148v1](http://arxiv.org/abs/2606.21148v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21148)|
 |**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|[αX↑16](https://alphaxiv.org/abs/2606.20542)|
