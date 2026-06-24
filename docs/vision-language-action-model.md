@@ -4,10 +4,16 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.23
+### Updated on 2026.06.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-23**|**InSight: Self-Guided Skill Acquisition via Steerable VLAs**|Maggie Wang et.al.|[2606.24884v1](http://arxiv.org/abs/2606.24884v1)|[link](https://github.com/insight-vla/insight)|[αX↑1](https://alphaxiv.org/abs/2606.24884)|
+|**2026-06-23**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al.|[2606.24815v1](http://arxiv.org/abs/2606.24815v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24815)|
+|**2026-06-23**|**G $^3$ VLA: Geometric inductive bias for Vision-Language-Action Models**|Yue Peng et.al.|[2606.24472v1](http://arxiv.org/abs/2606.24472v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24472)|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24448)|
+|**2026-06-23**|**DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model**|Jingke Wang et.al.|[2606.24051v1](http://arxiv.org/abs/2606.24051v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24051)|
+|**2026-06-22**|**Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs**|Xiangbo Gao et.al.|[2606.23938v1](http://arxiv.org/abs/2606.23938v1)|[link](https://github.com/zcxgi/nuplan-reason)|[αX↑0](https://alphaxiv.org/abs/2606.23938)|
 |**2026-06-22**|**LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models**|Rongxu Cui et.al.|[2606.23686v1](http://arxiv.org/abs/2606.23686v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23686)|
 |**2026-06-22**|**Flatness Preserves Instruction Following in Vision-Language-Action Models**|Haochen Zhang et.al.|[2606.23641v1](http://arxiv.org/abs/2606.23641v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23641)|
 |**2026-06-22**|**dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models**|Yuhao Wu et.al.|[2606.23623v1](http://arxiv.org/abs/2606.23623v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.23623)|

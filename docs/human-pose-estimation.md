@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.06.23
+### Updated on 2026.06.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -15,7 +15,7 @@ layout: default
 |**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22076)|
 |**2026-06-19**|**Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers**|Philippe Weinzaepfel et.al.|[2606.21562v1](http://arxiv.org/abs/2606.21562v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21562)|
 |**2026-06-19**|**Unsupervised Domain Adaptation for Sim-to-Real Object Pose Estimation with Contrastive Alignment and Pseudo-Label Refinement**|Nidhal Eddine Chenni et.al.|[2606.21287v1](http://arxiv.org/abs/2606.21287v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21287)|
-|**2026-06-19**|**Pose-Agnostic Robotic Functional Grasping via Observation-Action Canonicalization**|Le Qiu et.al.|[2606.21148v1](http://arxiv.org/abs/2606.21148v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21148)|
+|**2026-06-19**|**Pose-Agnostic Robotic Functional Grasping via Observation-Action Canonicalization**|Le Qiu et.al.|[2606.21148v1](http://arxiv.org/abs/2606.21148v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21148)|
 |**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|[αX↑16](https://alphaxiv.org/abs/2606.20542)|
 |**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.20272)|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.19176)|

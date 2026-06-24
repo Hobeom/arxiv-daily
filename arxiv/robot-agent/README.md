@@ -1,9 +1,16 @@
 ## Robot & Agent
 
-### Updated on 2026.06.23
+### Updated on 2026.06.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24742)|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24448)|
+|**2026-06-23**|**Agentic AI for Bilevel Long-Term Optimization of Policy-Driven Physical Layer Systems**|Bingnan Xiao et.al.|[2606.24416v1](http://arxiv.org/abs/2606.24416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24416)|
+|**2026-06-23**|**AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming**|Pingchuan Ma et.al.|[2606.24245v1](http://arxiv.org/abs/2606.24245v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24245)|
+|**2026-06-23**|**Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control**|Sabrina Bodmer et.al.|[2606.24208v1](http://arxiv.org/abs/2606.24208v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24208)|
+|**2026-06-23**|**SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies**|Haeone Lee et.al.|[2606.24049v1](http://arxiv.org/abs/2606.24049v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24049)|
+|**2026-06-22**|**Verifiable Foundation Models for Robot Safety**|Davide Corsi et.al.|[2606.23754v1](http://arxiv.org/abs/2606.23754v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23754)|
 |**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Jiaming Liu et.al.|[2606.23685v1](http://arxiv.org/abs/2606.23685v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.23685)|
 |**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617v1](http://arxiv.org/abs/2606.23617v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23617)|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565v1](http://arxiv.org/abs/2606.23565v1)|[link](https://github.com/HorizonRobotics/HoloAgent)|[αX↑10](https://alphaxiv.org/abs/2606.23565)|
@@ -15,17 +22,17 @@
 |**2026-06-20**|**RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations**|Qian Luo et.al.|[2606.22142v1](http://arxiv.org/abs/2606.22142v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22142)|
 |**2026-06-20**|**DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects**|Yi Yang et.al.|[2606.22116v1](http://arxiv.org/abs/2606.22116v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22116)|
 |**2026-06-20**|**How Should a Simulation-to-Reality Transfer Budget Be Spent?**|Syed Hamzah Rizvi et.al.|[2606.22062v1](http://arxiv.org/abs/2606.22062v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22062)|
-|**2026-06-19**|**Robot Critics that Sweat the Small Stuff**|Sruthi Sudhakar et.al.|[2606.21572v1](http://arxiv.org/abs/2606.21572v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21572)|
+|**2026-06-19**|**Robot Critics that Sweat the Small Stuff**|Sruthi Sudhakar et.al.|[2606.21572v1](http://arxiv.org/abs/2606.21572v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21572)|
 |**2026-06-19**|**Robot Self-Improvement via Human-Video Dynamics Models**|Hanzhi Chen et.al.|[2606.21406v1](http://arxiv.org/abs/2606.21406v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21406)|
-|**2026-06-19**|**PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning**|Youngjoon Jeong et.al.|[2606.21139v1](http://arxiv.org/abs/2606.21139v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21139)|
+|**2026-06-19**|**PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning**|Youngjoon Jeong et.al.|[2606.21139v1](http://arxiv.org/abs/2606.21139v1)|[link](https://github.com/joon-stack/PoLAR)|[αX↑8](https://alphaxiv.org/abs/2606.21139)|
 |**2026-06-19**|**Inductive Generalization for Robotic Manipulation**|Annabella Macaluso et.al.|[2606.20999v1](http://arxiv.org/abs/2606.20999v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20999)|
 |**2026-06-18**|**Duet: Dual-Robot Understanding via Efficient Teaching**|Yiqi Zhao et.al.|[2606.20990v1](http://arxiv.org/abs/2606.20990v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20990)|
 |**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Sha Yi et.al.|[2606.20549v1](http://arxiv.org/abs/2606.20549v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.20549)|
-|**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537v1](http://arxiv.org/abs/2606.20537v1)|[link](https://github.com/flashrt-project/FlashRT)|[αX↑8](https://alphaxiv.org/abs/2606.20537)|
+|**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537v1](http://arxiv.org/abs/2606.20537v1)|[link](https://github.com/flashrt-project/FlashRT)|[αX↑9](https://alphaxiv.org/abs/2606.20537)|
 |**2026-06-18**|**CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation**|Ziyuan Tang et.al.|[2606.20389v1](http://arxiv.org/abs/2606.20389v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.20389)|
 |**2026-06-20**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Gia-Binh Nguyen et.al.|[2606.20246v2](http://arxiv.org/abs/2606.20246v2)|null|[αX↑18](https://alphaxiv.org/abs/2606.20246)|
 |**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Fanfu Xue et.al.|[2606.20045v1](http://arxiv.org/abs/2606.20045v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.20045)|
-|**2026-06-18**|**ENPIRE: Agentic Robot Policy Self-Improvement in the Real World**|Wenli Xiao et.al.|[2606.19980v1](http://arxiv.org/abs/2606.19980v1)|null|[🤗👍11](https://huggingface.co/papers/2606.19980) [αX↑25](https://alphaxiv.org/abs/2606.19980)|
+|**2026-06-18**|**ENPIRE: Agentic Robot Policy Self-Improvement in the Real World**|Wenli Xiao et.al.|[2606.19980v1](http://arxiv.org/abs/2606.19980v1)|null|[🤗👍11](https://huggingface.co/papers/2606.19980) [αX↑38](https://alphaxiv.org/abs/2606.19980)|
 |**2026-06-18**|**Advancing DialNav through Automatic Embodied Dialog Augmentation**|Leekyeung Han et.al.|[2606.19948v1](http://arxiv.org/abs/2606.19948v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.19948)|
 |**2026-06-18**|**SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics**|Wentao Pan et.al.|[2606.19889v1](http://arxiv.org/abs/2606.19889v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.19889)|
 |**2026-06-18**|**Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection**|Trong-Bao Ho et.al.|[2606.19774v1](http://arxiv.org/abs/2606.19774v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.19774)|
