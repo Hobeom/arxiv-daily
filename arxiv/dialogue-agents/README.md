@@ -4,9 +4,9 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933v1](http://arxiv.org/abs/2606.21933v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21933)|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933v1](http://arxiv.org/abs/2606.21933v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21933)|
 |**2026-06-02**|**An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving**|Ouided Braoui et.al.|[2606.20640v1](http://arxiv.org/abs/2606.20640v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20640)|
-|**2026-06-16**|**CoreMem: Riemannian Retrieval and Fisher-Guided Distillation for Long-Term Memory in Dialogue Agents**|Jiaqi Chen et.al.|[2606.18406v1](http://arxiv.org/abs/2606.18406v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.18406)|
+|**2026-06-16**|**CoreMem: Riemannian Retrieval and Fisher-Guided Distillation for Long-Term Memory in Dialogue Agents**|Jiaqi Chen et.al.|[2606.18406v1](http://arxiv.org/abs/2606.18406v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.18406)|
 |**2026-06-14**|**Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft**|Juheon Yi et.al.|[2606.15684v1](http://arxiv.org/abs/2606.15684v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.15684)|
 |**2026-06-11**|**G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents**|Minjun Choi et.al.|[2606.13115v1](http://arxiv.org/abs/2606.13115v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.13115)|
 |**2026-06-01**|**EstRTL: Functional Estimation Guided RTL Code Generation**|Qi Xiong et.al.|[2606.09867v1](http://arxiv.org/abs/2606.09867v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.09867)|
