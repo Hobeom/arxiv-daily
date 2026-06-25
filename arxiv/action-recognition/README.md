@@ -1,13 +1,15 @@
 ## Action Recognition
 
-### Updated on 2026.06.24
+### Updated on 2026.06.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-24**|**Expresso-AI: Explainable Video-Based Deep Learning Models for Depression Diagnosis**|Felipe Moreno et.al.|[2606.25606v1](http://arxiv.org/abs/2606.25606v1)|[link](https://github.com/felmoreno1726/Expresso-AI)|[αX↑0](https://alphaxiv.org/abs/2606.25606)|
+|**2026-06-24**|**KidRisk: Benchmark Dataset for Children Dangerous Action Recognition**|Minh-Kha Nguyen et.al.|[2606.25298v1](http://arxiv.org/abs/2606.25298v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.25298)|
 |**2026-06-23**|**Modality-Aware Out-of-Distribution Detection for Multi-Modal Action Recognition**|Lars Doorenbos et.al.|[2606.24404v1](http://arxiv.org/abs/2606.24404v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.24404)|
 |**2026-06-23**|**Tri-Efficient Transfer Learning for Point Cloud Videos**|Yiding Sun et.al.|[2606.24175v1](http://arxiv.org/abs/2606.24175v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24175)|
-|**2026-06-22**|**P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture**|Felix Tristram et.al.|[2606.23256v1](http://arxiv.org/abs/2606.23256v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23256)|
-|**2026-06-22**|**LUMINA-26: Low-Light Understanding for Modeling and Interpreting Night-time Actions**|Aman Kumar Pandey et.al.|[2606.23118v1](http://arxiv.org/abs/2606.23118v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23118)|
+|**2026-06-22**|**P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture**|Felix Tristram et.al.|[2606.23256v1](http://arxiv.org/abs/2606.23256v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.23256)|
+|**2026-06-22**|**LUMINA-26: Low-Light Understanding for Modeling and Interpreting Night-time Actions**|Aman Kumar Pandey et.al.|[2606.23118v1](http://arxiv.org/abs/2606.23118v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23118)|
 |**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416v1](http://arxiv.org/abs/2606.22416v1)|[link](https://github.com/prajwalgatti/Gen2Balance)|[αX↑3](https://alphaxiv.org/abs/2606.22416)|
 |**2026-06-21**|**Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding**|Haodi Liu et.al.|[2606.22409v1](http://arxiv.org/abs/2606.22409v1)|[link](https://github.com/Haodi-Liu/GPS-Gold-Point-Sniper)|[αX↑2](https://alphaxiv.org/abs/2606.22409)|
 |**2026-06-19**|**T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition**|Di Yang et.al.|[2606.21607v1](http://arxiv.org/abs/2606.21607v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.21607)|

@@ -4,7 +4,7 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.06.24
+### Updated on 2026.06.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
