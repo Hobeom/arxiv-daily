@@ -12,7 +12,7 @@
 |**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Botao He et.al.|[2606.26093v1](http://arxiv.org/abs/2606.26093v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26093)|
 |**2026-06-25**|**In-Context World Modeling for Robotic Control**|Siyin Wang et.al.|[2606.26025v2](http://arxiv.org/abs/2606.26025v2)|null|[αX↑5](https://alphaxiv.org/abs/2606.26025)|
 |**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Hao Su et.al.|[2606.25497v1](http://arxiv.org/abs/2606.25497v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.25497)|
-|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[🤗👍1](https://huggingface.co/papers/2606.24742) [αX↑25](https://alphaxiv.org/abs/2606.24742)|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[🤗👍3](https://huggingface.co/papers/2606.24742) [αX↑25](https://alphaxiv.org/abs/2606.24742)|
 |**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.24448)|
 |**2026-06-23**|**Agentic AI for Bilevel Long-Term Optimization of Policy-Driven Physical Layer Systems**|Bingnan Xiao et.al.|[2606.24416v1](http://arxiv.org/abs/2606.24416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24416)|
 |**2026-06-24**|**AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming**|Pingchuan Ma et.al.|[2606.24245v2](http://arxiv.org/abs/2606.24245v2)|null|[αX↑4](https://alphaxiv.org/abs/2606.24245)|
