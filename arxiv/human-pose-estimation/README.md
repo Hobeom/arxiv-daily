@@ -4,16 +4,16 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-25**|**Rolling Shutter Relative Pose Estimation Made Practical**|Daniel Barath et.al.|[2606.26863v1](http://arxiv.org/abs/2606.26863v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.26863)|
-|**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616v1](http://arxiv.org/abs/2606.26616v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.26616)|
-|**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507v1](http://arxiv.org/abs/2606.26507v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.26507)|
+|**2026-06-25**|**Rolling Shutter Relative Pose Estimation Made Practical**|Daniel Barath et.al.|[2606.26863v1](http://arxiv.org/abs/2606.26863v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26863)|
+|**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616v1](http://arxiv.org/abs/2606.26616v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26616)|
+|**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507v1](http://arxiv.org/abs/2606.26507v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.26507)|
 |**2026-06-24**|**ScaleHP: Estimating Hand Pose in Metric Space**|Ruitao Jing et.al.|[2606.25619v1](http://arxiv.org/abs/2606.25619v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.25619)|
 |**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284v1](http://arxiv.org/abs/2606.25284v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.25284)|
-|**2026-06-24**|**OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos**|Oussema Dhaouadi et.al.|[2606.25245v1](http://arxiv.org/abs/2606.25245v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.25245)|
-|**2026-06-23**|**Invariant Kalman filtering for extended pose estimation in multi-IMU articulated rigid-body systems**|Sven Goffin et.al.|[2606.25083v1](http://arxiv.org/abs/2606.25083v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.25083)|
+|**2026-06-24**|**OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos**|Oussema Dhaouadi et.al.|[2606.25245v1](http://arxiv.org/abs/2606.25245v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.25245)|
+|**2026-06-23**|**Invariant Kalman filtering for extended pose estimation in multi-IMU articulated rigid-body systems**|Sven Goffin et.al.|[2606.25083v1](http://arxiv.org/abs/2606.25083v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.25083)|
 |**2026-06-23**|**Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization**|Zhaopeng Cui et.al.|[2606.24767v1](http://arxiv.org/abs/2606.24767v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24767)|
 |**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.24448)|
-|**2026-06-23**|**RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes**|Arsh Chawla et.al.|[2606.24403v1](http://arxiv.org/abs/2606.24403v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.24403)|
+|**2026-06-23**|**RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes**|Arsh Chawla et.al.|[2606.24403v1](http://arxiv.org/abs/2606.24403v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.24403)|
 |**2026-06-23**|**Bengal-HP_RU: A Dataset of Bengal People For Head Pose Estimation**|Md. Ahanaf Arif Khan et.al.|[2606.24122v1](http://arxiv.org/abs/2606.24122v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24122)|
 |**2026-06-22**|**Integrated Sensing and Communications for Real-time Avatar Control in XR over 5G**|Nabeel Nisar Bhat et.al.|[2606.23771v1](http://arxiv.org/abs/2606.23771v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23771)|
 |**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23293)|
