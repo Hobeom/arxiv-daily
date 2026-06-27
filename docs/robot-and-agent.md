@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.26
+### Updated on 2026.06.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -16,12 +16,12 @@ layout: default
 |**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Botao He et.al.|[2606.26093v1](http://arxiv.org/abs/2606.26093v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26093)|
 |**2026-06-25**|**In-Context World Modeling for Robotic Control**|Siyin Wang et.al.|[2606.26025v2](http://arxiv.org/abs/2606.26025v2)|null|[αX↑5](https://alphaxiv.org/abs/2606.26025)|
 |**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Hao Su et.al.|[2606.25497v1](http://arxiv.org/abs/2606.25497v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.25497)|
-|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[🤗👍3](https://huggingface.co/papers/2606.24742) [αX↑25](https://alphaxiv.org/abs/2606.24742)|
-|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.24448)|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[🤗👍3](https://huggingface.co/papers/2606.24742) [αX↑40](https://alphaxiv.org/abs/2606.24742)|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.24448)|
 |**2026-06-23**|**Agentic AI for Bilevel Long-Term Optimization of Policy-Driven Physical Layer Systems**|Bingnan Xiao et.al.|[2606.24416v1](http://arxiv.org/abs/2606.24416v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.24416)|
 |**2026-06-24**|**AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming**|Pingchuan Ma et.al.|[2606.24245v2](http://arxiv.org/abs/2606.24245v2)|null|[αX↑4](https://alphaxiv.org/abs/2606.24245)|
 |**2026-06-23**|**Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control**|Sabrina Bodmer et.al.|[2606.24208v1](http://arxiv.org/abs/2606.24208v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.24208)|
-|**2026-06-23**|**SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies**|Haeone Lee et.al.|[2606.24049v1](http://arxiv.org/abs/2606.24049v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.24049)|
+|**2026-06-23**|**SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies**|Haeone Lee et.al.|[2606.24049v1](http://arxiv.org/abs/2606.24049v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.24049)|
 |**2026-06-22**|**Verifiable Foundation Models for Robot Safety**|Davide Corsi et.al.|[2606.23754v1](http://arxiv.org/abs/2606.23754v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23754)|
 |**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Jiaming Liu et.al.|[2606.23685v1](http://arxiv.org/abs/2606.23685v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.23685)|
 |**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617v1](http://arxiv.org/abs/2606.23617v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23617)|
