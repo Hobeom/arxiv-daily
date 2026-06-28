@@ -4,13 +4,13 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374v1](http://arxiv.org/abs/2606.27374v1)|[link](https://github.com/ManishGovind/REGEN)|[αX↑7](https://alphaxiv.org/abs/2606.27374)|
-|**2026-06-25**|**Continual Robot Policy Learning via Variational Neural Dynamics**|Jiaxu Xing et.al.|[2606.27353v1](http://arxiv.org/abs/2606.27353v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.27353)|
-|**2026-06-25**|**Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy**|Junhao Shi et.al.|[2606.27251v1](http://arxiv.org/abs/2606.27251v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.27251)|
-|**2026-06-25**|**Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure**|Yiyuan Pan et.al.|[2606.26588v1](http://arxiv.org/abs/2606.26588v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26588)|
-|**2026-06-24**|**NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation**|Bingyi Xia et.al.|[2606.26265v1](http://arxiv.org/abs/2606.26265v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.26265)|
-|**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Botao He et.al.|[2606.26093v1](http://arxiv.org/abs/2606.26093v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.26093)|
-|**2026-06-25**|**In-Context World Modeling for Robotic Control**|Siyin Wang et.al.|[2606.26025v2](http://arxiv.org/abs/2606.26025v2)|null|[αX↑10](https://alphaxiv.org/abs/2606.26025)|
+|**2026-06-25**|**World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays**|Manish Kumar Govind et.al.|[2606.27374v1](http://arxiv.org/abs/2606.27374v1)|[link](https://github.com/ManishGovind/REGEN)|[αX↑13](https://alphaxiv.org/abs/2606.27374)|
+|**2026-06-25**|**Continual Robot Policy Learning via Variational Neural Dynamics**|Jiaxu Xing et.al.|[2606.27353v1](http://arxiv.org/abs/2606.27353v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.27353)|
+|**2026-06-25**|**Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy**|Junhao Shi et.al.|[2606.27251v1](http://arxiv.org/abs/2606.27251v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.27251)|
+|**2026-06-25**|**Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure**|Yiyuan Pan et.al.|[2606.26588v1](http://arxiv.org/abs/2606.26588v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.26588)|
+|**2026-06-24**|**NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation**|Bingyi Xia et.al.|[2606.26265v1](http://arxiv.org/abs/2606.26265v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26265)|
+|**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Botao He et.al.|[2606.26093v1](http://arxiv.org/abs/2606.26093v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.26093)|
+|**2026-06-25**|**In-Context World Modeling for Robotic Control**|Siyin Wang et.al.|[2606.26025v2](http://arxiv.org/abs/2606.26025v2)|null|[αX↑12](https://alphaxiv.org/abs/2606.26025)|
 |**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Hao Su et.al.|[2606.25497v1](http://arxiv.org/abs/2606.25497v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.25497)|
 |**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742v1](http://arxiv.org/abs/2606.24742v1)|null|[🤗👍3](https://huggingface.co/papers/2606.24742) [αX↑50](https://alphaxiv.org/abs/2606.24742)|
 |**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.24448)|
@@ -19,7 +19,7 @@
 |**2026-06-23**|**Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control**|Sabrina Bodmer et.al.|[2606.24208v1](http://arxiv.org/abs/2606.24208v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.24208)|
 |**2026-06-23**|**SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies**|Haeone Lee et.al.|[2606.24049v1](http://arxiv.org/abs/2606.24049v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.24049)|
 |**2026-06-22**|**Verifiable Foundation Models for Robot Safety**|Davide Corsi et.al.|[2606.23754v1](http://arxiv.org/abs/2606.23754v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.23754)|
-|**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Jiaming Liu et.al.|[2606.23685v1](http://arxiv.org/abs/2606.23685v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.23685)|
+|**2026-06-22**|**LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation**|Jiaming Liu et.al.|[2606.23685v1](http://arxiv.org/abs/2606.23685v1)|null|[αX↑15](https://alphaxiv.org/abs/2606.23685)|
 |**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617v1](http://arxiv.org/abs/2606.23617v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23617)|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565v1](http://arxiv.org/abs/2606.23565v1)|[link](https://github.com/HorizonRobotics/HoloAgent)|[αX↑35](https://alphaxiv.org/abs/2606.23565)|
 |**2026-06-22**|**TSD: A Physics-Inspired Trajectory Saliency Detector for Efficient Imitation Learning**|Yiming Zhao et.al.|[2606.23371v1](http://arxiv.org/abs/2606.23371v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.23371)|
