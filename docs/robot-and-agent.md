@@ -40,7 +40,7 @@ layout: default
 |**2026-06-20**|**DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects**|Yi Yang et.al.|[2606.22116v1](http://arxiv.org/abs/2606.22116v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22116)|
 |**2026-06-20**|**How Should a Simulation-to-Reality Transfer Budget Be Spent?**|Syed Hamzah Rizvi et.al.|[2606.22062v1](http://arxiv.org/abs/2606.22062v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.22062)|
 |**2026-06-19**|**Robot Critics that Sweat the Small Stuff**|Sruthi Sudhakar et.al.|[2606.21572v1](http://arxiv.org/abs/2606.21572v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21572)|
-|**2026-06-19**|**Robot Self-Improvement via Human-Video Dynamics Models**|Hanzhi Chen et.al.|[2606.21406v1](http://arxiv.org/abs/2606.21406v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.21406)|
+|**2026-06-19**|**Robot Self-Improvement via Human-Video Dynamics Models**|Hanzhi Chen et.al.|[2606.21406v1](http://arxiv.org/abs/2606.21406v1)|[link](https://github.com/ethz-mrl/Actron3D)|[αX↑0](https://alphaxiv.org/abs/2606.21406)|
 |**2026-06-19**|**PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning**|Youngjoon Jeong et.al.|[2606.21139v1](http://arxiv.org/abs/2606.21139v1)|[link](https://github.com/joon-stack/PoLAR)|[🤗👍8](https://huggingface.co/papers/2606.21139) [αX↑18](https://alphaxiv.org/abs/2606.21139)|
 |**2026-06-19**|**Inductive Generalization for Robotic Manipulation**|Annabella Macaluso et.al.|[2606.20999v1](http://arxiv.org/abs/2606.20999v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20999)|
 |**2026-06-18**|**Duet: Dual-Robot Understanding via Efficient Teaching**|Yiqi Zhao et.al.|[2606.20990v1](http://arxiv.org/abs/2606.20990v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.20990)|
