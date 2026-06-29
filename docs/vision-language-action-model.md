@@ -4,12 +4,17 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.28
+### Updated on 2026.06.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
+|**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Zhipeng Xie et.al.|[2606.27872v1](http://arxiv.org/abs/2606.27872v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27872)|
+|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27807)|
+|**2026-06-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Guoheng Sun et.al.|[2606.27755v1](http://arxiv.org/abs/2606.27755v1)|[link](https://github.com/s1ghhh/VLADrop)|[αX↑0](https://alphaxiv.org/abs/2606.27755)|
+|**2026-06-26**|**Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization**|Shiang-Feng Tsai et.al.|[2606.27663v1](http://arxiv.org/abs/2606.27663v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27663)|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375v1](http://arxiv.org/abs/2606.27375v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.27375)|
-|**2026-06-25**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v1](http://arxiv.org/abs/2606.27295v1)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑13](https://alphaxiv.org/abs/2606.27295)|
+|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑13](https://alphaxiv.org/abs/2606.27295)|
 |**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Wen Ye et.al.|[2606.27268v1](http://arxiv.org/abs/2606.27268v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.27268)|
 |**2026-06-25**|**PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies**|Jiayu Yang et.al.|[2606.27146v1](http://arxiv.org/abs/2606.27146v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.27146)|
 |**2026-06-25**|**PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies**|Jiayu Yang et.al.|[2606.27144v1](http://arxiv.org/abs/2606.27144v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.27144)|

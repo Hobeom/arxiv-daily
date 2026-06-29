@@ -1,9 +1,14 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.28
+### Updated on 2026.06.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
+|**2026-06-26**|**Swarm sign language: motion-based communication between drones**|Thomas Rey et.al.|[2606.27883v1](http://arxiv.org/abs/2606.27883v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27883)|
+|**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811v1](http://arxiv.org/abs/2606.27811v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27811)|
+|**2026-06-26**|**Learning 1-Bit LiDAR-based Localization with Auxiliary Objective**|Kaijie Yin et.al.|[2606.27729v1](http://arxiv.org/abs/2606.27729v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27729)|
+|**2026-06-25**|**SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models**|Jingfeng Mao et.al.|[2606.27444v1](http://arxiv.org/abs/2606.27444v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27444)|
 |**2026-06-25**|**Rolling Shutter Relative Pose Estimation Made Practical**|Daniel Barath et.al.|[2606.26863v1](http://arxiv.org/abs/2606.26863v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.26863)|
 |**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616v1](http://arxiv.org/abs/2606.26616v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26616)|
 |**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507v1](http://arxiv.org/abs/2606.26507v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.26507)|

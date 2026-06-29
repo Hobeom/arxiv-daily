@@ -1,10 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.06.28
+### Updated on 2026.06.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-25**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v1](http://arxiv.org/abs/2606.27295v1)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑13](https://alphaxiv.org/abs/2606.27295)|
+|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑13](https://alphaxiv.org/abs/2606.27295)|
 |**2026-06-25**|**Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions**|Garam Kim et.al.|[2606.26634v1](http://arxiv.org/abs/2606.26634v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.26634)|
 |**2026-06-24**|**Expresso-AI: Explainable Video-Based Deep Learning Models for Depression Diagnosis**|Felipe Moreno et.al.|[2606.25606v1](http://arxiv.org/abs/2606.25606v1)|[link](https://github.com/felmoreno1726/Expresso-AI)|[αX↑2](https://alphaxiv.org/abs/2606.25606)|
 |**2026-06-24**|**KidRisk: Benchmark Dataset for Children Dangerous Action Recognition**|Minh-Kha Nguyen et.al.|[2606.25298v1](http://arxiv.org/abs/2606.25298v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.25298)|
