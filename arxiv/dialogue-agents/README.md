@@ -5,9 +5,9 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-06-15**|**EvoRec: Self Evolving Agentic Recommender Systems**|Lingyu Mu et.al.|[2606.28368v1](http://arxiv.org/abs/2606.28368v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28368)|
-|**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182v1](http://arxiv.org/abs/2606.28182v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28182)|
+|**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182v1](http://arxiv.org/abs/2606.28182v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.28182)|
 |**2026-06-24**|**Data Facts: A Metadata Schema for Structured Data Exchange in the NANDini Multi-Agent Ecosystem**|Jin Gao et.al.|[2606.26211v1](http://arxiv.org/abs/2606.26211v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.26211)|
-|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933v1](http://arxiv.org/abs/2606.21933v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.21933)|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933v1](http://arxiv.org/abs/2606.21933v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.21933)|
 |**2026-06-02**|**An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving**|Ouided Braoui et.al.|[2606.20640v1](http://arxiv.org/abs/2606.20640v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.20640)|
 |**2026-06-16**|**CoreMem: Riemannian Retrieval and Fisher-Guided Distillation for Long-Term Memory in Dialogue Agents**|Jiaqi Chen et.al.|[2606.18406v1](http://arxiv.org/abs/2606.18406v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.18406)|
 |**2026-06-14**|**Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft**|Juheon Yi et.al.|[2606.15684v1](http://arxiv.org/abs/2606.15684v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.15684)|
@@ -16,7 +16,7 @@
 |**2026-06-13**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669v2](http://arxiv.org/abs/2606.09669v2)|[link](https://github.com/Hongcheng-Gao/SpatialWorld)|[🤗👍46](https://huggingface.co/papers/2606.09669) [αX↑39](https://alphaxiv.org/abs/2606.09669)|
 |**2026-06-08**|**LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization**|Yuyang Ye et.al.|[2606.08944v1](http://arxiv.org/abs/2606.08944v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.08944)|
 |**2026-06-10**|**MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback**|Suleyman Armagan Er et.al.|[2606.07909v2](http://arxiv.org/abs/2606.07909v2)|null|[αX↑3](https://alphaxiv.org/abs/2606.07909)|
-|**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian et.al.|[2606.05793v1](http://arxiv.org/abs/2606.05793v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.05793)|
+|**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian et.al.|[2606.05793v1](http://arxiv.org/abs/2606.05793v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.05793)|
 |**2026-06-02**|**Human-AI Collaboration and the Transformation of Software Engineering Work**|Mamdouh Alenezi et.al.|[2606.03394v1](http://arxiv.org/abs/2606.03394v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.03394)|
 |**2026-06-02**|**FederatedSkill: Federated Learning for Agentic Skill Evolution**|Jingbo Yang et.al.|[2606.03143v1](http://arxiv.org/abs/2606.03143v1)|[link](https://github.com/UCSB-NLP-Chang/FederatedSkill)|[αX↑17](https://alphaxiv.org/abs/2606.03143)|
 |**2026-05-28**|**Counterfactual Graph for Multi-Agent LLM Calibration**|Jiatan Huang et.al.|[2605.30653v1](http://arxiv.org/abs/2605.30653v1)|[link](https://github.com/J-Huang01/Counterfactual-Graph-Calibration-for-Multi-Agent-LLMs)|[αX↑5](https://alphaxiv.org/abs/2605.30653)|

@@ -4,6 +4,8 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552v1](http://arxiv.org/abs/2606.30552v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.30552)|
+|**2026-06-29**|**Vision-Language-Action Models: Experimental Insights from a Real-World UR5 Platform**|Mathilde Hochedel et.al.|[2606.30456v1](http://arxiv.org/abs/2606.30456v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.30456)|
 |**2026-06-29**|**SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance**|Tengyue Jiang et.al.|[2606.30113v1](http://arxiv.org/abs/2606.30113v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30113)|
 |**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29936)|
 |**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Siyao Chen et.al.|[2606.29892v1](http://arxiv.org/abs/2606.29892v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29892)|
@@ -15,8 +17,8 @@
 |**2026-06-27**|**X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving**|Bohao Zhao et.al.|[2606.28758v1](http://arxiv.org/abs/2606.28758v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28758)|
 |**2026-06-26**|**Robotic Arm-Based Spectral Sensing for Strawberry Positioning and Non-Destructive Sweetness Measurement**|Yi Yang et.al.|[2606.28555v1](http://arxiv.org/abs/2606.28555v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28555)|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
-|**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Zhipeng Xie et.al.|[2606.27872v1](http://arxiv.org/abs/2606.27872v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27872)|
-|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27807)|
+|**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Zhipeng Xie et.al.|[2606.27872v1](http://arxiv.org/abs/2606.27872v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.27872)|
+|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.27807)|
 |**2026-06-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Guoheng Sun et.al.|[2606.27755v1](http://arxiv.org/abs/2606.27755v1)|[link](https://github.com/s1ghhh/VLADrop)|[αX↑0](https://alphaxiv.org/abs/2606.27755)|
 |**2026-06-26**|**Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization**|Shiang-Feng Tsai et.al.|[2606.27663v1](http://arxiv.org/abs/2606.27663v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27663)|
 |**2026-06-25**|**Scalable Behavior Cloning with Open Data, Training, and Evaluation**|Arthur Allshire et.al.|[2606.27375v1](http://arxiv.org/abs/2606.27375v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.27375)|
