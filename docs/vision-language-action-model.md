@@ -4,10 +4,20 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.29
+### Updated on 2026.06.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-29**|**SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance**|Tengyue Jiang et.al.|[2606.30113v1](http://arxiv.org/abs/2606.30113v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30113)|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29936)|
+|**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Siyao Chen et.al.|[2606.29892v1](http://arxiv.org/abs/2606.29892v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29892)|
+|**2026-06-29**|**Early Warning Signals for OpenVLA Failure under Visual Distribution Shift**|Dipesh Tharu Mahato et.al.|[2606.29699v1](http://arxiv.org/abs/2606.29699v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29699)|
+|**2026-06-28**|**Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model**|Jiaxin Liu et.al.|[2606.29384v1](http://arxiv.org/abs/2606.29384v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29384)|
+|**2026-06-28**|**Fast Enough to Act: Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs**|Junzhou Chen et.al.|[2606.29350v1](http://arxiv.org/abs/2606.29350v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29350)|
+|**2026-06-28**|**SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics**|Jiashuo Sun et.al.|[2606.29247v1](http://arxiv.org/abs/2606.29247v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29247)|
+|**2026-06-27**|**TAP-VLA: Tactile Annotation Prompting for Vision Language Action Models**|Mark Van der Merwe et.al.|[2606.29089v1](http://arxiv.org/abs/2606.29089v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29089)|
+|**2026-06-27**|**X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving**|Bohao Zhao et.al.|[2606.28758v1](http://arxiv.org/abs/2606.28758v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28758)|
+|**2026-06-26**|**Robotic Arm-Based Spectral Sensing for Strawberry Positioning and Non-Destructive Sweetness Measurement**|Yi Yang et.al.|[2606.28555v1](http://arxiv.org/abs/2606.28555v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28555)|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
 |**2026-06-26**|**S $^2$ -VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Zhipeng Xie et.al.|[2606.27872v1](http://arxiv.org/abs/2606.27872v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27872)|
 |**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al.|[2606.27807v1](http://arxiv.org/abs/2606.27807v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27807)|

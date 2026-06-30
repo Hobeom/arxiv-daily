@@ -1,9 +1,19 @@
 ## Robot & Agent
 
-### Updated on 2026.06.29
+### Updated on 2026.06.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318v1](http://arxiv.org/abs/2606.30318v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30318)|
+|**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Ritwik Sharma et.al.|[2606.30290v1](http://arxiv.org/abs/2606.30290v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30290)|
+|**2026-06-29**|**Automating the Design of Embodied AgentArchitectures**|Jian Zhou et.al.|[2606.30111v1](http://arxiv.org/abs/2606.30111v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30111)|
+|**2026-06-29**|**SIR: Structured Image Representations for Explainable Robot Learning**|Paul Mattes et.al.|[2606.30101v1](http://arxiv.org/abs/2606.30101v1)|null|null|
+|**2026-06-29**|**Critical Interval MSE: Toward Reliable Offline Validation for Robot Manipulation Policies**|Haoxu Huang et.al.|[2606.29898v1](http://arxiv.org/abs/2606.29898v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29898)|
+|**2026-06-29**|**STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning**|Zhihao Liu et.al.|[2606.29834v1](http://arxiv.org/abs/2606.29834v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29834)|
+|**2026-06-28**|**CORE: Common Outcome Regularities from Action-Free Visual Demonstrations for Robot Manipulation**|Juyi Sheng et.al.|[2606.29517v1](http://arxiv.org/abs/2606.29517v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29517)|
+|**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501v1](http://arxiv.org/abs/2606.29501v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29501)|
+|**2026-06-28**|**Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering**|Hao Wang et.al.|[2606.29201v1](http://arxiv.org/abs/2606.29201v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29201)|
+|**2026-06-27**|**ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models**|Longyu Chen et.al.|[2606.28804v1](http://arxiv.org/abs/2606.28804v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28804)|
 |**2026-06-26**|**SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation**|Nadun Ranawaka et.al.|[2606.28276v1](http://arxiv.org/abs/2606.28276v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28276)|
 |**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182v1](http://arxiv.org/abs/2606.28182v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28182)|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|

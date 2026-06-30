@@ -4,10 +4,11 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.06.29
+### Updated on 2026.06.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-15**|**EvoRec: Self Evolving Agentic Recommender Systems**|Lingyu Mu et.al.|[2606.28368v1](http://arxiv.org/abs/2606.28368v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28368)|
 |**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182v1](http://arxiv.org/abs/2606.28182v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28182)|
 |**2026-06-24**|**Data Facts: A Metadata Schema for Structured Data Exchange in the NANDini Multi-Agent Ecosystem**|Jin Gao et.al.|[2606.26211v1](http://arxiv.org/abs/2606.26211v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.26211)|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933v1](http://arxiv.org/abs/2606.21933v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.21933)|

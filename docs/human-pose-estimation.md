@@ -4,10 +4,19 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.06.29
+### Updated on 2026.06.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30058)|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30047)|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29936)|
+|**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29697)|
+|**2026-06-29**|**PoseShield: Neural Collision Fields for Human Self-Collision Resolution**|Zhengyuan Li et.al.|[2606.29686v1](http://arxiv.org/abs/2606.29686v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29686)|
+|**2026-06-28**|**Again-Pose: Anchor-Guided Adaptive Inter-Frame Motion Cues Propagating for High-quality Human Pose Reconstruction**|Shuaikang Zhu et.al.|[2606.29230v1](http://arxiv.org/abs/2606.29230v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29230)|
+|**2026-06-27**|**You Only Touch Once: 6-DoF Object Pose Estimation from Single Tactile Contact**|Pengfei Ye et.al.|[2606.28899v1](http://arxiv.org/abs/2606.28899v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28899)|
+|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28637)|
+|**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607v1](http://arxiv.org/abs/2606.28607v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28607)|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
 |**2026-06-26**|**Swarm sign language: motion-based communication between drones**|Thomas Rey et.al.|[2606.27883v1](http://arxiv.org/abs/2606.27883v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27883)|
 |**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811v1](http://arxiv.org/abs/2606.27811v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27811)|
