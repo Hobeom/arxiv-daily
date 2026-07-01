@@ -4,15 +4,23 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.06.30
+### Updated on 2026.07.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.32009)|
+|**2026-06-30**|**Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models**|Lang Cao et.al.|[2606.31846v1](http://arxiv.org/abs/2606.31846v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31846)|
+|**2026-06-30**|**UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models**|Xidong Zhang et.al.|[2606.31723v1](http://arxiv.org/abs/2606.31723v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31723)|
+|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31382)|
+|**2026-06-30**|**3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance**|Dongyoon Hwang et.al.|[2606.31329v1](http://arxiv.org/abs/2606.31329v1)|[link](https://github.com/DAVIAN-Robotics/3D_HAMSTER)|[αX↑0](https://alphaxiv.org/abs/2606.31329)|
+|**2026-06-30**|**MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents**|Hao Sun et.al.|[2606.31167v1](http://arxiv.org/abs/2606.31167v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31167)|
+|**2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Anh Dung Dinh et.al.|[2606.31160v1](http://arxiv.org/abs/2606.31160v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31160)|
+|**2026-06-30**|**ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies**|Andrew Zou Li et.al.|[2606.31132v1](http://arxiv.org/abs/2606.31132v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31132)|
 |**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552v1](http://arxiv.org/abs/2606.30552v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.30552)|
 |**2026-06-29**|**Vision-Language-Action Models: Experimental Insights from a Real-World UR5 Platform**|Mathilde Hochedel et.al.|[2606.30456v1](http://arxiv.org/abs/2606.30456v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.30456)|
-|**2026-06-29**|**SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance**|Tengyue Jiang et.al.|[2606.30113v1](http://arxiv.org/abs/2606.30113v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30113)|
-|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29936)|
-|**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Siyao Chen et.al.|[2606.29892v1](http://arxiv.org/abs/2606.29892v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29892)|
+|**2026-06-29**|**SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance**|Tengyue Jiang et.al.|[2606.30113v1](http://arxiv.org/abs/2606.30113v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.30113)|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29936)|
+|**2026-06-29**|**Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models**|Siyao Chen et.al.|[2606.29892v1](http://arxiv.org/abs/2606.29892v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.29892)|
 |**2026-06-29**|**Early Warning Signals for OpenVLA Failure under Visual Distribution Shift**|Dipesh Tharu Mahato et.al.|[2606.29699v1](http://arxiv.org/abs/2606.29699v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29699)|
 |**2026-06-28**|**Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model**|Jiaxin Liu et.al.|[2606.29384v1](http://arxiv.org/abs/2606.29384v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29384)|
 |**2026-06-28**|**Fast Enough to Act: Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs**|Junzhou Chen et.al.|[2606.29350v1](http://arxiv.org/abs/2606.29350v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29350)|

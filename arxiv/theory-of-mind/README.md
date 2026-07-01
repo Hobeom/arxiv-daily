@@ -1,10 +1,12 @@
 ## Theory of Mind
 
-### Updated on 2026.06.30
+### Updated on 2026.07.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-06-28**|**MIThinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling**|Yizhe Yang et.al.|[2606.29265v1](http://arxiv.org/abs/2606.29265v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29265)|
+|**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916v1](http://arxiv.org/abs/2606.31916v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31916)|
+|**2026-06-30**|**Creating Intelligence: A Computational Foundation for AGI**|Peter Overmann et.al.|[2606.31819v1](http://arxiv.org/abs/2606.31819v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31819)|
+|**2026-06-28**|**MIThinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling**|Yizhe Yang et.al.|[2606.29265v1](http://arxiv.org/abs/2606.29265v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29265)|
 |**2026-06-26**|**Triadic Werewolf: A Jester Role for Multi-Hop Theory of Mind in LLMs**|Avni Mittal et.al.|[2606.27909v1](http://arxiv.org/abs/2606.27909v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27909)|
 |**2026-06-20**|**Inverse Turing Bench: Evaluating Language Models as Judges of Human vs. AI Dialogue**|William Hager et.al.|[2606.21844v1](http://arxiv.org/abs/2606.21844v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.21844)|
 |**2026-06-17**|**Where Does Social Reasoning Come From? Capability Provenance in Language Models**|Glenn Matlin et.al.|[2606.19625v1](http://arxiv.org/abs/2606.19625v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.19625)|

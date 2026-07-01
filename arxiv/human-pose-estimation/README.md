@@ -1,18 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.06.30
+### Updated on 2026.07.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-06-30**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v1](http://arxiv.org/abs/2606.31979v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31979)|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|[link](https://github.com/Sid2697/HOPformer)|[αX↑3](https://alphaxiv.org/abs/2606.30598)|
-|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30058)|
-|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30047)|
-|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29936)|
-|**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29697)|
+|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|[link](https://github.com/Fischer-Tom/Emergent-Canonical-Frame)|[αX↑0](https://alphaxiv.org/abs/2606.30058)|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.30047)|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29936)|
+|**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29697)|
 |**2026-06-29**|**PoseShield: Neural Collision Fields for Human Self-Collision Resolution**|Zhengyuan Li et.al.|[2606.29686v1](http://arxiv.org/abs/2606.29686v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29686)|
-|**2026-06-28**|**Again-Pose: Anchor-Guided Adaptive Inter-Frame Motion Cues Propagating for High-quality Human Pose Reconstruction**|Shuaikang Zhu et.al.|[2606.29230v1](http://arxiv.org/abs/2606.29230v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29230)|
-|**2026-06-27**|**You Only Touch Once: 6-DoF Object Pose Estimation from Single Tactile Contact**|Pengfei Ye et.al.|[2606.28899v1](http://arxiv.org/abs/2606.28899v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28899)|
-|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28637)|
+|**2026-06-28**|**Again-Pose: Anchor-Guided Adaptive Inter-Frame Motion Cues Propagating for High-quality Human Pose Reconstruction**|Shuaikang Zhu et.al.|[2606.29230v1](http://arxiv.org/abs/2606.29230v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29230)|
+|**2026-06-27**|**You Only Touch Once: 6-DoF Object Pose Estimation from Single Tactile Contact**|Pengfei Ye et.al.|[2606.28899v1](http://arxiv.org/abs/2606.28899v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.28899)|
+|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.28637)|
 |**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607v1](http://arxiv.org/abs/2606.28607v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28607)|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Sijin Chen et.al.|[2606.28133v1](http://arxiv.org/abs/2606.28133v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28133)|
 |**2026-06-26**|**Swarm sign language: motion-based communication between drones**|Thomas Rey et.al.|[2606.27883v1](http://arxiv.org/abs/2606.27883v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.27883)|
@@ -32,7 +33,7 @@
 |**2026-06-23**|**Bengal-HP_RU: A Dataset of Bengal People For Head Pose Estimation**|Md. Ahanaf Arif Khan et.al.|[2606.24122v1](http://arxiv.org/abs/2606.24122v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.24122)|
 |**2026-06-22**|**Integrated Sensing and Communications for Real-time Avatar Control in XR over 5G**|Nabeel Nisar Bhat et.al.|[2606.23771v1](http://arxiv.org/abs/2606.23771v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23771)|
 |**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.23293)|
-|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006v1](http://arxiv.org/abs/2606.23006v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.23006)|
+|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006v1](http://arxiv.org/abs/2606.23006v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.23006)|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856v1](http://arxiv.org/abs/2606.22856v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22856)|
 |**2026-06-20**|**Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation**|Seojung Min et.al.|[2606.22251v1](http://arxiv.org/abs/2606.22251v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22251)|
 |**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.22076)|

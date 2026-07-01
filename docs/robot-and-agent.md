@@ -4,18 +4,30 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.06.30
+### Updated on 2026.07.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318v1](http://arxiv.org/abs/2606.30318v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30318)|
-|**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Ritwik Sharma et.al.|[2606.30290v1](http://arxiv.org/abs/2606.30290v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30290)|
-|**2026-06-29**|**Automating the Design of Embodied AgentArchitectures**|Jian Zhou et.al.|[2606.30111v1](http://arxiv.org/abs/2606.30111v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30111)|
+|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027v1](http://arxiv.org/abs/2606.32027v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.32027)|
+|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966v1](http://arxiv.org/abs/2606.31966v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31966)|
+|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31958)|
+|**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31919)|
+|**2026-06-30**|**RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation**|Xinyi Wang et.al.|[2606.31836v1](http://arxiv.org/abs/2606.31836v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31836)|
+|**2026-06-30**|**HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation**|Jaehwi Song et.al.|[2606.31682v1](http://arxiv.org/abs/2606.31682v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31682)|
+|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31382)|
+|**2026-06-30**|**ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies**|Andrew Zou Li et.al.|[2606.31132v1](http://arxiv.org/abs/2606.31132v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31132)|
+|**2026-06-30**|**Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation**|Bing Wu et.al.|[2606.31071v1](http://arxiv.org/abs/2606.31071v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31071)|
+|**2026-06-30**|**LabGuard: Grounding Natural-Language Laboratory Rules into Runtime Guards for Embodied Laboratory Agents**|Jingpu Yang et.al.|[2606.31045v1](http://arxiv.org/abs/2606.31045v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31045)|
+|**2026-06-30**|**Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation**|Ethan Hirschowitz et.al.|[2606.31043v1](http://arxiv.org/abs/2606.31043v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31043)|
+|**2026-06-29**|**Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force**|Jaden Clark et.al.|[2606.30988v1](http://arxiv.org/abs/2606.30988v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.30988)|
+|**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318v1](http://arxiv.org/abs/2606.30318v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.30318)|
+|**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Ritwik Sharma et.al.|[2606.30290v1](http://arxiv.org/abs/2606.30290v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.30290)|
+|**2026-06-29**|**Automating the Design of Embodied AgentArchitectures**|Jian Zhou et.al.|[2606.30111v1](http://arxiv.org/abs/2606.30111v1)|[link](https://github.com/jianzhou0420/AgentCanvas)|[αX↑1](https://alphaxiv.org/abs/2606.30111)|
 |**2026-06-29**|**SIR: Structured Image Representations for Explainable Robot Learning**|Paul Mattes et.al.|[2606.30101v1](http://arxiv.org/abs/2606.30101v1)|[link](https://github.com/intuitive-robots/SIR_Model)|[αX↑2](https://alphaxiv.org/abs/2606.30101)|
-|**2026-06-29**|**Critical Interval MSE: Toward Reliable Offline Validation for Robot Manipulation Policies**|Haoxu Huang et.al.|[2606.29898v1](http://arxiv.org/abs/2606.29898v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29898)|
-|**2026-06-29**|**STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning**|Zhihao Liu et.al.|[2606.29834v1](http://arxiv.org/abs/2606.29834v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29834)|
+|**2026-06-29**|**Critical Interval MSE: Toward Reliable Offline Validation for Robot Manipulation Policies**|Haoxu Huang et.al.|[2606.29898v1](http://arxiv.org/abs/2606.29898v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.29898)|
+|**2026-06-29**|**STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning**|Zhihao Liu et.al.|[2606.29834v1](http://arxiv.org/abs/2606.29834v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.29834)|
 |**2026-06-28**|**CORE: Common Outcome Regularities from Action-Free Visual Demonstrations for Robot Manipulation**|Juyi Sheng et.al.|[2606.29517v1](http://arxiv.org/abs/2606.29517v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29517)|
-|**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501v1](http://arxiv.org/abs/2606.29501v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29501)|
+|**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501v1](http://arxiv.org/abs/2606.29501v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.29501)|
 |**2026-06-28**|**Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering**|Hao Wang et.al.|[2606.29201v1](http://arxiv.org/abs/2606.29201v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.29201)|
 |**2026-06-27**|**ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models**|Longyu Chen et.al.|[2606.28804v1](http://arxiv.org/abs/2606.28804v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28804)|
 |**2026-06-26**|**SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation**|Nadun Ranawaka et.al.|[2606.28276v1](http://arxiv.org/abs/2606.28276v1)|null|[🤗👍6](https://huggingface.co/papers/2606.28276) [αX↑15](https://alphaxiv.org/abs/2606.28276)|
