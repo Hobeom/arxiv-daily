@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.07.01
+### Updated on 2026.07.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006v1](http://arxiv.org/abs/2607.01006v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01006)|
 |**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916v1](http://arxiv.org/abs/2606.31916v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31916)|
 |**2026-06-30**|**Creating Intelligence: A Computational Foundation for AGI**|Peter Overmann et.al.|[2606.31819v1](http://arxiv.org/abs/2606.31819v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31819)|
 |**2026-06-28**|**MIThinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling**|Yizhe Yang et.al.|[2606.29265v1](http://arxiv.org/abs/2606.29265v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29265)|

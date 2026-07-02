@@ -4,10 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.07.01
+### Updated on 2026.07.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01117)|
+|**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Yingjie Dai et.al.|[2607.00716v1](http://arxiv.org/abs/2607.00716v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00716)|
+|**2026-07-01**|**OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization**|Sakib Reza et.al.|[2607.00289v1](http://arxiv.org/abs/2607.00289v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00289)|
 |**2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Björn Braun et.al.|[2606.31127v1](http://arxiv.org/abs/2606.31127v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31127)|
 |**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑51](https://alphaxiv.org/abs/2606.27295)|
 |**2026-06-25**|**Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions**|Garam Kim et.al.|[2606.26634v1](http://arxiv.org/abs/2606.26634v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.26634)|
@@ -165,7 +168,7 @@ layout: default
 |**2026-03-25**|**CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning**|Hieu Hoang et.al.|[2603.23988v1](http://arxiv.org/abs/2603.23988v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23988)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-22**|**Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication**|Idris Zakariyya et.al.|[2603.21305v1](http://arxiv.org/abs/2603.21305v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.21305)|
-|**2026-03-22**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v1](http://arxiv.org/abs/2603.21048v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.21048)|
+|**2026-07-01**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v2](http://arxiv.org/abs/2603.21048v2)|null|[αX↑5](https://alphaxiv.org/abs/2603.21048)|
 |**2026-03-20**|**Subspace Kernel Learning on Tensor Sequences**|Lei Wang et.al.|[2603.19546v1](http://arxiv.org/abs/2603.19546v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.19546)|
 |**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|[link](https://github.com/zhengnaichuan2022/S3T-Former)|[αX↑1](https://alphaxiv.org/abs/2603.18062)|
 |**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004v1](http://arxiv.org/abs/2603.18004v1)|[link](https://github.com/allenai/STTS)|[🤗👍12](https://huggingface.co/papers/2603.18004) [αX↑23](https://alphaxiv.org/abs/2603.18004)|
