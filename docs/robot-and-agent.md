@@ -4,29 +4,32 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.02
+### Updated on 2026.07.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-01**|**FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement**|Haoran Hao et.al.|[2607.01111v1](http://arxiv.org/abs/2607.01111v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01111)|
-|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060v1](http://arxiv.org/abs/2607.01060v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01060)|
+|**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Satoshi Yamamori et.al.|[2607.02205v1](http://arxiv.org/abs/2607.02205v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02205)|
+|**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Sung June Kim et.al.|[2607.01754v1](http://arxiv.org/abs/2607.01754v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01754)|
+|**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Yunfu Deng et.al.|[2607.01410v1](http://arxiv.org/abs/2607.01410v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01410)|
+|**2026-07-01**|**FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement**|Haoran Hao et.al.|[2607.01111v1](http://arxiv.org/abs/2607.01111v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01111)|
+|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060v1](http://arxiv.org/abs/2607.01060v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01060)|
 |**2026-07-01**|**B2X Networks: Joint Design of Communication and Control for Embodied Intelligence**|Yuanwei Liu et.al.|[2607.00537v1](http://arxiv.org/abs/2607.00537v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00537)|
-|**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457v1](http://arxiv.org/abs/2607.00457v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00457)|
-|**2026-07-01**|**Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**|Ping Zhang et.al.|[2607.00316v1](http://arxiv.org/abs/2607.00316v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00316)|
-|**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Amirreza Rouhi et.al.|[2607.00310v1](http://arxiv.org/abs/2607.00310v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00310)|
-|**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Siddhant Panpatil et.al.|[2607.00218v1](http://arxiv.org/abs/2607.00218v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00218)|
-|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027v1](http://arxiv.org/abs/2606.32027v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.32027)|
-|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966v1](http://arxiv.org/abs/2606.31966v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.31966)|
-|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31958)|
-|**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31919)|
-|**2026-06-30**|**RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation**|Xinyi Wang et.al.|[2606.31836v1](http://arxiv.org/abs/2606.31836v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31836)|
-|**2026-06-30**|**HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation**|Jaehwi Song et.al.|[2606.31682v1](http://arxiv.org/abs/2606.31682v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.31682)|
-|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.31382)|
-|**2026-06-30**|**ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies**|Andrew Zou Li et.al.|[2606.31132v1](http://arxiv.org/abs/2606.31132v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31132)|
+|**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457v1](http://arxiv.org/abs/2607.00457v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.00457)|
+|**2026-07-01**|**Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**|Ping Zhang et.al.|[2607.00316v1](http://arxiv.org/abs/2607.00316v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.00316)|
+|**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Amirreza Rouhi et.al.|[2607.00310v1](http://arxiv.org/abs/2607.00310v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.00310)|
+|**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Siddhant Panpatil et.al.|[2607.00218v1](http://arxiv.org/abs/2607.00218v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.00218)|
+|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027v1](http://arxiv.org/abs/2606.32027v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.32027)|
+|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966v1](http://arxiv.org/abs/2606.31966v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.31966)|
+|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|[αX↑12](https://alphaxiv.org/abs/2606.31958)|
+|**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31919)|
+|**2026-06-30**|**RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation**|Xinyi Wang et.al.|[2606.31836v1](http://arxiv.org/abs/2606.31836v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.31836)|
+|**2026-06-30**|**HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation**|Jaehwi Song et.al.|[2606.31682v1](http://arxiv.org/abs/2606.31682v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31682)|
+|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31382)|
+|**2026-06-30**|**ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies**|Andrew Zou Li et.al.|[2606.31132v1](http://arxiv.org/abs/2606.31132v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.31132)|
 |**2026-06-30**|**Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation**|Bing Wu et.al.|[2606.31071v1](http://arxiv.org/abs/2606.31071v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31071)|
 |**2026-06-30**|**LabGuard: Grounding Natural-Language Laboratory Rules into Runtime Guards for Embodied Laboratory Agents**|Jingpu Yang et.al.|[2606.31045v1](http://arxiv.org/abs/2606.31045v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.31045)|
-|**2026-07-01**|**Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation**|Ethan Hirschowitz et.al.|[2606.31043v2](http://arxiv.org/abs/2606.31043v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.31043)|
-|**2026-07-01**|**Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force**|Jaden Clark et.al.|[2606.30988v2](http://arxiv.org/abs/2606.30988v2)|null|[αX↑1](https://alphaxiv.org/abs/2606.30988)|
+|**2026-07-01**|**Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation**|Ethan Hirschowitz et.al.|[2606.31043v2](http://arxiv.org/abs/2606.31043v2)|null|[αX↑4](https://alphaxiv.org/abs/2606.31043)|
+|**2026-07-01**|**Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force**|Jaden Clark et.al.|[2606.30988v2](http://arxiv.org/abs/2606.30988v2)|null|[αX↑3](https://alphaxiv.org/abs/2606.30988)|
 |**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318v1](http://arxiv.org/abs/2606.30318v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.30318)|
 |**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Ritwik Sharma et.al.|[2606.30290v1](http://arxiv.org/abs/2606.30290v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.30290)|
 |**2026-06-29**|**Automating the Design of Embodied AgentArchitectures**|Jian Zhou et.al.|[2606.30111v1](http://arxiv.org/abs/2606.30111v1)|[link](https://github.com/jianzhou0420/AgentCanvas)|[αX↑1](https://alphaxiv.org/abs/2606.30111)|

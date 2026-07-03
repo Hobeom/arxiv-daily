@@ -1,18 +1,26 @@
 ## Vision Language Action Model
 
-### Updated on 2026.07.02
+### Updated on 2026.07.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-01**|**FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model**|Chenyang Ma et.al.|[2607.01212v1](http://arxiv.org/abs/2607.01212v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01212)|
-|**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Chi Zhang et.al.|[2607.01067v1](http://arxiv.org/abs/2607.01067v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01067)|
-|**2026-07-01**|**Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts**|Taewook Kang et.al.|[2607.00666v1](http://arxiv.org/abs/2607.00666v1)|[link](https://github.com/snumprlab/dart)|[αX↑0](https://alphaxiv.org/abs/2607.00666)|
-|**2026-07-01**|**Unleashing More Actions via Action Compositional Training for VLA Models**|Kai Peng et.al.|[2607.00351v1](http://arxiv.org/abs/2607.00351v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00351)|
-|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.32009)|
-|**2026-06-30**|**Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models**|Lang Cao et.al.|[2606.31846v1](http://arxiv.org/abs/2606.31846v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31846)|
-|**2026-06-30**|**UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models**|Xidong Zhang et.al.|[2606.31723v1](http://arxiv.org/abs/2606.31723v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.31723)|
-|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.31382)|
-|**2026-07-01**|**3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance**|Dongyoon Hwang et.al.|[2606.31329v2](http://arxiv.org/abs/2606.31329v2)|[link](https://github.com/DAVIAN-Robotics/3D_HAMSTER)|[αX↑0](https://alphaxiv.org/abs/2606.31329)|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501v1](http://arxiv.org/abs/2607.02501v1)|[link](https://github.com/SEU-PAISys/Embodied.cpp)|[αX↑0](https://alphaxiv.org/abs/2607.02501)|
+|**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466v1](http://arxiv.org/abs/2607.02466v1)|[link](https://github.com/sjh0354/Task-Agnostic-Pretrain)|[αX↑0](https://alphaxiv.org/abs/2607.02466)|
+|**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jincheng Tang et.al.|[2607.02322v1](http://arxiv.org/abs/2607.02322v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02322)|
+|**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195v1](http://arxiv.org/abs/2607.02195v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02195)|
+|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Yi Pan et.al.|[2607.01804v1](http://arxiv.org/abs/2607.01804v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01804)|
+|**2026-07-02**|**Teaching Vision-Language-Action Models What to See and Where to Look**|Yuguang Yang et.al.|[2607.01658v1](http://arxiv.org/abs/2607.01658v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01658)|
+|**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Guoyang Xia et.al.|[2607.01586v1](http://arxiv.org/abs/2607.01586v1)|[link](https://github.com/MindVLA-Team/VLAFlow)|[αX↑1](https://alphaxiv.org/abs/2607.01586)|
+|**2026-07-01**|**Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching**|William English et.al.|[2607.01378v1](http://arxiv.org/abs/2607.01378v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01378)|
+|**2026-07-01**|**FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model**|Chenyang Ma et.al.|[2607.01212v1](http://arxiv.org/abs/2607.01212v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01212)|
+|**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Chi Zhang et.al.|[2607.01067v1](http://arxiv.org/abs/2607.01067v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.01067)|
+|**2026-07-01**|**Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts**|Taewook Kang et.al.|[2607.00666v1](http://arxiv.org/abs/2607.00666v1)|[link](https://github.com/snumprlab/dart)|[🤗👍18](https://huggingface.co/papers/2607.00666) [αX↑3](https://alphaxiv.org/abs/2607.00666)|
+|**2026-07-01**|**Unleashing More Actions via Action Compositional Training for VLA Models**|Kai Peng et.al.|[2607.00351v1](http://arxiv.org/abs/2607.00351v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.00351)|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.32009)|
+|**2026-06-30**|**Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models**|Lang Cao et.al.|[2606.31846v1](http://arxiv.org/abs/2606.31846v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31846)|
+|**2026-06-30**|**UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models**|Xidong Zhang et.al.|[2606.31723v1](http://arxiv.org/abs/2606.31723v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.31723)|
+|**2026-06-30**|**Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation**|Fengnian Zhang et.al.|[2606.31382v1](http://arxiv.org/abs/2606.31382v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31382)|
+|**2026-07-01**|**3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance**|Dongyoon Hwang et.al.|[2606.31329v2](http://arxiv.org/abs/2606.31329v2)|[link](https://github.com/DAVIAN-Robotics/3D_HAMSTER)|[αX↑3](https://alphaxiv.org/abs/2606.31329)|
 |**2026-06-30**|**MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents**|Hao Sun et.al.|[2606.31167v1](http://arxiv.org/abs/2606.31167v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.31167)|
 |**2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Anh Dung Dinh et.al.|[2606.31160v1](http://arxiv.org/abs/2606.31160v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31160)|
 |**2026-06-30**|**ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies**|Andrew Zou Li et.al.|[2606.31132v1](http://arxiv.org/abs/2606.31132v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.31132)|
