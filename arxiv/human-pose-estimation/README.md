@@ -1,20 +1,20 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.04
+### Updated on 2026.07.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005v1](http://arxiv.org/abs/2607.02005v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02005)|
-|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v1](http://arxiv.org/abs/2607.01885v1)|[link](https://github.com/jspark1213/DA-VGGT)|[αX↑0](https://alphaxiv.org/abs/2607.01885)|
-|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01860)|
-|**2026-07-02**|**Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots**|Jeongwan On et.al.|[2607.01626v1](http://arxiv.org/abs/2607.01626v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01626)|
-|**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752v1](http://arxiv.org/abs/2607.00752v1)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|[αX↑1](https://alphaxiv.org/abs/2607.00752)|
-|**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189v1](http://arxiv.org/abs/2607.00189v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.00189)|
+|**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005v1](http://arxiv.org/abs/2607.02005v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.02005)|
+|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v1](http://arxiv.org/abs/2607.01885v1)|[link](https://github.com/jspark1213/DA-VGGT)|[αX↑3](https://alphaxiv.org/abs/2607.01885)|
+|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01860)|
+|**2026-07-02**|**Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots**|Jeongwan On et.al.|[2607.01626v1](http://arxiv.org/abs/2607.01626v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.01626)|
+|**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752v1](http://arxiv.org/abs/2607.00752v1)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|[αX↑2](https://alphaxiv.org/abs/2607.00752)|
+|**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189v1](http://arxiv.org/abs/2607.00189v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.00189)|
 |**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v2](http://arxiv.org/abs/2606.31979v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.31979)|
-|**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|[link](https://github.com/Sid2697/HOPformer)|[αX↑7](https://alphaxiv.org/abs/2606.30598)|
-|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|[link](https://github.com/Fischer-Tom/Emergent-Canonical-Frame)|[αX↑1](https://alphaxiv.org/abs/2606.30058)|
-|**2026-07-02**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v2](http://arxiv.org/abs/2606.30047v2)|null|[αX↑5](https://alphaxiv.org/abs/2606.30047)|
-|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.29936)|
+|**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|[link](https://github.com/Sid2697/HOPformer)|[αX↑9](https://alphaxiv.org/abs/2606.30598)|
+|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|[link](https://github.com/Fischer-Tom/Emergent-Canonical-Frame)|[αX↑2](https://alphaxiv.org/abs/2606.30058)|
+|**2026-07-02**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v2](http://arxiv.org/abs/2606.30047v2)|null|[αX↑6](https://alphaxiv.org/abs/2606.30047)|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.29936)|
 |**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.29697)|
 |**2026-07-01**|**PoseShield: Neural Collision Fields for Human Self-Collision Resolution**|Zhengyuan Li et.al.|[2606.29686v2](http://arxiv.org/abs/2606.29686v2)|[link](https://github.com/lzhyu/PoseShield)|[🤗👍1](https://huggingface.co/papers/2606.29686) [αX↑2](https://alphaxiv.org/abs/2606.29686)|
 |**2026-06-28**|**Again-Pose: Anchor-Guided Adaptive Inter-Frame Motion Cues Propagating for High-quality Human Pose Reconstruction**|Shuaikang Zhu et.al.|[2606.29230v1](http://arxiv.org/abs/2606.29230v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.29230)|
