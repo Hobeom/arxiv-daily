@@ -1,9 +1,15 @@
 ## Robot & Agent
 
-### Updated on 2026.07.06
+### Updated on 2026.07.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑2](https://alphaxiv.org/abs/2607.05377)|
+|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.04880)|
+|**2026-07-06**|**Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity**|Che-Sang Park et.al.|[2607.04739v1](http://arxiv.org/abs/2607.04739v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04739)|
+|**2026-07-04**|**OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies**|Kelin Yu et.al.|[2607.03723v1](http://arxiv.org/abs/2607.03723v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03723)|
+|**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961v1](http://arxiv.org/abs/2607.02961v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.02961)|
+|**2026-07-02**|**GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation**|GigaWorld Team et.al.|[2607.02642v1](http://arxiv.org/abs/2607.02642v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.02642)|
 |**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Satoshi Yamamori et.al.|[2607.02205v1](http://arxiv.org/abs/2607.02205v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.02205)|
 |**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Sung June Kim et.al.|[2607.01754v1](http://arxiv.org/abs/2607.01754v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.01754)|
 |**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Yunfu Deng et.al.|[2607.01410v1](http://arxiv.org/abs/2607.01410v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.01410)|

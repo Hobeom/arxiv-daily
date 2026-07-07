@@ -1,9 +1,17 @@
 ## Action Recognition
 
-### Updated on 2026.07.06
+### Updated on 2026.07.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Suryanarayana Reddy Yarrabothula et.al.|[2607.05264v1](http://arxiv.org/abs/2607.05264v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05264)|
+|**2026-07-06**|**Learning Probabilistic Embeddings for Unsupervised Action Segmentation**|Shuai Li et.al.|[2607.05263v1](http://arxiv.org/abs/2607.05263v1)|[link](https://github.com/derkbreeze/PEOT)|[αX↑0](https://alphaxiv.org/abs/2607.05263)|
+|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04816)|
+|**2026-07-06**|**TubeLite: Lightweight Multi-Actor Spatio-Temporal Action Detection**|Ali Soltaninezhad et.al.|[2607.04684v1](http://arxiv.org/abs/2607.04684v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04684)|
+|**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|Fatemah Alhamdoosh et.al.|[2607.03934v1](http://arxiv.org/abs/2607.03934v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03934)|
+|**2026-07-03**|**Photo-thermal 2D spectroscopy: a different type of action**|Pavel Malý et.al.|[2607.03469v1](http://arxiv.org/abs/2607.03469v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03469)|
+|**2026-07-03**|**From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition**|Hao Wang et.al.|[2607.03327v1](http://arxiv.org/abs/2607.03327v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03327)|
+|**2026-07-03**|**A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation**|Estera Dumitru et.al.|[2607.03131v1](http://arxiv.org/abs/2607.03131v1)|[link](https://github.com/DumitruEstera/ai-surveillance-system)|[αX↑0](https://alphaxiv.org/abs/2607.03131)|
 |**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.01117)|
 |**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Yingjie Dai et.al.|[2607.00716v1](http://arxiv.org/abs/2607.00716v1)|[link](https://github.com/yaa1haa1/PartialVisGraph)|[αX↑0](https://alphaxiv.org/abs/2607.00716)|
 |**2026-07-01**|**OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization**|Sakib Reza et.al.|[2607.00289v1](http://arxiv.org/abs/2607.00289v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.00289)|
@@ -164,7 +172,7 @@
 |**2026-03-25**|**CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning**|Hieu Hoang et.al.|[2603.23988v1](http://arxiv.org/abs/2603.23988v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23988)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-22**|**Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication**|Idris Zakariyya et.al.|[2603.21305v1](http://arxiv.org/abs/2603.21305v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.21305)|
-|**2026-07-01**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v2](http://arxiv.org/abs/2603.21048v2)|null|[αX↑5](https://alphaxiv.org/abs/2603.21048)|
+|**2026-07-03**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v3](http://arxiv.org/abs/2603.21048v3)|null|[αX↑5](https://alphaxiv.org/abs/2603.21048)|
 |**2026-03-20**|**Subspace Kernel Learning on Tensor Sequences**|Lei Wang et.al.|[2603.19546v1](http://arxiv.org/abs/2603.19546v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.19546)|
 |**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|[link](https://github.com/zhengnaichuan2022/S3T-Former)|[αX↑1](https://alphaxiv.org/abs/2603.18062)|
 |**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004v1](http://arxiv.org/abs/2603.18004v1)|[link](https://github.com/allenai/STTS)|[🤗👍12](https://huggingface.co/papers/2603.18004) [αX↑23](https://alphaxiv.org/abs/2603.18004)|

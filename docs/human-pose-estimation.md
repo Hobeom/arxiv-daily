@@ -4,12 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.06
+### Updated on 2026.07.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04930)|
+|**2026-07-06**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v1](http://arxiv.org/abs/2607.04847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04847)|
+|**2026-07-04**|**Virtual Reality-Simulated Interaction Between Micro-Mobility Vehicles and Pedestrians: A Biomechanical Analysis of Human Gait and Movement Responses**|Sahan Siriwardena et.al.|[2607.03705v1](http://arxiv.org/abs/2607.03705v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03705)|
+|**2026-07-03**|**SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers**|Jianing Deng et.al.|[2607.03612v1](http://arxiv.org/abs/2607.03612v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03612)|
+|**2026-07-03**|**Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention**|Toan D. Gian et.al.|[2607.03196v1](http://arxiv.org/abs/2607.03196v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03196)|
+|**2026-07-03**|**RePos: Relative-to-Absolute Output Factorization for Cross-Environment WiFi-Based 3D Human Pose Estimation**|Zhangcheng Hou et.al.|[2607.02986v1](http://arxiv.org/abs/2607.02986v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02986)|
+|**2026-07-02**|**Biomechanics-aware Multi-view Markerless Motion Capture of Dexterous Hand Movements**|Pouyan Firouzabadi et.al.|[2607.02796v1](http://arxiv.org/abs/2607.02796v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02796)|
+|**2026-07-02**|**RayTun3R: Online Camera Adaptation in 3D Foundation Models**|Daniil Sinitsyn et.al.|[2607.02711v1](http://arxiv.org/abs/2607.02711v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.02711)|
 |**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005v1](http://arxiv.org/abs/2607.02005v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.02005)|
-|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v1](http://arxiv.org/abs/2607.01885v1)|[link](https://github.com/jspark1213/DA-VGGT)|[αX↑10](https://alphaxiv.org/abs/2607.01885)|
+|**2026-07-04**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v2](http://arxiv.org/abs/2607.01885v2)|[link](https://github.com/jspark1213/DA-VGGT)|[αX↑10](https://alphaxiv.org/abs/2607.01885)|
 |**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.01860)|
 |**2026-07-02**|**Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots**|Jeongwan On et.al.|[2607.01626v1](http://arxiv.org/abs/2607.01626v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01626)|
 |**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752v1](http://arxiv.org/abs/2607.00752v1)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|[αX↑3](https://alphaxiv.org/abs/2607.00752)|

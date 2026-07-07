@@ -4,10 +4,25 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.06
+### Updated on 2026.07.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-06**|**From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**|Wenhao Li et.al.|[2607.05396v1](http://arxiv.org/abs/2607.05396v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.05396)|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑2](https://alphaxiv.org/abs/2607.05377)|
+|**2026-07-06**|**Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies**|Adrian Szvoren et.al.|[2607.05122v1](http://arxiv.org/abs/2607.05122v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.05122)|
+|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.04880)|
+|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04816)|
+|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681v1](http://arxiv.org/abs/2607.04681v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04681)|
+|**2026-07-06**|**PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving**|Pin Tang et.al.|[2607.04637v1](http://arxiv.org/abs/2607.04637v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04637)|
+|**2026-07-06**|**Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning**|Xinchuan Qiu et.al.|[2607.04591v1](http://arxiv.org/abs/2607.04591v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04591)|
+|**2026-07-05**|**VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models**|Damir Shodiev et.al.|[2607.04517v1](http://arxiv.org/abs/2607.04517v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04517)|
+|**2026-07-05**|**XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control**|Lei Iok Tong et.al.|[2607.04171v1](http://arxiv.org/abs/2607.04171v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04171)|
+|**2026-07-05**|**!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics**|Stefan Bühler et.al.|[2607.04146v1](http://arxiv.org/abs/2607.04146v1)|[link](https://github.com/StefanBuhler/ImperioVLAPoisoning)|[αX↑0](https://alphaxiv.org/abs/2607.04146)|
+|**2026-07-04**|**Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models**|Xinyi Xie et.al.|[2607.03751v1](http://arxiv.org/abs/2607.03751v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03751)|
+|**2026-07-04**|**CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts**|Haozhe Zhang et.al.|[2607.03693v1](http://arxiv.org/abs/2607.03693v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03693)|
+|**2026-07-03**|**Present but Not Remembered: Auditing How Frozen VLAs Encode, Deploy, and Steer Visual History**|Chih-Ting Liao et.al.|[2607.03372v1](http://arxiv.org/abs/2607.03372v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03372)|
+|**2026-07-03**|**AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning**|Qi Liu et.al.|[2607.03182v1](http://arxiv.org/abs/2607.03182v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03182)|
 |**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501v1](http://arxiv.org/abs/2607.02501v1)|[link](https://github.com/SEU-PAISys/Embodied.cpp)|[αX↑11](https://alphaxiv.org/abs/2607.02501)|
 |**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466v1](http://arxiv.org/abs/2607.02466v1)|[link](https://github.com/sjh0354/Task-Agnostic-Pretrain)|[🤗👍6](https://huggingface.co/papers/2607.02466) [αX↑23](https://alphaxiv.org/abs/2607.02466)|
 |**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jincheng Tang et.al.|[2607.02322v1](http://arxiv.org/abs/2607.02322v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.02322)|

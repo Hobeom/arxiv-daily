@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.07.06
+### Updated on 2026.07.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-06**|**Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding**|Xuewen Luo et.al.|[2607.04670v1](http://arxiv.org/abs/2607.04670v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04670)|
 |**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006v1](http://arxiv.org/abs/2607.01006v1)|[link](https://github.com/X-PLUG/mPLUG-DocOwl)|[αX↑6](https://alphaxiv.org/abs/2607.01006)|
 |**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916v1](http://arxiv.org/abs/2606.31916v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.31916)|
 |**2026-06-30**|**Creating Intelligence: A Computational Foundation for AGI**|Peter Overmann et.al.|[2606.31819v1](http://arxiv.org/abs/2606.31819v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31819)|
