@@ -4,12 +4,16 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.07
+### Updated on 2026.07.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)|[αX↑0](https://alphaxiv.org/abs/2607.06560)|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06555)|
+|**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
+|**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑0](https://alphaxiv.org/abs/2607.05663)|
 |**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04930)|
-|**2026-07-06**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v1](http://arxiv.org/abs/2607.04847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04847)|
+|**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v2](http://arxiv.org/abs/2607.04847v2)|null|[αX↑0](https://alphaxiv.org/abs/2607.04847)|
 |**2026-07-04**|**Virtual Reality-Simulated Interaction Between Micro-Mobility Vehicles and Pedestrians: A Biomechanical Analysis of Human Gait and Movement Responses**|Sahan Siriwardena et.al.|[2607.03705v1](http://arxiv.org/abs/2607.03705v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03705)|
 |**2026-07-03**|**SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers**|Jianing Deng et.al.|[2607.03612v1](http://arxiv.org/abs/2607.03612v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03612)|
 |**2026-07-03**|**Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention**|Toan D. Gian et.al.|[2607.03196v1](http://arxiv.org/abs/2607.03196v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03196)|
@@ -20,7 +24,7 @@ layout: default
 |**2026-07-04**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v2](http://arxiv.org/abs/2607.01885v2)|[link](https://github.com/jspark1213/DA-VGGT)|[αX↑10](https://alphaxiv.org/abs/2607.01885)|
 |**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.01860)|
 |**2026-07-02**|**Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots**|Jeongwan On et.al.|[2607.01626v1](http://arxiv.org/abs/2607.01626v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01626)|
-|**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752v1](http://arxiv.org/abs/2607.00752v1)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|[αX↑3](https://alphaxiv.org/abs/2607.00752)|
+|**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752v1](http://arxiv.org/abs/2607.00752v1)|[link](https://github.com/AlanLuSun/General-Keypoint-Detection)|[αX↑5](https://alphaxiv.org/abs/2607.00752)|
 |**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189v1](http://arxiv.org/abs/2607.00189v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.00189)|
 |**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v2](http://arxiv.org/abs/2606.31979v2)|null|[αX↑2](https://alphaxiv.org/abs/2606.31979)|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|[link](https://github.com/Sid2697/HOPformer)|[αX↑10](https://alphaxiv.org/abs/2606.30598)|

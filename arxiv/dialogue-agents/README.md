@@ -1,14 +1,14 @@
 ## Dialogue Agents
 
-### Updated on 2026.07.07
+### Updated on 2026.07.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-02**|**BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2607.01600v1](http://arxiv.org/abs/2607.01600v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.01600)|
+|**2026-07-02**|**BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2607.01600v1](http://arxiv.org/abs/2607.01600v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.01600)|
 |**2026-06-30**|**SLM, LLM or Agentic AI? Toward Intelligent UAV-Enabled WPT Systems in Low-Altitude Economy Networks**|Feibo Jiang et.al.|[2607.00255v1](http://arxiv.org/abs/2607.00255v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.00255)|
-|**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946v1](http://arxiv.org/abs/2606.31946v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31946)|
+|**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946v1](http://arxiv.org/abs/2606.31946v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.31946)|
 |**2026-06-30**|**Who Determines the Meaning of an Emotion? Affective Sovereignty as an Epistemic Consequence of Measurement Limits**|Keito Inoshita et.al.|[2606.31442v1](http://arxiv.org/abs/2606.31442v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31442)|
-|**2026-06-30**|**When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue**|Mohammad Alijanpour Shalmani et.al.|[2606.31307v1](http://arxiv.org/abs/2606.31307v1)|[link](https://github.com/mohammad-AJP/llm-db-failure-recovery)|[αX↑2](https://alphaxiv.org/abs/2606.31307)|
+|**2026-06-30**|**When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue**|Mohammad Alijanpour Shalmani et.al.|[2606.31307v1](http://arxiv.org/abs/2606.31307v1)|[link](https://github.com/mohammad-AJP/llm-db-failure-recovery)|[αX↑3](https://alphaxiv.org/abs/2606.31307)|
 |**2026-06-15**|**EvoRec: Self Evolving Agentic Recommender Systems**|Lingyu Mu et.al.|[2606.28368v1](http://arxiv.org/abs/2606.28368v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.28368)|
 |**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182v1](http://arxiv.org/abs/2606.28182v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.28182)|
 |**2026-06-24**|**Data Facts: A Metadata Schema for Structured Data Exchange in the NANDini Multi-Agent Ecosystem**|Jin Gao et.al.|[2606.26211v1](http://arxiv.org/abs/2606.26211v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.26211)|
