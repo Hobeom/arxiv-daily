@@ -4,22 +4,25 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.08
+### Updated on 2026.07.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-08**|**Compositional Motion Generation from Demonstration with Object-Centric Neural Fields**|Ahmet Ercan Tekden et.al.|[2607.07129v1](http://arxiv.org/abs/2607.07129v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07129)|
+|**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701v1](http://arxiv.org/abs/2607.06701v1)|[link](https://github.com/spear-sim/spear)|[αX↑0](https://alphaxiv.org/abs/2607.06701)|
+|**2026-07-07**|**RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation**|Shujie Zhang et.al.|[2607.06699v1](http://arxiv.org/abs/2607.06699v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06699)|
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)|[αX↑0](https://alphaxiv.org/abs/2607.06558)|
 |**2026-07-07**|**OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics**|Humphrey Munn et.al.|[2607.06337v1](http://arxiv.org/abs/2607.06337v1)|[link](https://github.com/humphreymunn/orchardbench)|[αX↑0](https://alphaxiv.org/abs/2607.06337)|
 |**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165v1](http://arxiv.org/abs/2607.06165v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06165)|
 |**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018v1](http://arxiv.org/abs/2607.06018v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06018)|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482v1](http://arxiv.org/abs/2607.05482v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05482)|
 |**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463v1](http://arxiv.org/abs/2607.05463v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05463)|
-|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑2](https://alphaxiv.org/abs/2607.05377)|
-|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.04880)|
-|**2026-07-06**|**Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity**|Che-Sang Park et.al.|[2607.04739v1](http://arxiv.org/abs/2607.04739v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04739)|
-|**2026-07-04**|**OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies**|Kelin Yu et.al.|[2607.03723v1](http://arxiv.org/abs/2607.03723v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03723)|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑5](https://alphaxiv.org/abs/2607.05377)|
+|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.04880)|
+|**2026-07-06**|**Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity**|Che-Sang Park et.al.|[2607.04739v1](http://arxiv.org/abs/2607.04739v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04739)|
+|**2026-07-04**|**OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies**|Kelin Yu et.al.|[2607.03723v1](http://arxiv.org/abs/2607.03723v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.03723)|
 |**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961v1](http://arxiv.org/abs/2607.02961v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.02961)|
-|**2026-07-02**|**GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation**|GigaWorld Team et.al.|[2607.02642v1](http://arxiv.org/abs/2607.02642v1)|[link](https://github.com/open-gigaai/giga-world-1)|[🤗👍33](https://huggingface.co/papers/2607.02642) [αX↑8](https://alphaxiv.org/abs/2607.02642)|
+|**2026-07-02**|**GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation**|GigaWorld Team et.al.|[2607.02642v1](http://arxiv.org/abs/2607.02642v1)|[link](https://github.com/open-gigaai/giga-world-1)|[🤗👍33](https://huggingface.co/papers/2607.02642) [αX↑16](https://alphaxiv.org/abs/2607.02642)|
 |**2026-07-07**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Satoshi Yamamori et.al.|[2607.02205v2](http://arxiv.org/abs/2607.02205v2)|null|[αX↑8](https://alphaxiv.org/abs/2607.02205)|
 |**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Sung June Kim et.al.|[2607.01754v1](http://arxiv.org/abs/2607.01754v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.01754)|
 |**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Yunfu Deng et.al.|[2607.01410v1](http://arxiv.org/abs/2607.01410v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.01410)|

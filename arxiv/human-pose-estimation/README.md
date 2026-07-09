@@ -1,14 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.08
+### Updated on 2026.07.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07452)|
+|**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07306)|
+|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07168)|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06856)|
+|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06782)|
 |**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)|[αX↑0](https://alphaxiv.org/abs/2607.06560)|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06555)|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
 |**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑0](https://alphaxiv.org/abs/2607.05663)|
-|**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04930)|
+|**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04930)|
 |**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v2](http://arxiv.org/abs/2607.04847v2)|null|[αX↑0](https://alphaxiv.org/abs/2607.04847)|
 |**2026-07-04**|**Virtual Reality-Simulated Interaction Between Micro-Mobility Vehicles and Pedestrians: A Biomechanical Analysis of Human Gait and Movement Responses**|Sahan Siriwardena et.al.|[2607.03705v1](http://arxiv.org/abs/2607.03705v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.03705)|
 |**2026-07-03**|**SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers**|Jianing Deng et.al.|[2607.03612v1](http://arxiv.org/abs/2607.03612v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03612)|
