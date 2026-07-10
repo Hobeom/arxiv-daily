@@ -4,12 +4,12 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.07.09
+### Updated on 2026.07.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-08**|**Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors**|Oliver Makins et.al.|[2607.07368v1](http://arxiv.org/abs/2607.07368v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07368)|
-|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Alexey Gavryushin et.al.|[2607.06691v1](http://arxiv.org/abs/2607.06691v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06691)|
+|**2026-07-08**|**Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors**|Oliver Makins et.al.|[2607.07368v1](http://arxiv.org/abs/2607.07368v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07368)|
+|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Alexey Gavryushin et.al.|[2607.06691v1](http://arxiv.org/abs/2607.06691v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.06691)|
 |**2026-07-06**|**Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding**|Xuewen Luo et.al.|[2607.04670v1](http://arxiv.org/abs/2607.04670v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04670)|
 |**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006v1](http://arxiv.org/abs/2607.01006v1)|[link](https://github.com/X-PLUG/mPLUG-DocOwl)|[αX↑9](https://alphaxiv.org/abs/2607.01006)|
 |**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916v1](http://arxiv.org/abs/2606.31916v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31916)|
