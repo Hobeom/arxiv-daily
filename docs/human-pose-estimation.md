@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.10
+### Updated on 2026.07.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -16,8 +16,8 @@ layout: default
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.07168)|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.06856)|
 |**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.06782)|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍38](https://huggingface.co/papers/2607.06560) [αX↑25](https://alphaxiv.org/abs/2607.06560)|
-|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.06555)|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍38](https://huggingface.co/papers/2607.06560) [αX↑39](https://alphaxiv.org/abs/2607.06560)|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.06555)|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
 |**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑1](https://alphaxiv.org/abs/2607.05663)|
 |**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04930)|

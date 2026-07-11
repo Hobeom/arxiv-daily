@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.10
+### Updated on 2026.07.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -12,11 +12,11 @@ layout: default
 |**2026-07-08**|**Compositional Motion Generation from Demonstration with Object-Centric Neural Fields**|Ahmet Ercan Tekden et.al.|[2607.07129v1](http://arxiv.org/abs/2607.07129v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.07129)|
 |**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701v1](http://arxiv.org/abs/2607.06701v1)|[link](https://github.com/spear-sim/spear)|[αX↑3](https://alphaxiv.org/abs/2607.06701)|
 |**2026-07-07**|**RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation**|Shujie Zhang et.al.|[2607.06699v1](http://arxiv.org/abs/2607.06699v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06699)|
-|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)|[🤗👍71](https://huggingface.co/papers/2607.06558) [αX↑9](https://alphaxiv.org/abs/2607.06558)|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)|[🤗👍71](https://huggingface.co/papers/2607.06558) [αX↑15](https://alphaxiv.org/abs/2607.06558)|
 |**2026-07-07**|**OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics**|Humphrey Munn et.al.|[2607.06337v1](http://arxiv.org/abs/2607.06337v1)|[link](https://github.com/humphreymunn/orchardbench)|[αX↑0](https://alphaxiv.org/abs/2607.06337)|
-|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165v1](http://arxiv.org/abs/2607.06165v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.06165)|
-|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018v1](http://arxiv.org/abs/2607.06018v1)|[link](https://github.com/hananshafi/RoboTALES)|[🤗👍3](https://huggingface.co/papers/2607.06018) [αX↑2](https://alphaxiv.org/abs/2607.06018)|
-|**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482v1](http://arxiv.org/abs/2607.05482v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.05482)|
+|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165v1](http://arxiv.org/abs/2607.06165v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.06165)|
+|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018v1](http://arxiv.org/abs/2607.06018v1)|[link](https://github.com/hananshafi/RoboTALES)|[🤗👍3](https://huggingface.co/papers/2607.06018) [αX↑5](https://alphaxiv.org/abs/2607.06018)|
+|**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482v1](http://arxiv.org/abs/2607.05482v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.05482)|
 |**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463v1](http://arxiv.org/abs/2607.05463v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.05463)|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑13](https://alphaxiv.org/abs/2607.05377)|
 |**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.04880)|
@@ -26,15 +26,15 @@ layout: default
 |**2026-07-02**|**GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation**|GigaWorld Team et.al.|[2607.02642v1](http://arxiv.org/abs/2607.02642v1)|[link](https://github.com/open-gigaai/giga-world-1)|[🤗👍36](https://huggingface.co/papers/2607.02642) [αX↑24](https://alphaxiv.org/abs/2607.02642)|
 |**2026-07-07**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Satoshi Yamamori et.al.|[2607.02205v2](http://arxiv.org/abs/2607.02205v2)|null|[αX↑8](https://alphaxiv.org/abs/2607.02205)|
 |**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Sung June Kim et.al.|[2607.01754v1](http://arxiv.org/abs/2607.01754v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.01754)|
-|**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Yunfu Deng et.al.|[2607.01410v1](http://arxiv.org/abs/2607.01410v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.01410)|
-|**2026-07-01**|**FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement**|Haoran Hao et.al.|[2607.01111v1](http://arxiv.org/abs/2607.01111v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.01111)|
-|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060v1](http://arxiv.org/abs/2607.01060v1)|null|[αX↑22](https://alphaxiv.org/abs/2607.01060)|
+|**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Yunfu Deng et.al.|[2607.01410v1](http://arxiv.org/abs/2607.01410v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.01410)|
+|**2026-07-01**|**FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement**|Haoran Hao et.al.|[2607.01111v1](http://arxiv.org/abs/2607.01111v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.01111)|
+|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060v1](http://arxiv.org/abs/2607.01060v1)|null|[αX↑24](https://alphaxiv.org/abs/2607.01060)|
 |**2026-07-01**|**B2X Networks: Joint Design of Communication and Control for Embodied Intelligence**|Yuanwei Liu et.al.|[2607.00537v1](http://arxiv.org/abs/2607.00537v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.00537)|
 |**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457v1](http://arxiv.org/abs/2607.00457v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.00457)|
 |**2026-07-01**|**Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**|Ping Zhang et.al.|[2607.00316v1](http://arxiv.org/abs/2607.00316v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.00316)|
 |**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Amirreza Rouhi et.al.|[2607.00310v1](http://arxiv.org/abs/2607.00310v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.00310)|
 |**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Siddhant Panpatil et.al.|[2607.00218v1](http://arxiv.org/abs/2607.00218v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00218)|
-|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027v1](http://arxiv.org/abs/2606.32027v1)|null|[αX↑39](https://alphaxiv.org/abs/2606.32027)|
+|**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027v1](http://arxiv.org/abs/2606.32027v1)|null|[αX↑42](https://alphaxiv.org/abs/2606.32027)|
 |**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966v1](http://arxiv.org/abs/2606.31966v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.31966)|
 |**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|[αX↑34](https://alphaxiv.org/abs/2606.31958)|
 |**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|[αX↑8](https://alphaxiv.org/abs/2606.31919)|

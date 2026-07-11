@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2026.07.10
+### Updated on 2026.07.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -14,11 +14,11 @@
 |**2026-07-03**|**Photo-thermal 2D spectroscopy: a different type of action**|Pavel Malý et.al.|[2607.03469v1](http://arxiv.org/abs/2607.03469v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03469)|
 |**2026-07-03**|**From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition**|Hao Wang et.al.|[2607.03327v1](http://arxiv.org/abs/2607.03327v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03327)|
 |**2026-07-03**|**A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation**|Estera Dumitru et.al.|[2607.03131v1](http://arxiv.org/abs/2607.03131v1)|[link](https://github.com/DumitruEstera/ai-surveillance-system)|[αX↑1](https://alphaxiv.org/abs/2607.03131)|
-|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.01117)|
+|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.01117)|
 |**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Yingjie Dai et.al.|[2607.00716v1](http://arxiv.org/abs/2607.00716v1)|[link](https://github.com/yaa1haa1/PartialVisGraph)|[αX↑1](https://alphaxiv.org/abs/2607.00716)|
 |**2026-07-01**|**OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization**|Sakib Reza et.al.|[2607.00289v1](http://arxiv.org/abs/2607.00289v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00289)|
 |**2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Björn Braun et.al.|[2606.31127v1](http://arxiv.org/abs/2606.31127v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31127)|
-|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑74](https://alphaxiv.org/abs/2606.27295)|
+|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑75](https://alphaxiv.org/abs/2606.27295)|
 |**2026-06-25**|**Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions**|Garam Kim et.al.|[2606.26634v1](http://arxiv.org/abs/2606.26634v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.26634)|
 |**2026-06-24**|**Expresso-AI: Explainable Video-Based Deep Learning Models for Depression Diagnosis**|Felipe Moreno et.al.|[2606.25606v1](http://arxiv.org/abs/2606.25606v1)|[link](https://github.com/felmoreno1726/Expresso-AI)|[αX↑4](https://alphaxiv.org/abs/2606.25606)|
 |**2026-06-24**|**KidRisk: Benchmark Dataset for Children Dangerous Action Recognition**|Minh-Kha Nguyen et.al.|[2606.25298v1](http://arxiv.org/abs/2606.25298v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.25298)|
@@ -29,7 +29,7 @@
 |**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416v1](http://arxiv.org/abs/2606.22416v1)|[link](https://github.com/prajwalgatti/Gen2Balance)|[αX↑8](https://alphaxiv.org/abs/2606.22416)|
 |**2026-06-21**|**Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding**|Haodi Liu et.al.|[2606.22409v1](http://arxiv.org/abs/2606.22409v1)|[link](https://github.com/Haodi-Liu/GPS-Gold-Point-Sniper)|[αX↑6](https://alphaxiv.org/abs/2606.22409)|
 |**2026-06-19**|**T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition**|Di Yang et.al.|[2606.21607v1](http://arxiv.org/abs/2606.21607v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.21607)|
-|**2026-06-19**|**The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection**|Serdar Ozsoy et.al.|[2606.21579v1](http://arxiv.org/abs/2606.21579v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.21579)|
+|**2026-06-19**|**The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection**|Serdar Ozsoy et.al.|[2606.21579v1](http://arxiv.org/abs/2606.21579v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.21579)|
 |**2026-06-19**|**LEViL: Label-Efficient Video Learning via Zero-Shot Distillation over VLM-Generated Pseudo-Label Spaces**|Aslı Çelik et.al.|[2606.21358v1](http://arxiv.org/abs/2606.21358v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.21358)|
 |**2026-06-17**|**Robust Zero-Shot Generalization for Open-Vocabulary Action Recognition via Task Arithmetic**|Francesca Morandi et.al.|[2606.20734v1](http://arxiv.org/abs/2606.20734v1)|[link](https://github.com/omaymaMoussadek/robust-ovar)|[αX↑0](https://alphaxiv.org/abs/2606.20734)|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559v1](http://arxiv.org/abs/2606.20559v1)|null|[αX↑10](https://alphaxiv.org/abs/2606.20559)|

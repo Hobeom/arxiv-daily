@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.10
+### Updated on 2026.07.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -19,10 +19,10 @@ layout: default
 |**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706v1](http://arxiv.org/abs/2607.06706v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06706)|
 |**2026-07-07**|**NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation**|Ziye Wang et.al.|[2607.06678v1](http://arxiv.org/abs/2607.06678v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.06678)|
 |**2026-07-09**|**Pelican-VLA 0.5: Attending Before Acting Benefits Generalization**|Zeyuan Ding et.al.|[2607.06655v2](http://arxiv.org/abs/2607.06655v2)|[link](https://github.com/Open-X-Humanoid/Pelican-VLA05)|[αX↑7](https://alphaxiv.org/abs/2607.06655)|
-|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564v1](http://arxiv.org/abs/2607.06564v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.06564)|
+|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564v1](http://arxiv.org/abs/2607.06564v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.06564)|
 |**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Changti Wu et.al.|[2607.06442v1](http://arxiv.org/abs/2607.06442v1)|[link](https://github.com/ChangtiWu/SIEVE}{SIEVE})|[🤗👍2](https://huggingface.co/papers/2607.06442) [αX↑6](https://alphaxiv.org/abs/2607.06442)|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Wei Wu et.al.|[2607.06403v1](http://arxiv.org/abs/2607.06403v1)|[link](https://github.com/robbyant/lingbot-vla-v2)|[🤗👍12](https://huggingface.co/papers/2607.06403) [αX↑43](https://alphaxiv.org/abs/2607.06403)|
-|**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Ryuji Oi et.al.|[2607.06370v1](http://arxiv.org/abs/2607.06370v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.06370)|
+|**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Ryuji Oi et.al.|[2607.06370v1](http://arxiv.org/abs/2607.06370v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.06370)|
 |**2026-07-07**|**Optimal Transport Q-Learning for Flow Policy Steering and Acceleration**|Andreas Sochopoulos et.al.|[2607.06262v1](http://arxiv.org/abs/2607.06262v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06262)|
 |**2026-07-06**|**From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**|Wenhao Li et.al.|[2607.05396v1](http://arxiv.org/abs/2607.05396v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.05396)|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑2](https://alphaxiv.org/abs/2607.05377)|
