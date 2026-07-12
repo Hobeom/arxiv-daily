@@ -1,24 +1,24 @@
 ## Action Recognition
 
-### Updated on 2026.07.11
+### Updated on 2026.07.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Masatoshi Tateno et.al.|[2607.08514v1](http://arxiv.org/abs/2607.08514v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.08514)|
 |**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843v1](http://arxiv.org/abs/2607.06843v1)|[link](https://github.com/sinc865/WINRO)|[αX↑1](https://alphaxiv.org/abs/2607.06843)|
 |**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Suryanarayana Reddy Yarrabothula et.al.|[2607.05264v1](http://arxiv.org/abs/2607.05264v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.05264)|
-|**2026-07-06**|**Learning Probabilistic Embeddings for Unsupervised Action Segmentation**|Shuai Li et.al.|[2607.05263v1](http://arxiv.org/abs/2607.05263v1)|[link](https://github.com/derkbreeze/PEOT)|[αX↑2](https://alphaxiv.org/abs/2607.05263)|
-|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.04816)|
-|**2026-07-06**|**TubeLite: Lightweight Multi-Actor Spatio-Temporal Action Detection**|Ali Soltaninezhad et.al.|[2607.04684v1](http://arxiv.org/abs/2607.04684v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04684)|
+|**2026-07-06**|**Learning Probabilistic Embeddings for Unsupervised Action Segmentation**|Shuai Li et.al.|[2607.05263v1](http://arxiv.org/abs/2607.05263v1)|[link](https://github.com/derkbreeze/PEOT)|[αX↑3](https://alphaxiv.org/abs/2607.05263)|
+|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.04816)|
+|**2026-07-06**|**TubeLite: Lightweight Multi-Actor Spatio-Temporal Action Detection**|Ali Soltaninezhad et.al.|[2607.04684v1](http://arxiv.org/abs/2607.04684v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04684)|
 |**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|Fatemah Alhamdoosh et.al.|[2607.03934v1](http://arxiv.org/abs/2607.03934v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03934)|
-|**2026-07-03**|**Photo-thermal 2D spectroscopy: a different type of action**|Pavel Malý et.al.|[2607.03469v1](http://arxiv.org/abs/2607.03469v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03469)|
+|**2026-07-03**|**Photo-thermal 2D spectroscopy: a different type of action**|Pavel Malý et.al.|[2607.03469v1](http://arxiv.org/abs/2607.03469v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03469)|
 |**2026-07-03**|**From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition**|Hao Wang et.al.|[2607.03327v1](http://arxiv.org/abs/2607.03327v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.03327)|
-|**2026-07-03**|**A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation**|Estera Dumitru et.al.|[2607.03131v1](http://arxiv.org/abs/2607.03131v1)|[link](https://github.com/DumitruEstera/ai-surveillance-system)|[αX↑1](https://alphaxiv.org/abs/2607.03131)|
-|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.01117)|
+|**2026-07-03**|**A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation**|Estera Dumitru et.al.|[2607.03131v1](http://arxiv.org/abs/2607.03131v1)|[link](https://github.com/DumitruEstera/ai-surveillance-system)|[αX↑2](https://alphaxiv.org/abs/2607.03131)|
+|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.01117)|
 |**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Yingjie Dai et.al.|[2607.00716v1](http://arxiv.org/abs/2607.00716v1)|[link](https://github.com/yaa1haa1/PartialVisGraph)|[αX↑1](https://alphaxiv.org/abs/2607.00716)|
 |**2026-07-01**|**OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization**|Sakib Reza et.al.|[2607.00289v1](http://arxiv.org/abs/2607.00289v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00289)|
 |**2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Björn Braun et.al.|[2606.31127v1](http://arxiv.org/abs/2606.31127v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31127)|
-|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑75](https://alphaxiv.org/abs/2606.27295)|
+|**2026-06-26**|**LA4VLA: Learning to Act without Seeing via Language-Action Pretraining**|Tao Lin et.al.|[2606.27295v2](http://arxiv.org/abs/2606.27295v2)|[link](https://github.com/MINT-SJTU/LA4VLA)|[αX↑76](https://alphaxiv.org/abs/2606.27295)|
 |**2026-06-25**|**Temporally Consistent Label Interpolation for Robust Surgical Multi-Task Learning under Challenging Conditions**|Garam Kim et.al.|[2606.26634v1](http://arxiv.org/abs/2606.26634v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.26634)|
 |**2026-06-24**|**Expresso-AI: Explainable Video-Based Deep Learning Models for Depression Diagnosis**|Felipe Moreno et.al.|[2606.25606v1](http://arxiv.org/abs/2606.25606v1)|[link](https://github.com/felmoreno1726/Expresso-AI)|[αX↑4](https://alphaxiv.org/abs/2606.25606)|
 |**2026-06-24**|**KidRisk: Benchmark Dataset for Children Dangerous Action Recognition**|Minh-Kha Nguyen et.al.|[2606.25298v1](http://arxiv.org/abs/2606.25298v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.25298)|

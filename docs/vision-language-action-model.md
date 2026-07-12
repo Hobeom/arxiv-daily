@@ -4,33 +4,33 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.11
+### Updated on 2026.07.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-09**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575v1](http://arxiv.org/abs/2607.08575v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.08575)|
-|**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Yixian Zhang et.al.|[2607.08448v1](http://arxiv.org/abs/2607.08448v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.08448)|
-|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375v1](http://arxiv.org/abs/2607.08375v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.08375)|
-|**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Qi Lyu et.al.|[2607.08182v1](http://arxiv.org/abs/2607.08182v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.08182)|
-|**2026-07-09**|**Post-Training in End-to-End Autonomous Driving**|Ruining Yang et.al.|[2607.08072v1](http://arxiv.org/abs/2607.08072v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.08072)|
-|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608v1](http://arxiv.org/abs/2607.07608v1)|[link](https://github.com/quhongyu/LaMem-VLA)|[🤗👍48](https://huggingface.co/papers/2607.07608) [αX↑7](https://alphaxiv.org/abs/2607.07608)|
+|**2026-07-09**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575v1](http://arxiv.org/abs/2607.08575v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.08575)|
+|**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Yixian Zhang et.al.|[2607.08448v1](http://arxiv.org/abs/2607.08448v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.08448)|
+|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375v1](http://arxiv.org/abs/2607.08375v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.08375)|
+|**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Qi Lyu et.al.|[2607.08182v1](http://arxiv.org/abs/2607.08182v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.08182)|
+|**2026-07-09**|**Post-Training in End-to-End Autonomous Driving**|Ruining Yang et.al.|[2607.08072v1](http://arxiv.org/abs/2607.08072v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.08072)|
+|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608v1](http://arxiv.org/abs/2607.07608v1)|[link](https://github.com/quhongyu/LaMem-VLA)|[🤗👍48](https://huggingface.co/papers/2607.07608) [αX↑11](https://alphaxiv.org/abs/2607.07608)|
 |**2026-07-08**|**Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting**|Robert Jomar Malate et.al.|[2607.07491v1](http://arxiv.org/abs/2607.07491v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07491)|
-|**2026-07-08**|**Multi-Agent Robotic Control with Onboard Vision-Language Models**|Kajetan Rachwał et.al.|[2607.07403v1](http://arxiv.org/abs/2607.07403v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.07403)|
-|**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706v1](http://arxiv.org/abs/2607.06706v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06706)|
-|**2026-07-07**|**NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation**|Ziye Wang et.al.|[2607.06678v1](http://arxiv.org/abs/2607.06678v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.06678)|
-|**2026-07-09**|**Pelican-VLA 0.5: Attending Before Acting Benefits Generalization**|Zeyuan Ding et.al.|[2607.06655v2](http://arxiv.org/abs/2607.06655v2)|[link](https://github.com/Open-X-Humanoid/Pelican-VLA05)|[αX↑7](https://alphaxiv.org/abs/2607.06655)|
-|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564v1](http://arxiv.org/abs/2607.06564v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.06564)|
+|**2026-07-08**|**Multi-Agent Robotic Control with Onboard Vision-Language Models**|Kajetan Rachwał et.al.|[2607.07403v1](http://arxiv.org/abs/2607.07403v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.07403)|
+|**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706v1](http://arxiv.org/abs/2607.06706v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.06706)|
+|**2026-07-07**|**NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation**|Ziye Wang et.al.|[2607.06678v1](http://arxiv.org/abs/2607.06678v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.06678)|
+|**2026-07-09**|**Pelican-VLA 0.5: Attending Before Acting Benefits Generalization**|Zeyuan Ding et.al.|[2607.06655v2](http://arxiv.org/abs/2607.06655v2)|[link](https://github.com/Open-X-Humanoid/Pelican-VLA05)|[αX↑10](https://alphaxiv.org/abs/2607.06655)|
+|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564v1](http://arxiv.org/abs/2607.06564v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.06564)|
 |**2026-07-07**|**SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models**|Changti Wu et.al.|[2607.06442v1](http://arxiv.org/abs/2607.06442v1)|[link](https://github.com/ChangtiWu/SIEVE}{SIEVE})|[🤗👍2](https://huggingface.co/papers/2607.06442) [αX↑6](https://alphaxiv.org/abs/2607.06442)|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Wei Wu et.al.|[2607.06403v1](http://arxiv.org/abs/2607.06403v1)|[link](https://github.com/robbyant/lingbot-vla-v2)|[🤗👍12](https://huggingface.co/papers/2607.06403) [αX↑43](https://alphaxiv.org/abs/2607.06403)|
 |**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Ryuji Oi et.al.|[2607.06370v1](http://arxiv.org/abs/2607.06370v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.06370)|
 |**2026-07-07**|**Optimal Transport Q-Learning for Flow Policy Steering and Acceleration**|Andreas Sochopoulos et.al.|[2607.06262v1](http://arxiv.org/abs/2607.06262v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.06262)|
-|**2026-07-06**|**From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**|Wenhao Li et.al.|[2607.05396v1](http://arxiv.org/abs/2607.05396v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.05396)|
+|**2026-07-06**|**From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**|Wenhao Li et.al.|[2607.05396v1](http://arxiv.org/abs/2607.05396v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.05396)|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑2](https://alphaxiv.org/abs/2607.05377)|
 |**2026-07-06**|**Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies**|Adrian Szvoren et.al.|[2607.05122v1](http://arxiv.org/abs/2607.05122v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.05122)|
-|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.04880)|
-|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.04816)|
-|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681v1](http://arxiv.org/abs/2607.04681v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04681)|
-|**2026-07-06**|**PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving**|Pin Tang et.al.|[2607.04637v1](http://arxiv.org/abs/2607.04637v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.04637)|
+|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.04880)|
+|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.04816)|
+|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681v1](http://arxiv.org/abs/2607.04681v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.04681)|
+|**2026-07-06**|**PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving**|Pin Tang et.al.|[2607.04637v1](http://arxiv.org/abs/2607.04637v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.04637)|
 |**2026-07-06**|**Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning**|Xinchuan Qiu et.al.|[2607.04591v1](http://arxiv.org/abs/2607.04591v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04591)|
 |**2026-07-05**|**VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models**|Damir Shodiev et.al.|[2607.04517v1](http://arxiv.org/abs/2607.04517v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04517)|
 |**2026-07-05**|**XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control**|Lei Iok Tong et.al.|[2607.04171v1](http://arxiv.org/abs/2607.04171v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.04171)|

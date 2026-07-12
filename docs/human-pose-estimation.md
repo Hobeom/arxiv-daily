@@ -4,20 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.11
+### Updated on 2026.07.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725v1](http://arxiv.org/abs/2607.08725v1)|[link](https://github.com/UTSA-VIRLab/BioModule)|[αX↑1](https://alphaxiv.org/abs/2607.08725)|
-|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115v1](http://arxiv.org/abs/2607.08115v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.08115)|
-|**2026-07-09**|**SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft**|Yiyong Sun et.al.|[2607.08033v1](http://arxiv.org/abs/2607.08033v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.08033)|
-|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07452)|
+|**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725v1](http://arxiv.org/abs/2607.08725v1)|[link](https://github.com/UTSA-VIRLab/BioModule)|[αX↑2](https://alphaxiv.org/abs/2607.08725)|
+|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115v1](http://arxiv.org/abs/2607.08115v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.08115)|
+|**2026-07-09**|**SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft**|Yiyong Sun et.al.|[2607.08033v1](http://arxiv.org/abs/2607.08033v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.08033)|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.07452)|
 |**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.07306)|
-|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.07168)|
-|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.06856)|
-|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.06782)|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍38](https://huggingface.co/papers/2607.06560) [αX↑39](https://alphaxiv.org/abs/2607.06560)|
-|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.06555)|
+|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07168)|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06856)|
+|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06782)|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍38](https://huggingface.co/papers/2607.06560) [αX↑45](https://alphaxiv.org/abs/2607.06560)|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06555)|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
 |**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑1](https://alphaxiv.org/abs/2607.05663)|
 |**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.04930)|

@@ -4,11 +4,11 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.07.11
+### Updated on 2026.07.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.07824)|
+|**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.07824)|
 |**2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Mihnea C. Moldoveanu et.al.|[2607.07760v1](http://arxiv.org/abs/2607.07760v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.07760)|
 |**2026-07-02**|**BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2607.01600v1](http://arxiv.org/abs/2607.01600v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.01600)|
 |**2026-06-30**|**SLM, LLM or Agentic AI? Toward Intelligent UAV-Enabled WPT Systems in Low-Altitude Economy Networks**|Feibo Jiang et.al.|[2607.00255v1](http://arxiv.org/abs/2607.00255v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00255)|
