@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.12
+### Updated on 2026.07.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -43,7 +43,7 @@ layout: default
 |**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466v1](http://arxiv.org/abs/2607.02466v1)|[link](https://github.com/sjh0354/Task-Agnostic-Pretrain)|[🤗👍6](https://huggingface.co/papers/2607.02466) [αX↑23](https://alphaxiv.org/abs/2607.02466)|
 |**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jincheng Tang et.al.|[2607.02322v1](http://arxiv.org/abs/2607.02322v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.02322)|
 |**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195v1](http://arxiv.org/abs/2607.02195v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.02195)|
-|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Yi Pan et.al.|[2607.01804v1](http://arxiv.org/abs/2607.01804v1)|null|[αX↑24](https://alphaxiv.org/abs/2607.01804)|
+|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Yi Pan et.al.|[2607.01804v1](http://arxiv.org/abs/2607.01804v1)|[link](https://github.com/ZJU-OmniAI/vla-corrector)|[αX↑24](https://alphaxiv.org/abs/2607.01804)|
 |**2026-07-02**|**Teaching Vision-Language-Action Models What to See and Where to Look**|Yuguang Yang et.al.|[2607.01658v1](http://arxiv.org/abs/2607.01658v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.01658)|
 |**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Guoyang Xia et.al.|[2607.01586v1](http://arxiv.org/abs/2607.01586v1)|[link](https://github.com/MindVLA-Team/VLAFlow)|[αX↑14](https://alphaxiv.org/abs/2607.01586)|
 |**2026-07-01**|**Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching**|William English et.al.|[2607.01378v1](http://arxiv.org/abs/2607.01378v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.01378)|
