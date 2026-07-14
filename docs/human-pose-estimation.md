@@ -4,10 +4,17 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.13
+### Updated on 2026.07.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099v1](http://arxiv.org/abs/2607.11099v1)|[link](https://github.com/ouotingwei/DescPP)|[αX↑0](https://alphaxiv.org/abs/2607.11099)|
+|**2026-07-13**|**WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation**|Doeon Kim et.al.|[2607.11064v1](http://arxiv.org/abs/2607.11064v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11064)|
+|**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840v1](http://arxiv.org/abs/2607.10840v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.10840)|
+|**2026-07-12**|**TriCons-Pose: Triangle-Invariant Geometric Consistency Learning for Category-Level Object Pose Estimation**|Zuzhi Yang et.al.|[2607.10754v1](http://arxiv.org/abs/2607.10754v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10754)|
+|**2026-07-12**|**Dance to Music Generation leveraging Pre-training with Unpaired data and Contrastive Alignment**|Ryota Kimura et.al.|[2607.10537v1](http://arxiv.org/abs/2607.10537v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10537)|
+|**2026-07-11**|**Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation**|Zhonghua Yi et.al.|[2607.10082v1](http://arxiv.org/abs/2607.10082v1)|[link](https://github.com/ZhonghuaYi/nexus2-official)|[αX↑0](https://alphaxiv.org/abs/2607.10082)|
+|**2026-07-10**|**UniPose9D: Universal Category-Agnostic Object Pose Estimation**|Yang You et.al.|[2607.09985v1](http://arxiv.org/abs/2607.09985v1)|[link](https://github.com/qq456cvb/UniPose9D)|[αX↑0](https://alphaxiv.org/abs/2607.09985)|
 |**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650v1](http://arxiv.org/abs/2607.09650v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09650)|
 |**2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260v1](http://arxiv.org/abs/2607.09260v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.09260)|
 |**2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2607.09169v1](http://arxiv.org/abs/2607.09169v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.09169)|

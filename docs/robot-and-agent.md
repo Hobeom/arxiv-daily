@@ -4,10 +4,21 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.13
+### Updated on 2026.07.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689v1](http://arxiv.org/abs/2607.11689v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.11689)|
+|**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397v1](http://arxiv.org/abs/2607.11397v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11397)|
+|**2026-07-13**|**A Glimpse into Long-term Physical Coexistence with Intelligent Robots**|Weiqi Jin et.al.|[2607.11377v1](http://arxiv.org/abs/2607.11377v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11377)|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270v1](http://arxiv.org/abs/2607.11270v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11270)|
+|**2026-07-13**|**VIA: Visual Interface Agent for Robot Control**|Hengyuan Hu et.al.|[2607.11119v1](http://arxiv.org/abs/2607.11119v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11119)|
+|**2026-07-12**|**Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents**|Kai Yu et.al.|[2607.10811v1](http://arxiv.org/abs/2607.10811v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10811)|
+|**2026-07-12**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744v1](http://arxiv.org/abs/2607.10744v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10744)|
+|**2026-07-12**|**Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification**|Haojie Huang et.al.|[2607.10706v1](http://arxiv.org/abs/2607.10706v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10706)|
+|**2026-07-11**|**VINE: Taming Generative Control Policies for Reinforcement Learning**|Rushuai Yang et.al.|[2607.10369v1](http://arxiv.org/abs/2607.10369v1)|[link](https://github.com/AgibotTech/vine)|[αX↑0](https://alphaxiv.org/abs/2607.10369)|
+|**2026-07-11**|**ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**|Jiayi Tian et.al.|[2607.10350v1](http://arxiv.org/abs/2607.10350v1)|[link](https://github.com/amap-cvlab/ABot-AgentOS)|[αX↑0](https://alphaxiv.org/abs/2607.10350)|
+|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Shengzhuo Yang et.al.|[2607.09818v1](http://arxiv.org/abs/2607.09818v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09818)|
 |**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590v1](http://arxiv.org/abs/2607.09590v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.09590)|
 |**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Nuocheng Yang et.al.|[2607.09330v1](http://arxiv.org/abs/2607.09330v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09330)|
 |**2026-07-09**|**FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space**|Michael Murray et.al.|[2607.08877v1](http://arxiv.org/abs/2607.08877v1)|[link](https://github.com/pages/auth?nonce=0bb00e10-8da0-46e7-989f-f558d5785036&amp;page_id=78476636&amp;path=Lw)|[αX↑5](https://alphaxiv.org/abs/2607.08877)|

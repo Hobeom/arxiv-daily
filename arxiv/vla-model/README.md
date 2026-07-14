@@ -1,9 +1,14 @@
 ## Vision Language Action Model
 
-### Updated on 2026.07.13
+### Updated on 2026.07.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-13**|**See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models**|Byungkun Lee et.al.|[2607.11498v1](http://arxiv.org/abs/2607.11498v1)|[link](https://github.com/DAVIAN-Robotics/pointmap)|[αX↑0](https://alphaxiv.org/abs/2607.11498)|
+|**2026-07-13**|**VIA: Visual Interface Agent for Robot Control**|Hengyuan Hu et.al.|[2607.11119v1](http://arxiv.org/abs/2607.11119v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11119)|
+|**2026-07-11**|**ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception**|Weichen Zhang et.al.|[2607.10180v1](http://arxiv.org/abs/2607.10180v1)|[link](https://github.com/EmbodiedCity/ActiveFly-Bench.code)|[αX↑0](https://alphaxiv.org/abs/2607.10180)|
+|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Finn Ferchau et.al.|[2607.10172v1](http://arxiv.org/abs/2607.10172v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10172)|
+|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Shengzhuo Yang et.al.|[2607.09818v1](http://arxiv.org/abs/2607.09818v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09818)|
 |**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590v1](http://arxiv.org/abs/2607.09590v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.09590)|
 |**2026-07-10**|**Can the Cloud Drive? Infrastructure Feasibility of Offloading Autonomous Driving Across 5G and 6G**|Pouya Parsa et.al.|[2607.09045v1](http://arxiv.org/abs/2607.09045v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09045)|
 |**2026-07-10**|**Learning More from Less: Reinforcement Learning from Hindsight**|Iris Xu et.al.|[2607.09042v1](http://arxiv.org/abs/2607.09042v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.09042)|
@@ -14,7 +19,7 @@
 |**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375v1](http://arxiv.org/abs/2607.08375v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.08375)|
 |**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Qi Lyu et.al.|[2607.08182v1](http://arxiv.org/abs/2607.08182v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.08182)|
 |**2026-07-09**|**Post-Training in End-to-End Autonomous Driving**|Ruining Yang et.al.|[2607.08072v1](http://arxiv.org/abs/2607.08072v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.08072)|
-|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608v1](http://arxiv.org/abs/2607.07608v1)|[link](https://github.com/quhongyu/LaMem-VLA)|[🤗👍53](https://huggingface.co/papers/2607.07608) [αX↑18](https://alphaxiv.org/abs/2607.07608)|
+|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608v1](http://arxiv.org/abs/2607.07608v1)|[link](https://github.com/quhongyu/LaMem-VLA)|[🤗👍55](https://huggingface.co/papers/2607.07608) [αX↑18](https://alphaxiv.org/abs/2607.07608)|
 |**2026-07-08**|**Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting**|Robert Jomar Malate et.al.|[2607.07491v1](http://arxiv.org/abs/2607.07491v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.07491)|
 |**2026-07-08**|**Multi-Agent Robotic Control with Onboard Vision-Language Models**|Kajetan Rachwał et.al.|[2607.07403v1](http://arxiv.org/abs/2607.07403v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.07403)|
 |**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706v1](http://arxiv.org/abs/2607.06706v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.06706)|
