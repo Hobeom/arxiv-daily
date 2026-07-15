@@ -4,7 +4,7 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.07.14
+### Updated on 2026.07.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -12,18 +12,18 @@ layout: default
 |**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v1](http://arxiv.org/abs/2607.11427v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11427)|
 |**2026-07-13**|**Temporal Feature Distillation for Label-Efficient Precise Event Spotting in Sports Videos**|Hao Xu et.al.|[2607.10998v1](http://arxiv.org/abs/2607.10998v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10998)|
 |**2026-07-12**|**Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos**|Hao Zheng et.al.|[2607.10797v1](http://arxiv.org/abs/2607.10797v1)|[link](https://github.com/CCFT-WACV/CCFT)|[αX↑0](https://alphaxiv.org/abs/2607.10797)|
-|**2026-07-10**|**Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation**|Artheme Gauthier-Villar et.al.|[2607.09081v1](http://arxiv.org/abs/2607.09081v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.09081)|
+|**2026-07-10**|**Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation**|Artheme Gauthier-Villar et.al.|[2607.09081v1](http://arxiv.org/abs/2607.09081v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.09081)|
 |**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Masatoshi Tateno et.al.|[2607.08514v1](http://arxiv.org/abs/2607.08514v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.08514)|
-|**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843v1](http://arxiv.org/abs/2607.06843v1)|[link](https://github.com/sinc865/WINRO)|[αX↑1](https://alphaxiv.org/abs/2607.06843)|
+|**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843v1](http://arxiv.org/abs/2607.06843v1)|[link](https://github.com/sinc865/WINRO)|[αX↑3](https://alphaxiv.org/abs/2607.06843)|
 |**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Suryanarayana Reddy Yarrabothula et.al.|[2607.05264v1](http://arxiv.org/abs/2607.05264v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.05264)|
 |**2026-07-06**|**Learning Probabilistic Embeddings for Unsupervised Action Segmentation**|Shuai Li et.al.|[2607.05263v1](http://arxiv.org/abs/2607.05263v1)|[link](https://github.com/derkbreeze/PEOT)|[αX↑4](https://alphaxiv.org/abs/2607.05263)|
-|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.04816)|
-|**2026-07-06**|**TubeLite: Lightweight Multi-Actor Spatio-Temporal Action Detection**|Ali Soltaninezhad et.al.|[2607.04684v1](http://arxiv.org/abs/2607.04684v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04684)|
-|**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|Fatemah Alhamdoosh et.al.|[2607.03934v1](http://arxiv.org/abs/2607.03934v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03934)|
+|**2026-07-06**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al.|[2607.04816v1](http://arxiv.org/abs/2607.04816v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.04816)|
+|**2026-07-06**|**TubeLite: Lightweight Multi-Actor Spatio-Temporal Action Detection**|Ali Soltaninezhad et.al.|[2607.04684v1](http://arxiv.org/abs/2607.04684v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.04684)|
+|**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|Fatemah Alhamdoosh et.al.|[2607.03934v1](http://arxiv.org/abs/2607.03934v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.03934)|
 |**2026-07-03**|**Photo-thermal 2D spectroscopy: a different type of action**|Pavel Malý et.al.|[2607.03469v1](http://arxiv.org/abs/2607.03469v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03469)|
 |**2026-07-03**|**From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition**|Hao Wang et.al.|[2607.03327v1](http://arxiv.org/abs/2607.03327v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.03327)|
 |**2026-07-03**|**A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation**|Estera Dumitru et.al.|[2607.03131v1](http://arxiv.org/abs/2607.03131v1)|[link](https://github.com/DumitruEstera/ai-surveillance-system)|[αX↑3](https://alphaxiv.org/abs/2607.03131)|
-|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117v1](http://arxiv.org/abs/2607.01117v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.01117)|
+|**2026-07-14**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Sihan Chen et.al.|[2607.01117v2](http://arxiv.org/abs/2607.01117v2)|null|[αX↑12](https://alphaxiv.org/abs/2607.01117)|
 |**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Yingjie Dai et.al.|[2607.00716v1](http://arxiv.org/abs/2607.00716v1)|[link](https://github.com/yaa1haa1/PartialVisGraph)|[αX↑1](https://alphaxiv.org/abs/2607.00716)|
 |**2026-07-01**|**OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization**|Sakib Reza et.al.|[2607.00289v1](http://arxiv.org/abs/2607.00289v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00289)|
 |**2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Björn Braun et.al.|[2606.31127v1](http://arxiv.org/abs/2606.31127v1)|null|[αX↑7](https://alphaxiv.org/abs/2606.31127)|
@@ -33,7 +33,7 @@ layout: default
 |**2026-06-24**|**KidRisk: Benchmark Dataset for Children Dangerous Action Recognition**|Minh-Kha Nguyen et.al.|[2606.25298v1](http://arxiv.org/abs/2606.25298v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.25298)|
 |**2026-06-23**|**Modality-Aware Out-of-Distribution Detection for Multi-Modal Action Recognition**|Lars Doorenbos et.al.|[2606.24404v1](http://arxiv.org/abs/2606.24404v1)|null|[αX↑9](https://alphaxiv.org/abs/2606.24404)|
 |**2026-06-23**|**Tri-Efficient Transfer Learning for Point Cloud Videos**|Yiding Sun et.al.|[2606.24175v1](http://arxiv.org/abs/2606.24175v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.24175)|
-|**2026-06-22**|**P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture**|Felix Tristram et.al.|[2606.23256v1](http://arxiv.org/abs/2606.23256v1)|null|[αX↑13](https://alphaxiv.org/abs/2606.23256)|
+|**2026-06-22**|**P-JEPA: Procedural Video Representation Learning via Joint Embedding Predictive Architecture**|Felix Tristram et.al.|[2606.23256v1](http://arxiv.org/abs/2606.23256v1)|null|[αX↑14](https://alphaxiv.org/abs/2606.23256)|
 |**2026-06-22**|**LUMINA-26: Low-Light Understanding for Modeling and Interpreting Night-time Actions**|Aman Kumar Pandey et.al.|[2606.23118v1](http://arxiv.org/abs/2606.23118v1)|null|[αX↑6](https://alphaxiv.org/abs/2606.23118)|
 |**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416v1](http://arxiv.org/abs/2606.22416v1)|[link](https://github.com/prajwalgatti/Gen2Balance)|[αX↑8](https://alphaxiv.org/abs/2606.22416)|
 |**2026-06-21**|**Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding**|Haodi Liu et.al.|[2606.22409v1](http://arxiv.org/abs/2606.22409v1)|[link](https://github.com/Haodi-Liu/GPS-Gold-Point-Sniper)|[αX↑6](https://alphaxiv.org/abs/2606.22409)|

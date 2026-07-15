@@ -1,23 +1,28 @@
 ## Robot & Agent
 
-### Updated on 2026.07.14
+### Updated on 2026.07.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894v1](http://arxiv.org/abs/2607.12894v1)|[link](https://github.com/Tencent-Hunyuan/HY-Embodied)|[αX↑0](https://alphaxiv.org/abs/2607.12894)|
+|**2026-07-14**|**UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies**|Lirui Zhao et.al.|[2607.12892v1](http://arxiv.org/abs/2607.12892v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.12892)|
+|**2026-07-14**|**Instance-Enriched Semantic Maps for Visual Language Navigation**|Jiho Hong et.al.|[2607.12630v1](http://arxiv.org/abs/2607.12630v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.12630)|
+|**2026-07-14**|**TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors**|Pinhan Fu et.al.|[2607.12571v1](http://arxiv.org/abs/2607.12571v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.12571)|
+|**2026-07-14**|**Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences**|Taehyung Kim et.al.|[2607.12466v1](http://arxiv.org/abs/2607.12466v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.12466)|
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689v1](http://arxiv.org/abs/2607.11689v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.11689)|
 |**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397v1](http://arxiv.org/abs/2607.11397v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11397)|
 |**2026-07-13**|**A Glimpse into Long-term Physical Coexistence with Intelligent Robots**|Weiqi Jin et.al.|[2607.11377v1](http://arxiv.org/abs/2607.11377v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11377)|
 |**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270v1](http://arxiv.org/abs/2607.11270v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11270)|
 |**2026-07-13**|**VIA: Visual Interface Agent for Robot Control**|Hengyuan Hu et.al.|[2607.11119v1](http://arxiv.org/abs/2607.11119v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.11119)|
 |**2026-07-12**|**Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents**|Kai Yu et.al.|[2607.10811v1](http://arxiv.org/abs/2607.10811v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10811)|
-|**2026-07-12**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744v1](http://arxiv.org/abs/2607.10744v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10744)|
+|**2026-07-14**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744v2](http://arxiv.org/abs/2607.10744v2)|null|[αX↑0](https://alphaxiv.org/abs/2607.10744)|
 |**2026-07-12**|**Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification**|Haojie Huang et.al.|[2607.10706v1](http://arxiv.org/abs/2607.10706v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10706)|
 |**2026-07-11**|**VINE: Taming Generative Control Policies for Reinforcement Learning**|Rushuai Yang et.al.|[2607.10369v1](http://arxiv.org/abs/2607.10369v1)|[link](https://github.com/AgibotTech/vine)|[αX↑0](https://alphaxiv.org/abs/2607.10369)|
 |**2026-07-11**|**ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**|Jiayi Tian et.al.|[2607.10350v1](http://arxiv.org/abs/2607.10350v1)|[link](https://github.com/amap-cvlab/ABot-AgentOS)|[αX↑0](https://alphaxiv.org/abs/2607.10350)|
 |**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Shengzhuo Yang et.al.|[2607.09818v1](http://arxiv.org/abs/2607.09818v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09818)|
-|**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590v1](http://arxiv.org/abs/2607.09590v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.09590)|
+|**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590v1](http://arxiv.org/abs/2607.09590v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.09590)|
 |**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Nuocheng Yang et.al.|[2607.09330v1](http://arxiv.org/abs/2607.09330v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.09330)|
-|**2026-07-09**|**FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space**|Michael Murray et.al.|[2607.08877v1](http://arxiv.org/abs/2607.08877v1)|[link](https://github.com/pages/auth?nonce=0bb00e10-8da0-46e7-989f-f558d5785036&amp;page_id=78476636&amp;path=Lw)|[αX↑5](https://alphaxiv.org/abs/2607.08877)|
+|**2026-07-09**|**FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space**|Michael Murray et.al.|[2607.08877v1](http://arxiv.org/abs/2607.08877v1)|[link](https://github.com/pages/auth?nonce=0bb00e10-8da0-46e7-989f-f558d5785036&amp;page_id=78476636&amp;path=Lw)|[αX↑11](https://alphaxiv.org/abs/2607.08877)|
 |**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Arav Gupta et.al.|[2607.08504v1](http://arxiv.org/abs/2607.08504v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.08504)|
 |**2026-07-08**|**Compositional Motion Generation from Demonstration with Object-Centric Neural Fields**|Ahmet Ercan Tekden et.al.|[2607.07129v1](http://arxiv.org/abs/2607.07129v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.07129)|
 |**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701v1](http://arxiv.org/abs/2607.06701v1)|[link](https://github.com/spear-sim/spear)|[αX↑5](https://alphaxiv.org/abs/2607.06701)|
@@ -25,11 +30,11 @@
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)|[🤗👍76](https://huggingface.co/papers/2607.06558) [αX↑26](https://alphaxiv.org/abs/2607.06558)|
 |**2026-07-07**|**OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics**|Humphrey Munn et.al.|[2607.06337v1](http://arxiv.org/abs/2607.06337v1)|[link](https://github.com/humphreymunn/orchardbench)|[αX↑1](https://alphaxiv.org/abs/2607.06337)|
 |**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165v1](http://arxiv.org/abs/2607.06165v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.06165)|
-|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018v1](http://arxiv.org/abs/2607.06018v1)|[link](https://github.com/hananshafi/RoboTALES)|[🤗👍5](https://huggingface.co/papers/2607.06018) [αX↑10](https://alphaxiv.org/abs/2607.06018)|
+|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018v1](http://arxiv.org/abs/2607.06018v1)|[link](https://github.com/hananshafi/RoboTALES)|[🤗👍5](https://huggingface.co/papers/2607.06018) [αX↑11](https://alphaxiv.org/abs/2607.06018)|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482v1](http://arxiv.org/abs/2607.05482v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.05482)|
 |**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463v1](http://arxiv.org/abs/2607.05463v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.05463)|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|[link](https://github.com/steinate/Cortex)|[αX↑21](https://alphaxiv.org/abs/2607.05377)|
-|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.04880)|
+|**2026-07-06**|**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**|Dogyu Ko et.al.|[2607.04880v1](http://arxiv.org/abs/2607.04880v1)|null|[αX↑17](https://alphaxiv.org/abs/2607.04880)|
 |**2026-07-06**|**Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity**|Che-Sang Park et.al.|[2607.04739v1](http://arxiv.org/abs/2607.04739v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.04739)|
 |**2026-07-04**|**OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies**|Kelin Yu et.al.|[2607.03723v1](http://arxiv.org/abs/2607.03723v1)|null|[🤗👍5](https://huggingface.co/papers/2607.03723) [αX↑13](https://alphaxiv.org/abs/2607.03723)|
 |**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961v1](http://arxiv.org/abs/2607.02961v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.02961)|
