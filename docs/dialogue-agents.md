@@ -4,12 +4,14 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.07.15
+### Updated on 2026.07.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.07824)|
-|**2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Mihnea C. Moldoveanu et.al.|[2607.07760v1](http://arxiv.org/abs/2607.07760v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.07760)|
+|**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439v1](http://arxiv.org/abs/2607.13439v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13439)|
+|**2026-07-15**|**Can We Steer the Black-Box? Towards Controllability-Centric Evaluation of Recommender Systems with Collaborative Agents**|Jiwen Zhou et.al.|[2607.13418v1](http://arxiv.org/abs/2607.13418v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13418)|
+|**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07824)|
+|**2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Mihnea C. Moldoveanu et.al.|[2607.07760v1](http://arxiv.org/abs/2607.07760v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.07760)|
 |**2026-07-02**|**BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2607.01600v1](http://arxiv.org/abs/2607.01600v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.01600)|
 |**2026-06-30**|**SLM, LLM or Agentic AI? Toward Intelligent UAV-Enabled WPT Systems in Low-Altitude Economy Networks**|Feibo Jiang et.al.|[2607.00255v1](http://arxiv.org/abs/2607.00255v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.00255)|
 |**2026-07-14**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946v2](http://arxiv.org/abs/2606.31946v2)|null|[αX↑8](https://alphaxiv.org/abs/2606.31946)|
