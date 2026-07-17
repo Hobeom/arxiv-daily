@@ -1,11 +1,22 @@
 ## Robot & Agent
 
-### Updated on 2026.07.16
+### Updated on 2026.07.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-15**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**|GigaWorld Team et.al.|[2607.13960v1](http://arxiv.org/abs/2607.13960v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13960)|
-|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653v1](http://arxiv.org/abs/2607.13653v1)|[link](https://github.com/InternRobotics/REAL)|[αX↑0](https://alphaxiv.org/abs/2607.13653)|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275v1](http://arxiv.org/abs/2607.15275v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.15275)|
+|**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218v1](http://arxiv.org/abs/2607.15218v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15218)|
+|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163v1](http://arxiv.org/abs/2607.15163v1)|[link](https://github.com/zengweishuai/ScaleBFM)|[αX↑1](https://alphaxiv.org/abs/2607.15163)|
+|**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065v1](http://arxiv.org/abs/2607.15065v1)|[link](https://github.com/Susie-Lu/driftworld)|[αX↑0](https://alphaxiv.org/abs/2607.15065)|
+|**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631v1](http://arxiv.org/abs/2607.14631v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14631)|
+|**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Huaigang Yang et.al.|[2607.14543v1](http://arxiv.org/abs/2607.14543v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14543)|
+|**2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Xiaoran Xu et.al.|[2607.14514v1](http://arxiv.org/abs/2607.14514v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14514)|
+|**2026-07-16**|**Active Real-World Factor-Based Evaluation for Generalist Robot Policies**|Andrew Liao et.al.|[2607.14439v1](http://arxiv.org/abs/2607.14439v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14439)|
+|**2026-07-15**|**ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation**|Nutan Chen et.al.|[2607.14424v1](http://arxiv.org/abs/2607.14424v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14424)|
+|**2026-07-15**|**An offline approach to fNIRS-guided reinforcement learning for robot behavior**|Julia Santaniello et.al.|[2607.14393v1](http://arxiv.org/abs/2607.14393v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14393)|
+|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v1](http://arxiv.org/abs/2607.14183v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14183)|
+|**2026-07-16**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**|GigaWorld Team et.al.|[2607.13960v2](http://arxiv.org/abs/2607.13960v2)|null|[🤗👍24](https://huggingface.co/papers/2607.13960) [αX↑15](https://alphaxiv.org/abs/2607.13960)|
+|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653v1](http://arxiv.org/abs/2607.13653v1)|[link](https://github.com/InternRobotics/REAL)|[αX↑7](https://alphaxiv.org/abs/2607.13653)|
 |**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621v1](http://arxiv.org/abs/2607.13621v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13621)|
 |**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595v1](http://arxiv.org/abs/2607.13595v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13595)|
 |**2026-07-15**|**Joint On-and-Off Policy Learning for Vision-and-Language Navigation**|Qingrong He et.al.|[2607.13461v1](http://arxiv.org/abs/2607.13461v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13461)|
@@ -15,8 +26,8 @@
 |**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894v1](http://arxiv.org/abs/2607.12894v1)|[link](https://github.com/Tencent-Hunyuan/HY-Embodied)|[αX↑14](https://alphaxiv.org/abs/2607.12894)|
 |**2026-07-14**|**UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies**|Lirui Zhao et.al.|[2607.12892v1](http://arxiv.org/abs/2607.12892v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.12892)|
 |**2026-07-14**|**Instance-Enriched Semantic Maps for Visual Language Navigation**|Jiho Hong et.al.|[2607.12630v1](http://arxiv.org/abs/2607.12630v1)|[link](https://github.com/devtechproject123-collab/iesm_vln)|[αX↑1](https://alphaxiv.org/abs/2607.12630)|
-|**2026-07-14**|**TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors**|Pinhan Fu et.al.|[2607.12571v1](http://arxiv.org/abs/2607.12571v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.12571)|
-|**2026-07-14**|**Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences**|Taehyung Kim et.al.|[2607.12466v1](http://arxiv.org/abs/2607.12466v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12466)|
+|**2026-07-14**|**TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors**|Pinhan Fu et.al.|[2607.12571v1](http://arxiv.org/abs/2607.12571v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12571)|
+|**2026-07-14**|**Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences**|Taehyung Kim et.al.|[2607.12466v1](http://arxiv.org/abs/2607.12466v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.12466)|
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689v1](http://arxiv.org/abs/2607.11689v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.11689)|
 |**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397v1](http://arxiv.org/abs/2607.11397v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.11397)|
 |**2026-07-13**|**A Glimpse into Long-term Physical Coexistence with Intelligent Robots**|Weiqi Jin et.al.|[2607.11377v1](http://arxiv.org/abs/2607.11377v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.11377)|

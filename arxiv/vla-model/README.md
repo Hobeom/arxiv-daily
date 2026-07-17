@@ -1,12 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.07.16
+### Updated on 2026.07.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926v1](http://arxiv.org/abs/2607.13926v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13926)|
-|**2026-07-15**|**Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning**|Xiaopeng Zhang et.al.|[2607.13818v1](http://arxiv.org/abs/2607.13818v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13818)|
-|**2026-07-15**|**Semantic Anchoring for Robotic Action Representations**|Yuan Xu et.al.|[2607.13597v1](http://arxiv.org/abs/2607.13597v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13597)|
+|**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004v1](http://arxiv.org/abs/2607.15004v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15004)|
+|**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852v1](http://arxiv.org/abs/2607.14852v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14852)|
+|**2026-07-16**|**FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models**|Wei Li et.al.|[2607.14739v1](http://arxiv.org/abs/2607.14739v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14739)|
+|**2026-07-16**|**Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color**|Marino Watanabe et.al.|[2607.14698v1](http://arxiv.org/abs/2607.14698v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14698)|
+|**2026-07-16**|**Reflex: Real-Time VLA Control through Streaming Inference**|Yuanchun Guo et.al.|[2607.14695v1](http://arxiv.org/abs/2607.14695v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14695)|
+|**2026-07-16**|**Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models**|Yufeng Ji et.al.|[2607.14635v1](http://arxiv.org/abs/2607.14635v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14635)|
+|**2026-07-15**|**DiMaS: Distribution Matching for Steering Vision-Language-Action Models**|Pegah Khayatan et.al.|[2607.14280v1](http://arxiv.org/abs/2607.14280v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14280)|
+|**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926v1](http://arxiv.org/abs/2607.13926v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13926)|
+|**2026-07-15**|**Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning**|Xiaopeng Zhang et.al.|[2607.13818v1](http://arxiv.org/abs/2607.13818v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13818)|
+|**2026-07-15**|**Semantic Anchoring for Robotic Action Representations**|Yuan Xu et.al.|[2607.13597v1](http://arxiv.org/abs/2607.13597v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.13597)|
 |**2026-07-14**|**ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning**|Zhao Yang et.al.|[2607.12992v1](http://arxiv.org/abs/2607.12992v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.12992)|
 |**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Yilun Kong et.al.|[2607.12931v1](http://arxiv.org/abs/2607.12931v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12931)|
 |**2026-07-14**|**Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference**|Zebin Yang et.al.|[2607.12659v1](http://arxiv.org/abs/2607.12659v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.12659)|
@@ -21,7 +28,7 @@
 |**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590v1](http://arxiv.org/abs/2607.09590v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.09590)|
 |**2026-07-10**|**Can the Cloud Drive? Infrastructure Feasibility of Offloading Autonomous Driving Across 5G and 6G**|Pouya Parsa et.al.|[2607.09045v1](http://arxiv.org/abs/2607.09045v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.09045)|
 |**2026-07-10**|**Learning More from Less: Reinforcement Learning from Hindsight**|Iris Xu et.al.|[2607.09042v1](http://arxiv.org/abs/2607.09042v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.09042)|
-|**2026-07-09**|**CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding**|Yuri Ishitoya et.al.|[2607.08974v1](http://arxiv.org/abs/2607.08974v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.08974)|
+|**2026-07-09**|**CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding**|Yuri Ishitoya et.al.|[2607.08974v1](http://arxiv.org/abs/2607.08974v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.08974)|
 |**2026-07-09**|**Prompt-Driven Exploration**|Sunshine Jiang et.al.|[2607.08837v1](http://arxiv.org/abs/2607.08837v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.08837)|
 |**2026-07-10**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575v2](http://arxiv.org/abs/2607.08575v2)|null|[αX↑10](https://alphaxiv.org/abs/2607.08575)|
 |**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Yixian Zhang et.al.|[2607.08448v1](http://arxiv.org/abs/2607.08448v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.08448)|

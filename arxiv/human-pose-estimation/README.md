@@ -1,9 +1,11 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.16
+### Updated on 2026.07.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14539)|
+|**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑0](https://alphaxiv.org/abs/2607.14341)|
 |**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14009)|
 |**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13698)|
 |**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13449)|

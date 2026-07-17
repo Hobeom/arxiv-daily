@@ -4,7 +4,7 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.07.16
+### Updated on 2026.07.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -13,8 +13,8 @@ layout: default
 |**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi et.al.|[2607.10991v1](http://arxiv.org/abs/2607.10991v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.10991)|
 |**2026-07-12**|**MafiaScope: Non-Invasive, Time-Resolved Belief Probing for LLM Agents in Social Deduction Games**|Ilia Karpov et.al.|[2607.10645v1](http://arxiv.org/abs/2607.10645v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.10645)|
 |**2026-07-11**|**One mechanism for many mental spaces: a shared router over a value slot in language models**|Oliver Steele et.al.|[2607.10248v1](http://arxiv.org/abs/2607.10248v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10248)|
-|**2026-07-08**|**Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors**|Oliver Makins et.al.|[2607.07368v1](http://arxiv.org/abs/2607.07368v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.07368)|
-|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Alexey Gavryushin et.al.|[2607.06691v1](http://arxiv.org/abs/2607.06691v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.06691)|
+|**2026-07-08**|**Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors**|Oliver Makins et.al.|[2607.07368v1](http://arxiv.org/abs/2607.07368v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.07368)|
+|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Alexey Gavryushin et.al.|[2607.06691v1](http://arxiv.org/abs/2607.06691v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.06691)|
 |**2026-07-06**|**Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding**|Xuewen Luo et.al.|[2607.04670v1](http://arxiv.org/abs/2607.04670v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04670)|
 |**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006v1](http://arxiv.org/abs/2607.01006v1)|[link](https://github.com/X-PLUG/mPLUG-DocOwl)|[αX↑10](https://alphaxiv.org/abs/2607.01006)|
 |**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916v1](http://arxiv.org/abs/2606.31916v1)|null|[αX↑5](https://alphaxiv.org/abs/2606.31916)|
