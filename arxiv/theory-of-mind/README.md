@@ -1,14 +1,14 @@
 ## Theory of Mind
 
-### Updated on 2026.07.17
+### Updated on 2026.07.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-07-11**|**Belief-reality separation lives in routing over a shared value slot in language models**|Oliver Steele et.al.|[2607.11945v1](http://arxiv.org/abs/2607.11945v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.11945)|
 |**2026-07-13**|**Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points**|Roberta Rocca et.al.|[2607.11363v1](http://arxiv.org/abs/2607.11363v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.11363)|
-|**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi et.al.|[2607.10991v1](http://arxiv.org/abs/2607.10991v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.10991)|
+|**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi et.al.|[2607.10991v1](http://arxiv.org/abs/2607.10991v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.10991)|
 |**2026-07-12**|**MafiaScope: Non-Invasive, Time-Resolved Belief Probing for LLM Agents in Social Deduction Games**|Ilia Karpov et.al.|[2607.10645v1](http://arxiv.org/abs/2607.10645v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.10645)|
-|**2026-07-11**|**One mechanism for many mental spaces: a shared router over a value slot in language models**|Oliver Steele et.al.|[2607.10248v1](http://arxiv.org/abs/2607.10248v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10248)|
+|**2026-07-11**|**One mechanism for many mental spaces: a shared router over a value slot in language models**|Oliver Steele et.al.|[2607.10248v1](http://arxiv.org/abs/2607.10248v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.10248)|
 |**2026-07-08**|**Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors**|Oliver Makins et.al.|[2607.07368v1](http://arxiv.org/abs/2607.07368v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.07368)|
 |**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Alexey Gavryushin et.al.|[2607.06691v1](http://arxiv.org/abs/2607.06691v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.06691)|
 |**2026-07-06**|**Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding**|Xuewen Luo et.al.|[2607.04670v1](http://arxiv.org/abs/2607.04670v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.04670)|

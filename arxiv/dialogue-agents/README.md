@@ -1,6 +1,6 @@
 ## Dialogue Agents
 
-### Updated on 2026.07.17
+### Updated on 2026.07.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
