@@ -1,20 +1,20 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.18
+### Updated on 2026.07.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14539)|
-|**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑0](https://alphaxiv.org/abs/2607.14341)|
-|**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.14009)|
-|**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13698)|
-|**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13449)|
-|**2026-07-14**|**ANGLE: Angular Neural Generative Learning via Engression**|Rajdeep Pathak et.al.|[2607.12833v1](http://arxiv.org/abs/2607.12833v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.12833)|
+|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14539)|
+|**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑2](https://alphaxiv.org/abs/2607.14341)|
+|**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14009)|
+|**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13698)|
+|**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13449)|
+|**2026-07-14**|**ANGLE: Angular Neural Generative Learning via Engression**|Rajdeep Pathak et.al.|[2607.12833v1](http://arxiv.org/abs/2607.12833v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12833)|
 |**2026-07-14**|**Streamlining stereo differentiable rendering for marker-free real-time tracking of surgical robots**|Yanghe Hao et.al.|[2607.12604v1](http://arxiv.org/abs/2607.12604v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.12604)|
 |**2026-07-14**|**More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization**|Mao Chen et.al.|[2607.12429v1](http://arxiv.org/abs/2607.12429v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12429)|
-|**2026-07-14**|**Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction**|Yameng Zhang et.al.|[2607.12398v1](http://arxiv.org/abs/2607.12398v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.12398)|
-|**2026-07-14**|**DiffRadar: Differentiable Physics-Aware Radar SLAM with Gaussian Fields**|Gaurav Bagwe et.al.|[2607.12265v1](http://arxiv.org/abs/2607.12265v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.12265)|
-|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099v1](http://arxiv.org/abs/2607.11099v1)|[link](https://github.com/ouotingwei/DescPP)|[αX↑3](https://alphaxiv.org/abs/2607.11099)|
+|**2026-07-14**|**Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction**|Yameng Zhang et.al.|[2607.12398v1](http://arxiv.org/abs/2607.12398v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.12398)|
+|**2026-07-14**|**DiffRadar: Differentiable Physics-Aware Radar SLAM with Gaussian Fields**|Gaurav Bagwe et.al.|[2607.12265v1](http://arxiv.org/abs/2607.12265v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.12265)|
+|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099v1](http://arxiv.org/abs/2607.11099v1)|[link](https://github.com/ouotingwei/DescPP)|[αX↑4](https://alphaxiv.org/abs/2607.11099)|
 |**2026-07-13**|**WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation**|Doeon Kim et.al.|[2607.11064v1](http://arxiv.org/abs/2607.11064v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.11064)|
 |**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840v1](http://arxiv.org/abs/2607.10840v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.10840)|
 |**2026-07-12**|**TriCons-Pose: Triangle-Invariant Geometric Consistency Learning for Category-Level Object Pose Estimation**|Zuzhi Yang et.al.|[2607.10754v1](http://arxiv.org/abs/2607.10754v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.10754)|

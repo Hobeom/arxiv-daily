@@ -1,11 +1,11 @@
 ## Dialogue Agents
 
-### Updated on 2026.07.18
+### Updated on 2026.07.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439v1](http://arxiv.org/abs/2607.13439v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13439)|
-|**2026-07-16**|**Can We Steer the Black-Box? Towards Controllability-Centric Evaluation of Recommender Systems with Collaborative Agents**|Jiwen Zhou et.al.|[2607.13418v2](http://arxiv.org/abs/2607.13418v2)|null|[αX↑1](https://alphaxiv.org/abs/2607.13418)|
+|**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439v1](http://arxiv.org/abs/2607.13439v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.13439)|
+|**2026-07-16**|**Can We Steer the Black-Box? Towards Controllability-Centric Evaluation of Recommender Systems with Collaborative Agents**|Jiwen Zhou et.al.|[2607.13418v2](http://arxiv.org/abs/2607.13418v2)|null|[αX↑5](https://alphaxiv.org/abs/2607.13418)|
 |**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07824)|
 |**2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Mihnea C. Moldoveanu et.al.|[2607.07760v1](http://arxiv.org/abs/2607.07760v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.07760)|
 |**2026-07-02**|**BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2607.01600v1](http://arxiv.org/abs/2607.01600v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.01600)|
