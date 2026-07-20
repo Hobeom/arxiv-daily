@@ -4,10 +4,14 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.19
+### Updated on 2026.07.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-17**|**JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models**|Haoran Sun et.al.|[2607.16074v1](http://arxiv.org/abs/2607.16074v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16074)|
+|**2026-07-17**|**AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning**|Xiaojiang Peng et.al.|[2607.15714v1](http://arxiv.org/abs/2607.15714v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15714)|
+|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641v1](http://arxiv.org/abs/2607.15641v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15641)|
+|**2026-07-16**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**|Xiaomi Robotics Team et.al.|[2607.15330v1](http://arxiv.org/abs/2607.15330v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15330)|
 |**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004v1](http://arxiv.org/abs/2607.15004v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15004)|
 |**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852v1](http://arxiv.org/abs/2607.14852v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.14852)|
 |**2026-07-16**|**FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models**|Wei Li et.al.|[2607.14739v1](http://arxiv.org/abs/2607.14739v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.14739)|

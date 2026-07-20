@@ -1,9 +1,15 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.19
+### Updated on 2026.07.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16128)|
+|**2026-07-17**|**BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference**|Aditya Kamireddypalli et.al.|[2607.16123v1](http://arxiv.org/abs/2607.16123v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16123)|
+|**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16015)|
+|**2026-07-17**|**Deployment-Ready UWB Localization for Industrial Ground Robots with Automatic Anchor Calibration and Terrain-Aware Fusion**|Alexander Raab et.al.|[2607.15807v1](http://arxiv.org/abs/2607.15807v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15807)|
+|**2026-07-17**|**Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations**|Shiyuan Yang et.al.|[2607.15708v1](http://arxiv.org/abs/2607.15708v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15708)|
+|**2026-07-16**|**Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction**|Tasmiah Haque et.al.|[2607.15400v1](http://arxiv.org/abs/2607.15400v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15400)|
 |**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14539)|
 |**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑2](https://alphaxiv.org/abs/2607.14341)|
 |**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14009)|

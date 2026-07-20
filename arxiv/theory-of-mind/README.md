@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.07.19
+### Updated on 2026.07.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-17**|**TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension**|Leopoldo Todisco et.al.|[2607.15948v1](http://arxiv.org/abs/2607.15948v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15948)|
 |**2026-07-11**|**Belief-reality separation lives in routing over a shared value slot in language models**|Oliver Steele et.al.|[2607.11945v1](http://arxiv.org/abs/2607.11945v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.11945)|
 |**2026-07-13**|**Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points**|Roberta Rocca et.al.|[2607.11363v1](http://arxiv.org/abs/2607.11363v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.11363)|
 |**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi et.al.|[2607.10991v1](http://arxiv.org/abs/2607.10991v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.10991)|
