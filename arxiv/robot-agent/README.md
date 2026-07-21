@@ -1,13 +1,20 @@
 ## Robot & Agent
 
-### Updated on 2026.07.20
+### Updated on 2026.07.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Ruogu Li et.al.|[2607.16187v1](http://arxiv.org/abs/2607.16187v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16187)|
-|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641v1](http://arxiv.org/abs/2607.15641v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15641)|
-|**2026-07-16**|**Risk-Aware Preference Learning for Stochastic Outcomes**|Yi-Shiuan Tung et.al.|[2607.15483v1](http://arxiv.org/abs/2607.15483v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15483)|
-|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275v1](http://arxiv.org/abs/2607.15275v1)|null|[🤗👍19](https://huggingface.co/papers/2607.15275) [αX↑50](https://alphaxiv.org/abs/2607.15275)|
+|**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236v1](http://arxiv.org/abs/2607.18236v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.18236)|
+|**2026-07-20**|**World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation**|Xinchen Yao et.al.|[2607.18154v1](http://arxiv.org/abs/2607.18154v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18154)|
+|**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060v1](http://arxiv.org/abs/2607.18060v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18060)|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806v1](http://arxiv.org/abs/2607.17806v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17806)|
+|**2026-07-18**|**User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method**|Zi-Qi Yang et.al.|[2607.16998v1](http://arxiv.org/abs/2607.16998v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16998)|
+|**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896v1](http://arxiv.org/abs/2607.16896v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16896)|
+|**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636v1](http://arxiv.org/abs/2607.16636v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16636)|
+|**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Ruogu Li et.al.|[2607.16187v1](http://arxiv.org/abs/2607.16187v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.16187)|
+|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641v1](http://arxiv.org/abs/2607.15641v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.15641)|
+|**2026-07-16**|**Risk-Aware Preference Learning for Stochastic Outcomes**|Yi-Shiuan Tung et.al.|[2607.15483v1](http://arxiv.org/abs/2607.15483v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.15483)|
+|**2026-07-16**|**RoboTTT: Context Scaling for Robot Policies**|Yunfan Jiang et.al.|[2607.15275v1](http://arxiv.org/abs/2607.15275v1)|null|[🤗👍20](https://huggingface.co/papers/2607.15275) [αX↑50](https://alphaxiv.org/abs/2607.15275)|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218v1](http://arxiv.org/abs/2607.15218v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15218)|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163v1](http://arxiv.org/abs/2607.15163v1)|[link](https://github.com/zengweishuai/ScaleBFM)|[αX↑30](https://alphaxiv.org/abs/2607.15163)|
 |**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065v1](http://arxiv.org/abs/2607.15065v1)|[link](https://github.com/Susie-Lu/driftworld)|[αX↑23](https://alphaxiv.org/abs/2607.15065)|
@@ -18,7 +25,7 @@
 |**2026-07-15**|**ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation**|Nutan Chen et.al.|[2607.14424v1](http://arxiv.org/abs/2607.14424v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.14424)|
 |**2026-07-15**|**An offline approach to fNIRS-guided reinforcement learning for robot behavior**|Julia Santaniello et.al.|[2607.14393v1](http://arxiv.org/abs/2607.14393v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14393)|
 |**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v1](http://arxiv.org/abs/2607.14183v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
-|**2026-07-17**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**|GigaWorld Team et.al.|[2607.13960v3](http://arxiv.org/abs/2607.13960v3)|null|[🤗👍27](https://huggingface.co/papers/2607.13960) [αX↑44](https://alphaxiv.org/abs/2607.13960)|
+|**2026-07-17**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**|GigaWorld Team et.al.|[2607.13960v3](http://arxiv.org/abs/2607.13960v3)|null|[🤗👍28](https://huggingface.co/papers/2607.13960) [αX↑44](https://alphaxiv.org/abs/2607.13960)|
 |**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653v1](http://arxiv.org/abs/2607.13653v1)|[link](https://github.com/InternRobotics/REAL)|[αX↑12](https://alphaxiv.org/abs/2607.13653)|
 |**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621v1](http://arxiv.org/abs/2607.13621v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13621)|
 |**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595v1](http://arxiv.org/abs/2607.13595v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13595)|

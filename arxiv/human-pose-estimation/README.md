@@ -1,12 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.20
+### Updated on 2026.07.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16128)|
+|**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18197)|
+|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17950)|
+|**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17332)|
+|**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|[link](https://github.com/KAIST-VCLAB/gs-extreme-motion-blur)|[αX↑0](https://alphaxiv.org/abs/2607.16926)|
+|**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16897)|
+|**2026-07-18**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862v1](http://arxiv.org/abs/2607.16862v1)|[link](https://github.com/LTU-RAI/InLiER)|[αX↑0](https://alphaxiv.org/abs/2607.16862)|
+|**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et.al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16834)|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16128)|
 |**2026-07-17**|**BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference**|Aditya Kamireddypalli et.al.|[2607.16123v1](http://arxiv.org/abs/2607.16123v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16123)|
-|**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16015)|
+|**2026-07-20**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v2](http://arxiv.org/abs/2607.16015v2)|null|[αX↑0](https://alphaxiv.org/abs/2607.16015)|
 |**2026-07-17**|**Deployment-Ready UWB Localization for Industrial Ground Robots with Automatic Anchor Calibration and Terrain-Aware Fusion**|Alexander Raab et.al.|[2607.15807v1](http://arxiv.org/abs/2607.15807v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15807)|
 |**2026-07-17**|**Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations**|Shiyuan Yang et.al.|[2607.15708v1](http://arxiv.org/abs/2607.15708v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15708)|
 |**2026-07-16**|**Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction**|Tasmiah Haque et.al.|[2607.15400v1](http://arxiv.org/abs/2607.15400v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15400)|

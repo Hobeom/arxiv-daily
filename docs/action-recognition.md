@@ -4,12 +4,14 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.07.20
+### Updated on 2026.07.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-17**|**Per-Stroke Temporal Control for Text-to-Motion via Action Units and Action-Detection Guidance**|Euijun Jung et.al.|[2607.15717v1](http://arxiv.org/abs/2607.15717v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15717)|
-|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v1](http://arxiv.org/abs/2607.14183v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
+|**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18088)|
+|**2026-07-10**|**MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**|Kun Li et.al.|[2607.16284v1](http://arxiv.org/abs/2607.16284v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16284)|
+|**2026-07-17**|**Per-Stroke Temporal Control for Text-to-Motion via Action Units and Action-Detection Guidance**|Euijun Jung et.al.|[2607.15717v1](http://arxiv.org/abs/2607.15717v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15717)|
+|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v2](http://arxiv.org/abs/2607.14183v2)|null|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
 |**2026-07-14**|**Classifying daily activities needs posture, reconstructing them needs motion**|Arefeh Farahmandi et.al.|[2607.13216v1](http://arxiv.org/abs/2607.13216v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13216)|
 |**2026-07-13**|**LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments**|Divya Mereddy et.al.|[2607.11839v1](http://arxiv.org/abs/2607.11839v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.11839)|
 |**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v1](http://arxiv.org/abs/2607.11427v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.11427)|
