@@ -1,18 +1,19 @@
 ## Action Recognition
 
-### Updated on 2026.07.21
+### Updated on 2026.07.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18088)|
+|**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737v1](http://arxiv.org/abs/2607.18737v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18737)|
+|**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.18088)|
 |**2026-07-10**|**MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**|Kun Li et.al.|[2607.16284v1](http://arxiv.org/abs/2607.16284v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16284)|
-|**2026-07-17**|**Per-Stroke Temporal Control for Text-to-Motion via Action Units and Action-Detection Guidance**|Euijun Jung et.al.|[2607.15717v1](http://arxiv.org/abs/2607.15717v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15717)|
-|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v2](http://arxiv.org/abs/2607.14183v2)|null|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
-|**2026-07-14**|**Classifying daily activities needs posture, reconstructing them needs motion**|Arefeh Farahmandi et.al.|[2607.13216v1](http://arxiv.org/abs/2607.13216v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13216)|
-|**2026-07-13**|**LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments**|Divya Mereddy et.al.|[2607.11839v1](http://arxiv.org/abs/2607.11839v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.11839)|
-|**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v1](http://arxiv.org/abs/2607.11427v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.11427)|
+|**2026-07-17**|**Per-Stroke Temporal Control for Text-to-Motion via Action Units and Action-Detection Guidance**|Euijun Jung et.al.|[2607.15717v1](http://arxiv.org/abs/2607.15717v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.15717)|
+|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v2](http://arxiv.org/abs/2607.14183v2)|[link](https://github.com/ant-research/Open-AoE)|[🤗👍61](https://huggingface.co/papers/2607.14183) [αX↑25](https://alphaxiv.org/abs/2607.14183)|
+|**2026-07-14**|**Classifying daily activities needs posture, reconstructing them needs motion**|Arefeh Farahmandi et.al.|[2607.13216v1](http://arxiv.org/abs/2607.13216v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.13216)|
+|**2026-07-13**|**LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments**|Divya Mereddy et.al.|[2607.11839v1](http://arxiv.org/abs/2607.11839v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.11839)|
+|**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v1](http://arxiv.org/abs/2607.11427v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.11427)|
 |**2026-07-13**|**Temporal Feature Distillation for Label-Efficient Precise Event Spotting in Sports Videos**|Hao Xu et.al.|[2607.10998v1](http://arxiv.org/abs/2607.10998v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.10998)|
-|**2026-07-12**|**Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos**|Hao Zheng et.al.|[2607.10797v1](http://arxiv.org/abs/2607.10797v1)|[link](https://github.com/CCFT-WACV/CCFT)|[αX↑3](https://alphaxiv.org/abs/2607.10797)|
+|**2026-07-12**|**Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos**|Hao Zheng et.al.|[2607.10797v1](http://arxiv.org/abs/2607.10797v1)|[link](https://github.com/CCFT-WACV/CCFT)|[αX↑4](https://alphaxiv.org/abs/2607.10797)|
 |**2026-07-10**|**Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation**|Artheme Gauthier-Villar et.al.|[2607.09081v1](http://arxiv.org/abs/2607.09081v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.09081)|
 |**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Masatoshi Tateno et.al.|[2607.08514v1](http://arxiv.org/abs/2607.08514v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.08514)|
 |**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843v1](http://arxiv.org/abs/2607.06843v1)|[link](https://github.com/sinc865/WINRO)|[αX↑4](https://alphaxiv.org/abs/2607.06843)|

@@ -4,25 +4,27 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.21
+### Updated on 2026.07.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.19228)|
+|**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18875)|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18197)|
-|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17950)|
+|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.17950)|
 |**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17332)|
-|**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|[link](https://github.com/KAIST-VCLAB/gs-extreme-motion-blur)|[αX↑0](https://alphaxiv.org/abs/2607.16926)|
-|**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16897)|
+|**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|[link](https://github.com/KAIST-VCLAB/gs-extreme-motion-blur)|[αX↑2](https://alphaxiv.org/abs/2607.16926)|
+|**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.16897)|
 |**2026-07-18**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862v1](http://arxiv.org/abs/2607.16862v1)|[link](https://github.com/LTU-RAI/InLiER)|[αX↑0](https://alphaxiv.org/abs/2607.16862)|
 |**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et.al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16834)|
-|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16128)|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.16128)|
 |**2026-07-17**|**BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference**|Aditya Kamireddypalli et.al.|[2607.16123v1](http://arxiv.org/abs/2607.16123v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.16123)|
 |**2026-07-20**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v2](http://arxiv.org/abs/2607.16015v2)|null|[αX↑0](https://alphaxiv.org/abs/2607.16015)|
 |**2026-07-17**|**Deployment-Ready UWB Localization for Industrial Ground Robots with Automatic Anchor Calibration and Terrain-Aware Fusion**|Alexander Raab et.al.|[2607.15807v1](http://arxiv.org/abs/2607.15807v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15807)|
 |**2026-07-17**|**Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations**|Shiyuan Yang et.al.|[2607.15708v1](http://arxiv.org/abs/2607.15708v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15708)|
 |**2026-07-16**|**Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction**|Tasmiah Haque et.al.|[2607.15400v1](http://arxiv.org/abs/2607.15400v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.15400)|
 |**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.14539)|
-|**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑3](https://alphaxiv.org/abs/2607.14341)|
+|**2026-07-15**|**Beyond Visual Grasping: Benchmarking Complex Grasping from Detection to Execution**|Hanyi Zhang et.al.|[2607.14341v1](http://arxiv.org/abs/2607.14341v1)|[link](https://github.com/airvlab/GCA-Bench)|[αX↑6](https://alphaxiv.org/abs/2607.14341)|
 |**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14009)|
 |**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.13698)|
 |**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.13449)|
@@ -50,7 +52,7 @@ layout: default
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07168)|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06856)|
 |**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06782)|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍46](https://huggingface.co/papers/2607.06560) [αX↑90](https://alphaxiv.org/abs/2607.06560)|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍47](https://huggingface.co/papers/2607.06560) [αX↑93](https://alphaxiv.org/abs/2607.06560)|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06555)|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
 |**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑1](https://alphaxiv.org/abs/2607.05663)|
