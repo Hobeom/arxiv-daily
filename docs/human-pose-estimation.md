@@ -4,14 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.07.22
+### Updated on 2026.07.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.19228)|
-|**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18875)|
+|**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438v1](http://arxiv.org/abs/2607.21438v1)|[link](https://github.com/ThisIsLT/DAPM)|[αX↑0](https://alphaxiv.org/abs/2607.21438)|
+|**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309v1](http://arxiv.org/abs/2607.21309v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.21309)|
+|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138v1](http://arxiv.org/abs/2607.21138v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.21138)|
+|**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Ke Ma et.al.|[2607.21071v1](http://arxiv.org/abs/2607.21071v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.21071)|
+|**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023v1](http://arxiv.org/abs/2607.21023v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.21023)|
+|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116v1](http://arxiv.org/abs/2607.20116v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.20116)|
+|**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.19228)|
+|**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.18875)|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18197)|
-|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.17950)|
+|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.17950)|
 |**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17332)|
 |**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|[link](https://github.com/KAIST-VCLAB/gs-extreme-motion-blur)|[αX↑2](https://alphaxiv.org/abs/2607.16926)|
 |**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.16897)|
