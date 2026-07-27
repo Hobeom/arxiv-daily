@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.26
+### Updated on 2026.07.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -33,7 +33,7 @@ layout: default
 |**2026-07-16**|**Active Real-World Factor-Based Evaluation for Generalist Robot Policies**|Andrew Liao et.al.|[2607.14439v1](http://arxiv.org/abs/2607.14439v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.14439)|
 |**2026-07-15**|**ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation**|Nutan Chen et.al.|[2607.14424v1](http://arxiv.org/abs/2607.14424v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.14424)|
 |**2026-07-15**|**An offline approach to fNIRS-guided reinforcement learning for robot behavior**|Julia Santaniello et.al.|[2607.14393v1](http://arxiv.org/abs/2607.14393v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.14393)|
-|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v1](http://arxiv.org/abs/2607.14183v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
+|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v1](http://arxiv.org/abs/2607.14183v1)|[link](https://github.com/ant-research/Open-AoE)|[αX↑15](https://alphaxiv.org/abs/2607.14183)|
 |**2026-07-17**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**|GigaWorld Team et.al.|[2607.13960v3](http://arxiv.org/abs/2607.13960v3)|[link](https://github.com/open-gigaai/giga-world-policy)|[🤗👍28](https://huggingface.co/papers/2607.13960) [αX↑66](https://alphaxiv.org/abs/2607.13960)|
 |**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653v1](http://arxiv.org/abs/2607.13653v1)|[link](https://github.com/InternRobotics/REAL)|[αX↑12](https://alphaxiv.org/abs/2607.13653)|
 |**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621v1](http://arxiv.org/abs/2607.13621v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.13621)|
