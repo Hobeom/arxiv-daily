@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-23**|**FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents**|Weihao Li et.al.|[2607.21361v1](http://arxiv.org/abs/2607.21361v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.21361)|
+|**2026-07-23**|**FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents**|Weihao Li et.al.|[2607.21361v1](http://arxiv.org/abs/2607.21361v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.21361)|
 |**2026-07-22**|**LLMs Get Lost in Evolving User Intent**|Jihoon Tack et.al.|[2607.20734v1](http://arxiv.org/abs/2607.20734v1)|[link](https://github.com/microsoft/evolving-intent)|[🤗👍22](https://huggingface.co/papers/2607.20734) [αX↑10](https://alphaxiv.org/abs/2607.20734)|
 |**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036v1](http://arxiv.org/abs/2607.19036v1)|[link](https://github.com/Megalo-f/CoGoal3D)|[αX↑2](https://alphaxiv.org/abs/2607.19036)|
 |**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439v1](http://arxiv.org/abs/2607.13439v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.13439)|

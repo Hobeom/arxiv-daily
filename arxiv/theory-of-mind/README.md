@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2026-07-24**|**Gaze-Anchored Social Net: Decoding Implicit Relations via Joint Modeling**|Yuqi Hou et.al.|[2607.22847v1](http://arxiv.org/abs/2607.22847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22847)|
 |**2026-07-24**|**From Isolated Tasks to Structured Capabilities: A Multilayer Taxonomy for Large Language Models**|Shixin Fang et.al.|[2607.22182v1](http://arxiv.org/abs/2607.22182v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22182)|
-|**2026-07-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Xinyu Zhang et.al.|[2607.19850v1](http://arxiv.org/abs/2607.19850v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.19850)|
+|**2026-07-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Xinyu Zhang et.al.|[2607.19850v1](http://arxiv.org/abs/2607.19850v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.19850)|
 |**2026-07-21**|**MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings**|Ziyi Wang et.al.|[2607.19235v1](http://arxiv.org/abs/2607.19235v1)|[link](https://github.com/oliviaziyi/MeetingToM)|[αX↑3](https://alphaxiv.org/abs/2607.19235)|
 |**2026-07-18**|**G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation**|Yuwen Liao et.al.|[2607.16956v1](http://arxiv.org/abs/2607.16956v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16956)|
 |**2026-07-17**|**TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension**|Leopoldo Todisco et.al.|[2607.15948v1](http://arxiv.org/abs/2607.15948v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15948)|

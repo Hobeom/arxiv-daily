@@ -8,6 +8,11 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[αX↑1](https://alphaxiv.org/abs/2607.24744)|
+|**2026-07-27**|**PAC-DP: PAC-Bayesian Diffusion Policy Learning**|Mohammad Hasan Yeganegi et.al.|[2607.24296v1](http://arxiv.org/abs/2607.24296v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.24296)|
+|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.24159)|
+|**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909v1](http://arxiv.org/abs/2607.23909v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.23909)|
+|**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑0](https://alphaxiv.org/abs/2607.23784)|
 |**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704v1](http://arxiv.org/abs/2607.23704v1)|[link](https://github.com/Su-ISE-2001/SciRobo)|[αX↑0](https://alphaxiv.org/abs/2607.23704)|
 |**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.23473)|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999v1](http://arxiv.org/abs/2607.22999v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22999)|
@@ -16,14 +21,14 @@ layout: default
 |**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434v1](http://arxiv.org/abs/2607.22434v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22434)|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014v1](http://arxiv.org/abs/2607.22014v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22014)|
 |**2026-07-22**|**Progress Reward Modeling for Robotic Learning: A Comprehensive Survey**|Jianshu Zhang et.al.|[2607.21655v1](http://arxiv.org/abs/2607.21655v1)|[link](https://github.com/sterzhang/Awesome-Progress-Models)|[αX↑6](https://alphaxiv.org/abs/2607.21655)|
-|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588v1](http://arxiv.org/abs/2607.21588v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.21588)|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588v1](http://arxiv.org/abs/2607.21588v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.21588)|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400v1](http://arxiv.org/abs/2607.21400v1)|[link](https://github.com/Admire-ljb/VoLN-UAV)|[αX↑4](https://alphaxiv.org/abs/2607.21400)|
-|**2026-07-24**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771v2](http://arxiv.org/abs/2607.20771v2)|null|[αX↑4](https://alphaxiv.org/abs/2607.20771)|
+|**2026-07-24**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771v2](http://arxiv.org/abs/2607.20771v2)|null|[αX↑5](https://alphaxiv.org/abs/2607.20771)|
 |**2026-07-22**|**Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments**|Md Ridwan Hossain Talukder et.al.|[2607.20289v1](http://arxiv.org/abs/2607.20289v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.20289)|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985v1](http://arxiv.org/abs/2607.18985v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.18985)|
-|**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236v1](http://arxiv.org/abs/2607.18236v1)|null|[αX↑49](https://alphaxiv.org/abs/2607.18236)|
+|**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236v1](http://arxiv.org/abs/2607.18236v1)|null|[αX↑56](https://alphaxiv.org/abs/2607.18236)|
 |**2026-07-20**|**World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation**|Xinchen Yao et.al.|[2607.18154v1](http://arxiv.org/abs/2607.18154v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.18154)|
-|**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060v1](http://arxiv.org/abs/2607.18060v1)|null|[αX↑17](https://alphaxiv.org/abs/2607.18060)|
+|**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060v1](http://arxiv.org/abs/2607.18060v1)|null|[αX↑18](https://alphaxiv.org/abs/2607.18060)|
 |**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806v1](http://arxiv.org/abs/2607.17806v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.17806)|
 |**2026-07-18**|**User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method**|Zi-Qi Yang et.al.|[2607.16998v1](http://arxiv.org/abs/2607.16998v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16998)|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896v1](http://arxiv.org/abs/2607.16896v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16896)|
