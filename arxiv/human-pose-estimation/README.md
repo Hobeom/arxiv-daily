@@ -1,9 +1,11 @@
 ## Human Pose Estimation
 
-### Updated on 2026.07.27
+### Updated on 2026.07.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468v1](http://arxiv.org/abs/2607.23468v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.23468)|
+|**2026-07-25**|**Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration**|Minheng Chen et.al.|[2607.23343v1](http://arxiv.org/abs/2607.23343v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.23343)|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147v1](http://arxiv.org/abs/2607.22147v1)|[link](https://github.com/DLR-RM/multimodal-gsplat-relocalization)|[αX↑2](https://alphaxiv.org/abs/2607.22147)|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123v1](http://arxiv.org/abs/2607.22123v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22123)|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438v1](http://arxiv.org/abs/2607.21438v1)|[link](https://github.com/ThisIsLT/DAPM)|[αX↑7](https://alphaxiv.org/abs/2607.21438)|

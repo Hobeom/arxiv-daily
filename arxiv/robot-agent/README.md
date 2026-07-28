@@ -1,16 +1,20 @@
 ## Robot & Agent
 
-### Updated on 2026.07.27
+### Updated on 2026.07.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704v1](http://arxiv.org/abs/2607.23704v1)|[link](https://github.com/Su-ISE-2001/SciRobo)|[αX↑0](https://alphaxiv.org/abs/2607.23704)|
+|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.23473)|
+|**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999v1](http://arxiv.org/abs/2607.22999v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22999)|
+|**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997v1](http://arxiv.org/abs/2607.22997v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22997)|
 |**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530v1](http://arxiv.org/abs/2607.22530v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.22530)|
 |**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434v1](http://arxiv.org/abs/2607.22434v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22434)|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014v1](http://arxiv.org/abs/2607.22014v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22014)|
 |**2026-07-22**|**Progress Reward Modeling for Robotic Learning: A Comprehensive Survey**|Jianshu Zhang et.al.|[2607.21655v1](http://arxiv.org/abs/2607.21655v1)|[link](https://github.com/sterzhang/Awesome-Progress-Models)|[αX↑6](https://alphaxiv.org/abs/2607.21655)|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588v1](http://arxiv.org/abs/2607.21588v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.21588)|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400v1](http://arxiv.org/abs/2607.21400v1)|[link](https://github.com/Admire-ljb/VoLN-UAV)|[αX↑4](https://alphaxiv.org/abs/2607.21400)|
-|**2026-07-22**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771v1](http://arxiv.org/abs/2607.20771v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.20771)|
+|**2026-07-24**|**Emergent Compositional Skills in Mixture-of-Experts VLAs**|Shlok Shah et.al.|[2607.20771v2](http://arxiv.org/abs/2607.20771v2)|null|[αX↑4](https://alphaxiv.org/abs/2607.20771)|
 |**2026-07-22**|**Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments**|Md Ridwan Hossain Talukder et.al.|[2607.20289v1](http://arxiv.org/abs/2607.20289v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.20289)|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985v1](http://arxiv.org/abs/2607.18985v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.18985)|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236v1](http://arxiv.org/abs/2607.18236v1)|null|[αX↑49](https://alphaxiv.org/abs/2607.18236)|

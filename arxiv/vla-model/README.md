@@ -1,9 +1,10 @@
 ## Vision Language Action Model
 
-### Updated on 2026.07.27
+### Updated on 2026.07.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997v1](http://arxiv.org/abs/2607.22997v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22997)|
 |**2026-07-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Quanfu Yu et.al.|[2607.20988v1](http://arxiv.org/abs/2607.20988v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.20988)|
 |**2026-07-22**|**LENS: LLM-guided Environment Simplification for Planning and Control in Clutter**|Aileen Liao et.al.|[2607.19633v1](http://arxiv.org/abs/2607.19633v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.19633)|
 |**2026-07-20**|**STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models**|Kasra Torshizi et.al.|[2607.18580v1](http://arxiv.org/abs/2607.18580v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.18580)|
