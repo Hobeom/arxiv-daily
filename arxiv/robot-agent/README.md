@@ -1,20 +1,25 @@
 ## Robot & Agent
 
-### Updated on 2026.07.28
+### Updated on 2026.07.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918v1](http://arxiv.org/abs/2607.25918v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25918)|
+|**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895v1](http://arxiv.org/abs/2607.25895v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25895)|
+|**2026-07-28**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|James Zhao et.al.|[2607.25731v1](http://arxiv.org/abs/2607.25731v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25731)|
+|**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Tao Wang et.al.|[2607.25593v1](http://arxiv.org/abs/2607.25593v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25593)|
+|**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Liyun Yan et.al.|[2607.25541v1](http://arxiv.org/abs/2607.25541v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25541)|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[αX↑1](https://alphaxiv.org/abs/2607.24744)|
 |**2026-07-27**|**PAC-DP: PAC-Bayesian Diffusion Policy Learning**|Mohammad Hasan Yeganegi et.al.|[2607.24296v1](http://arxiv.org/abs/2607.24296v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.24296)|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.24159)|
 |**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909v1](http://arxiv.org/abs/2607.23909v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.23909)|
 |**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑0](https://alphaxiv.org/abs/2607.23784)|
-|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704v1](http://arxiv.org/abs/2607.23704v1)|[link](https://github.com/Su-ISE-2001/SciRobo)|[αX↑0](https://alphaxiv.org/abs/2607.23704)|
-|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.23473)|
+|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704v1](http://arxiv.org/abs/2607.23704v1)|[link](https://github.com/Su-ISE-2001/SciRobo)|[αX↑3](https://alphaxiv.org/abs/2607.23704)|
+|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.23473)|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999v1](http://arxiv.org/abs/2607.22999v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22999)|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997v1](http://arxiv.org/abs/2607.22997v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22997)|
-|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530v1](http://arxiv.org/abs/2607.22530v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.22530)|
-|**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434v1](http://arxiv.org/abs/2607.22434v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22434)|
+|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530v1](http://arxiv.org/abs/2607.22530v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.22530)|
+|**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434v1](http://arxiv.org/abs/2607.22434v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.22434)|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014v1](http://arxiv.org/abs/2607.22014v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22014)|
 |**2026-07-22**|**Progress Reward Modeling for Robotic Learning: A Comprehensive Survey**|Jianshu Zhang et.al.|[2607.21655v1](http://arxiv.org/abs/2607.21655v1)|[link](https://github.com/sterzhang/Awesome-Progress-Models)|[αX↑6](https://alphaxiv.org/abs/2607.21655)|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588v1](http://arxiv.org/abs/2607.21588v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.21588)|

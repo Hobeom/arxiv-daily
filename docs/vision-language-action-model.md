@@ -4,10 +4,13 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.28
+### Updated on 2026.07.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Zonghe Liu et.al.|[2607.25912v1](http://arxiv.org/abs/2607.25912v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25912)|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Haoyu Zhang et.al.|[2607.25516v1](http://arxiv.org/abs/2607.25516v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25516)|
+|**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Minhyeok Lee et.al.|[2607.25487v1](http://arxiv.org/abs/2607.25487v1)|[link](https://github.com/BrainJellyPie/CoTinyVLA)|[αX↑0](https://alphaxiv.org/abs/2607.25487)|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[αX↑1](https://alphaxiv.org/abs/2607.24744)|
 |**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Ning Cheng et.al.|[2607.24485v1](http://arxiv.org/abs/2607.24485v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.24485)|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.24159)|
