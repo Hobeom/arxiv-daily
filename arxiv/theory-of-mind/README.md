@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.07.29
+### Updated on 2026.07.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26402)|
 |**2026-07-24**|**Gaze-Anchored Social Net: Decoding Implicit Relations via Joint Modeling**|Yuqi Hou et.al.|[2607.22847v1](http://arxiv.org/abs/2607.22847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22847)|
 |**2026-07-24**|**From Isolated Tasks to Structured Capabilities: A Multilayer Taxonomy for Large Language Models**|Shixin Fang et.al.|[2607.22182v1](http://arxiv.org/abs/2607.22182v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22182)|
 |**2026-07-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Xinyu Zhang et.al.|[2607.19850v1](http://arxiv.org/abs/2607.19850v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.19850)|

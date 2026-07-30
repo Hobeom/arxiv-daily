@@ -1,9 +1,11 @@
 ## Vision Language Action Model
 
-### Updated on 2026.07.29
+### Updated on 2026.07.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Derek Ming Siang Tan et.al.|[2607.26991v1](http://arxiv.org/abs/2607.26991v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26991)|
+|**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Mingyang Sun et.al.|[2607.26513v1](http://arxiv.org/abs/2607.26513v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26513)|
 |**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Zonghe Liu et.al.|[2607.25912v1](http://arxiv.org/abs/2607.25912v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25912)|
 |**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Haoyu Zhang et.al.|[2607.25516v1](http://arxiv.org/abs/2607.25516v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.25516)|
 |**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Minhyeok Lee et.al.|[2607.25487v1](http://arxiv.org/abs/2607.25487v1)|[link](https://github.com/BrainJellyPie/CoTinyVLA)|[αX↑0](https://alphaxiv.org/abs/2607.25487)|

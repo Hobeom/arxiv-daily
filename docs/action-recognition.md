@@ -4,10 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.07.29
+### Updated on 2026.07.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-28**|**Lag-aware cross-hand alignment for dual-hand action segmentation**|Fatemeh Ziaeetabar et.al.|[2607.26215v1](http://arxiv.org/abs/2607.26215v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26215)|
+|**2026-07-28**|**Knowledge-guided Disentanglement with Atomic Actions for Action Recognition**|Tianci Wu et.al.|[2607.26097v1](http://arxiv.org/abs/2607.26097v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26097)|
 |**2026-07-27**|**Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts**|André Sacilotti et.al.|[2607.24611v1](http://arxiv.org/abs/2607.24611v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.24611)|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737v1](http://arxiv.org/abs/2607.18737v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.18737)|
 |**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.18088)|
