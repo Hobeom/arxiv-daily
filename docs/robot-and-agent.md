@@ -4,28 +4,33 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.07.30
+### Updated on 2026.07.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Gabe Everett et.al.|[2607.26985v1](http://arxiv.org/abs/2607.26985v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26985)|
-|**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Jialiang Li et.al.|[2607.26809v1](http://arxiv.org/abs/2607.26809v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26809)|
-|**2026-07-29**|**Learning Dynamic User Personas from Implicit Interaction Streams via Iterative Refinement**|Haifeng Wu et.al.|[2607.26473v1](http://arxiv.org/abs/2607.26473v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26473)|
+|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394v1](http://arxiv.org/abs/2607.28394v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.28394)|
+|**2026-07-30**|**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**|Xiaoxiang Dong et.al.|[2607.28382v1](http://arxiv.org/abs/2607.28382v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.28382)|
+|**2026-07-30**|**DexDirect: Direct Kinesthetic Arm Guidance for Efficient Dexterous Demonstration Collection**|Beom Jun Kim et.al.|[2607.27784v1](http://arxiv.org/abs/2607.27784v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27784)|
+|**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703v1](http://arxiv.org/abs/2607.27703v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27703)|
+|**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Ajay Sridhar et.al.|[2607.27549v1](http://arxiv.org/abs/2607.27549v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27549)|
+|**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Gabe Everett et.al.|[2607.26985v1](http://arxiv.org/abs/2607.26985v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26985)|
+|**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Jialiang Li et.al.|[2607.26809v1](http://arxiv.org/abs/2607.26809v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.26809)|
+|**2026-07-29**|**Learning Dynamic User Personas from Implicit Interaction Streams via Iterative Refinement**|Haifeng Wu et.al.|[2607.26473v1](http://arxiv.org/abs/2607.26473v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26473)|
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26402)|
-|**2026-07-28**|**Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing**|Emma Huang et.al.|[2607.26337v1](http://arxiv.org/abs/2607.26337v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26337)|
-|**2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Jian Zhou et.al.|[2607.26148v1](http://arxiv.org/abs/2607.26148v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26148)|
-|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918v1](http://arxiv.org/abs/2607.25918v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.25918)|
-|**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895v1](http://arxiv.org/abs/2607.25895v1)|null|[🤗👍139](https://huggingface.co/papers/2607.25895) [αX↑9](https://alphaxiv.org/abs/2607.25895)|
+|**2026-07-28**|**Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing**|Emma Huang et.al.|[2607.26337v1](http://arxiv.org/abs/2607.26337v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26337)|
+|**2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Jian Zhou et.al.|[2607.26148v1](http://arxiv.org/abs/2607.26148v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26148)|
+|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918v1](http://arxiv.org/abs/2607.25918v1)|null|[αX↑13](https://alphaxiv.org/abs/2607.25918)|
+|**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895v1](http://arxiv.org/abs/2607.25895v1)|null|[🤗👍143](https://huggingface.co/papers/2607.25895) [αX↑21](https://alphaxiv.org/abs/2607.25895)|
 |**2026-07-29**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|James Zhao et.al.|[2607.25731v2](http://arxiv.org/abs/2607.25731v2)|null|[αX↑1](https://alphaxiv.org/abs/2607.25731)|
 |**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Tao Wang et.al.|[2607.25593v1](http://arxiv.org/abs/2607.25593v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.25593)|
 |**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Liyun Yan et.al.|[2607.25541v1](http://arxiv.org/abs/2607.25541v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.25541)|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[🤗👍34](https://huggingface.co/papers/2607.24744) [αX↑23](https://alphaxiv.org/abs/2607.24744)|
-|**2026-07-27**|**PAC-DP: PAC-Bayesian Diffusion Policy Learning**|Mohammad Hasan Yeganegi et.al.|[2607.24296v1](http://arxiv.org/abs/2607.24296v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.24296)|
-|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.24159)|
-|**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909v1](http://arxiv.org/abs/2607.23909v1)|null|[🤗👍5](https://huggingface.co/papers/2607.23909) [αX↑7](https://alphaxiv.org/abs/2607.23909)|
-|**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑1](https://alphaxiv.org/abs/2607.23784)|
+|**2026-07-27**|**PAC-DP: PAC-Bayesian Diffusion Policy Learning**|Mohammad Hasan Yeganegi et.al.|[2607.24296v1](http://arxiv.org/abs/2607.24296v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.24296)|
+|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑19](https://alphaxiv.org/abs/2607.24159)|
+|**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909v1](http://arxiv.org/abs/2607.23909v1)|null|[🤗👍5](https://huggingface.co/papers/2607.23909) [αX↑26](https://alphaxiv.org/abs/2607.23909)|
+|**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑2](https://alphaxiv.org/abs/2607.23784)|
 |**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704v1](http://arxiv.org/abs/2607.23704v1)|[link](https://github.com/Su-ISE-2001/SciRobo)|[αX↑3](https://alphaxiv.org/abs/2607.23704)|
-|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.23473)|
+|**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Seung Hyun Lee et.al.|[2607.23473v1](http://arxiv.org/abs/2607.23473v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.23473)|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999v1](http://arxiv.org/abs/2607.22999v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22999)|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997v1](http://arxiv.org/abs/2607.22997v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22997)|
 |**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530v1](http://arxiv.org/abs/2607.22530v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.22530)|

@@ -4,22 +4,25 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.07.30
+### Updated on 2026.07.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205v1](http://arxiv.org/abs/2607.27205v1)|[link](https://github.com/H-EmbodVis/TurboVLA)|[αX↑1](https://alphaxiv.org/abs/2607.27205)|
-|**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138v1](http://arxiv.org/abs/2607.27138v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27138)|
-|**2026-07-29**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Derek Ming Siang Tan et.al.|[2607.26991v1](http://arxiv.org/abs/2607.26991v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26991)|
-|**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Mingyang Sun et.al.|[2607.26513v1](http://arxiv.org/abs/2607.26513v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26513)|
-|**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Zonghe Liu et.al.|[2607.25912v1](http://arxiv.org/abs/2607.25912v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.25912)|
-|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Haoyu Zhang et.al.|[2607.25516v1](http://arxiv.org/abs/2607.25516v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.25516)|
-|**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Minhyeok Lee et.al.|[2607.25487v1](http://arxiv.org/abs/2607.25487v1)|[link](https://github.com/BrainJellyPie/CoTinyVLA)|[αX↑1](https://alphaxiv.org/abs/2607.25487)|
-|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[🤗👍34](https://huggingface.co/papers/2607.24744) [αX↑23](https://alphaxiv.org/abs/2607.24744)|
-|**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Ning Cheng et.al.|[2607.24485v1](http://arxiv.org/abs/2607.24485v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.24485)|
-|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.24159)|
+|**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251v1](http://arxiv.org/abs/2607.28251v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.28251)|
+|**2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Sihyung Yoon et.al.|[2607.27881v1](http://arxiv.org/abs/2607.27881v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27881)|
+|**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Ajay Sridhar et.al.|[2607.27549v1](http://arxiv.org/abs/2607.27549v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.27549)|
+|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205v1](http://arxiv.org/abs/2607.27205v1)|[link](https://github.com/H-EmbodVis/TurboVLA)|[🤗👍122](https://huggingface.co/papers/2607.27205) [αX↑15](https://alphaxiv.org/abs/2607.27205)|
+|**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138v1](http://arxiv.org/abs/2607.27138v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.27138)|
+|**2026-07-30**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Derek Ming Siang Tan et.al.|[2607.26991v2](http://arxiv.org/abs/2607.26991v2)|null|[αX↑10](https://alphaxiv.org/abs/2607.26991)|
+|**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Mingyang Sun et.al.|[2607.26513v1](http://arxiv.org/abs/2607.26513v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.26513)|
+|**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Zonghe Liu et.al.|[2607.25912v1](http://arxiv.org/abs/2607.25912v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.25912)|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Haoyu Zhang et.al.|[2607.25516v1](http://arxiv.org/abs/2607.25516v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.25516)|
+|**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Minhyeok Lee et.al.|[2607.25487v1](http://arxiv.org/abs/2607.25487v1)|[link](https://github.com/BrainJellyPie/CoTinyVLA)|[αX↑3](https://alphaxiv.org/abs/2607.25487)|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[🤗👍35](https://huggingface.co/papers/2607.24744) [αX↑54](https://alphaxiv.org/abs/2607.24744)|
+|**2026-07-30**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Ning Cheng et.al.|[2607.24485v2](http://arxiv.org/abs/2607.24485v2)|null|[αX↑17](https://alphaxiv.org/abs/2607.24485)|
+|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159v1](http://arxiv.org/abs/2607.24159v1)|null|[αX↑19](https://alphaxiv.org/abs/2607.24159)|
 |**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148v1](http://arxiv.org/abs/2607.24148v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.24148)|
-|**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑1](https://alphaxiv.org/abs/2607.23784)|
+|**2026-07-26**|**A Few Words Go a Long Way: Language Guided Robot Policy Synthesis**|Daphne Chen et.al.|[2607.23784v1](http://arxiv.org/abs/2607.23784v1)|[link](https://github.com/robo-architect/architect-franka)|[αX↑2](https://alphaxiv.org/abs/2607.23784)|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997v1](http://arxiv.org/abs/2607.22997v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22997)|
 |**2026-07-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Quanfu Yu et.al.|[2607.20988v1](http://arxiv.org/abs/2607.20988v1)|null|[αX↑17](https://alphaxiv.org/abs/2607.20988)|
 |**2026-07-22**|**LENS: LLM-guided Environment Simplification for Planning and Control in Clutter**|Aileen Liao et.al.|[2607.19633v1](http://arxiv.org/abs/2607.19633v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.19633)|
