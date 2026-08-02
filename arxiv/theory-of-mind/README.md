@@ -1,16 +1,16 @@
 ## Theory of Mind
 
-### Updated on 2026.08.01
+### Updated on 2026.08.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607v1](http://arxiv.org/abs/2607.28607v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.28607)|
+|**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607v1](http://arxiv.org/abs/2607.28607v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.28607)|
 |**2026-07-30**|**Using Theory of Mind to Arbitrate between Social and Non-social Learning**|Lance Ying et.al.|[2607.28601v1](http://arxiv.org/abs/2607.28601v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.28601)|
-|**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.26402)|
+|**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26402)|
 |**2026-07-24**|**Gaze-Anchored Social Net: Decoding Implicit Relations via Joint Modeling**|Yuqi Hou et.al.|[2607.22847v1](http://arxiv.org/abs/2607.22847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22847)|
-|**2026-07-24**|**From Isolated Tasks to Structured Capabilities: A Multilayer Taxonomy for Large Language Models**|Shixin Fang et.al.|[2607.22182v1](http://arxiv.org/abs/2607.22182v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.22182)|
+|**2026-07-24**|**From Isolated Tasks to Structured Capabilities: A Multilayer Taxonomy for Large Language Models**|Shixin Fang et.al.|[2607.22182v1](http://arxiv.org/abs/2607.22182v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.22182)|
 |**2026-07-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Xinyu Zhang et.al.|[2607.19850v1](http://arxiv.org/abs/2607.19850v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.19850)|
-|**2026-07-21**|**MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings**|Ziyi Wang et.al.|[2607.19235v1](http://arxiv.org/abs/2607.19235v1)|[link](https://github.com/oliviaziyi/MeetingToM)|[αX↑5](https://alphaxiv.org/abs/2607.19235)|
+|**2026-07-21**|**MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings**|Ziyi Wang et.al.|[2607.19235v1](http://arxiv.org/abs/2607.19235v1)|[link](https://github.com/oliviaziyi/MeetingToM)|[αX↑6](https://alphaxiv.org/abs/2607.19235)|
 |**2026-07-18**|**G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation**|Yuwen Liao et.al.|[2607.16956v1](http://arxiv.org/abs/2607.16956v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.16956)|
 |**2026-07-17**|**TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension**|Leopoldo Todisco et.al.|[2607.15948v1](http://arxiv.org/abs/2607.15948v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.15948)|
 |**2026-07-20**|**Belief-reality separation lives in routing over a shared value slot in language models**|Oliver Steele et.al.|[2607.11945v2](http://arxiv.org/abs/2607.11945v2)|null|[αX↑1](https://alphaxiv.org/abs/2607.11945)|
