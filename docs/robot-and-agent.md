@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.02
+### Updated on 2026.08.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
