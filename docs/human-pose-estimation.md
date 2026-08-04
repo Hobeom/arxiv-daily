@@ -8,6 +8,8 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|[link](https://github.com/BRL-SYSU/VARPose)|[αX↑0](https://alphaxiv.org/abs/2608.02214)|
+|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|[link](https://github.com/jinjidexiaohuoban/CHOW-SLAM)|[αX↑0](https://alphaxiv.org/abs/2608.01914)|
 |**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|[αX↑23](https://alphaxiv.org/abs/2607.25389)|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.25215)|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.24409)|

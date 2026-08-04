@@ -8,6 +8,8 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236v1](http://arxiv.org/abs/2608.02236v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02236)|
+|**2026-08-03**|**Event ActivityNet: A Large-Scale Simulated-Event Benchmark for Untrimmed Action Understanding**|Cheng-Yao Hong et.al.|[2608.01948v1](http://arxiv.org/abs/2608.01948v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01948)|
 |**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00371)|
 |**2026-08-01**|**The 1st AI Children Challenge**|Boyi Li et.al.|[2608.00356v1](http://arxiv.org/abs/2608.00356v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00356)|
 |**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289v1](http://arxiv.org/abs/2608.00289v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00289)|
