@@ -4,10 +4,14 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.03
+### Updated on 2026.08.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-02**|**WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA**|Zhihao Zhu et.al.|[2608.01035v1](http://arxiv.org/abs/2608.01035v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01035)|
+|**2026-08-01**|**Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization**|Daojie Peng et.al.|[2608.00569v1](http://arxiv.org/abs/2608.00569v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00569)|
+|**2026-08-01**|**The Gate, Not the Cache: Gate Provenance Bounds the Closed-Loop Reliability of Training-Free VLA Token Skipping**|Qi Luo et.al.|[2608.00391v1](http://arxiv.org/abs/2608.00391v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00391)|
+|**2026-07-31**|**Towards General Language-Conditioned Latent Safety Filters**|Ihab Tabbara et.al.|[2608.00315v1](http://arxiv.org/abs/2608.00315v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00315)|
 |**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei et.al.|[2607.29613v1](http://arxiv.org/abs/2607.29613v1)|[link](https://github.com/sylvestf/WCM)|[αX↑6](https://alphaxiv.org/abs/2607.29613)|
 |**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596v1](http://arxiv.org/abs/2607.29596v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.29596)|
 |**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Kasra Sinaei et.al.|[2607.29569v1](http://arxiv.org/abs/2607.29569v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.29569)|

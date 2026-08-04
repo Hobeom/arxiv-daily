@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.08.03
+### Updated on 2026.08.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00967)|
 |**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su et.al.|[2607.26593v1](http://arxiv.org/abs/2607.26593v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.26593)|
 |**2026-07-27**|**A Neural Network model of Cultural Evolution**|Kingsley J. A. Cox et.al.|[2607.24886v1](http://arxiv.org/abs/2607.24886v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24886)|
 |**2026-07-23**|**FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents**|Weihao Li et.al.|[2607.21361v1](http://arxiv.org/abs/2607.21361v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.21361)|

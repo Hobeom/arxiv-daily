@@ -4,10 +4,11 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.08.03
+### Updated on 2026.08.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-07-31**|**Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**|Kejia Zhang et.al.|[2608.00261v1](http://arxiv.org/abs/2608.00261v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00261)|
 |**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607v1](http://arxiv.org/abs/2607.28607v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.28607)|
 |**2026-07-30**|**Using Theory of Mind to Arbitrate between Social and Non-social Learning**|Lance Ying et.al.|[2607.28601v1](http://arxiv.org/abs/2607.28601v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.28601)|
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26402)|

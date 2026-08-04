@@ -4,10 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.08.03
+### Updated on 2026.08.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00371)|
+|**2026-08-01**|**The 1st AI Children Challenge**|Boyi Li et.al.|[2608.00356v1](http://arxiv.org/abs/2608.00356v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00356)|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289v1](http://arxiv.org/abs/2608.00289v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00289)|
 |**2026-07-28**|**Lag-aware cross-hand alignment for dual-hand action segmentation**|Fatemeh Ziaeetabar et.al.|[2607.26215v1](http://arxiv.org/abs/2607.26215v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26215)|
 |**2026-07-28**|**Knowledge-guided Disentanglement with Atomic Actions for Action Recognition**|Tianci Wu et.al.|[2607.26097v1](http://arxiv.org/abs/2607.26097v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26097)|
 |**2026-07-27**|**Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts**|André Sacilotti et.al.|[2607.24611v1](http://arxiv.org/abs/2607.24611v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24611)|

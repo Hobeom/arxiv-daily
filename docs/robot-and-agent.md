@@ -4,13 +4,16 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.03
+### Updated on 2026.08.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-01**|**SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control**|Bikang Pan et.al.|[2608.00725v1](http://arxiv.org/abs/2608.00725v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00725)|
+|**2026-07-31**|**Action Chunk Scheduling for Batched Robot Policy Serving**|Rohan Bansal et.al.|[2608.00337v1](http://arxiv.org/abs/2608.00337v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00337)|
+|**2026-07-31**|**Towards General Language-Conditioned Latent Safety Filters**|Ihab Tabbara et.al.|[2608.00315v1](http://arxiv.org/abs/2608.00315v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00315)|
 |**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Dylan Miller et.al.|[2607.29482v1](http://arxiv.org/abs/2607.29482v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.29482)|
 |**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302v1](http://arxiv.org/abs/2607.29302v1)|[link](https://github.com/boundless-large-model/boundless-world-model)|[αX↑6](https://alphaxiv.org/abs/2607.29302)|
-|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394v1](http://arxiv.org/abs/2607.28394v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.28394)|
+|**2026-08-01**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394v2](http://arxiv.org/abs/2607.28394v2)|null|[αX↑7](https://alphaxiv.org/abs/2607.28394)|
 |**2026-07-30**|**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**|Xiaoxiang Dong et.al.|[2607.28382v1](http://arxiv.org/abs/2607.28382v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.28382)|
 |**2026-07-30**|**DexDirect: Direct Kinesthetic Arm Guidance for Efficient Dexterous Demonstration Collection**|Beom Jun Kim et.al.|[2607.27784v1](http://arxiv.org/abs/2607.27784v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.27784)|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703v1](http://arxiv.org/abs/2607.27703v1)|[link](https://github.com/IANNXANG/SpatialCLI)|[🤗👍21](https://huggingface.co/papers/2607.27703) [αX↑17](https://alphaxiv.org/abs/2607.27703)|
