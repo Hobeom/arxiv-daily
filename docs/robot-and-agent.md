@@ -4,35 +4,38 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.04
+### Updated on 2026.08.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244v1](http://arxiv.org/abs/2608.03244v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03244)|
+|**2026-08-04**|**DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units**|Haoyu Gu et.al.|[2608.03127v1](http://arxiv.org/abs/2608.03127v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03127)|
+|**2026-08-04**|**What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents**|Yifan Guo et.al.|[2608.03099v1](http://arxiv.org/abs/2608.03099v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03099)|
 |**2026-08-03**|**CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs**|Shuaijun Liu et.al.|[2608.02578v1](http://arxiv.org/abs/2608.02578v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02578)|
 |**2026-08-03**|**Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills**|Gaytri Jena et.al.|[2608.01851v1](http://arxiv.org/abs/2608.01851v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01851)|
 |**2026-08-03**|**TWINS: A Tactile Wearable Isomorphic Arm Networked System for Contact-Rich Manipulation Learning**|Takahide Kitamura et.al.|[2608.01733v1](http://arxiv.org/abs/2608.01733v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01733)|
 |**2026-08-02**|**Rapid Embodiment Adaptation for Quadrupedal Locomotion**|Dichen Li et.al.|[2608.01506v1](http://arxiv.org/abs/2608.01506v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01506)|
 |**2026-08-02**|**When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents**|Shuaijun Liu et.al.|[2608.01428v1](http://arxiv.org/abs/2608.01428v1)|[link](https://github.com/NEBULIS-Lab/BRACE)|[αX↑0](https://alphaxiv.org/abs/2608.01428)|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157v1](http://arxiv.org/abs/2608.01157v1)|[link](https://github.com/InteracVid/InteracVid)|[αX↑0](https://alphaxiv.org/abs/2608.01157)|
-|**2026-08-01**|**SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control**|Bikang Pan et.al.|[2608.00725v1](http://arxiv.org/abs/2608.00725v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00725)|
-|**2026-07-31**|**Action Chunk Scheduling for Batched Robot Policy Serving**|Rohan Bansal et.al.|[2608.00337v1](http://arxiv.org/abs/2608.00337v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00337)|
-|**2026-07-31**|**Towards General Language-Conditioned Latent Safety Filters**|Ihab Tabbara et.al.|[2608.00315v1](http://arxiv.org/abs/2608.00315v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00315)|
+|**2026-08-01**|**SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control**|Bikang Pan et.al.|[2608.00725v1](http://arxiv.org/abs/2608.00725v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.00725)|
+|**2026-07-31**|**Action Chunk Scheduling for Batched Robot Policy Serving**|Rohan Bansal et.al.|[2608.00337v1](http://arxiv.org/abs/2608.00337v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.00337)|
+|**2026-07-31**|**Towards General Language-Conditioned Latent Safety Filters**|Ihab Tabbara et.al.|[2608.00315v1](http://arxiv.org/abs/2608.00315v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.00315)|
 |**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Dylan Miller et.al.|[2607.29482v1](http://arxiv.org/abs/2607.29482v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.29482)|
-|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302v1](http://arxiv.org/abs/2607.29302v1)|[link](https://github.com/boundless-large-model/boundless-world-model)|[αX↑6](https://alphaxiv.org/abs/2607.29302)|
-|**2026-08-01**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394v2](http://arxiv.org/abs/2607.28394v2)|null|[αX↑7](https://alphaxiv.org/abs/2607.28394)|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302v1](http://arxiv.org/abs/2607.29302v1)|[link](https://github.com/boundless-large-model/boundless-world-model)|[αX↑10](https://alphaxiv.org/abs/2607.29302)|
+|**2026-08-01**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394v2](http://arxiv.org/abs/2607.28394v2)|null|[αX↑8](https://alphaxiv.org/abs/2607.28394)|
 |**2026-07-30**|**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**|Xiaoxiang Dong et.al.|[2607.28382v1](http://arxiv.org/abs/2607.28382v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.28382)|
 |**2026-07-30**|**DexDirect: Direct Kinesthetic Arm Guidance for Efficient Dexterous Demonstration Collection**|Beom Jun Kim et.al.|[2607.27784v1](http://arxiv.org/abs/2607.27784v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.27784)|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703v1](http://arxiv.org/abs/2607.27703v1)|[link](https://github.com/IANNXANG/SpatialCLI)|[🤗👍22](https://huggingface.co/papers/2607.27703) [αX↑17](https://alphaxiv.org/abs/2607.27703)|
-|**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Ajay Sridhar et.al.|[2607.27549v1](http://arxiv.org/abs/2607.27549v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.27549)|
+|**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Ajay Sridhar et.al.|[2607.27549v1](http://arxiv.org/abs/2607.27549v1)|null|[αX↑11](https://alphaxiv.org/abs/2607.27549)|
 |**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Gabe Everett et.al.|[2607.26985v1](http://arxiv.org/abs/2607.26985v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.26985)|
 |**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Jialiang Li et.al.|[2607.26809v1](http://arxiv.org/abs/2607.26809v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.26809)|
 |**2026-07-29**|**Learning Dynamic User Personas from Implicit Interaction Streams via Iterative Refinement**|Haifeng Wu et.al.|[2607.26473v1](http://arxiv.org/abs/2607.26473v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.26473)|
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26402)|
-|**2026-07-28**|**Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing**|Emma Huang et.al.|[2607.26337v1](http://arxiv.org/abs/2607.26337v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.26337)|
+|**2026-07-28**|**Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing**|Emma Huang et.al.|[2607.26337v1](http://arxiv.org/abs/2607.26337v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.26337)|
 |**2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Jian Zhou et.al.|[2607.26148v1](http://arxiv.org/abs/2607.26148v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.26148)|
-|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918v1](http://arxiv.org/abs/2607.25918v1)|null|[αX↑22](https://alphaxiv.org/abs/2607.25918)|
+|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918v1](http://arxiv.org/abs/2607.25918v1)|null|[αX↑25](https://alphaxiv.org/abs/2607.25918)|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895v1](http://arxiv.org/abs/2607.25895v1)|null|[🤗👍143](https://huggingface.co/papers/2607.25895) [αX↑31](https://alphaxiv.org/abs/2607.25895)|
-|**2026-08-03**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|James Zhao et.al.|[2607.25731v3](http://arxiv.org/abs/2607.25731v3)|null|[αX↑3](https://alphaxiv.org/abs/2607.25731)|
+|**2026-08-03**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|James Zhao et.al.|[2607.25731v3](http://arxiv.org/abs/2607.25731v3)|null|[αX↑4](https://alphaxiv.org/abs/2607.25731)|
 |**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Tao Wang et.al.|[2607.25593v1](http://arxiv.org/abs/2607.25593v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.25593)|
 |**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Liyun Yan et.al.|[2607.25541v1](http://arxiv.org/abs/2607.25541v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.25541)|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744v1](http://arxiv.org/abs/2607.24744v1)|[link](https://github.com/worldbench/awesome-embodied-data-pyramid)|[🤗👍34](https://huggingface.co/papers/2607.24744) [αX↑23](https://alphaxiv.org/abs/2607.24744)|

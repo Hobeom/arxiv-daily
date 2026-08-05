@@ -1,13 +1,13 @@
 ## Theory of Mind
 
-### Updated on 2026.08.04
+### Updated on 2026.08.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-08-03**|**PICTURE: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters' Lack of Knowledge**|Eojin Jeon et.al.|[2608.01598v1](http://arxiv.org/abs/2608.01598v1)|[link](https://github.com/jej127/PICTURE)|[αX↑0](https://alphaxiv.org/abs/2608.01598)|
 |**2026-08-02**|**PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs**|Priyanka Dey et.al.|[2608.01458v1](http://arxiv.org/abs/2608.01458v1)|[link](https://github.com/limenlp/PALMs)|[αX↑0](https://alphaxiv.org/abs/2608.01458)|
-|**2026-07-31**|**Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**|Kejia Zhang et.al.|[2608.00261v1](http://arxiv.org/abs/2608.00261v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00261)|
-|**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607v1](http://arxiv.org/abs/2607.28607v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.28607)|
+|**2026-07-31**|**Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**|Kejia Zhang et.al.|[2608.00261v1](http://arxiv.org/abs/2608.00261v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.00261)|
+|**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607v1](http://arxiv.org/abs/2607.28607v1)|null|[αX↑19](https://alphaxiv.org/abs/2607.28607)|
 |**2026-07-30**|**Using Theory of Mind to Arbitrate between Social and Non-social Learning**|Lance Ying et.al.|[2607.28601v1](http://arxiv.org/abs/2607.28601v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.28601)|
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402v1](http://arxiv.org/abs/2607.26402v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26402)|
 |**2026-07-24**|**Gaze-Anchored Social Net: Decoding Implicit Relations via Joint Modeling**|Yuqi Hou et.al.|[2607.22847v1](http://arxiv.org/abs/2607.22847v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.22847)|

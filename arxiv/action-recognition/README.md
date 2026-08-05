@@ -1,16 +1,18 @@
 ## Action Recognition
 
-### Updated on 2026.08.04
+### Updated on 2026.08.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-04**|**Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending**|Chongle Ren et.al.|[2608.03269v1](http://arxiv.org/abs/2608.03269v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03269)|
+|**2026-08-04**|**Channel-wise Dynamic Knowledge Distillation via Adaptive Sample Generation for Action Recognition**|Ping Li et.al.|[2608.03100v1](http://arxiv.org/abs/2608.03100v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03100)|
 |**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236v1](http://arxiv.org/abs/2608.02236v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02236)|
 |**2026-08-03**|**Event ActivityNet: A Large-Scale Simulated-Event Benchmark for Untrimmed Action Understanding**|Cheng-Yao Hong et.al.|[2608.01948v1](http://arxiv.org/abs/2608.01948v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01948)|
-|**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00371)|
-|**2026-08-01**|**The 1st AI Children Challenge**|Boyi Li et.al.|[2608.00356v1](http://arxiv.org/abs/2608.00356v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00356)|
-|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289v1](http://arxiv.org/abs/2608.00289v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.00289)|
-|**2026-07-28**|**Lag-aware cross-hand alignment for dual-hand action segmentation**|Fatemeh Ziaeetabar et.al.|[2607.26215v1](http://arxiv.org/abs/2607.26215v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26215)|
-|**2026-07-28**|**Knowledge-guided Disentanglement with Atomic Actions for Action Recognition**|Tianci Wu et.al.|[2607.26097v1](http://arxiv.org/abs/2607.26097v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.26097)|
+|**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.00371)|
+|**2026-08-01**|**The 1st AI Children Challenge**|Boyi Li et.al.|[2608.00356v1](http://arxiv.org/abs/2608.00356v1)|[link](https://github.com/Aryia-Behroziuan/Other-sources)|[αX↑0](https://alphaxiv.org/abs/2608.00356)|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289v1](http://arxiv.org/abs/2608.00289v1)|[link](https://github.com/theeagleofthedesert/RF-HOI)|[αX↑0](https://alphaxiv.org/abs/2608.00289)|
+|**2026-07-28**|**Lag-aware cross-hand alignment for dual-hand action segmentation**|Fatemeh Ziaeetabar et.al.|[2607.26215v1](http://arxiv.org/abs/2607.26215v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.26215)|
+|**2026-08-04**|**Knowledge-guided Disentanglement with Atomic Actions for Action Recognition**|Tianci Wu et.al.|[2607.26097v2](http://arxiv.org/abs/2607.26097v2)|null|[αX↑2](https://alphaxiv.org/abs/2607.26097)|
 |**2026-07-27**|**Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts**|André Sacilotti et.al.|[2607.24611v1](http://arxiv.org/abs/2607.24611v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24611)|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737v1](http://arxiv.org/abs/2607.18737v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.18737)|
 |**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.18088)|
