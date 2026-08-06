@@ -4,26 +4,31 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.05
+### Updated on 2026.08.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-04**|**PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud**|Chenghua Wang et.al.|[2608.03682v1](http://arxiv.org/abs/2608.03682v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03682)|
-|**2026-08-04**|**Unified Visuomotor Targets: Supervising VLAs Beyond Physical Actions**|Zhenyang Feng et.al.|[2608.03563v1](http://arxiv.org/abs/2608.03563v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03563)|
-|**2026-08-04**|**Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution**|Weichen Xu et.al.|[2608.03483v1](http://arxiv.org/abs/2608.03483v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03483)|
+|**2026-08-05**|**BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation**|Peiyan Li et.al.|[2608.05042v1](http://arxiv.org/abs/2608.05042v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.05042)|
+|**2026-08-05**|**Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models**|Houze Xu et.al.|[2608.04765v1](http://arxiv.org/abs/2608.04765v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04765)|
+|**2026-08-05**|**Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.04633v1](http://arxiv.org/abs/2608.04633v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04633)|
+|**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428v1](http://arxiv.org/abs/2608.04428v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04428)|
+|**2026-08-05**|**CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention**|Yan Zhang et.al.|[2608.04396v1](http://arxiv.org/abs/2608.04396v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04396)|
+|**2026-08-05**|**PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud**|Chenghua Wang et.al.|[2608.03682v2](http://arxiv.org/abs/2608.03682v2)|null|[αX↑2](https://alphaxiv.org/abs/2608.03682)|
+|**2026-08-04**|**Unified Visuomotor Targets: Supervising VLAs Beyond Physical Actions**|Zhenyang Feng et.al.|[2608.03563v1](http://arxiv.org/abs/2608.03563v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.03563)|
+|**2026-08-04**|**Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution**|Weichen Xu et.al.|[2608.03483v1](http://arxiv.org/abs/2608.03483v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.03483)|
 |**2026-08-04**|**DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack**|Hoseong Tae et.al.|[2608.03207v1](http://arxiv.org/abs/2608.03207v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03207)|
-|**2026-08-04**|**How Should Vision-Language-Action Models Use Proprioceptive State?**|Yiren Zhao et.al.|[2608.03052v1](http://arxiv.org/abs/2608.03052v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03052)|
-|**2026-08-03**|**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**|Ye Wang et.al.|[2608.02580v1](http://arxiv.org/abs/2608.02580v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02580)|
-|**2026-08-03**|**Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models**|Zhaokai Yin et.al.|[2608.02497v1](http://arxiv.org/abs/2608.02497v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02497)|
+|**2026-08-04**|**How Should Vision-Language-Action Models Use Proprioceptive State?**|Yiren Zhao et.al.|[2608.03052v1](http://arxiv.org/abs/2608.03052v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.03052)|
+|**2026-08-03**|**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**|Ye Wang et.al.|[2608.02580v1](http://arxiv.org/abs/2608.02580v1)|null|[αX↑44](https://alphaxiv.org/abs/2608.02580)|
+|**2026-08-03**|**Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models**|Zhaokai Yin et.al.|[2608.02497v1](http://arxiv.org/abs/2608.02497v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.02497)|
 |**2026-08-03**|**Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation**|Donglin Yang et.al.|[2608.02257v1](http://arxiv.org/abs/2608.02257v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02257)|
-|**2026-08-03**|**Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models**|Jin Cui et.al.|[2608.02197v1](http://arxiv.org/abs/2608.02197v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.02197)|
+|**2026-08-03**|**Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models**|Jin Cui et.al.|[2608.02197v1](http://arxiv.org/abs/2608.02197v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.02197)|
 |**2026-08-03**|**Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills**|Gaytri Jena et.al.|[2608.01851v1](http://arxiv.org/abs/2608.01851v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01851)|
 |**2026-08-03**|**Multi-View Unified Camera Fields: Geometry-Shaped Action-Facing Representations for RGB-Only Multi-Camera VLA Policies**|Jiarui Yang et.al.|[2608.01826v1](http://arxiv.org/abs/2608.01826v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01826)|
-|**2026-08-03**|**ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction**|Shiqi Zhang et.al.|[2608.01824v1](http://arxiv.org/abs/2608.01824v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01824)|
+|**2026-08-03**|**ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction**|Shiqi Zhang et.al.|[2608.01824v1](http://arxiv.org/abs/2608.01824v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.01824)|
 |**2026-08-03**|**Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs**|Zixuan Huang et.al.|[2608.01755v1](http://arxiv.org/abs/2608.01755v1)|[link](https://github.com/hzx122/DEFT-RLVR)|[αX↑0](https://alphaxiv.org/abs/2608.01755)|
 |**2026-08-03**|**ProtoAct: Turning Wet-Lab Protocols into Embodied Robotic Actions**|Zhe Liu et.al.|[2608.01690v1](http://arxiv.org/abs/2608.01690v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01690)|
-|**2026-08-03**|**Uncovering and Mitigating Positional Blind Spots in Vision-Language-Action Models**|Dongdong An et.al.|[2608.01573v1](http://arxiv.org/abs/2608.01573v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01573)|
-|**2026-08-02**|**Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them**|Carlota Parés-Morlans et.al.|[2608.01402v1](http://arxiv.org/abs/2608.01402v1)|[link](https://github.com/stanford-iprl-lab/fact)|[αX↑0](https://alphaxiv.org/abs/2608.01402)|
+|**2026-08-03**|**Uncovering and Mitigating Positional Blind Spots in Vision-Language-Action Models**|Dongdong An et.al.|[2608.01573v1](http://arxiv.org/abs/2608.01573v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.01573)|
+|**2026-08-02**|**Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them**|Carlota Parés-Morlans et.al.|[2608.01402v1](http://arxiv.org/abs/2608.01402v1)|[link](https://github.com/stanford-iprl-lab/fact)|[αX↑6](https://alphaxiv.org/abs/2608.01402)|
 |**2026-08-02**|**Hermite Curves as Trajectory Priors for Vision-Language-Action Models**|Qi Lv et.al.|[2608.01265v1](http://arxiv.org/abs/2608.01265v1)|[link](https://github.com/aopolin-lv/Hermite-VLA)|[αX↑0](https://alphaxiv.org/abs/2608.01265)|
 |**2026-08-02**|**WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA**|Zhihao Zhu et.al.|[2608.01035v1](http://arxiv.org/abs/2608.01035v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.01035)|
 |**2026-08-01**|**Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization**|Daojie Peng et.al.|[2608.00569v1](http://arxiv.org/abs/2608.00569v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.00569)|

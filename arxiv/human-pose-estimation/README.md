@@ -1,16 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.05
+### Updated on 2026.08.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03637)|
-|**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.03516)|
-|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|[link](https://github.com/BRL-SYSU/VARPose)|[αX↑0](https://alphaxiv.org/abs/2608.02214)|
-|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|[link](https://github.com/jinjidexiaohuoban/CHOW-SLAM)|[αX↑0](https://alphaxiv.org/abs/2608.01914)|
-|**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|[αX↑25](https://alphaxiv.org/abs/2607.25389)|
-|**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.25215)|
-|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.24409)|
+|**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04995)|
+|**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04673)|
+|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04042)|
+|**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.03637)|
+|**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|[link](https://github.com/robin-chan/meta-pose)|[αX↑1](https://alphaxiv.org/abs/2608.03516)|
+|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|[link](https://github.com/BRL-SYSU/VARPose)|[αX↑1](https://alphaxiv.org/abs/2608.02214)|
+|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|[link](https://github.com/jinjidexiaohuoban/CHOW-SLAM)|[αX↑1](https://alphaxiv.org/abs/2608.01914)|
+|**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|[αX↑28](https://alphaxiv.org/abs/2607.25389)|
+|**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.25215)|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24409)|
 |**2026-07-27**|**Multiview Multi-Person Human Mesh Recovery Under Large Scenes with Occlusions**|Qi Zhang et.al.|[2607.24302v1](http://arxiv.org/abs/2607.24302v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24302)|
 |**2026-07-26**|**DAP-Pose: Deep Temporal Alignment and Physics-aware Cross-modal Sensor Fusion for Robust Pose Estimation**|Jianhan Lin et.al.|[2607.23755v1](http://arxiv.org/abs/2607.23755v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.23755)|
 |**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468v1](http://arxiv.org/abs/2607.23468v1)|[link](https://github.com/Bazs/robust-6d-object-pose-tracking)|[αX↑4](https://alphaxiv.org/abs/2607.23468)|
@@ -67,7 +70,7 @@
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.07168)|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06856)|
 |**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.06782)|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍48](https://huggingface.co/papers/2607.06560) [αX↑100](https://alphaxiv.org/abs/2607.06560)|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|[link](https://github.com/OpenSenseNova/SenseNova-Vision)|[🤗👍48](https://huggingface.co/papers/2607.06560) [αX↑101](https://alphaxiv.org/abs/2607.06560)|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|[αX↑15](https://alphaxiv.org/abs/2607.06555)|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.05801)|
 |**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|[link](https://github.com/MB-Team-THI/PRML2-for-Vehicle-Localization)|[αX↑1](https://alphaxiv.org/abs/2607.05663)|
