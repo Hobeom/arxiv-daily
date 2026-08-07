@@ -1,19 +1,25 @@
 ## Robot & Agent
 
-### Updated on 2026.08.06
+### Updated on 2026.08.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.06332)|
+|**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Alperen Kenan et.al.|[2608.06221v1](http://arxiv.org/abs/2608.06221v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.06221)|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999v1](http://arxiv.org/abs/2608.05999v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05999)|
+|**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Qifeng Zhang et.al.|[2608.05747v1](http://arxiv.org/abs/2608.05747v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05747)|
+|**2026-08-06**|**SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries**|Xingyu Tan et.al.|[2608.05604v1](http://arxiv.org/abs/2608.05604v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05604)|
+|**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Jihoon Oh et.al.|[2608.05215v1](http://arxiv.org/abs/2608.05215v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05215)|
 |**2026-08-05**|**Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments**|Haoming Xu et.al.|[2608.04933v1](http://arxiv.org/abs/2608.04933v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04933)|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Hyesung Lee et.al.|[2608.04842v1](http://arxiv.org/abs/2608.04842v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04842)|
-|**2026-08-05**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Zehua Fan et.al.|[2608.04657v1](http://arxiv.org/abs/2608.04657v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.04657)|
+|**2026-08-06**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Zehua Fan et.al.|[2608.04657v2](http://arxiv.org/abs/2608.04657v2)|null|[αX↑1](https://alphaxiv.org/abs/2608.04657)|
 |**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244v1](http://arxiv.org/abs/2608.03244v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.03244)|
 |**2026-08-04**|**DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units**|Haoyu Gu et.al.|[2608.03127v1](http://arxiv.org/abs/2608.03127v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.03127)|
 |**2026-08-04**|**What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents**|Yifan Guo et.al.|[2608.03099v1](http://arxiv.org/abs/2608.03099v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.03099)|
 |**2026-08-03**|**CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs**|Shuaijun Liu et.al.|[2608.02578v1](http://arxiv.org/abs/2608.02578v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.02578)|
 |**2026-08-03**|**Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills**|Gaytri Jena et.al.|[2608.01851v1](http://arxiv.org/abs/2608.01851v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.01851)|
 |**2026-08-03**|**TWINS: A Tactile Wearable Isomorphic Arm Networked System for Contact-Rich Manipulation Learning**|Takahide Kitamura et.al.|[2608.01733v1](http://arxiv.org/abs/2608.01733v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.01733)|
-|**2026-08-02**|**Rapid Embodiment Adaptation for Quadrupedal Locomotion**|Dichen Li et.al.|[2608.01506v1](http://arxiv.org/abs/2608.01506v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.01506)|
+|**2026-08-05**|**Rapid Embodiment Adaptation for Quadrupedal Locomotion**|Dichen Li et.al.|[2608.01506v2](http://arxiv.org/abs/2608.01506v2)|null|[αX↑1](https://alphaxiv.org/abs/2608.01506)|
 |**2026-08-02**|**When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents**|Shuaijun Liu et.al.|[2608.01428v1](http://arxiv.org/abs/2608.01428v1)|[link](https://github.com/NEBULIS-Lab/BRACE)|[αX↑1](https://alphaxiv.org/abs/2608.01428)|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157v1](http://arxiv.org/abs/2608.01157v1)|[link](https://github.com/InteracVid/InteracVid)|[αX↑3](https://alphaxiv.org/abs/2608.01157)|
 |**2026-08-01**|**SelfWAM: A Self-Grounded Unified World Action Model for Fast Robot Control**|Bikang Pan et.al.|[2608.00725v1](http://arxiv.org/abs/2608.00725v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.00725)|

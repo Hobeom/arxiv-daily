@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.08.06
+### Updated on 2026.08.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-06**|**D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2608.05877v1](http://arxiv.org/abs/2608.05877v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05877)|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865v1](http://arxiv.org/abs/2608.04865v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04865)|
 |**2026-08-05**|**Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition**|Zehao Bao et.al.|[2608.04623v1](http://arxiv.org/abs/2608.04623v1)|[link](https://github.com/ZehaoBao/TDSM-MM)|[αX↑0](https://alphaxiv.org/abs/2608.04623)|
 |**2026-08-05**|**Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs**|Sareer Ul Amin et.al.|[2608.04501v1](http://arxiv.org/abs/2608.04501v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04501)|
@@ -11,7 +12,7 @@
 |**2026-08-04**|**Channel-wise Dynamic Knowledge Distillation via Adaptive Sample Generation for Action Recognition**|Ping Li et.al.|[2608.03100v1](http://arxiv.org/abs/2608.03100v1)|[link](https://github.com/mlvccn/ASCD_KD_Action)|[αX↑0](https://alphaxiv.org/abs/2608.03100)|
 |**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236v1](http://arxiv.org/abs/2608.02236v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.02236)|
 |**2026-08-03**|**Event ActivityNet: A Large-Scale Simulated-Event Benchmark for Untrimmed Action Understanding**|Cheng-Yao Hong et.al.|[2608.01948v1](http://arxiv.org/abs/2608.01948v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.01948)|
-|**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.00371)|
+|**2026-08-01**|**Decoding Children's Gait Behavior**|Yifan Shen et.al.|[2608.00371v1](http://arxiv.org/abs/2608.00371v1)|[link](https://github.com/PediaMedAI/ChildrenGait)|[🤗👍14](https://huggingface.co/papers/2608.00371) [αX↑2](https://alphaxiv.org/abs/2608.00371)|
 |**2026-08-01**|**The 1st AI Children Challenge**|Boyi Li et.al.|[2608.00356v1](http://arxiv.org/abs/2608.00356v1)|[link](https://github.com/Aryia-Behroziuan/Other-sources)|[αX↑1](https://alphaxiv.org/abs/2608.00356)|
 |**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289v1](http://arxiv.org/abs/2608.00289v1)|[link](https://github.com/theeagleofthedesert/RF-HOI)|[αX↑1](https://alphaxiv.org/abs/2608.00289)|
 |**2026-07-28**|**Lag-aware cross-hand alignment for dual-hand action segmentation**|Fatemeh Ziaeetabar et.al.|[2607.26215v1](http://arxiv.org/abs/2607.26215v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.26215)|

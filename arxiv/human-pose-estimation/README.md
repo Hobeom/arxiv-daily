@@ -1,9 +1,12 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.06
+### Updated on 2026.08.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.06021)|
+|**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05782)|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|[link](https://github.com/caoyushe/UniVVT)|[αX↑0](https://alphaxiv.org/abs/2608.05745)|
 |**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04995)|
 |**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04673)|
 |**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.04042)|
