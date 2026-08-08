@@ -4,14 +4,14 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.08.07
+### Updated on 2026.08.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372v1](http://arxiv.org/abs/2608.02372v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.02372)|
-|**2026-08-03**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v1](http://arxiv.org/abs/2608.01708v1)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑1](https://alphaxiv.org/abs/2608.01708)|
-|**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.00967)|
-|**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su et.al.|[2607.26593v1](http://arxiv.org/abs/2607.26593v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.26593)|
+|**2026-08-03**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v1](http://arxiv.org/abs/2608.01708v1)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑2](https://alphaxiv.org/abs/2608.01708)|
+|**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.00967)|
+|**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su et.al.|[2607.26593v1](http://arxiv.org/abs/2607.26593v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.26593)|
 |**2026-07-27**|**A Neural Network model of Cultural Evolution**|Kingsley J. A. Cox et.al.|[2607.24886v1](http://arxiv.org/abs/2607.24886v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.24886)|
 |**2026-07-23**|**FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents**|Weihao Li et.al.|[2607.21361v1](http://arxiv.org/abs/2607.21361v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.21361)|
 |**2026-07-22**|**LLMs Get Lost in Evolving User Intent**|Jihoon Tack et.al.|[2607.20734v1](http://arxiv.org/abs/2607.20734v1)|[link](https://github.com/microsoft/evolving-intent)|[🤗👍24](https://huggingface.co/papers/2607.20734) [αX↑29](https://alphaxiv.org/abs/2607.20734)|
