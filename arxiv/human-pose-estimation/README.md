@@ -1,19 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.08
+### Updated on 2026.08.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.06021)|
-|**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.05782)|
-|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|[link](https://github.com/caoyushe/UniVVT)|[αX↑0](https://alphaxiv.org/abs/2608.05745)|
+|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.06021)|
+|**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.05782)|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|[link](https://github.com/caoyushe/UniVVT)|[αX↑3](https://alphaxiv.org/abs/2608.05745)|
 |**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.04995)|
-|**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.04673)|
-|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.04042)|
+|**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.04673)|
+|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.04042)|
 |**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.03637)|
-|**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|[link](https://github.com/robin-chan/meta-pose)|[αX↑2](https://alphaxiv.org/abs/2608.03516)|
-|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|[link](https://github.com/BRL-SYSU/VARPose)|[αX↑2](https://alphaxiv.org/abs/2608.02214)|
-|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|[link](https://github.com/jinjidexiaohuoban/CHOW-SLAM)|[αX↑1](https://alphaxiv.org/abs/2608.01914)|
+|**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|[link](https://github.com/robin-chan/meta-pose)|[αX↑3](https://alphaxiv.org/abs/2608.03516)|
+|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|[link](https://github.com/BRL-SYSU/VARPose)|[αX↑3](https://alphaxiv.org/abs/2608.02214)|
+|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|[link](https://github.com/jinjidexiaohuoban/CHOW-SLAM)|[αX↑2](https://alphaxiv.org/abs/2608.01914)|
 |**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|[αX↑28](https://alphaxiv.org/abs/2607.25389)|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.25215)|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.24409)|
