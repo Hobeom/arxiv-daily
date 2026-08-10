@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.09
+### Updated on 2026.08.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -48,7 +48,7 @@ layout: default
 |**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Ajay Sridhar et.al.|[2607.27549v1](http://arxiv.org/abs/2607.27549v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.27549)|
 |**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205v1](http://arxiv.org/abs/2607.27205v1)|[link](https://github.com/H-EmbodVis/TurboVLA)|[🤗👍131](https://huggingface.co/papers/2607.27205) [αX↑71](https://alphaxiv.org/abs/2607.27205)|
 |**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138v1](http://arxiv.org/abs/2607.27138v1)|null|[αX↑12](https://alphaxiv.org/abs/2607.27138)|
-|**2026-07-30**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Derek Ming Siang Tan et.al.|[2607.26991v2](http://arxiv.org/abs/2607.26991v2)|null|[αX↑23](https://alphaxiv.org/abs/2607.26991)|
+|**2026-07-30**|**RL $^2$ -VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models**|Derek Ming Siang Tan et.al.|[2607.26991v2](http://arxiv.org/abs/2607.26991v2)|[link](https://github.com/marmotlab/RL2-VLA)|[αX↑23](https://alphaxiv.org/abs/2607.26991)|
 |**2026-07-29**|**Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models**|Mingyang Sun et.al.|[2607.26513v1](http://arxiv.org/abs/2607.26513v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.26513)|
 |**2026-07-28**|**SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models**|Zonghe Liu et.al.|[2607.25912v1](http://arxiv.org/abs/2607.25912v1)|null|[αX↑26](https://alphaxiv.org/abs/2607.25912)|
 |**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Haoyu Zhang et.al.|[2607.25516v1](http://arxiv.org/abs/2607.25516v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.25516)|
