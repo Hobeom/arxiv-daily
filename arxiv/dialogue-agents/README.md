@@ -4,14 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-07**|**IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents**|Senhao Wang et.al.|[2608.06735v1](http://arxiv.org/abs/2608.06735v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.06735)|
 |**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372v1](http://arxiv.org/abs/2608.02372v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.02372)|
 |**2026-08-03**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v1](http://arxiv.org/abs/2608.01708v1)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑3](https://alphaxiv.org/abs/2608.01708)|
-|**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.00967)|
+|**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.00967)|
 |**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su et.al.|[2607.26593v1](http://arxiv.org/abs/2607.26593v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.26593)|
-|**2026-07-27**|**A Neural Network model of Cultural Evolution**|Kingsley J. A. Cox et.al.|[2607.24886v1](http://arxiv.org/abs/2607.24886v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.24886)|
+|**2026-07-27**|**A Neural Network model of Cultural Evolution**|Kingsley J. A. Cox et.al.|[2607.24886v1](http://arxiv.org/abs/2607.24886v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.24886)|
 |**2026-07-23**|**FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents**|Weihao Li et.al.|[2607.21361v1](http://arxiv.org/abs/2607.21361v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.21361)|
-|**2026-07-22**|**LLMs Get Lost in Evolving User Intent**|Jihoon Tack et.al.|[2607.20734v1](http://arxiv.org/abs/2607.20734v1)|[link](https://github.com/microsoft/evolving-intent)|[🤗👍24](https://huggingface.co/papers/2607.20734) [αX↑29](https://alphaxiv.org/abs/2607.20734)|
-|**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036v1](http://arxiv.org/abs/2607.19036v1)|[link](https://github.com/Megalo-f/CoGoal3D)|[αX↑4](https://alphaxiv.org/abs/2607.19036)|
+|**2026-07-22**|**LLMs Get Lost in Evolving User Intent**|Jihoon Tack et.al.|[2607.20734v1](http://arxiv.org/abs/2607.20734v1)|[link](https://github.com/microsoft/evolving-intent)|[🤗👍24](https://huggingface.co/papers/2607.20734) [αX↑30](https://alphaxiv.org/abs/2607.20734)|
+|**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036v1](http://arxiv.org/abs/2607.19036v1)|[link](https://github.com/Megalo-f/CoGoal3D)|[αX↑5](https://alphaxiv.org/abs/2607.19036)|
 |**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439v1](http://arxiv.org/abs/2607.13439v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.13439)|
 |**2026-07-16**|**Can We Steer the Black-Box? Towards Controllability-Centric Evaluation of Recommender Systems with Collaborative Agents**|Jiwen Zhou et.al.|[2607.13418v2](http://arxiv.org/abs/2607.13418v2)|null|[αX↑10](https://alphaxiv.org/abs/2607.13418)|
 |**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Jingyao Cai et.al.|[2607.07824v1](http://arxiv.org/abs/2607.07824v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.07824)|
