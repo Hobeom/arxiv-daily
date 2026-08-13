@@ -1,12 +1,18 @@
 ## Robot & Agent
 
-### Updated on 2026.08.12
+### Updated on 2026.08.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308v1](http://arxiv.org/abs/2608.12308v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12308)|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179v1](http://arxiv.org/abs/2608.12179v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12179)|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Zhenjie Yang et.al.|[2608.12122v1](http://arxiv.org/abs/2608.12122v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12122)|
+|**2026-08-12**|**Enhancing Visual Domain Robustness in Behaviour Cloning via Saliency-Guided Augmentation**|Zheyu Zhuang et.al.|[2608.11870v1](http://arxiv.org/abs/2608.11870v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11870)|
+|**2026-08-11**|**Adaptation of Generalist Robot Policies with Minimal Data**|Shreyas Kowshik et.al.|[2608.11363v1](http://arxiv.org/abs/2608.11363v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11363)|
+|**2026-08-11**|**Self-Evolving Embodied Agents via Skill-Harness Evolution**|Peidong Wang et.al.|[2608.11350v1](http://arxiv.org/abs/2608.11350v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11350)|
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Wenrui Bao et.al.|[2608.11204v1](http://arxiv.org/abs/2608.11204v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11204)|
 |**2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Raphael Lorenzo-Louis et.al.|[2608.11051v1](http://arxiv.org/abs/2608.11051v1)|[link](https://github.com/raphlorlou/Second)|[αX↑0](https://alphaxiv.org/abs/2608.11051)|
-|**2026-08-11**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915v1](http://arxiv.org/abs/2608.10915v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10915)|
+|**2026-08-12**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915v2](http://arxiv.org/abs/2608.10915v2)|null|[αX↑0](https://alphaxiv.org/abs/2608.10915)|
 |**2026-08-11**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Xiao Liu et.al.|[2608.10780v1](http://arxiv.org/abs/2608.10780v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10780)|
 |**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618v1](http://arxiv.org/abs/2608.10618v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10618)|
 |**2026-08-11**|**BooST: Bridging Semantics and Motions for Efficient Skill Transfer**|Jusuk Lee et.al.|[2608.10600v1](http://arxiv.org/abs/2608.10600v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10600)|

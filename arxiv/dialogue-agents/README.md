@@ -1,9 +1,11 @@
 ## Dialogue Agents
 
-### Updated on 2026.08.12
+### Updated on 2026.08.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062v1](http://arxiv.org/abs/2608.12062v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12062)|
+|**2026-08-03**|**Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier**|Zafar Hussain et.al.|[2608.11247v1](http://arxiv.org/abs/2608.11247v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11247)|
 |**2026-08-10**|**Do Personalized Skills Help Coding Agents? An Empirical Study of Developer Interaction Histories**|Shuyan Huang et.al.|[2608.10319v1](http://arxiv.org/abs/2608.10319v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10319)|
 |**2026-08-10**|**NeuroRefiner: Morphology-Aware Multi-Agent Refinement for 3D Fluorescence Microscopy Neuron Segmentation**|Haiyang Yan et.al.|[2608.09636v1](http://arxiv.org/abs/2608.09636v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09636)|
 |**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑0](https://alphaxiv.org/abs/2608.09251)|
