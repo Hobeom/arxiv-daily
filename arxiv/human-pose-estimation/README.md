@@ -4,13 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10938)|
+|**2026-08-12**|**HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation**|Ruochen Li et.al.|[2608.12187v1](http://arxiv.org/abs/2608.12187v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12187)|
+|**2026-08-12**|**Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands**|Ryosei Hara et.al.|[2608.11574v1](http://arxiv.org/abs/2608.11574v1)|[link](https://github.com/ryhara/hand_visibility_detector)|[αX↑1](https://alphaxiv.org/abs/2608.11574)|
+|**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.10938)|
 |**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09735)|
-|**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09658)|
+|**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09658)|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09620)|
-|**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579v1](http://arxiv.org/abs/2608.09579v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09579)|
+|**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579v1](http://arxiv.org/abs/2608.09579v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.09579)|
 |**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520v1](http://arxiv.org/abs/2608.09520v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09520)|
-|**2026-08-10**|**CableDex: Cable Length Estimation on Industrial Reels Using a Handheld Device**|Francisco Guillén et.al.|[2608.09392v1](http://arxiv.org/abs/2608.09392v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09392)|
+|**2026-08-10**|**CableDex: Cable Length Estimation on Industrial Reels Using a Handheld Device**|Francisco Guillén et.al.|[2608.09392v1](http://arxiv.org/abs/2608.09392v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09392)|
 |**2026-08-10**|**LightAIR: Lightweight Action Inversion and Riemannian Rectification for Text-based Person Anomaly Search**|Yulun Zhang et.al.|[2608.09152v1](http://arxiv.org/abs/2608.09152v1)|[link](https://github.com/rainy-london/LightAIR)|[αX↑0](https://alphaxiv.org/abs/2608.09152)|
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146v1](http://arxiv.org/abs/2608.09146v1)|[link](https://github.com/dtc111111/MSN-SLAM)|[αX↑0](https://alphaxiv.org/abs/2608.09146)|
 |**2026-08-10**|**ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras**|Mingrui Liu et.al.|[2608.09112v1](http://arxiv.org/abs/2608.09112v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09112)|
