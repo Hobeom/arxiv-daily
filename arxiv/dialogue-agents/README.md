@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.08.13
+### Updated on 2026.08.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-13**|**Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks**|Muhammad Hannan Akram et.al.|[2608.13394v1](http://arxiv.org/abs/2608.13394v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13394)|
 |**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062v1](http://arxiv.org/abs/2608.12062v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12062)|
 |**2026-08-03**|**Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier**|Zafar Hussain et.al.|[2608.11247v1](http://arxiv.org/abs/2608.11247v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11247)|
 |**2026-08-10**|**Do Personalized Skills Help Coding Agents? An Empirical Study of Developer Interaction Histories**|Shuyan Huang et.al.|[2608.10319v1](http://arxiv.org/abs/2608.10319v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10319)|

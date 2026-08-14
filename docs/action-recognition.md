@@ -4,10 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.08.13
+### Updated on 2026.08.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-13**|**Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts**|Imtiaz Ul Hassan et.al.|[2608.13458v1](http://arxiv.org/abs/2608.13458v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13458)|
+|**2026-08-13**|**Foundation models for movement data: Are they ready for prime-time?**|Alexander Bräuer et.al.|[2608.13316v1](http://arxiv.org/abs/2608.13316v1)|[link](https://github.com/AI4HealthUOL/movement-fm-benchmarking)|[αX↑0](https://alphaxiv.org/abs/2608.13316)|
 |**2026-08-11**|**Compositional Benchmark Synthesis for Hierarchical Human Action Recognition**|Farnaz Soleimani et.al.|[2608.10765v1](http://arxiv.org/abs/2608.10765v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.10765)|
 |**2026-08-07**|**CoDAT: Collaborative Dual-Attention Transformer with Low-Cost Temporal Modeling for Efficient Edge Action Recognition**|Novendra Setyawan et.al.|[2608.06691v1](http://arxiv.org/abs/2608.06691v1)|[link](https://github.com/novendrastywn/CoDAT)|[αX↑3](https://alphaxiv.org/abs/2608.06691)|
 |**2026-08-06**|**D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2608.05877v1](http://arxiv.org/abs/2608.05877v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.05877)|
@@ -28,7 +30,7 @@ layout: default
 |**2026-07-20**|**The Label Complexity of Class-Conditional Coverage under Distribution Shift**|Weijia Han et.al.|[2607.18088v1](http://arxiv.org/abs/2607.18088v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.18088)|
 |**2026-07-10**|**MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding**|Kun Li et.al.|[2607.16284v1](http://arxiv.org/abs/2607.16284v1)|null|[αX↑2](https://alphaxiv.org/abs/2607.16284)|
 |**2026-07-17**|**Per-Stroke Temporal Control for Text-to-Motion via Action Units and Action-Detection Guidance**|Euijun Jung et.al.|[2607.15717v1](http://arxiv.org/abs/2607.15717v1)|null|[αX↑5](https://alphaxiv.org/abs/2607.15717)|
-|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v2](http://arxiv.org/abs/2607.14183v2)|[link](https://github.com/ant-research/Open-AoE)|[🤗👍68](https://huggingface.co/papers/2607.14183) [αX↑43](https://alphaxiv.org/abs/2607.14183)|
+|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zishuo Li et.al.|[2607.14183v2](http://arxiv.org/abs/2607.14183v2)|[link](https://github.com/ant-research/Open-AoE)|[🤗👍67](https://huggingface.co/papers/2607.14183) [αX↑43](https://alphaxiv.org/abs/2607.14183)|
 |**2026-07-14**|**Classifying daily activities needs posture, reconstructing them needs motion**|Arefeh Farahmandi et.al.|[2607.13216v1](http://arxiv.org/abs/2607.13216v1)|null|[αX↑4](https://alphaxiv.org/abs/2607.13216)|
 |**2026-07-13**|**LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments**|Divya Mereddy et.al.|[2607.11839v1](http://arxiv.org/abs/2607.11839v1)|null|[αX↑8](https://alphaxiv.org/abs/2607.11839)|
 |**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v1](http://arxiv.org/abs/2607.11427v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.11427)|

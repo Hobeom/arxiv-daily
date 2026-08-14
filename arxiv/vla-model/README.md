@@ -1,12 +1,17 @@
 ## Vision Language Action Model
 
-### Updated on 2026.08.13
+### Updated on 2026.08.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308v1](http://arxiv.org/abs/2608.12308v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12308)|
-|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739v1](http://arxiv.org/abs/2608.11739v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11739)|
-|**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu et.al.|[2608.11671v1](http://arxiv.org/abs/2608.11671v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11671)|
+|**2026-08-13**|**Decoding Task Progress from VLA Representations**|Atiksh Bhardwaj et.al.|[2608.13474v1](http://arxiv.org/abs/2608.13474v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13474)|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453v1](http://arxiv.org/abs/2608.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13453)|
+|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395v1](http://arxiv.org/abs/2608.13395v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13395)|
+|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932v1](http://arxiv.org/abs/2608.12932v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12932)|
+|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Bing Zhan et.al.|[2608.12854v1](http://arxiv.org/abs/2608.12854v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12854)|
+|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308v1](http://arxiv.org/abs/2608.12308v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12308)|
+|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739v1](http://arxiv.org/abs/2608.11739v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.11739)|
+|**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu et.al.|[2608.11671v1](http://arxiv.org/abs/2608.11671v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.11671)|
 |**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976v1](http://arxiv.org/abs/2608.10976v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.10976)|
 |**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Zhijie Wu et.al.|[2608.10824v1](http://arxiv.org/abs/2608.10824v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.10824)|
 |**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Li Wenjie et.al.|[2608.10484v1](http://arxiv.org/abs/2608.10484v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.10484)|

@@ -1,10 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.08.13
+### Updated on 2026.08.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-12**|**AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**|Cheng Qian et.al.|[2608.12307v1](http://arxiv.org/abs/2608.12307v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12307)|
+|**2026-08-12**|**AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**|Cheng Qian et.al.|[2608.12307v1](http://arxiv.org/abs/2608.12307v1)|null|[🤗👍105](https://huggingface.co/papers/2608.12307) [αX↑0](https://alphaxiv.org/abs/2608.12307)|
 |**2026-08-11**|**Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces**|Mengyu Chen et.al.|[2608.11354v1](http://arxiv.org/abs/2608.11354v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11354)|
 |**2026-08-10**|**Avalon-ToM-Bench: Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics**|Yen-Shan Chen et.al.|[2608.09638v1](http://arxiv.org/abs/2608.09638v1)|[link](https://github.com/yenshan0530/Avalon-ToM-Bench)|[αX↑0](https://alphaxiv.org/abs/2608.09638)|
 |**2026-08-10**|**Capability Is Not Propensity: Measuring Pressure-Robust Cooperative Behavior in Civic LLM Agents**|Neel Tushar Shah et.al.|[2608.09485v1](http://arxiv.org/abs/2608.09485v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09485)|
