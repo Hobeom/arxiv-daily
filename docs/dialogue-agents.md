@@ -4,17 +4,17 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.08.14
+### Updated on 2026.08.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-08-13**|**Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks**|Muhammad Hannan Akram et.al.|[2608.13394v1](http://arxiv.org/abs/2608.13394v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13394)|
 |**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062v1](http://arxiv.org/abs/2608.12062v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12062)|
 |**2026-08-03**|**Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier**|Zafar Hussain et.al.|[2608.11247v1](http://arxiv.org/abs/2608.11247v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11247)|
-|**2026-08-10**|**Do Personalized Skills Help Coding Agents? An Empirical Study of Developer Interaction Histories**|Shuyan Huang et.al.|[2608.10319v1](http://arxiv.org/abs/2608.10319v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10319)|
+|**2026-08-10**|**Do Personalized Skills Help Coding Agents? An Empirical Study of Developer Interaction Histories**|Shuyan Huang et.al.|[2608.10319v1](http://arxiv.org/abs/2608.10319v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.10319)|
 |**2026-08-10**|**NeuroRefiner: Morphology-Aware Multi-Agent Refinement for 3D Fluorescence Microscopy Neuron Segmentation**|Haiyang Yan et.al.|[2608.09636v1](http://arxiv.org/abs/2608.09636v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09636)|
-|**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑1](https://alphaxiv.org/abs/2608.09251)|
-|**2026-08-07**|**IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents**|Senhao Wang et.al.|[2608.06735v1](http://arxiv.org/abs/2608.06735v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.06735)|
+|**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑2](https://alphaxiv.org/abs/2608.09251)|
+|**2026-08-07**|**IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents**|Senhao Wang et.al.|[2608.06735v1](http://arxiv.org/abs/2608.06735v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.06735)|
 |**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372v1](http://arxiv.org/abs/2608.02372v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.02372)|
 |**2026-08-03**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v1](http://arxiv.org/abs/2608.01708v1)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑5](https://alphaxiv.org/abs/2608.01708)|
 |**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.00967)|

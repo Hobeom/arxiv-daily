@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.14
+### Updated on 2026.08.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -23,21 +23,21 @@ layout: default
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Wenrui Bao et.al.|[2608.11204v1](http://arxiv.org/abs/2608.11204v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.11204)|
 |**2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Raphael Lorenzo-Louis et.al.|[2608.11051v1](http://arxiv.org/abs/2608.11051v1)|[link](https://github.com/raphlorlou/Second)|[αX↑2](https://alphaxiv.org/abs/2608.11051)|
 |**2026-08-12**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915v2](http://arxiv.org/abs/2608.10915v2)|null|[🤗👍179](https://huggingface.co/papers/2608.10915) [αX↑6](https://alphaxiv.org/abs/2608.10915)|
-|**2026-08-13**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Xiao Liu et.al.|[2608.10780v2](http://arxiv.org/abs/2608.10780v2)|null|[αX↑6](https://alphaxiv.org/abs/2608.10780)|
+|**2026-08-13**|**JEPA-WAM: Stage-Level Joint-Embedding Prediction for World-Action Models in Robot Manipulation**|Xiao Liu et.al.|[2608.10780v2](http://arxiv.org/abs/2608.10780v2)|null|[αX↑19](https://alphaxiv.org/abs/2608.10780)|
 |**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618v1](http://arxiv.org/abs/2608.10618v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.10618)|
 |**2026-08-11**|**BooST: Bridging Semantics and Motions for Efficient Skill Transfer**|Jusuk Lee et.al.|[2608.10600v1](http://arxiv.org/abs/2608.10600v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.10600)|
-|**2026-08-11**|**XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment**|XPolicyLab Community et.al.|[2608.09892v2](http://arxiv.org/abs/2608.09892v2)|[link](https://github.com/XPolicyLab/XPolicyLab)|[αX↑10](https://alphaxiv.org/abs/2608.09892)|
-|**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Dongchi Huang et.al.|[2608.09853v1](http://arxiv.org/abs/2608.09853v1)|[link](https://github.com/alibaba-damo-academy/RynnValue)|[🤗👍13](https://huggingface.co/papers/2608.09853) [αX↑15](https://alphaxiv.org/abs/2608.09853)|
+|**2026-08-11**|**XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment**|XPolicyLab Community et.al.|[2608.09892v2](http://arxiv.org/abs/2608.09892v2)|[link](https://github.com/XPolicyLab/XPolicyLab)|[αX↑12](https://alphaxiv.org/abs/2608.09892)|
+|**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Dongchi Huang et.al.|[2608.09853v1](http://arxiv.org/abs/2608.09853v1)|[link](https://github.com/alibaba-damo-academy/RynnValue)|[🤗👍13](https://huggingface.co/papers/2608.09853) [αX↑25](https://alphaxiv.org/abs/2608.09853)|
 |**2026-08-10**|**CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems**|Aimilios Hadjiliasi et.al.|[2608.09848v1](http://arxiv.org/abs/2608.09848v1)|null|[🤗👍5](https://huggingface.co/papers/2608.09848) [αX↑1](https://alphaxiv.org/abs/2608.09848)|
-|**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381v1](http://arxiv.org/abs/2608.09381v1)|null|[αX↑54](https://alphaxiv.org/abs/2608.09381)|
+|**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381v1](http://arxiv.org/abs/2608.09381v1)|null|[αX↑84](https://alphaxiv.org/abs/2608.09381)|
 |**2026-08-10**|**SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot**|Yuhao Cao et.al.|[2608.09196v1](http://arxiv.org/abs/2608.09196v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09196)|
-|**2026-08-11**|**SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning**|David D. Yuan et.al.|[2608.09138v2](http://arxiv.org/abs/2608.09138v2)|null|[αX↑3](https://alphaxiv.org/abs/2608.09138)|
+|**2026-08-11**|**SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning**|David D. Yuan et.al.|[2608.09138v2](http://arxiv.org/abs/2608.09138v2)|null|[αX↑7](https://alphaxiv.org/abs/2608.09138)|
 |**2026-08-09**|**360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents**|Kenta Watanabe et.al.|[2608.08814v1](http://arxiv.org/abs/2608.08814v1)|[link](https://github.com/360MM-Team/360CityArena)|[αX↑3](https://alphaxiv.org/abs/2608.08814)|
-|**2026-08-09**|**OnEvoMemory: Evolving Memory through Online Robot Rollouts for Pretrained Robot Policies**|Zhongxi Chen et.al.|[2608.08749v1](http://arxiv.org/abs/2608.08749v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.08749)|
+|**2026-08-09**|**OnEvoMemory: Evolving Memory through Online Robot Rollouts for Pretrained Robot Policies**|Zhongxi Chen et.al.|[2608.08749v1](http://arxiv.org/abs/2608.08749v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.08749)|
 |**2026-08-09**|**Sensing-Induced Embodied Communication in the Near Field**|Jingreng Lei et.al.|[2608.08731v1](http://arxiv.org/abs/2608.08731v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.08731)|
-|**2026-08-09**|**Vid2WAM: Distilling Video Diffusion Priors into World Action Models**|Chenhao Qiu et.al.|[2608.08558v1](http://arxiv.org/abs/2608.08558v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.08558)|
+|**2026-08-09**|**Vid2WAM: Distilling Video Diffusion Priors into World Action Models**|Chenhao Qiu et.al.|[2608.08558v1](http://arxiv.org/abs/2608.08558v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.08558)|
 |**2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Ying Chen et.al.|[2608.06756v1](http://arxiv.org/abs/2608.06756v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.06756)|
-|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|[αX↑33](https://alphaxiv.org/abs/2608.06332)|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|[αX↑40](https://alphaxiv.org/abs/2608.06332)|
 |**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Alperen Kenan et.al.|[2608.06221v1](http://arxiv.org/abs/2608.06221v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.06221)|
 |**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999v1](http://arxiv.org/abs/2608.05999v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.05999)|
 |**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Qifeng Zhang et.al.|[2608.05747v1](http://arxiv.org/abs/2608.05747v1)|null|[🤗👍42](https://huggingface.co/papers/2608.05747) [αX↑14](https://alphaxiv.org/abs/2608.05747)|
