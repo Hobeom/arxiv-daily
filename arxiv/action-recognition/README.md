@@ -1,14 +1,14 @@
 ## Action Recognition
 
-### Updated on 2026.08.15
+### Updated on 2026.08.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-13**|**Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts**|Imtiaz Ul Hassan et.al.|[2608.13458v1](http://arxiv.org/abs/2608.13458v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13458)|
+|**2026-08-13**|**Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts**|Imtiaz Ul Hassan et.al.|[2608.13458v1](http://arxiv.org/abs/2608.13458v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.13458)|
 |**2026-08-13**|**Foundation models for movement data: Are they ready for prime-time?**|Alexander Bräuer et.al.|[2608.13316v1](http://arxiv.org/abs/2608.13316v1)|[link](https://github.com/AI4HealthUOL/movement-fm-benchmarking)|[αX↑0](https://alphaxiv.org/abs/2608.13316)|
-|**2026-08-11**|**Compositional Benchmark Synthesis for Hierarchical Human Action Recognition**|Farnaz Soleimani et.al.|[2608.10765v1](http://arxiv.org/abs/2608.10765v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.10765)|
+|**2026-08-11**|**Compositional Benchmark Synthesis for Hierarchical Human Action Recognition**|Farnaz Soleimani et.al.|[2608.10765v1](http://arxiv.org/abs/2608.10765v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.10765)|
 |**2026-08-07**|**CoDAT: Collaborative Dual-Attention Transformer with Low-Cost Temporal Modeling for Efficient Edge Action Recognition**|Novendra Setyawan et.al.|[2608.06691v1](http://arxiv.org/abs/2608.06691v1)|[link](https://github.com/novendrastywn/CoDAT)|[αX↑4](https://alphaxiv.org/abs/2608.06691)|
-|**2026-08-06**|**D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2608.05877v1](http://arxiv.org/abs/2608.05877v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.05877)|
+|**2026-08-06**|**D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2608.05877v1](http://arxiv.org/abs/2608.05877v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.05877)|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865v1](http://arxiv.org/abs/2608.04865v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.04865)|
 |**2026-08-05**|**Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition**|Zehao Bao et.al.|[2608.04623v1](http://arxiv.org/abs/2608.04623v1)|[link](https://github.com/ZehaoBao/TDSM-MM)|[αX↑4](https://alphaxiv.org/abs/2608.04623)|
 |**2026-08-05**|**Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs**|Sareer Ul Amin et.al.|[2608.04501v1](http://arxiv.org/abs/2608.04501v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.04501)|

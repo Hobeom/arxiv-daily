@@ -4,28 +4,28 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.15
+### Updated on 2026.08.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-13**|**Decoding Task Progress from VLA Representations**|Atiksh Bhardwaj et.al.|[2608.13474v1](http://arxiv.org/abs/2608.13474v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13474)|
-|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453v1](http://arxiv.org/abs/2608.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13453)|
-|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395v1](http://arxiv.org/abs/2608.13395v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13395)|
-|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932v1](http://arxiv.org/abs/2608.12932v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12932)|
-|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Bing Zhan et.al.|[2608.12854v1](http://arxiv.org/abs/2608.12854v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.12854)|
-|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308v1](http://arxiv.org/abs/2608.12308v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12308)|
-|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739v1](http://arxiv.org/abs/2608.11739v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.11739)|
-|**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu et.al.|[2608.11671v1](http://arxiv.org/abs/2608.11671v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.11671)|
-|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976v1](http://arxiv.org/abs/2608.10976v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.10976)|
-|**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Zhijie Wu et.al.|[2608.10824v1](http://arxiv.org/abs/2608.10824v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.10824)|
-|**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Li Wenjie et.al.|[2608.10484v1](http://arxiv.org/abs/2608.10484v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.10484)|
-|**2026-08-11**|**DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving**|Zebin Xing et.al.|[2608.10413v1](http://arxiv.org/abs/2608.10413v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.10413)|
-|**2026-08-11**|**Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models**|Jiahui Han et.al.|[2608.10393v1](http://arxiv.org/abs/2608.10393v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.10393)|
+|**2026-08-13**|**Decoding Task Progress from VLA Representations**|Atiksh Bhardwaj et.al.|[2608.13474v1](http://arxiv.org/abs/2608.13474v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.13474)|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453v1](http://arxiv.org/abs/2608.13453v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.13453)|
+|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395v1](http://arxiv.org/abs/2608.13395v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.13395)|
+|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932v1](http://arxiv.org/abs/2608.12932v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.12932)|
+|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Bing Zhan et.al.|[2608.12854v1](http://arxiv.org/abs/2608.12854v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.12854)|
+|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308v1](http://arxiv.org/abs/2608.12308v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.12308)|
+|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739v1](http://arxiv.org/abs/2608.11739v1)|null|[αX↑25](https://alphaxiv.org/abs/2608.11739)|
+|**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu et.al.|[2608.11671v1](http://arxiv.org/abs/2608.11671v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.11671)|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976v1](http://arxiv.org/abs/2608.10976v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.10976)|
+|**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Zhijie Wu et.al.|[2608.10824v1](http://arxiv.org/abs/2608.10824v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.10824)|
+|**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Li Wenjie et.al.|[2608.10484v1](http://arxiv.org/abs/2608.10484v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.10484)|
+|**2026-08-11**|**DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving**|Zebin Xing et.al.|[2608.10413v1](http://arxiv.org/abs/2608.10413v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.10413)|
+|**2026-08-11**|**Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models**|Jiahui Han et.al.|[2608.10393v1](http://arxiv.org/abs/2608.10393v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.10393)|
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Qu Tang et.al.|[2608.09730v1](http://arxiv.org/abs/2608.09730v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.09730)|
-|**2026-08-12**|**VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction**|Hongjin Ji et.al.|[2608.09448v2](http://arxiv.org/abs/2608.09448v2)|null|[αX↑7](https://alphaxiv.org/abs/2608.09448)|
+|**2026-08-12**|**VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction**|Hongjin Ji et.al.|[2608.09448v2](http://arxiv.org/abs/2608.09448v2)|null|[αX↑10](https://alphaxiv.org/abs/2608.09448)|
 |**2026-08-10**|**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**|Mingwu Su et.al.|[2608.09125v1](http://arxiv.org/abs/2608.09125v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09125)|
 |**2026-08-09**|**From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability**|Alexander Hackett et.al.|[2608.08904v1](http://arxiv.org/abs/2608.08904v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.08904)|
-|**2026-08-09**|**WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models**|Zikang Wen et.al.|[2608.08725v1](http://arxiv.org/abs/2608.08725v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.08725)|
+|**2026-08-09**|**WA-SpecDec: World-Aware Speculative Decoding for Vision-Language-Action Models**|Zikang Wen et.al.|[2608.08725v1](http://arxiv.org/abs/2608.08725v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.08725)|
 |**2026-08-07**|**CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models**|Hsu-kuang Chiu et.al.|[2608.07621v1](http://arxiv.org/abs/2608.07621v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.07621)|
 |**2026-08-07**|**GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning**|Yanping Zhao et.al.|[2608.07619v1](http://arxiv.org/abs/2608.07619v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.07619)|
 |**2026-08-07**|**Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model**|Harisankar Babu et.al.|[2608.07361v1](http://arxiv.org/abs/2608.07361v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.07361)|

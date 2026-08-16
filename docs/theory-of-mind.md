@@ -4,15 +4,15 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.08.15
+### Updated on 2026.08.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-12**|**AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**|Cheng Qian et.al.|[2608.12307v1](http://arxiv.org/abs/2608.12307v1)|null|[🤗👍105](https://huggingface.co/papers/2608.12307) [αX↑22](https://alphaxiv.org/abs/2608.12307)|
-|**2026-08-11**|**Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces**|Mengyu Chen et.al.|[2608.11354v1](http://arxiv.org/abs/2608.11354v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.11354)|
-|**2026-08-10**|**Avalon-ToM-Bench: Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics**|Yen-Shan Chen et.al.|[2608.09638v1](http://arxiv.org/abs/2608.09638v1)|[link](https://github.com/yenshan0530/Avalon-ToM-Bench)|[αX↑1](https://alphaxiv.org/abs/2608.09638)|
+|**2026-08-12**|**AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses**|Cheng Qian et.al.|[2608.12307v1](http://arxiv.org/abs/2608.12307v1)|null|[🤗👍105](https://huggingface.co/papers/2608.12307) [αX↑29](https://alphaxiv.org/abs/2608.12307)|
+|**2026-08-11**|**Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces**|Mengyu Chen et.al.|[2608.11354v1](http://arxiv.org/abs/2608.11354v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.11354)|
+|**2026-08-10**|**Avalon-ToM-Bench: Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics**|Yen-Shan Chen et.al.|[2608.09638v1](http://arxiv.org/abs/2608.09638v1)|[link](https://github.com/yenshan0530/Avalon-ToM-Bench)|[αX↑2](https://alphaxiv.org/abs/2608.09638)|
 |**2026-08-10**|**Capability Is Not Propensity: Measuring Pressure-Robust Cooperative Behavior in Civic LLM Agents**|Neel Tushar Shah et.al.|[2608.09485v1](http://arxiv.org/abs/2608.09485v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09485)|
-|**2026-08-10**|**Social Gym and SPaRTan: Benchmarking and Improving LLM Social Reasoning via Multi-Agent Game Tournaments**|Keyu He et.al.|[2608.09128v1](http://arxiv.org/abs/2608.09128v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09128)|
+|**2026-08-10**|**Social Gym and SPaRTan: Benchmarking and Improving LLM Social Reasoning via Multi-Agent Game Tournaments**|Keyu He et.al.|[2608.09128v1](http://arxiv.org/abs/2608.09128v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.09128)|
 |**2026-08-05**|**Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning**|Ian B. de Haan et.al.|[2608.04646v1](http://arxiv.org/abs/2608.04646v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.04646)|
 |**2026-08-05**|**Structured LLM Reasoning for Zero-Shot Human--Robot Coordination Under Hidden Goals**|Dong Hae Mangalindan et.al.|[2608.04309v1](http://arxiv.org/abs/2608.04309v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.04309)|
 |**2026-08-03**|**PICTURE: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters' Lack of Knowledge**|Eojin Jeon et.al.|[2608.01598v1](http://arxiv.org/abs/2608.01598v1)|[link](https://github.com/jej127/PICTURE)|[αX↑2](https://alphaxiv.org/abs/2608.01598)|
