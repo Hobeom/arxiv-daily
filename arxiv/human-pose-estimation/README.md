@@ -4,12 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176v1](http://arxiv.org/abs/2608.14176v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14176)|
+|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14027)|
+|**2026-08-14**|**Beyond Control Points: Arcsecond Relative-Motion Estimation of Vision Measurement Platforms With Incomplete or Absent Control Fields**|Meng Lian et.al.|[2608.13918v1](http://arxiv.org/abs/2608.13918v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13918)|
 |**2026-08-13**|**Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception**|Gang Zhang et.al.|[2608.13396v1](http://arxiv.org/abs/2608.13396v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13396)|
-|**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|[link](https://github.com/tue-mps/vision-ssl-study)|[αX↑2](https://alphaxiv.org/abs/2608.13183)|
+|**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|[link](https://github.com/tue-mps/vision-ssl-study)|[αX↑5](https://alphaxiv.org/abs/2608.13183)|
 |**2026-08-13**|**Fast Iterative Five point Relative Pose Estimation**|Johan Hedborg et.al.|[2608.13114v1](http://arxiv.org/abs/2608.13114v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.13114)|
-|**2026-08-13**|**Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs**|Tianye Qi et.al.|[2608.13047v1](http://arxiv.org/abs/2608.13047v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.13047)|
+|**2026-08-13**|**Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs**|Tianye Qi et.al.|[2608.13047v1](http://arxiv.org/abs/2608.13047v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.13047)|
 |**2026-08-13**|**AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs**|Zeyu Sha et.al.|[2608.12866v1](http://arxiv.org/abs/2608.12866v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12866)|
-|**2026-08-12**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442v1](http://arxiv.org/abs/2608.12442v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.12442)|
+|**2026-08-12**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442v1](http://arxiv.org/abs/2608.12442v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.12442)|
 |**2026-08-12**|**HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation**|Ruochen Li et.al.|[2608.12187v1](http://arxiv.org/abs/2608.12187v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.12187)|
 |**2026-08-12**|**Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands**|Ryosei Hara et.al.|[2608.11574v1](http://arxiv.org/abs/2608.11574v1)|[link](https://github.com/ryhara/hand_visibility_detector)|[🤗👍1](https://huggingface.co/papers/2608.11574) [αX↑11](https://alphaxiv.org/abs/2608.11574)|
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.10938)|
@@ -52,7 +55,7 @@
 |**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|[αX↑20](https://alphaxiv.org/abs/2607.19228)|
 |**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.18875)|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.18197)|
-|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.17950)|
+|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|[αX↑7](https://alphaxiv.org/abs/2607.17950)|
 |**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|[αX↑0](https://alphaxiv.org/abs/2607.17332)|
 |**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|[link](https://github.com/KAIST-VCLAB/gs-extreme-motion-blur)|[αX↑2](https://alphaxiv.org/abs/2607.16926)|
 |**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|[αX↑1](https://alphaxiv.org/abs/2607.16897)|
