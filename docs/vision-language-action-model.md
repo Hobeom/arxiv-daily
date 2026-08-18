@@ -4,12 +4,27 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.17
+### Updated on 2026.08.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-14**|**Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation**|Yuxuan Chen et.al.|[2608.14379v1](http://arxiv.org/abs/2608.14379v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14379)|
-|**2026-08-14**|**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**|Yi Ding et.al.|[2608.14047v1](http://arxiv.org/abs/2608.14047v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14047)|
+|**2026-08-17**|**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**|Bingxin Xu et.al.|[2608.16889v1](http://arxiv.org/abs/2608.16889v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16889)|
+|**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai et.al.|[2608.16885v1](http://arxiv.org/abs/2608.16885v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16885)|
+|**2026-08-17**|**When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents**|Jiawei Liu et.al.|[2608.16806v1](http://arxiv.org/abs/2608.16806v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16806)|
+|**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**|Aniri et.al.|[2608.16697v1](http://arxiv.org/abs/2608.16697v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16697)|
+|**2026-08-17**|**NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation**|Cong Zhao et.al.|[2608.16503v1](http://arxiv.org/abs/2608.16503v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16503)|
+|**2026-08-17**|**US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina**|Cheng Zhang et.al.|[2608.16074v1](http://arxiv.org/abs/2608.16074v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16074)|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15875)|
+|**2026-08-16**|**ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation**|Yi Wang et.al.|[2608.15816v1](http://arxiv.org/abs/2608.15816v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15816)|
+|**2026-08-16**|**Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation**|Yijie Xu et.al.|[2608.15680v1](http://arxiv.org/abs/2608.15680v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15680)|
+|**2026-08-16**|**Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification**|Chunyu Qi et.al.|[2608.15636v1](http://arxiv.org/abs/2608.15636v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15636)|
+|**2026-08-16**|**EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints**|Ao Zhou et.al.|[2608.15502v1](http://arxiv.org/abs/2608.15502v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15502)|
+|**2026-08-16**|**Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability**|Yudong Gao et.al.|[2608.15475v1](http://arxiv.org/abs/2608.15475v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15475)|
+|**2026-08-15**|**StructRL: Structured Action-Space Exploration for Flow-Based VLAs**|Jiarui Yang et.al.|[2608.15139v1](http://arxiv.org/abs/2608.15139v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15139)|
+|**2026-08-15**|**ForceU-VLA: A Force-Aware Vision-Language-Action Model for Embodied Ultrasound Scanning**|Xingzheng Wu et.al.|[2608.15009v1](http://arxiv.org/abs/2608.15009v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15009)|
+|**2026-08-14**|**Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models**|Yanyan Zhang et.al.|[2608.14822v1](http://arxiv.org/abs/2608.14822v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14822)|
+|**2026-08-14**|**Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation**|Yuxuan Chen et.al.|[2608.14379v1](http://arxiv.org/abs/2608.14379v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.14379)|
+|**2026-08-14**|**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**|Yi Ding et.al.|[2608.14047v1](http://arxiv.org/abs/2608.14047v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.14047)|
 |**2026-08-14**|**SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models**|Haojie Feng et.al.|[2608.14024v1](http://arxiv.org/abs/2608.14024v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14024)|
 |**2026-08-13**|**Decoding Task Progress from VLA Representations**|Atiksh Bhardwaj et.al.|[2608.13474v1](http://arxiv.org/abs/2608.13474v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.13474)|
 |**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453v1](http://arxiv.org/abs/2608.13453v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.13453)|

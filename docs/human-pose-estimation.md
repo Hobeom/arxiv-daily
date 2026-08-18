@@ -4,15 +4,21 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.08.17
+### Updated on 2026.08.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[αX↑2](https://alphaxiv.org/abs/2608.15984)|
+|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15917)|
+|**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15815)|
+|**2026-08-16**|**Target Localization and Self-Calibration in a Multistatic Radar System**|Ahmad Musallam et.al.|[2608.15501v1](http://arxiv.org/abs/2608.15501v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15501)|
+|**2026-08-15**|**TinyDETR-Pose: Towards End-to-End Real-Time Single-Stage 6DoF Object Pose Estimation with Lightweight Transformers**|Paul Julius Kühn et.al.|[2608.15297v1](http://arxiv.org/abs/2608.15297v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15297)|
 |**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176v1](http://arxiv.org/abs/2608.14176v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14176)|
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14027)|
-|**2026-08-14**|**Beyond Control Points: Arcsecond Relative-Motion Estimation of Vision Measurement Platforms With Incomplete or Absent Control Fields**|Meng Lian et.al.|[2608.13918v1](http://arxiv.org/abs/2608.13918v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13918)|
-|**2026-08-13**|**Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception**|Gang Zhang et.al.|[2608.13396v1](http://arxiv.org/abs/2608.13396v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.13396)|
-|**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|[link](https://github.com/tue-mps/vision-ssl-study)|[αX↑5](https://alphaxiv.org/abs/2608.13183)|
+|**2026-08-14**|**Beyond Control Points: Arcsecond Relative-Motion Estimation of Vision Measurement Platforms With Incomplete or Absent Control Fields**|Meng Lian et.al.|[2608.13918v1](http://arxiv.org/abs/2608.13918v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.13918)|
+|**2026-08-13**|**Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception**|Gang Zhang et.al.|[2608.13396v1](http://arxiv.org/abs/2608.13396v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.13396)|
+|**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|[link](https://github.com/tue-mps/vision-ssl-study)|[αX↑6](https://alphaxiv.org/abs/2608.13183)|
 |**2026-08-13**|**Fast Iterative Five point Relative Pose Estimation**|Johan Hedborg et.al.|[2608.13114v1](http://arxiv.org/abs/2608.13114v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.13114)|
 |**2026-08-13**|**Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs**|Tianye Qi et.al.|[2608.13047v1](http://arxiv.org/abs/2608.13047v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.13047)|
 |**2026-08-13**|**AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs**|Zeyu Sha et.al.|[2608.12866v1](http://arxiv.org/abs/2608.12866v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12866)|

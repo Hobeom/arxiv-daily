@@ -4,13 +4,15 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.08.17
+### Updated on 2026.08.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-14**|**Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts**|Imtiaz Ul Hassan et.al.|[2608.13458v2](http://arxiv.org/abs/2608.13458v2)|null|[αX↑2](https://alphaxiv.org/abs/2608.13458)|
-|**2026-08-13**|**Foundation models for movement data: Are they ready for prime-time?**|Alexander Bräuer et.al.|[2608.13316v1](http://arxiv.org/abs/2608.13316v1)|[link](https://github.com/AI4HealthUOL/movement-fm-benchmarking)|[αX↑0](https://alphaxiv.org/abs/2608.13316)|
-|**2026-08-11**|**Compositional Benchmark Synthesis for Hierarchical Human Action Recognition**|Farnaz Soleimani et.al.|[2608.10765v1](http://arxiv.org/abs/2608.10765v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.10765)|
+|**2026-08-16**|**Bitstream Action Recognition is Byte Modeling**|Fangcheng Li et.al.|[2608.15695v1](http://arxiv.org/abs/2608.15695v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15695)|
+|**2026-08-14**|**NARRATE: A Multimodal Real-World Australian Driving Dataset for Human-Centred Explanations in Automated Driving**|Ashkan Yousefi Zadeh et.al.|[2608.14767v1](http://arxiv.org/abs/2608.14767v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.14767)|
+|**2026-08-14**|**Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts**|Imtiaz Ul Hassan et.al.|[2608.13458v2](http://arxiv.org/abs/2608.13458v2)|null|[αX↑3](https://alphaxiv.org/abs/2608.13458)|
+|**2026-08-13**|**Foundation models for movement data: Are they ready for prime-time?**|Alexander Bräuer et.al.|[2608.13316v1](http://arxiv.org/abs/2608.13316v1)|[link](https://github.com/AI4HealthUOL/movement-fm-benchmarking)|[αX↑1](https://alphaxiv.org/abs/2608.13316)|
+|**2026-08-11**|**Compositional Benchmark Synthesis for Hierarchical Human Action Recognition**|Farnaz Soleimani et.al.|[2608.10765v1](http://arxiv.org/abs/2608.10765v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.10765)|
 |**2026-08-07**|**CoDAT: Collaborative Dual-Attention Transformer with Low-Cost Temporal Modeling for Efficient Edge Action Recognition**|Novendra Setyawan et.al.|[2608.06691v1](http://arxiv.org/abs/2608.06691v1)|[link](https://github.com/novendrastywn/CoDAT)|[αX↑5](https://alphaxiv.org/abs/2608.06691)|
 |**2026-08-06**|**D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2608.05877v1](http://arxiv.org/abs/2608.05877v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.05877)|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865v1](http://arxiv.org/abs/2608.04865v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.04865)|
