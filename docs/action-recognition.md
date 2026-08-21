@@ -8,6 +8,9 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Marko Haralović et.al.|[2608.20157v1](http://arxiv.org/abs/2608.20157v1)|[link](https://github.com/MarkoHaralovic/G3Ego)|[αX↑0](https://alphaxiv.org/abs/2608.20157)|
+|**2026-08-20**|**A Comparative Study of Coherent and Action-Detected 2D Electronic Spectroscopies of a Multichromophore Photosynthetic System**|Edoardo Amarotti et.al.|[2608.19721v1](http://arxiv.org/abs/2608.19721v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19721)|
+|**2026-08-20**|**PL-NBA: A Possession-level Universal Basketball Video Dataset Supporting Multiple Visual Understanding Tasks**|Yunhao Zhao et.al.|[2608.19646v1](http://arxiv.org/abs/2608.19646v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19646)|
 |**2026-08-19**|**From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation**|Sepehr Ghaffarzadegan et.al.|[2608.19011v1](http://arxiv.org/abs/2608.19011v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19011)|
 |**2026-08-19**|**Beyond Instrument Motion: Recognizing Tissue Tension Toward Surgical Skill Assessment**|Marko Haralović et.al.|[2608.17935v2](http://arxiv.org/abs/2608.17935v2)|null|[αX↑3](https://alphaxiv.org/abs/2608.17935)|
 |**2026-08-18**|**Operando multidimensional spectroscopy reveals A-site-dependent carrier cooling in perovskite solar cells**|Edoardo Amarotti et.al.|[2608.17577v1](http://arxiv.org/abs/2608.17577v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17577)|

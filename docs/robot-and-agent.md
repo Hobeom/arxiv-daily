@@ -8,6 +8,14 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208v1](http://arxiv.org/abs/2608.20208v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20208)|
+|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19891)|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729v1](http://arxiv.org/abs/2608.19729v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19729)|
+|**2026-08-20**|**What Matters for Latent Actions in Robot Learning**|Xizhou Bu et.al.|[2608.19613v1](http://arxiv.org/abs/2608.19613v1)|[link](https://github.com/XizoB/LAM)|[αX↑1](https://alphaxiv.org/abs/2608.19613)|
+|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19589)|
+|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425v1](http://arxiv.org/abs/2608.19425v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19425)|
+|**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375v1](http://arxiv.org/abs/2608.19375v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19375)|
+|**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19372)|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.18948)|
 |**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18787)|
 |**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18618)|

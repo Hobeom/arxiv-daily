@@ -8,6 +8,9 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19891)|
+|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19589)|
+|**2026-08-19**|**Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation**|Prachi Garg et.al.|[2608.19490v1](http://arxiv.org/abs/2608.19490v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19490)|
 |**2026-08-19**|**Role-Conditioned Sub-Token Routing for Efficient Vision-Language-Action Policies**|Wei Jiang et.al.|[2608.18410v1](http://arxiv.org/abs/2608.18410v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18410)|
 |**2026-08-18**|**Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving**|Zongzheng Zhang et.al.|[2608.18035v1](http://arxiv.org/abs/2608.18035v1)|[link](https://github.com/ZZongzheng0918/TE-Aware-E2E-AD)|[αX↑2](https://alphaxiv.org/abs/2608.18035)|
 |**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17717)|

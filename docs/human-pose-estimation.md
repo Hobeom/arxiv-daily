@@ -8,6 +8,12 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|[link](https://github.com/pyxploiter/HandMvNet)|[αX↑0](https://alphaxiv.org/abs/2608.20093)|
+|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20056)|
+|**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|[link](https://github.com/jakubmicorek/STEP)|[αX↑0](https://alphaxiv.org/abs/2608.19987)|
+|**2026-08-20**|**PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly**|Kulunu Samarawickrama et.al.|[2608.19968v1](http://arxiv.org/abs/2608.19968v1)|[link](https://github.com/KulunuOS/PVRA)|[αX↑0](https://alphaxiv.org/abs/2608.19968)|
+|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|[link](https://github.com/francois141/upal)|[αX↑0](https://alphaxiv.org/abs/2608.19894)|
+|**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19480)|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18470)|
 |**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17691)|
 |**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16785)|
