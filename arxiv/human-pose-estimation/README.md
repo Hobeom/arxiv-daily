@@ -1,6 +1,6 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.21
+### Updated on 2026.08.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -10,12 +10,12 @@
 |**2026-08-20**|**PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly**|Kulunu Samarawickrama et.al.|[2608.19968v1](http://arxiv.org/abs/2608.19968v1)|[link](https://github.com/KulunuOS/PVRA)|[αX↑0](https://alphaxiv.org/abs/2608.19968)|
 |**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|[link](https://github.com/francois141/upal)|[αX↑0](https://alphaxiv.org/abs/2608.19894)|
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19480)|
-|**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18470)|
-|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17691)|
-|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16785)|
-|**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑10](https://alphaxiv.org/abs/2608.15984)|
-|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.15917)|
-|**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.15815)|
+|**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.18470)|
+|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.17691)|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑18](https://alphaxiv.org/abs/2608.15984)|
+|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.15917)|
+|**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15815)|
 |**2026-08-16**|**Target Localization and Self-Calibration in a Multistatic Radar System**|Ahmad Musallam et.al.|[2608.15501v1](http://arxiv.org/abs/2608.15501v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15501)|
 |**2026-08-15**|**TinyDETR-Pose: Towards End-to-End Real-Time Single-Stage 6DoF Object Pose Estimation with Lightweight Transformers**|Paul Julius Kühn et.al.|[2608.15297v1](http://arxiv.org/abs/2608.15297v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.15297)|
 |**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176v1](http://arxiv.org/abs/2608.14176v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.14176)|

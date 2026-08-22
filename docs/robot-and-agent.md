@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.21
+### Updated on 2026.08.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -16,12 +16,12 @@ layout: default
 |**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425v1](http://arxiv.org/abs/2608.19425v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19425)|
 |**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375v1](http://arxiv.org/abs/2608.19375v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19375)|
 |**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19372)|
-|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.18948)|
-|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18787)|
-|**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.18618)|
-|**2026-08-18**|**PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing**|Tengbo Yu et.al.|[2608.17962v1](http://arxiv.org/abs/2608.17962v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17962)|
-|**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774v1](http://arxiv.org/abs/2608.17774v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.17774)|
-|**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17717)|
+|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑15](https://alphaxiv.org/abs/2608.18948)|
+|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.18787)|
+|**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.18618)|
+|**2026-08-18**|**PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing**|Tengbo Yu et.al.|[2608.17962v1](http://arxiv.org/abs/2608.17962v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.17962)|
+|**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774v1](http://arxiv.org/abs/2608.17774v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17774)|
+|**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17717)|
 |**2026-08-18**|**LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models**|Zhengyan Qian et.al.|[2608.17600v1](http://arxiv.org/abs/2608.17600v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17600)|
 |**2026-08-18**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584v1](http://arxiv.org/abs/2608.17584v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17584)|
 |**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Qijian Tian et.al.|[2608.17535v1](http://arxiv.org/abs/2608.17535v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17535)|
@@ -33,7 +33,7 @@ layout: default
 |**2026-08-17**|**Neurosymbolic Embodied Agents**|Mohammad Albinhassan et.al.|[2608.16794v1](http://arxiv.org/abs/2608.16794v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.16794)|
 |**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Xin Ding et.al.|[2608.16590v1](http://arxiv.org/abs/2608.16590v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16590)|
 |**2026-08-17**|**SurgVIL: Scaling Surgical Robot Imitation Learning with Open-source Surgical Videos**|Xinhao Chen et.al.|[2608.16058v1](http://arxiv.org/abs/2608.16058v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16058)|
-|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.15917)|
+|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15875)|
 |**2026-08-15**|**FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge**|Rajat Bhattacharjya et.al.|[2608.15410v1](http://arxiv.org/abs/2608.15410v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15410)|
 |**2026-08-15**|**Remember Smarter: Visual History Compressor and Hyperbolic Experience Space for Robotic Memory**|Dai Zhou et.al.|[2608.15269v1](http://arxiv.org/abs/2608.15269v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15269)|
