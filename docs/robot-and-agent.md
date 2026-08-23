@@ -4,20 +4,20 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.22
+### Updated on 2026.08.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208v1](http://arxiv.org/abs/2608.20208v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20208)|
-|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19891)|
-|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729v1](http://arxiv.org/abs/2608.19729v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19729)|
-|**2026-08-20**|**What Matters for Latent Actions in Robot Learning**|Xizhou Bu et.al.|[2608.19613v1](http://arxiv.org/abs/2608.19613v1)|[link](https://github.com/XizoB/LAM)|[αX↑1](https://alphaxiv.org/abs/2608.19613)|
-|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19589)|
-|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425v1](http://arxiv.org/abs/2608.19425v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19425)|
-|**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375v1](http://arxiv.org/abs/2608.19375v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19375)|
-|**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19372)|
-|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑15](https://alphaxiv.org/abs/2608.18948)|
-|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.18787)|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208v1](http://arxiv.org/abs/2608.20208v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.20208)|
+|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.19891)|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729v1](http://arxiv.org/abs/2608.19729v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19729)|
+|**2026-08-20**|**What Matters for Latent Actions in Robot Learning**|Xizhou Bu et.al.|[2608.19613v1](http://arxiv.org/abs/2608.19613v1)|[link](https://github.com/XizoB/LAM)|[αX↑18](https://alphaxiv.org/abs/2608.19613)|
+|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.19589)|
+|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425v1](http://arxiv.org/abs/2608.19425v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.19425)|
+|**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375v1](http://arxiv.org/abs/2608.19375v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.19375)|
+|**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.19372)|
+|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑18](https://alphaxiv.org/abs/2608.18948)|
+|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.18787)|
 |**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.18618)|
 |**2026-08-18**|**PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing**|Tengbo Yu et.al.|[2608.17962v1](http://arxiv.org/abs/2608.17962v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.17962)|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774v1](http://arxiv.org/abs/2608.17774v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17774)|
@@ -27,16 +27,16 @@ layout: default
 |**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Qijian Tian et.al.|[2608.17535v1](http://arxiv.org/abs/2608.17535v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17535)|
 |**2026-08-18**|**If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation**|Seoyoung Lee et.al.|[2608.17318v1](http://arxiv.org/abs/2608.17318v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.17318)|
 |**2026-08-17**|**Teach and Grow: An Agent-Centered Architecture for General Robot Learning**|Chang Nie et.al.|[2608.17209v1](http://arxiv.org/abs/2608.17209v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.17209)|
-|**2026-08-17**|**VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation**|Dhia Naouali et.al.|[2608.16978v1](http://arxiv.org/abs/2608.16978v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16978)|
+|**2026-08-17**|**VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation**|Dhia Naouali et.al.|[2608.16978v1](http://arxiv.org/abs/2608.16978v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.16978)|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843v1](http://arxiv.org/abs/2608.16843v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16843)|
 |**2026-08-17**|**When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents**|Jiawei Liu et.al.|[2608.16806v1](http://arxiv.org/abs/2608.16806v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16806)|
 |**2026-08-17**|**Neurosymbolic Embodied Agents**|Mohammad Albinhassan et.al.|[2608.16794v1](http://arxiv.org/abs/2608.16794v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.16794)|
 |**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Xin Ding et.al.|[2608.16590v1](http://arxiv.org/abs/2608.16590v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.16590)|
-|**2026-08-17**|**SurgVIL: Scaling Surgical Robot Imitation Learning with Open-source Surgical Videos**|Xinhao Chen et.al.|[2608.16058v1](http://arxiv.org/abs/2608.16058v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.16058)|
-|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.15917)|
+|**2026-08-17**|**SurgVIL: Scaling Surgical Robot Imitation Learning with Open-source Surgical Videos**|Xinhao Chen et.al.|[2608.16058v1](http://arxiv.org/abs/2608.16058v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.16058)|
+|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑18](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15875)|
 |**2026-08-15**|**FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge**|Rajat Bhattacharjya et.al.|[2608.15410v1](http://arxiv.org/abs/2608.15410v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15410)|
-|**2026-08-15**|**Remember Smarter: Visual History Compressor and Hyperbolic Experience Space for Robotic Memory**|Dai Zhou et.al.|[2608.15269v1](http://arxiv.org/abs/2608.15269v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15269)|
+|**2026-08-15**|**Remember Smarter: Visual History Compressor and Hyperbolic Experience Space for Robotic Memory**|Dai Zhou et.al.|[2608.15269v1](http://arxiv.org/abs/2608.15269v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.15269)|
 |**2026-08-15**|**Max-Q Selective Imitation for Human-in-the-Loop Online Robot Learning**|Zihang Wang et.al.|[2608.15088v1](http://arxiv.org/abs/2608.15088v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15088)|
 |**2026-08-15**|**EgoTac: In-the-wild Tactile Prediction from Egocentric Vision**|Wenkang Zhang et.al.|[2608.15060v1](http://arxiv.org/abs/2608.15060v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15060)|
 |**2026-08-15**|**NPU Offloading of a Frozen Visual Encoder for Robot Policy Training**|Hyojun Yun et.al.|[2608.15002v1](http://arxiv.org/abs/2608.15002v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15002)|

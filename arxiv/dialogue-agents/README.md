@@ -1,10 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.08.22
+### Updated on 2026.08.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-20**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739v1](http://arxiv.org/abs/2608.19739v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.19739)|
+|**2026-08-20**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739v1](http://arxiv.org/abs/2608.19739v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19739)|
 |**2026-08-12**|**Adjacency-Based Spectral Proxy Control of Mobile Communication Agents**|Mariana del Castillo et.al.|[2608.13616v1](http://arxiv.org/abs/2608.13616v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.13616)|
 |**2026-08-13**|**Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks**|Muhammad Hannan Akram et.al.|[2608.13394v1](http://arxiv.org/abs/2608.13394v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.13394)|
 |**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062v1](http://arxiv.org/abs/2608.12062v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.12062)|
