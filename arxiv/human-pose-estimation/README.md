@@ -1,6 +1,6 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.23
+### Updated on 2026.08.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -11,8 +11,8 @@
 |**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|[link](https://github.com/francois141/upal)|[αX↑2](https://alphaxiv.org/abs/2608.19894)|
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.19480)|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.18470)|
-|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.17691)|
-|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.17691)|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.16785)|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑23](https://alphaxiv.org/abs/2608.15984)|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑18](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15815)|
@@ -32,7 +32,7 @@
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.10938)|
 |**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09735)|
 |**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09658)|
-|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09620)|
+|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.09620)|
 |**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579v1](http://arxiv.org/abs/2608.09579v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.09579)|
 |**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520v1](http://arxiv.org/abs/2608.09520v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09520)|
 |**2026-08-10**|**CableDex: Cable Length Estimation on Industrial Reels Using a Handheld Device**|Francisco Guillén et.al.|[2608.09392v1](http://arxiv.org/abs/2608.09392v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09392)|
