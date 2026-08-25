@@ -1,25 +1,31 @@
 ## Robot & Agent
 
-### Updated on 2026.08.24
+### Updated on 2026.08.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247v1](http://arxiv.org/abs/2608.21247v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21247)|
-|**2026-08-21**|**Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning**|Varun Giridhar et.al.|[2608.21204v1](http://arxiv.org/abs/2608.21204v1)|[link](https://github.com/varungiridhar/qplanning)|[αX↑0](https://alphaxiv.org/abs/2608.21204)|
+|**2026-08-24**|**Physics Filtering Favors the Generalization of Robot Learning**|Jindou Jia et.al.|[2608.22701v1](http://arxiv.org/abs/2608.22701v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22701)|
+|**2026-08-23**|**WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning**|Chunkai Yang et.al.|[2608.22591v1](http://arxiv.org/abs/2608.22591v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.22591)|
+|**2026-08-23**|**The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction**|Xunzhe Zhou et.al.|[2608.22301v1](http://arxiv.org/abs/2608.22301v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22301)|
+|**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149v1](http://arxiv.org/abs/2608.22149v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22149)|
+|**2026-08-22**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055v1](http://arxiv.org/abs/2608.22055v1)|[link](https://github.com/JulianZJN/GenCoord)|[αX↑0](https://alphaxiv.org/abs/2608.22055)|
+|**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878v1](http://arxiv.org/abs/2608.21878v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21878)|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247v1](http://arxiv.org/abs/2608.21247v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.21247)|
+|**2026-08-21**|**Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning**|Varun Giridhar et.al.|[2608.21204v1](http://arxiv.org/abs/2608.21204v1)|[link](https://github.com/varungiridhar/qplanning)|[αX↑10](https://alphaxiv.org/abs/2608.21204)|
 |**2026-08-21**|**Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning**|Bernhard Hilpert et.al.|[2608.21083v1](http://arxiv.org/abs/2608.21083v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21083)|
-|**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan et.al.|[2608.20975v1](http://arxiv.org/abs/2608.20975v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20975)|
-|**2026-08-21**|**Rethinking Demonstration Unlearning in Imitation Learning for Robotics**|Jiazhuo Li et.al.|[2608.20784v1](http://arxiv.org/abs/2608.20784v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20784)|
-|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208v1](http://arxiv.org/abs/2608.20208v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.20208)|
-|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[🤗👍13](https://huggingface.co/papers/2608.19891) [αX↑10](https://alphaxiv.org/abs/2608.19891)|
-|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729v1](http://arxiv.org/abs/2608.19729v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.19729)|
-|**2026-08-20**|**What Matters for Latent Actions in Robot Learning**|Xizhou Bu et.al.|[2608.19613v1](http://arxiv.org/abs/2608.19613v1)|[link](https://github.com/XizoB/LAM)|[αX↑24](https://alphaxiv.org/abs/2608.19613)|
-|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.19589)|
+|**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan et.al.|[2608.20975v1](http://arxiv.org/abs/2608.20975v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.20975)|
+|**2026-08-21**|**Rethinking Demonstration Unlearning in Imitation Learning for Robotics**|Jiazhuo Li et.al.|[2608.20784v1](http://arxiv.org/abs/2608.20784v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.20784)|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208v1](http://arxiv.org/abs/2608.20208v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.20208)|
+|**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[🤗👍13](https://huggingface.co/papers/2608.19891) [αX↑16](https://alphaxiv.org/abs/2608.19891)|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729v1](http://arxiv.org/abs/2608.19729v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.19729)|
+|**2026-08-20**|**What Matters for Latent Actions in Robot Learning**|Xizhou Bu et.al.|[2608.19613v1](http://arxiv.org/abs/2608.19613v1)|[link](https://github.com/XizoB/LAM)|[αX↑37](https://alphaxiv.org/abs/2608.19613)|
+|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.19589)|
 |**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425v1](http://arxiv.org/abs/2608.19425v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.19425)|
 |**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375v1](http://arxiv.org/abs/2608.19375v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.19375)|
-|**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.19372)|
+|**2026-08-19**|**The Missing Touch: Spatially Distributed Tactile Feedback Brings Teleoperation Closer to Human Dexterity**|Rohan Kota et.al.|[2608.19372v1](http://arxiv.org/abs/2608.19372v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.19372)|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948v1](http://arxiv.org/abs/2608.18948v1)|null|[αX↑21](https://alphaxiv.org/abs/2608.18948)|
-|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.18787)|
-|**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.18618)|
+|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787v1](http://arxiv.org/abs/2608.18787v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.18787)|
+|**2026-08-19**|**LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories**|Zhipeng Tang et.al.|[2608.18618v1](http://arxiv.org/abs/2608.18618v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.18618)|
 |**2026-08-18**|**PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing**|Tengbo Yu et.al.|[2608.17962v1](http://arxiv.org/abs/2608.17962v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.17962)|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774v1](http://arxiv.org/abs/2608.17774v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.17774)|
 |**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.17717)|

@@ -1,18 +1,26 @@
 ## Vision Language Action Model
 
-### Updated on 2026.08.24
+### Updated on 2026.08.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247v1](http://arxiv.org/abs/2608.21247v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21247)|
-|**2026-08-21**|**A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving**|Jingtao Sun et.al.|[2608.20890v1](http://arxiv.org/abs/2608.20890v1)|[link](https://github.com/S-JingTao/CMMI)|[αX↑0](https://alphaxiv.org/abs/2608.20890)|
+|**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Sangoh Lee et.al.|[2608.23478v1](http://arxiv.org/abs/2608.23478v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23478)|
+|**2026-08-24**|**ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots**|Nils Mandischer et.al.|[2608.23320v1](http://arxiv.org/abs/2608.23320v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23320)|
+|**2026-08-24**|**Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation**|Xiwen Chen et.al.|[2608.23138v1](http://arxiv.org/abs/2608.23138v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23138)|
+|**2026-08-24**|**InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation**|Mengao Zhao et.al.|[2608.22990v1](http://arxiv.org/abs/2608.22990v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.22990)|
+|**2026-08-24**|**UniMem: Unifying Multimodal Memory and Control for Vision-Language-Action Models**|Lars Osterberg et.al.|[2608.22869v1](http://arxiv.org/abs/2608.22869v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.22869)|
+|**2026-08-24**|**Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation**|Jianxiang Liu et.al.|[2608.22800v1](http://arxiv.org/abs/2608.22800v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22800)|
+|**2026-08-23**|**Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking**|Dongzhou Cheng et.al.|[2608.22419v1](http://arxiv.org/abs/2608.22419v1)|[link](https://github.com/m3vla/m3)|[αX↑0](https://alphaxiv.org/abs/2608.22419)|
+|**2026-08-22**|**CounterAlign: Counterfactual Supervision for Vision-Language-Action Models**|Haru Kondoh et.al.|[2608.21740v1](http://arxiv.org/abs/2608.21740v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21740)|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247v1](http://arxiv.org/abs/2608.21247v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.21247)|
+|**2026-08-21**|**A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving**|Jingtao Sun et.al.|[2608.20890v1](http://arxiv.org/abs/2608.20890v1)|[link](https://github.com/S-JingTao/CMMI)|[αX↑2](https://alphaxiv.org/abs/2608.20890)|
 |**2026-08-21**|**CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models**|Hui Lu et.al.|[2608.20791v1](http://arxiv.org/abs/2608.20791v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20791)|
-|**2026-08-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang et.al.|[2608.20556v1](http://arxiv.org/abs/2608.20556v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.20556)|
+|**2026-08-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang et.al.|[2608.20556v1](http://arxiv.org/abs/2608.20556v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.20556)|
 |**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija et.al.|[2608.19891v1](http://arxiv.org/abs/2608.19891v1)|null|[🤗👍13](https://huggingface.co/papers/2608.19891) [αX↑10](https://alphaxiv.org/abs/2608.19891)|
-|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.19589)|
+|**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang et.al.|[2608.19589v1](http://arxiv.org/abs/2608.19589v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.19589)|
 |**2026-08-19**|**Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation**|Prachi Garg et.al.|[2608.19490v1](http://arxiv.org/abs/2608.19490v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.19490)|
 |**2026-08-19**|**Role-Conditioned Sub-Token Routing for Efficient Vision-Language-Action Policies**|Wei Jiang et.al.|[2608.18410v1](http://arxiv.org/abs/2608.18410v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.18410)|
-|**2026-08-18**|**Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving**|Zongzheng Zhang et.al.|[2608.18035v1](http://arxiv.org/abs/2608.18035v1)|[link](https://github.com/ZZongzheng0918/TE-Aware-E2E-AD)|[αX↑9](https://alphaxiv.org/abs/2608.18035)|
+|**2026-08-18**|**Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving**|Zongzheng Zhang et.al.|[2608.18035v1](http://arxiv.org/abs/2608.18035v1)|[link](https://github.com/ZZongzheng0918/TE-Aware-E2E-AD)|[αX↑13](https://alphaxiv.org/abs/2608.18035)|
 |**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.17717)|
 |**2026-08-18**|**LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models**|Zhengyan Qian et.al.|[2608.17600v1](http://arxiv.org/abs/2608.17600v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.17600)|
 |**2026-08-17**|**Q-Learning With World Models**|Perry Dong et.al.|[2608.17163v1](http://arxiv.org/abs/2608.17163v1)|null|[αX↑77](https://alphaxiv.org/abs/2608.17163)|

@@ -1,19 +1,25 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.24
+### Updated on 2026.08.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.22341)|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|[link](https://github.com/UAV-AVL/DECO)|[αX↑0](https://alphaxiv.org/abs/2608.22289)|
+|**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|[link](https://github.com/google-deepmind/orbit)|[αX↑0](https://alphaxiv.org/abs/2608.22039)|
+|**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029v1](http://arxiv.org/abs/2608.22029v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22029)|
+|**2026-08-22**|**Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors**|Chaoran Huang et.al.|[2608.21837v1](http://arxiv.org/abs/2608.21837v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21837)|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|[link](https://github.com/SuperShrimp/FlashReg)|[αX↑0](https://alphaxiv.org/abs/2608.21804)|
 |**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21066)|
 |**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|[link](https://github.com/pyxploiter/HandMvNet)|[αX↑3](https://alphaxiv.org/abs/2608.20093)|
-|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.20056)|
+|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.20056)|
 |**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|[link](https://github.com/jakubmicorek/STEP)|[αX↑3](https://alphaxiv.org/abs/2608.19987)|
 |**2026-08-20**|**PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly**|Kulunu Samarawickrama et.al.|[2608.19968v1](http://arxiv.org/abs/2608.19968v1)|[link](https://github.com/KulunuOS/PVRA)|[αX↑3](https://alphaxiv.org/abs/2608.19968)|
 |**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|[link](https://github.com/francois141/upal)|[αX↑3](https://alphaxiv.org/abs/2608.19894)|
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19480)|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.18470)|
-|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.17691)|
-|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.17691)|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.16785)|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑26](https://alphaxiv.org/abs/2608.15984)|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑22](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15815)|
