@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.08.25
+### Updated on 2026.08.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -14,10 +14,10 @@ layout: default
 |**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029v1](http://arxiv.org/abs/2608.22029v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22029)|
 |**2026-08-22**|**Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors**|Chaoran Huang et.al.|[2608.21837v1](http://arxiv.org/abs/2608.21837v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21837)|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|[link](https://github.com/SuperShrimp/FlashReg)|[αX↑0](https://alphaxiv.org/abs/2608.21804)|
-|**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21066)|
-|**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|[link](https://github.com/pyxploiter/HandMvNet)|[αX↑3](https://alphaxiv.org/abs/2608.20093)|
+|**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.21066)|
+|**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|[link](https://github.com/pyxploiter/HandMvNet)|[αX↑4](https://alphaxiv.org/abs/2608.20093)|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.20056)|
-|**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|[link](https://github.com/jakubmicorek/STEP)|[αX↑3](https://alphaxiv.org/abs/2608.19987)|
+|**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|[link](https://github.com/jakubmicorek/STEP)|[αX↑6](https://alphaxiv.org/abs/2608.19987)|
 |**2026-08-20**|**PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly**|Kulunu Samarawickrama et.al.|[2608.19968v1](http://arxiv.org/abs/2608.19968v1)|[link](https://github.com/KulunuOS/PVRA)|[αX↑3](https://alphaxiv.org/abs/2608.19968)|
 |**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|[link](https://github.com/francois141/upal)|[αX↑3](https://alphaxiv.org/abs/2608.19894)|
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19480)|
