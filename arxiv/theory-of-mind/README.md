@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.08.26
+### Updated on 2026.08.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-26**|**Unmatched Does Not Mean False: Incomplete Reference Sets Can Reverse Calibration Rankings in Open-Ended Theory-of-Mind Tracking**|Zhexi Feng et.al.|[2608.25654v1](http://arxiv.org/abs/2608.25654v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25654)|
 |**2026-08-23**|**Don' t Box Me In: Dynamic Cultural Adaptation and Cognitive Tracking for Social Understanding**|Chongyuan Dai et.al.|[2608.22411v1](http://arxiv.org/abs/2608.22411v1)|[link](https://github.com/MindIntLab-HFUT/DyCAC)|[αX↑1](https://alphaxiv.org/abs/2608.22411)|
 |**2026-08-11**|**Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context**|Hong-Son Nguyen et.al.|[2608.21411v1](http://arxiv.org/abs/2608.21411v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21411)|
 |**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan et.al.|[2608.20975v1](http://arxiv.org/abs/2608.20975v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.20975)|

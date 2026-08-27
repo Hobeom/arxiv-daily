@@ -4,10 +4,11 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.08.26
+### Updated on 2026.08.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25701)|
 |**2026-08-25**|**MoTE: Mixture of Task Experts for Multi-Task Video Understanding**|Muhammad Asad Ali et.al.|[2608.24763v1](http://arxiv.org/abs/2608.24763v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24763)|
 |**2026-08-25**|**ConsensusTAS: Self-Supervised Temporal Action Segmentation for Long-Horizon Construction Videos**|Xiaoshan Zhou et.al.|[2608.24043v1](http://arxiv.org/abs/2608.24043v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24043)|
 |**2026-08-24**|**ByteAction: Byte-space Action Recognition Foundation Model**|Fangcheng Li et.al.|[2608.22760v1](http://arxiv.org/abs/2608.22760v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.22760)|

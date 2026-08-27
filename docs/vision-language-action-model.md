@@ -4,10 +4,17 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.26
+### Updated on 2026.08.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-26**|**StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models**|Zhe Liu et.al.|[2608.26067v1](http://arxiv.org/abs/2608.26067v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.26067)|
+|**2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Zaibin Zhang et.al.|[2608.25864v1](http://arxiv.org/abs/2608.25864v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25864)|
+|**2026-08-26**|**TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback**|Jianbo Zhou et.al.|[2608.25798v1](http://arxiv.org/abs/2608.25798v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25798)|
+|**2026-08-26**|**RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation**|Sanghwan Jang et.al.|[2608.25585v1](http://arxiv.org/abs/2608.25585v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25585)|
+|**2026-08-26**|**A Taxonomy of Construction Task Activities for Robot Workers**|Sadman Sakib et.al.|[2608.25395v1](http://arxiv.org/abs/2608.25395v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25395)|
+|**2026-08-26**|**V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models**|Yehao Lu et.al.|[2608.25308v1](http://arxiv.org/abs/2608.25308v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25308)|
+|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[2608.24959v1](http://arxiv.org/abs/2608.24959v1)|[link](https://github.com/GaussVLA/GaussVLA)|[αX↑0](https://alphaxiv.org/abs/2608.24959)|
 |**2026-08-25**|**Gripper-aware Vision Language Action Models**|Hanyi Zhang et.al.|[2608.24603v1](http://arxiv.org/abs/2608.24603v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24603)|
 |**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Suhwan Choi et.al.|[2608.24115v1](http://arxiv.org/abs/2608.24115v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24115)|
 |**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Haoran Hao et.al.|[2608.24042v1](http://arxiv.org/abs/2608.24042v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24042)|

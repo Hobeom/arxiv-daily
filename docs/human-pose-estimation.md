@@ -4,10 +4,12 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.08.26
+### Updated on 2026.08.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.26011)|
+|**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25642)|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24384)|
 |**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23995)|
 |**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23762)|

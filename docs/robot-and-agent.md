@@ -4,18 +4,24 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.26
+### Updated on 2026.08.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v1](http://arxiv.org/abs/2608.26103v1)|[link](https://github.com/robbyant-research/Zero-WAM)|[αX↑1](https://alphaxiv.org/abs/2608.26103)|
+|**2026-08-26**|**Advantage-Driven Explicit Memory for Social Navigation**|Yeonsoo Park et.al.|[2608.25610v1](http://arxiv.org/abs/2608.25610v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25610)|
+|**2026-08-26**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479v1](http://arxiv.org/abs/2608.25479v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25479)|
+|**2026-08-26**|**Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning**|Srivalli Katkuri et.al.|[2608.25350v1](http://arxiv.org/abs/2608.25350v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25350)|
+|**2026-08-25**|**Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment**|Nina Moorman et.al.|[2608.25196v1](http://arxiv.org/abs/2608.25196v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25196)|
+|**2026-08-25**|**CRESSim-Neo: A Batched GPU Simulation Engine for Surgical Robotics and Robot Learning**|Yafei Ou et.al.|[2608.25192v1](http://arxiv.org/abs/2608.25192v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25192)|
 |**2026-08-25**|**Bridging Teacher Expectations and Robot Learning via Coupling Dynamics**|Evan Dallas et.al.|[2608.23994v1](http://arxiv.org/abs/2608.23994v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23994)|
 |**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927v1](http://arxiv.org/abs/2608.23927v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23927)|
 |**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839v1](http://arxiv.org/abs/2608.23839v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23839)|
-|**2026-08-24**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831v1](http://arxiv.org/abs/2608.23831v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23831)|
+|**2026-08-26**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831v2](http://arxiv.org/abs/2608.23831v2)|null|[αX↑0](https://alphaxiv.org/abs/2608.23831)|
 |**2026-08-24**|**Physics Filtering Favors the Generalization of Robot Learning**|Jindou Jia et.al.|[2608.22701v1](http://arxiv.org/abs/2608.22701v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.22701)|
 |**2026-08-23**|**WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning**|Chunkai Yang et.al.|[2608.22591v1](http://arxiv.org/abs/2608.22591v1)|null|[🤗👍1](https://huggingface.co/papers/2608.22591) [αX↑8](https://alphaxiv.org/abs/2608.22591)|
 |**2026-08-23**|**The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction**|Xunzhe Zhou et.al.|[2608.22301v1](http://arxiv.org/abs/2608.22301v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.22301)|
-|**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149v1](http://arxiv.org/abs/2608.22149v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.22149)|
+|**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149v2](http://arxiv.org/abs/2608.22149v2)|null|[αX↑1](https://alphaxiv.org/abs/2608.22149)|
 |**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055v2](http://arxiv.org/abs/2608.22055v2)|[link](https://github.com/JulianZJN/GenCoord)|[αX↑1](https://alphaxiv.org/abs/2608.22055)|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878v1](http://arxiv.org/abs/2608.21878v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21878)|
 |**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247v1](http://arxiv.org/abs/2608.21247v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.21247)|
