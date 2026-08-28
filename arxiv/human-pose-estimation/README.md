@@ -1,16 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.27
+### Updated on 2026.08.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.26011)|
-|**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25642)|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.27181)|
+|**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26859)|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.26589)|
+|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.26011)|
+|**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.25642)|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.24384)|
-|**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.23995)|
-|**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.23762)|
+|**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.23995)|
+|**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.23762)|
 |**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.22341)|
-|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|[link](https://github.com/UAV-AVL/DECO)|[αX↑1](https://alphaxiv.org/abs/2608.22289)|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|[link](https://github.com/UAV-AVL/DECO)|[αX↑2](https://alphaxiv.org/abs/2608.22289)|
 |**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|[link](https://github.com/google-deepmind/orbit)|[αX↑3](https://alphaxiv.org/abs/2608.22039)|
 |**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029v1](http://arxiv.org/abs/2608.22029v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.22029)|
 |**2026-08-22**|**Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors**|Chaoran Huang et.al.|[2608.21837v1](http://arxiv.org/abs/2608.21837v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.21837)|

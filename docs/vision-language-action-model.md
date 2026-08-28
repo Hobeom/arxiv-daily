@@ -4,20 +4,25 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.08.27
+### Updated on 2026.08.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-26**|**StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models**|Zhe Liu et.al.|[2608.26067v1](http://arxiv.org/abs/2608.26067v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.26067)|
-|**2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Zaibin Zhang et.al.|[2608.25864v1](http://arxiv.org/abs/2608.25864v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25864)|
-|**2026-08-26**|**TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback**|Jianbo Zhou et.al.|[2608.25798v1](http://arxiv.org/abs/2608.25798v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25798)|
-|**2026-08-26**|**RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation**|Sanghwan Jang et.al.|[2608.25585v1](http://arxiv.org/abs/2608.25585v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25585)|
-|**2026-08-26**|**A Taxonomy of Construction Task Activities for Robot Workers**|Sadman Sakib et.al.|[2608.25395v1](http://arxiv.org/abs/2608.25395v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25395)|
-|**2026-08-26**|**V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models**|Yehao Lu et.al.|[2608.25308v1](http://arxiv.org/abs/2608.25308v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.25308)|
-|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[2608.24959v1](http://arxiv.org/abs/2608.24959v1)|[link](https://github.com/GaussVLA/GaussVLA)|[αX↑0](https://alphaxiv.org/abs/2608.24959)|
-|**2026-08-25**|**Gripper-aware Vision Language Action Models**|Hanyi Zhang et.al.|[2608.24603v1](http://arxiv.org/abs/2608.24603v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.24603)|
-|**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Suhwan Choi et.al.|[2608.24115v1](http://arxiv.org/abs/2608.24115v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.24115)|
-|**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Haoran Hao et.al.|[2608.24042v1](http://arxiv.org/abs/2608.24042v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.24042)|
+|**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384v1](http://arxiv.org/abs/2608.27384v1)|[link](https://github.com/z-lab/flashvla)|[αX↑14](https://alphaxiv.org/abs/2608.27384)|
+|**2026-08-27**|**TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation**|Jiarui Yang et.al.|[2608.26821v1](http://arxiv.org/abs/2608.26821v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26821)|
+|**2026-08-27**|**PredVLA: A Sub-Million-Parameter Predictive-Coding Policy for Robot Manipulation**|Hiroki Sawada et.al.|[2608.26673v1](http://arxiv.org/abs/2608.26673v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.26673)|
+|**2026-08-27**|**FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation**|Ganlong Zhao et.al.|[2608.26645v1](http://arxiv.org/abs/2608.26645v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.26645)|
+|**2026-08-27**|**TrapVLA: Trapping Vision-Language-Action Models in Configured Failure Modes**|Jun-Hui Liu et.al.|[2608.26578v1](http://arxiv.org/abs/2608.26578v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.26578)|
+|**2026-08-26**|**StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models**|Zhe Liu et.al.|[2608.26067v1](http://arxiv.org/abs/2608.26067v1)|[link](https://github.com/hku-sail/StreamPI)|[🤗👍18](https://huggingface.co/papers/2608.26067) [αX↑12](https://alphaxiv.org/abs/2608.26067)|
+|**2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Zaibin Zhang et.al.|[2608.25864v1](http://arxiv.org/abs/2608.25864v1)|[link](https://github.com/zhangzaibin/future-robots)|[🤗👍8](https://huggingface.co/papers/2608.25864) [αX↑5](https://alphaxiv.org/abs/2608.25864)|
+|**2026-08-26**|**TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback**|Jianbo Zhou et.al.|[2608.25798v1](http://arxiv.org/abs/2608.25798v1)|null|[αX↑11](https://alphaxiv.org/abs/2608.25798)|
+|**2026-08-26**|**RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation**|Sanghwan Jang et.al.|[2608.25585v1](http://arxiv.org/abs/2608.25585v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.25585)|
+|**2026-08-26**|**A Taxonomy of Construction Task Activities for Robot Workers**|Sadman Sakib et.al.|[2608.25395v1](http://arxiv.org/abs/2608.25395v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.25395)|
+|**2026-08-26**|**V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models**|Yehao Lu et.al.|[2608.25308v1](http://arxiv.org/abs/2608.25308v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.25308)|
+|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[2608.24959v1](http://arxiv.org/abs/2608.24959v1)|[link](https://github.com/GaussVLA/GaussVLA)|[αX↑6](https://alphaxiv.org/abs/2608.24959)|
+|**2026-08-25**|**Gripper-aware Vision Language Action Models**|Hanyi Zhang et.al.|[2608.24603v1](http://arxiv.org/abs/2608.24603v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.24603)|
+|**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Suhwan Choi et.al.|[2608.24115v1](http://arxiv.org/abs/2608.24115v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.24115)|
+|**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Haoran Hao et.al.|[2608.24042v1](http://arxiv.org/abs/2608.24042v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.24042)|
 |**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Sangoh Lee et.al.|[2608.23478v1](http://arxiv.org/abs/2608.23478v1)|null|[αX↑17](https://alphaxiv.org/abs/2608.23478)|
 |**2026-08-24**|**ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots**|Nils Mandischer et.al.|[2608.23320v1](http://arxiv.org/abs/2608.23320v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.23320)|
 |**2026-08-24**|**Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation**|Xiwen Chen et.al.|[2608.23138v1](http://arxiv.org/abs/2608.23138v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.23138)|
