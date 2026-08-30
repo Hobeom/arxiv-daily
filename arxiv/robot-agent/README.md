@@ -1,29 +1,29 @@
 ## Robot & Agent
 
-### Updated on 2026.08.29
+### Updated on 2026.08.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Canzhi Chen et.al.|[2608.27371v1](http://arxiv.org/abs/2608.27371v1)|[link](https://github.com/BIT-PIE/ESRP)|[αX↑2](https://alphaxiv.org/abs/2608.27371)|
-|**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Xiaoxiao Lu et.al.|[2608.27259v1](http://arxiv.org/abs/2608.27259v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.27259)|
-|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Haofeng Sun et.al.|[2608.27033v1](http://arxiv.org/abs/2608.27033v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.27033)|
-|**2026-08-27**|**4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation**|Zehao Qi et.al.|[2608.26947v1](http://arxiv.org/abs/2608.26947v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26947)|
-|**2026-08-27**|**Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling**|Taeyoon Lee et.al.|[2608.26800v1](http://arxiv.org/abs/2608.26800v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26800)|
-|**2026-08-27**|**Memory Anchors for Continual Robot Learning**|Maximilian Du et.al.|[2608.26545v1](http://arxiv.org/abs/2608.26545v1)|null|[αX↑23](https://alphaxiv.org/abs/2608.26545)|
-|**2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Maeve Zhang et.al.|[2608.26239v1](http://arxiv.org/abs/2608.26239v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.26239)|
+|**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Xiaoxiao Lu et.al.|[2608.27259v1](http://arxiv.org/abs/2608.27259v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27259)|
+|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Haofeng Sun et.al.|[2608.27033v1](http://arxiv.org/abs/2608.27033v1)|null|[αX↑11](https://alphaxiv.org/abs/2608.27033)|
+|**2026-08-27**|**4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation**|Zehao Qi et.al.|[2608.26947v1](http://arxiv.org/abs/2608.26947v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.26947)|
+|**2026-08-27**|**Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling**|Taeyoon Lee et.al.|[2608.26800v1](http://arxiv.org/abs/2608.26800v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.26800)|
+|**2026-08-27**|**Memory Anchors for Continual Robot Learning**|Maximilian Du et.al.|[2608.26545v1](http://arxiv.org/abs/2608.26545v1)|null|[αX↑46](https://alphaxiv.org/abs/2608.26545)|
+|**2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Maeve Zhang et.al.|[2608.26239v1](http://arxiv.org/abs/2608.26239v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.26239)|
 |**2026-08-26**|**Surgical Video Generation From Diffusion to World Models: A Survey**|Fuxiang Huang et.al.|[2608.26214v1](http://arxiv.org/abs/2608.26214v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.26214)|
-|**2026-08-27**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v2](http://arxiv.org/abs/2608.26103v2)|[link](https://github.com/robbyant-research/Zero-WAM)|[αX↑40](https://alphaxiv.org/abs/2608.26103)|
-|**2026-08-26**|**Advantage-Driven Explicit Memory for Social Navigation**|Yeonsoo Park et.al.|[2608.25610v1](http://arxiv.org/abs/2608.25610v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.25610)|
-|**2026-08-27**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479v2](http://arxiv.org/abs/2608.25479v2)|null|[αX↑9](https://alphaxiv.org/abs/2608.25479)|
+|**2026-08-27**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v2](http://arxiv.org/abs/2608.26103v2)|[link](https://github.com/robbyant-research/Zero-WAM)|[αX↑53](https://alphaxiv.org/abs/2608.26103)|
+|**2026-08-26**|**Advantage-Driven Explicit Memory for Social Navigation**|Yeonsoo Park et.al.|[2608.25610v1](http://arxiv.org/abs/2608.25610v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.25610)|
+|**2026-08-27**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479v2](http://arxiv.org/abs/2608.25479v2)|null|[αX↑13](https://alphaxiv.org/abs/2608.25479)|
 |**2026-08-26**|**Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning**|Srivalli Katkuri et.al.|[2608.25350v1](http://arxiv.org/abs/2608.25350v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25350)|
-|**2026-08-25**|**Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment**|Nina Moorman et.al.|[2608.25196v1](http://arxiv.org/abs/2608.25196v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25196)|
-|**2026-08-25**|**CRESSim-Neo: A Batched GPU Simulation Engine for Surgical Robotics and Robot Learning**|Yafei Ou et.al.|[2608.25192v1](http://arxiv.org/abs/2608.25192v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25192)|
+|**2026-08-25**|**Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment**|Nina Moorman et.al.|[2608.25196v1](http://arxiv.org/abs/2608.25196v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.25196)|
+|**2026-08-25**|**CRESSim-Neo: A Batched GPU Simulation Engine for Surgical Robotics and Robot Learning**|Yafei Ou et.al.|[2608.25192v1](http://arxiv.org/abs/2608.25192v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.25192)|
 |**2026-08-25**|**Bridging Teacher Expectations and Robot Learning via Coupling Dynamics**|Evan Dallas et.al.|[2608.23994v1](http://arxiv.org/abs/2608.23994v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.23994)|
 |**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927v1](http://arxiv.org/abs/2608.23927v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.23927)|
 |**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839v1](http://arxiv.org/abs/2608.23839v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.23839)|
-|**2026-08-26**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831v2](http://arxiv.org/abs/2608.23831v2)|null|[αX↑23](https://alphaxiv.org/abs/2608.23831)|
-|**2026-08-24**|**Physics Filtering Favors the Generalization of Robot Learning**|Jindou Jia et.al.|[2608.22701v1](http://arxiv.org/abs/2608.22701v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.22701)|
-|**2026-08-23**|**WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning**|Chunkai Yang et.al.|[2608.22591v1](http://arxiv.org/abs/2608.22591v1)|null|[🤗👍1](https://huggingface.co/papers/2608.22591) [αX↑26](https://alphaxiv.org/abs/2608.22591)|
+|**2026-08-26**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831v2](http://arxiv.org/abs/2608.23831v2)|null|[αX↑26](https://alphaxiv.org/abs/2608.23831)|
+|**2026-08-24**|**Physics Filtering Favors the Generalization of Robot Learning**|Jindou Jia et.al.|[2608.22701v1](http://arxiv.org/abs/2608.22701v1)|null|[αX↑11](https://alphaxiv.org/abs/2608.22701)|
+|**2026-08-23**|**WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning**|Chunkai Yang et.al.|[2608.22591v1](http://arxiv.org/abs/2608.22591v1)|null|[🤗👍1](https://huggingface.co/papers/2608.22591) [αX↑30](https://alphaxiv.org/abs/2608.22591)|
 |**2026-08-23**|**The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction**|Xunzhe Zhou et.al.|[2608.22301v1](http://arxiv.org/abs/2608.22301v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.22301)|
 |**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149v2](http://arxiv.org/abs/2608.22149v2)|null|[αX↑2](https://alphaxiv.org/abs/2608.22149)|
 |**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055v2](http://arxiv.org/abs/2608.22055v2)|[link](https://github.com/JulianZJN/GenCoord)|[αX↑1](https://alphaxiv.org/abs/2608.22055)|
