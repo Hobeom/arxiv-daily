@@ -8,14 +8,15 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584v1](http://arxiv.org/abs/2608.27584v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27584)|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27181)|
-|**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.26859)|
-|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.26589)|
-|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.26011)|
+|**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.26859)|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26589)|
+|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26011)|
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25642)|
-|**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.24384)|
+|**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.24384)|
 |**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.23995)|
-|**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.23762)|
+|**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.23762)|
 |**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.22341)|
 |**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|[link](https://github.com/UAV-AVL/DECO)|[αX↑2](https://alphaxiv.org/abs/2608.22289)|
 |**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|[link](https://github.com/google-deepmind/orbit)|[αX↑3](https://alphaxiv.org/abs/2608.22039)|
@@ -31,7 +32,7 @@ layout: default
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19480)|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.18470)|
 |**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.17691)|
-|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.16785)|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑26](https://alphaxiv.org/abs/2608.15984)|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑22](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15815)|
