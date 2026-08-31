@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.08.30
+### Updated on 2026.08.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -63,7 +63,7 @@ layout: default
 |**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Xin Ding et.al.|[2608.16590v1](http://arxiv.org/abs/2608.16590v1)|[link](https://github.com/air-embodied-brain/Zetta-Embodiment)|[αX↑0](https://alphaxiv.org/abs/2608.16590)|
 |**2026-08-17**|**SurgVIL: Scaling Surgical Robot Imitation Learning with Open-source Surgical Videos**|Xinhao Chen et.al.|[2608.16058v1](http://arxiv.org/abs/2608.16058v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.16058)|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑18](https://alphaxiv.org/abs/2608.15917)|
-|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15875)|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|[link](https://github.com/open-gigaai/giga-brain-0)|[αX↑0](https://alphaxiv.org/abs/2608.15875)|
 |**2026-08-15**|**FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge**|Rajat Bhattacharjya et.al.|[2608.15410v1](http://arxiv.org/abs/2608.15410v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15410)|
 |**2026-08-15**|**Remember Smarter: Visual History Compressor and Hyperbolic Experience Space for Robotic Memory**|Dai Zhou et.al.|[2608.15269v1](http://arxiv.org/abs/2608.15269v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.15269)|
 |**2026-08-15**|**Max-Q Selective Imitation for Human-in-the-Loop Online Robot Learning**|Zihang Wang et.al.|[2608.15088v1](http://arxiv.org/abs/2608.15088v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.15088)|

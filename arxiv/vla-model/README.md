@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.08.30
+### Updated on 2026.08.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 |**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**|Aniri et.al.|[2608.16697v1](http://arxiv.org/abs/2608.16697v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.16697)|
 |**2026-08-17**|**NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation**|Cong Zhao et.al.|[2608.16503v1](http://arxiv.org/abs/2608.16503v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.16503)|
 |**2026-08-17**|**US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina**|Cheng Zhang et.al.|[2608.16074v1](http://arxiv.org/abs/2608.16074v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.16074)|
-|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|null|[αX↑52](https://alphaxiv.org/abs/2608.15875)|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875v1](http://arxiv.org/abs/2608.15875v1)|[link](https://github.com/open-gigaai/giga-brain-0)|[αX↑52](https://alphaxiv.org/abs/2608.15875)|
 |**2026-08-16**|**ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation**|Yi Wang et.al.|[2608.15816v1](http://arxiv.org/abs/2608.15816v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.15816)|
 |**2026-08-16**|**Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation**|Yijie Xu et.al.|[2608.15680v1](http://arxiv.org/abs/2608.15680v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.15680)|
 |**2026-08-16**|**Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification**|Chunyu Qi et.al.|[2608.15636v1](http://arxiv.org/abs/2608.15636v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.15636)|
