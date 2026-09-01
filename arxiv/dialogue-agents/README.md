@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-23**|**Query-Driven Multimodal Information Extraction from Long Documents**|Yikai Gao et.al.|[2608.22214v1](http://arxiv.org/abs/2608.22214v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.22214)|
+|**2026-08-23**|**Query-Driven Multimodal Information Extraction from Long Documents**|Yikai Gao et.al.|[2608.22214v1](http://arxiv.org/abs/2608.22214v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.22214)|
 |**2026-08-24**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739v2](http://arxiv.org/abs/2608.19739v2)|null|[αX↑13](https://alphaxiv.org/abs/2608.19739)|
 |**2026-08-12**|**Adjacency-Based Spectral Proxy Control of Mobile Communication Agents**|Mariana del Castillo et.al.|[2608.13616v1](http://arxiv.org/abs/2608.13616v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.13616)|
 |**2026-08-13**|**Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks**|Muhammad Hannan Akram et.al.|[2608.13394v1](http://arxiv.org/abs/2608.13394v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.13394)|
