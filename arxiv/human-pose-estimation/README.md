@@ -1,9 +1,16 @@
 ## Human Pose Estimation
 
-### Updated on 2026.08.31
+### Updated on 2026.09.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.31074)|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30821)|
+|**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30521)|
+|**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927v1](http://arxiv.org/abs/2608.29927v1)|[link](https://github.com/danderfer/Comp_Sci_Sem_2)|[αX↑0](https://alphaxiv.org/abs/2608.29927)|
+|**2026-08-29**|**Foundational feature fusion for conditional flow matching in 6D pose estimation**|Amir Hamza et.al.|[2608.29183v1](http://arxiv.org/abs/2608.29183v1)|[link](https://github.com/tev-fbk/FunFlow6D)|[αX↑0](https://alphaxiv.org/abs/2608.29183)|
+|**2026-08-28**|**BlobBoards: Robust Markers for Accurate Pose**|James Pritts et.al.|[2608.28830v1](http://arxiv.org/abs/2608.28830v1)|[link](https://github.com/blobboards/blobboards.github.io)|[αX↑0](https://alphaxiv.org/abs/2608.28830)|
+|**2026-08-28**|**SCoPE-Reg: Efficient Rigid Ultrasound Slice-to-Volume Registration via State-Space Correlation and Closed-Form Pose Estimation**|Niklas Schwarz et.al.|[2608.28715v1](http://arxiv.org/abs/2608.28715v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.28715)|
 |**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584v1](http://arxiv.org/abs/2608.27584v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27584)|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27181)|
 |**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.26859)|

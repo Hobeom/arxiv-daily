@@ -1,9 +1,11 @@
 ## Theory of Mind
 
-### Updated on 2026.08.31
+### Updated on 2026.09.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-08-31**|**Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment**|Yifan Zhu et.al.|[2608.30719v1](http://arxiv.org/abs/2608.30719v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30719)|
+|**2026-08-31**|**SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos**|Zheyu Huang et.al.|[2608.30716v1](http://arxiv.org/abs/2608.30716v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30716)|
 |**2026-08-28**|**The Shape of Power: A Multilingual Framework for Social Power Reasoning in Dialogues**|Farah Atif et.al.|[2608.28144v1](http://arxiv.org/abs/2608.28144v1)|[link](https://github.com/farahFif/Social-Power-in-Dialogs)|[αX↑0](https://alphaxiv.org/abs/2608.28144)|
 |**2026-08-26**|**Assessing mentalization in humans and large language models**|Aamir Sohail et.al.|[2608.26291v1](http://arxiv.org/abs/2608.26291v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26291)|
 |**2026-08-26**|**Unmatched Does Not Mean False: Incomplete Reference Sets Can Reverse Calibration Rankings in Open-Ended Theory-of-Mind Tracking**|Zhexi Feng et.al.|[2608.25654v1](http://arxiv.org/abs/2608.25654v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25654)|
