@@ -4,23 +4,28 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.01
+### Updated on 2026.09.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983v1](http://arxiv.org/abs/2608.30983v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30983)|
-|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760v1](http://arxiv.org/abs/2608.30760v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30760)|
+|**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|[link](https://github.com/nabirarashid/structural-retrieval)|[αX↑0](https://alphaxiv.org/abs/2609.01556)|
+|**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950v1](http://arxiv.org/abs/2609.00950v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.00950)|
+|**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845v1](http://arxiv.org/abs/2609.00845v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00845)|
+|**2026-09-01**|**DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments**|Ming Liao et.al.|[2609.00619v1](http://arxiv.org/abs/2609.00619v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00619)|
+|**2026-08-31**|**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**|Rongze Tang et.al.|[2609.00161v1](http://arxiv.org/abs/2609.00161v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.00161)|
+|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983v1](http://arxiv.org/abs/2608.30983v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.30983)|
+|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760v1](http://arxiv.org/abs/2608.30760v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30760)|
 |**2026-08-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al.|[2608.30451v1](http://arxiv.org/abs/2608.30451v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30451)|
-|**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237v1](http://arxiv.org/abs/2608.30237v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30237)|
-|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937v1](http://arxiv.org/abs/2608.29937v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29937)|
-|**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910v1](http://arxiv.org/abs/2608.29910v1)|[link](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)|[αX↑0](https://alphaxiv.org/abs/2608.29910)|
-|**2026-08-30**|**EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy**|Zhirui Fang et.al.|[2608.29896v1](http://arxiv.org/abs/2608.29896v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29896)|
-|**2026-08-30**|**SmoothRL: Online Reinforcement Learning During Asynchronous Execution**|Guang Gao et.al.|[2608.29768v1](http://arxiv.org/abs/2608.29768v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29768)|
+|**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237v1](http://arxiv.org/abs/2608.30237v1)|null|[αX↑41](https://alphaxiv.org/abs/2608.30237)|
+|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937v1](http://arxiv.org/abs/2608.29937v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.29937)|
+|**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910v1](http://arxiv.org/abs/2608.29910v1)|[link](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)|[🤗👍14](https://huggingface.co/papers/2608.29910) [αX↑10](https://alphaxiv.org/abs/2608.29910)|
+|**2026-08-30**|**EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy**|Zhirui Fang et.al.|[2608.29896v1](http://arxiv.org/abs/2608.29896v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.29896)|
+|**2026-08-30**|**SmoothRL: Online Reinforcement Learning During Asynchronous Execution**|Guang Gao et.al.|[2608.29768v1](http://arxiv.org/abs/2608.29768v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.29768)|
 |**2026-08-29**|**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**|Cheng Chen et.al.|[2608.29242v1](http://arxiv.org/abs/2608.29242v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29242)|
-|**2026-08-29**|**Teaching Robot Policies to Humans Using Erroneous Examples**|Rithika Narayan et.al.|[2608.29023v1](http://arxiv.org/abs/2608.29023v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29023)|
+|**2026-08-29**|**Teaching Robot Policies to Humans Using Erroneous Examples**|Rithika Narayan et.al.|[2608.29023v1](http://arxiv.org/abs/2608.29023v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29023)|
 |**2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Yang Chen et.al.|[2608.28266v1](http://arxiv.org/abs/2608.28266v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.28266)|
 |**2026-08-28**|**CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action**|Lekai Chen et.al.|[2608.27797v1](http://arxiv.org/abs/2608.27797v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27797)|
-|**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Fengjun Zhong et.al.|[2608.27497v1](http://arxiv.org/abs/2608.27497v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.27497)|
+|**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Fengjun Zhong et.al.|[2608.27497v1](http://arxiv.org/abs/2608.27497v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27497)|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Canzhi Chen et.al.|[2608.27371v1](http://arxiv.org/abs/2608.27371v1)|[link](https://github.com/BIT-PIE/ESRP)|[αX↑4](https://alphaxiv.org/abs/2608.27371)|
 |**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Xiaoxiao Lu et.al.|[2608.27259v1](http://arxiv.org/abs/2608.27259v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.27259)|
 |**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Haofeng Sun et.al.|[2608.27033v1](http://arxiv.org/abs/2608.27033v1)|null|[αX↑25](https://alphaxiv.org/abs/2608.27033)|

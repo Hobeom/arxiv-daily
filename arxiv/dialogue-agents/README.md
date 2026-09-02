@@ -1,9 +1,11 @@
 ## Dialogue Agents
 
-### Updated on 2026.09.01
+### Updated on 2026.09.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-01**|**PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance**|Rohan Kirti et.al.|[2609.01188v1](http://arxiv.org/abs/2609.01188v1)|[link](https://github.com/Rohan9182/PersuaRL)|[αX↑1](https://alphaxiv.org/abs/2609.01188)|
+|**2026-08-31**|**SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents**|Rayan Khoury et.al.|[2609.00434v1](http://arxiv.org/abs/2609.00434v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.00434)|
 |**2026-08-23**|**Query-Driven Multimodal Information Extraction from Long Documents**|Yikai Gao et.al.|[2608.22214v1](http://arxiv.org/abs/2608.22214v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.22214)|
 |**2026-08-24**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739v2](http://arxiv.org/abs/2608.19739v2)|null|[αX↑13](https://alphaxiv.org/abs/2608.19739)|
 |**2026-08-12**|**Adjacency-Based Spectral Proxy Control of Mobile Communication Agents**|Mariana del Castillo et.al.|[2608.13616v1](http://arxiv.org/abs/2608.13616v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.13616)|
@@ -12,7 +14,7 @@
 |**2026-08-03**|**Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier**|Zafar Hussain et.al.|[2608.11247v1](http://arxiv.org/abs/2608.11247v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.11247)|
 |**2026-08-15**|**Do Personalized Skills Help Coding Agents? An Empirical Study of Developer Interaction Histories**|Shuyan Huang et.al.|[2608.10319v2](http://arxiv.org/abs/2608.10319v2)|null|[αX↑8](https://alphaxiv.org/abs/2608.10319)|
 |**2026-08-10**|**NeuroRefiner: Morphology-Aware Multi-Agent Refinement for 3D Fluorescence Microscopy Neuron Segmentation**|Haiyang Yan et.al.|[2608.09636v1](http://arxiv.org/abs/2608.09636v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.09636)|
-|**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑7](https://alphaxiv.org/abs/2608.09251)|
+|**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑8](https://alphaxiv.org/abs/2608.09251)|
 |**2026-08-07**|**IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents**|Senhao Wang et.al.|[2608.06735v1](http://arxiv.org/abs/2608.06735v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.06735)|
 |**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372v1](http://arxiv.org/abs/2608.02372v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.02372)|
 |**2026-08-03**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v1](http://arxiv.org/abs/2608.01708v1)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑7](https://alphaxiv.org/abs/2608.01708)|
