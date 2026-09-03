@@ -4,16 +4,19 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.02
+### Updated on 2026.09.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|[link](https://github.com/Abradshaw1/Muybridge)|[αX↑2](https://alphaxiv.org/abs/2609.02854)|
+|**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02705)|
+|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.01840)|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.01530)|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.01089)|
 |**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.00995)|
 |**2026-09-01**|**Efficient and Robust Absolute Pose Estimation via Gravity-Prior-Driven Transformation Decoupling and Pose Refinement**|Hu Cao et.al.|[2609.00713v1](http://arxiv.org/abs/2609.00713v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00713)|
 |**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.31074)|
-|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|[🤗👍96](https://huggingface.co/papers/2608.30821) [αX↑32](https://alphaxiv.org/abs/2608.30821)|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|[🤗👍102](https://huggingface.co/papers/2608.30821) [αX↑32](https://alphaxiv.org/abs/2608.30821)|
 |**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30521)|
 |**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927v1](http://arxiv.org/abs/2608.29927v1)|[link](https://github.com/danderfer/Comp_Sci_Sem_2)|[αX↑4](https://alphaxiv.org/abs/2608.29927)|
 |**2026-08-29**|**Foundational feature fusion for conditional flow matching in 6D pose estimation**|Amir Hamza et.al.|[2608.29183v1](http://arxiv.org/abs/2608.29183v1)|[link](https://github.com/tev-fbk/FunFlow6D)|[αX↑1](https://alphaxiv.org/abs/2608.29183)|

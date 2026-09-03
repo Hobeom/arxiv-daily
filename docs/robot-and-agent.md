@@ -4,10 +4,13 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.02
+### Updated on 2026.09.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.02531)|
+|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02402)|
+|**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350v1](http://arxiv.org/abs/2609.02350v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02350)|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|[link](https://github.com/nabirarashid/structural-retrieval)|[αX↑0](https://alphaxiv.org/abs/2609.01556)|
 |**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950v1](http://arxiv.org/abs/2609.00950v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.00950)|
 |**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845v1](http://arxiv.org/abs/2609.00845v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00845)|
@@ -27,11 +30,11 @@ layout: default
 |**2026-08-28**|**CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action**|Lekai Chen et.al.|[2608.27797v1](http://arxiv.org/abs/2608.27797v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27797)|
 |**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Fengjun Zhong et.al.|[2608.27497v1](http://arxiv.org/abs/2608.27497v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27497)|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Canzhi Chen et.al.|[2608.27371v1](http://arxiv.org/abs/2608.27371v1)|[link](https://github.com/BIT-PIE/ESRP)|[αX↑4](https://alphaxiv.org/abs/2608.27371)|
-|**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Xiaoxiao Lu et.al.|[2608.27259v1](http://arxiv.org/abs/2608.27259v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.27259)|
-|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Haofeng Sun et.al.|[2608.27033v1](http://arxiv.org/abs/2608.27033v1)|null|[αX↑25](https://alphaxiv.org/abs/2608.27033)|
+|**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Xiaoxiao Lu et.al.|[2608.27259v1](http://arxiv.org/abs/2608.27259v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.27259)|
+|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Haofeng Sun et.al.|[2608.27033v1](http://arxiv.org/abs/2608.27033v1)|null|[αX↑33](https://alphaxiv.org/abs/2608.27033)|
 |**2026-08-27**|**4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation**|Zehao Qi et.al.|[2608.26947v1](http://arxiv.org/abs/2608.26947v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.26947)|
 |**2026-08-27**|**Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling**|Taeyoon Lee et.al.|[2608.26800v1](http://arxiv.org/abs/2608.26800v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.26800)|
-|**2026-08-27**|**Memory Anchors for Continual Robot Learning**|Maximilian Du et.al.|[2608.26545v1](http://arxiv.org/abs/2608.26545v1)|null|[αX↑78](https://alphaxiv.org/abs/2608.26545)|
+|**2026-08-27**|**Memory Anchors for Continual Robot Learning**|Maximilian Du et.al.|[2608.26545v1](http://arxiv.org/abs/2608.26545v1)|null|[αX↑89](https://alphaxiv.org/abs/2608.26545)|
 |**2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Maeve Zhang et.al.|[2608.26239v1](http://arxiv.org/abs/2608.26239v1)|null|[αX↑22](https://alphaxiv.org/abs/2608.26239)|
 |**2026-08-26**|**Surgical Video Generation From Diffusion to World Models: A Survey**|Fuxiang Huang et.al.|[2608.26214v1](http://arxiv.org/abs/2608.26214v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.26214)|
 |**2026-08-27**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v2](http://arxiv.org/abs/2608.26103v2)|[link](https://github.com/robbyant-research/Zero-WAM)|[🤗👍19](https://huggingface.co/papers/2608.26103) [αX↑79](https://alphaxiv.org/abs/2608.26103)|
