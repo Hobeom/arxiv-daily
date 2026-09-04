@@ -1,21 +1,21 @@
 ## Action Recognition
 
-### Updated on 2026.09.03
+### Updated on 2026.09.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048v1](http://arxiv.org/abs/2608.31048v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.31048)|
+|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048v1](http://arxiv.org/abs/2608.31048v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.31048)|
 |**2026-08-31**|**TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale**|Sandeep Sricharan Mukku et.al.|[2608.30614v1](http://arxiv.org/abs/2608.30614v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.30614)|
-|**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536v1](http://arxiv.org/abs/2608.30536v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.30536)|
-|**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279v1](http://arxiv.org/abs/2608.30279v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.30279)|
-|**2026-08-30**|**FIS-OT: Feature-Induced Optimal Transport for Unsupervised Action Segmentation**|Linxiang Peng et.al.|[2608.29980v1](http://arxiv.org/abs/2608.29980v1)|[link](https://github.com/flying05/FIS-OT)|[αX↑1](https://alphaxiv.org/abs/2608.29980)|
+|**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536v1](http://arxiv.org/abs/2608.30536v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.30536)|
+|**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279v1](http://arxiv.org/abs/2608.30279v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.30279)|
+|**2026-08-30**|**FIS-OT: Feature-Induced Optimal Transport for Unsupervised Action Segmentation**|Linxiang Peng et.al.|[2608.29980v1](http://arxiv.org/abs/2608.29980v1)|[link](https://github.com/flying05/FIS-OT)|[αX↑2](https://alphaxiv.org/abs/2608.29980)|
 |**2026-08-30**|**MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation**|Xinyao Qin et.al.|[2608.29891v1](http://arxiv.org/abs/2608.29891v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.29891)|
 |**2026-08-30**|**See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning**|Yun Li et.al.|[2608.29611v1](http://arxiv.org/abs/2608.29611v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29611)|
 |**2026-08-29**|**Multi-Scale Temporal Domain Alignment for Federated Video Domain Adaptation**|Lee En-Yi Hannah et.al.|[2608.29186v1](http://arxiv.org/abs/2608.29186v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29186)|
-|**2026-08-27**|**Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps**|Yuzhe Zhao et.al.|[2608.27051v1](http://arxiv.org/abs/2608.27051v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.27051)|
-|**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.25701)|
+|**2026-08-27**|**Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps**|Yuzhe Zhao et.al.|[2608.27051v1](http://arxiv.org/abs/2608.27051v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27051)|
+|**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.25701)|
 |**2026-08-26**|**Pose-Anchored Optical Flow for Low-Latency Human Action Anticipation in Human-Robot Teaming**|Lewis de Zoete Grundy et.al.|[2608.25495v1](http://arxiv.org/abs/2608.25495v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.25495)|
-|**2026-08-25**|**MoTE: Mixture of Task Experts for Multi-Task Video Understanding**|Muhammad Asad Ali et.al.|[2608.24763v1](http://arxiv.org/abs/2608.24763v1)|[link](https://github.com/pyxploiter/videollm-mote)|[🤗👍2](https://huggingface.co/papers/2608.24763) [αX↑8](https://alphaxiv.org/abs/2608.24763)|
+|**2026-08-25**|**MoTE: Mixture of Task Experts for Multi-Task Video Understanding**|Muhammad Asad Ali et.al.|[2608.24763v1](http://arxiv.org/abs/2608.24763v1)|[link](https://github.com/pyxploiter/videollm-mote)|[🤗👍2](https://huggingface.co/papers/2608.24763) [αX↑10](https://alphaxiv.org/abs/2608.24763)|
 |**2026-08-25**|**ConsensusTAS: Self-Supervised Temporal Action Segmentation for Long-Horizon Construction Videos**|Xiaoshan Zhou et.al.|[2608.24043v1](http://arxiv.org/abs/2608.24043v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.24043)|
 |**2026-08-24**|**ByteAction: Byte-space Action Recognition Foundation Model**|Fangcheng Li et.al.|[2608.22760v1](http://arxiv.org/abs/2608.22760v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.22760)|
 |**2026-08-22**|**Design of a Human-Assistance Robot System with Contextual Action Recognition**|Amanuel Ergogo et.al.|[2608.22028v1](http://arxiv.org/abs/2608.22028v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.22028)|

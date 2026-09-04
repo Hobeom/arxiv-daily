@@ -1,9 +1,12 @@
 ## Dialogue Agents
 
-### Updated on 2026.09.03
+### Updated on 2026.09.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-03**|**Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting**|Muneeb Khan et.al.|[2609.03923v1](http://arxiv.org/abs/2609.03923v1)|[link](https://github.com/FKIRSTE/emnlp2026-meeting-delegation)|[αX↑2](https://alphaxiv.org/abs/2609.03923)|
+|**2026-09-02**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203v1](http://arxiv.org/abs/2609.03203v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03203)|
+|**2026-07-06**|**RL-ADA: A World-Feedback Framework for Adversarially Robust Enterprise Dialogue Agents**|Ram Narayanan et.al.|[2609.02902v1](http://arxiv.org/abs/2609.02902v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02902)|
 |**2026-09-01**|**PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance**|Rohan Kirti et.al.|[2609.01188v1](http://arxiv.org/abs/2609.01188v1)|[link](https://github.com/Rohan9182/PersuaRL)|[αX↑1](https://alphaxiv.org/abs/2609.01188)|
 |**2026-08-31**|**SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents**|Rayan Khoury et.al.|[2609.00434v1](http://arxiv.org/abs/2609.00434v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.00434)|
 |**2026-08-23**|**Query-Driven Multimodal Information Extraction from Long Documents**|Yikai Gao et.al.|[2608.22214v1](http://arxiv.org/abs/2608.22214v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.22214)|

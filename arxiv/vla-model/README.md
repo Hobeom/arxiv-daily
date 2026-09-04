@@ -1,16 +1,23 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.03
+### Updated on 2026.09.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927v1](http://arxiv.org/abs/2609.03927v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03927)|
+|**2026-09-03**|**FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation**|Yutian Zhang et.al.|[2609.03889v1](http://arxiv.org/abs/2609.03889v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.03889)|
+|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03715)|
+|**2026-09-03**|**WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models**|Chenhao Zhang et.al.|[2609.03681v1](http://arxiv.org/abs/2609.03681v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03681)|
+|**2026-09-03**|**Scaling Bimanual Household Manipulation from 1,500 hours of Demonstrations to On-Policy Corrections**|Jiafeng Xu et.al.|[2609.03591v1](http://arxiv.org/abs/2609.03591v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.03591)|
+|**2026-09-03**|**Air-Ground Collaborative Vision-and-Language Navigation via Shared Bird's-Eye Maps**|Shuning Zhang et.al.|[2609.03483v1](http://arxiv.org/abs/2609.03483v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.03483)|
+|**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Yidi Wang et.al.|[2609.03276v1](http://arxiv.org/abs/2609.03276v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03276)|
 |**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Mingyu Mei et.al.|[2609.02653v1](http://arxiv.org/abs/2609.02653v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.02653)|
 |**2026-09-02**|**Latent Cluster Analysis for Vision-Language-Action Models**|Theodor Wulff et.al.|[2609.02634v1](http://arxiv.org/abs/2609.02634v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02634)|
 |**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|Mi Yan et.al.|[2609.02546v1](http://arxiv.org/abs/2609.02546v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.02546)|
 |**2026-09-02**|**Towards Zero-Shot Transfer Across Embodiments For Driving VLAs**|Caio Azevedo et.al.|[2609.02341v1](http://arxiv.org/abs/2609.02341v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02341)|
-|**2026-09-01**|**EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents**|Wei Wang et.al.|[2609.01281v1](http://arxiv.org/abs/2609.01281v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.01281)|
+|**2026-09-01**|**EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents**|Wei Wang et.al.|[2609.01281v1](http://arxiv.org/abs/2609.01281v1)|null|[αX↑12](https://alphaxiv.org/abs/2609.01281)|
 |**2026-09-01**|**REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs**|Riyaaz Shaik et.al.|[2609.01215v1](http://arxiv.org/abs/2609.01215v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01215)|
-|**2026-08-31**|**Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.30643v1](http://arxiv.org/abs/2608.30643v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.30643)|
+|**2026-08-31**|**Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.30643v1](http://arxiv.org/abs/2608.30643v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.30643)|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289v1](http://arxiv.org/abs/2608.30289v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30289)|
 |**2026-08-31**|**Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving**|Tongfei Guo et.al.|[2608.30144v1](http://arxiv.org/abs/2608.30144v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.30144)|
 |**2026-08-30**|**Training-Free Action Correction for VLA Model Failures via Language Feedback**|Owen Kwon et.al.|[2608.29967v1](http://arxiv.org/abs/2608.29967v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.29967)|
@@ -18,11 +25,11 @@
 |**2026-08-30**|**DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting**|Yuxuan Gao et.al.|[2608.29749v1](http://arxiv.org/abs/2608.29749v1)|null|[αX↑11](https://alphaxiv.org/abs/2608.29749)|
 |**2026-08-30**|**Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency**|Tian Yu et.al.|[2608.29583v1](http://arxiv.org/abs/2608.29583v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.29583)|
 |**2026-08-29**|**SMILE: Smooth Motion for Improved Long-Horizon VLA Execution**|Jongwoo Park et.al.|[2608.29432v1](http://arxiv.org/abs/2608.29432v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.29432)|
-|**2026-08-29**|**AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models**|Sunghwan Han et.al.|[2608.29208v1](http://arxiv.org/abs/2608.29208v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29208)|
+|**2026-08-29**|**AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models**|Sunghwan Han et.al.|[2608.29208v1](http://arxiv.org/abs/2608.29208v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.29208)|
 |**2026-08-29**|**DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation**|Makoto Sato et.al.|[2608.29078v1](http://arxiv.org/abs/2608.29078v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29078)|
 |**2026-08-28**|**DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA**|Kango Yanagida et.al.|[2608.28108v1](http://arxiv.org/abs/2608.28108v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.28108)|
-|**2026-08-27**|**PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models**|Davood Soleymanzadeh et.al.|[2608.27609v1](http://arxiv.org/abs/2608.27609v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.27609)|
-|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Senqiao Yang et.al.|[2608.27550v1](http://arxiv.org/abs/2608.27550v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍88](https://huggingface.co/papers/2608.27550) [αX↑19](https://alphaxiv.org/abs/2608.27550)|
+|**2026-08-27**|**PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models**|Davood Soleymanzadeh et.al.|[2608.27609v1](http://arxiv.org/abs/2608.27609v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.27609)|
+|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Senqiao Yang et.al.|[2608.27550v1](http://arxiv.org/abs/2608.27550v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍90](https://huggingface.co/papers/2608.27550) [αX↑26](https://alphaxiv.org/abs/2608.27550)|
 |**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384v1](http://arxiv.org/abs/2608.27384v1)|[link](https://github.com/z-lab/flashvla)|[αX↑35](https://alphaxiv.org/abs/2608.27384)|
 |**2026-08-27**|**TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation**|Jiarui Yang et.al.|[2608.26821v1](http://arxiv.org/abs/2608.26821v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.26821)|
 |**2026-08-30**|**PredVLA: Predictive Sensorimotor Modeling for Sub-Million-Parameter Robot Manipulation**|Hiroki Sawada et.al.|[2608.26673v2](http://arxiv.org/abs/2608.26673v2)|null|[αX↑17](https://alphaxiv.org/abs/2608.26673)|
