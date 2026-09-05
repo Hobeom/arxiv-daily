@@ -1,14 +1,14 @@
 ## Human Pose Estimation
 
-### Updated on 2026.09.04
+### Updated on 2026.09.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.04009)|
 |**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.03222)|
 |**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|[link](https://github.com/Abradshaw1/Muybridge)|[αX↑2](https://alphaxiv.org/abs/2609.02854)|
-|**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02705)|
-|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.01840)|
+|**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02705)|
+|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.01840)|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.01530)|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01089)|
 |**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.00995)|
@@ -21,7 +21,7 @@
 |**2026-08-28**|**BlobBoards: Robust Markers for Accurate Pose**|James Pritts et.al.|[2608.28830v1](http://arxiv.org/abs/2608.28830v1)|[link](https://github.com/blobboards/blobboards.github.io)|[αX↑1](https://alphaxiv.org/abs/2608.28830)|
 |**2026-08-28**|**SCoPE-Reg: Efficient Rigid Ultrasound Slice-to-Volume Registration via State-Space Correlation and Closed-Form Pose Estimation**|Niklas Schwarz et.al.|[2608.28715v1](http://arxiv.org/abs/2608.28715v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.28715)|
 |**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584v1](http://arxiv.org/abs/2608.27584v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27584)|
-|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27181)|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.27181)|
 |**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.26859)|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26589)|
 |**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26011)|

@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.09.04
+### Updated on 2026.09.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -9,8 +9,8 @@
 |**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03715)|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657v1](http://arxiv.org/abs/2609.03657v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.03657)|
 |**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Howard Qian et.al.|[2609.03199v1](http://arxiv.org/abs/2609.03199v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03199)|
-|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.02531)|
-|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02402)|
+|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑15](https://alphaxiv.org/abs/2609.02531)|
+|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.02402)|
 |**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350v1](http://arxiv.org/abs/2609.02350v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02350)|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|[link](https://github.com/nabirarashid/structural-retrieval)|[αX↑0](https://alphaxiv.org/abs/2609.01556)|
 |**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950v1](http://arxiv.org/abs/2609.00950v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.00950)|

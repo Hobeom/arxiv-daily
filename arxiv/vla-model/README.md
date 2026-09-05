@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.04
+### Updated on 2026.09.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -11,10 +11,10 @@
 |**2026-09-03**|**Scaling Bimanual Household Manipulation from 1,500 hours of Demonstrations to On-Policy Corrections**|Jiafeng Xu et.al.|[2609.03591v1](http://arxiv.org/abs/2609.03591v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.03591)|
 |**2026-09-03**|**Air-Ground Collaborative Vision-and-Language Navigation via Shared Bird's-Eye Maps**|Shuning Zhang et.al.|[2609.03483v1](http://arxiv.org/abs/2609.03483v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.03483)|
 |**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Yidi Wang et.al.|[2609.03276v1](http://arxiv.org/abs/2609.03276v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03276)|
-|**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Mingyu Mei et.al.|[2609.02653v1](http://arxiv.org/abs/2609.02653v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.02653)|
-|**2026-09-02**|**Latent Cluster Analysis for Vision-Language-Action Models**|Theodor Wulff et.al.|[2609.02634v1](http://arxiv.org/abs/2609.02634v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02634)|
-|**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|Mi Yan et.al.|[2609.02546v1](http://arxiv.org/abs/2609.02546v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.02546)|
-|**2026-09-02**|**Towards Zero-Shot Transfer Across Embodiments For Driving VLAs**|Caio Azevedo et.al.|[2609.02341v1](http://arxiv.org/abs/2609.02341v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02341)|
+|**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Mingyu Mei et.al.|[2609.02653v1](http://arxiv.org/abs/2609.02653v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.02653)|
+|**2026-09-02**|**Latent Cluster Analysis for Vision-Language-Action Models**|Theodor Wulff et.al.|[2609.02634v1](http://arxiv.org/abs/2609.02634v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.02634)|
+|**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|Mi Yan et.al.|[2609.02546v1](http://arxiv.org/abs/2609.02546v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.02546)|
+|**2026-09-02**|**Towards Zero-Shot Transfer Across Embodiments For Driving VLAs**|Caio Azevedo et.al.|[2609.02341v1](http://arxiv.org/abs/2609.02341v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.02341)|
 |**2026-09-01**|**EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents**|Wei Wang et.al.|[2609.01281v1](http://arxiv.org/abs/2609.01281v1)|null|[αX↑12](https://alphaxiv.org/abs/2609.01281)|
 |**2026-09-01**|**REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs**|Riyaaz Shaik et.al.|[2609.01215v1](http://arxiv.org/abs/2609.01215v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01215)|
 |**2026-08-31**|**Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.30643v1](http://arxiv.org/abs/2608.30643v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.30643)|
@@ -32,8 +32,8 @@
 |**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Senqiao Yang et.al.|[2608.27550v1](http://arxiv.org/abs/2608.27550v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍90](https://huggingface.co/papers/2608.27550) [αX↑26](https://alphaxiv.org/abs/2608.27550)|
 |**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384v1](http://arxiv.org/abs/2608.27384v1)|[link](https://github.com/z-lab/flashvla)|[αX↑35](https://alphaxiv.org/abs/2608.27384)|
 |**2026-08-27**|**TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation**|Jiarui Yang et.al.|[2608.26821v1](http://arxiv.org/abs/2608.26821v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.26821)|
-|**2026-08-30**|**PredVLA: Predictive Sensorimotor Modeling for Sub-Million-Parameter Robot Manipulation**|Hiroki Sawada et.al.|[2608.26673v2](http://arxiv.org/abs/2608.26673v2)|null|[αX↑17](https://alphaxiv.org/abs/2608.26673)|
-|**2026-08-27**|**FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation**|Ganlong Zhao et.al.|[2608.26645v1](http://arxiv.org/abs/2608.26645v1)|null|[αX↑15](https://alphaxiv.org/abs/2608.26645)|
+|**2026-08-30**|**PredVLA: Predictive Sensorimotor Modeling for Sub-Million-Parameter Robot Manipulation**|Hiroki Sawada et.al.|[2608.26673v2](http://arxiv.org/abs/2608.26673v2)|null|[αX↑20](https://alphaxiv.org/abs/2608.26673)|
+|**2026-08-27**|**FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation**|Ganlong Zhao et.al.|[2608.26645v1](http://arxiv.org/abs/2608.26645v1)|null|[αX↑16](https://alphaxiv.org/abs/2608.26645)|
 |**2026-08-27**|**TrapVLA: Trapping Vision-Language-Action Models in Configured Failure Modes**|Jun-Hui Liu et.al.|[2608.26578v1](http://arxiv.org/abs/2608.26578v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.26578)|
 |**2026-08-26**|**StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models**|Zhe Liu et.al.|[2608.26067v1](http://arxiv.org/abs/2608.26067v1)|[link](https://github.com/hku-sail/StreamPI)|[🤗👍19](https://huggingface.co/papers/2608.26067) [αX↑25](https://alphaxiv.org/abs/2608.26067)|
 |**2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Zaibin Zhang et.al.|[2608.25864v1](http://arxiv.org/abs/2608.25864v1)|[link](https://github.com/zhangzaibin/future-robots)|[🤗👍9](https://huggingface.co/papers/2608.25864) [αX↑13](https://alphaxiv.org/abs/2608.25864)|
