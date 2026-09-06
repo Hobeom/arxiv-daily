@@ -4,28 +4,28 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.05
+### Updated on 2026.09.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.04009)|
-|**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.03222)|
-|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|[link](https://github.com/Abradshaw1/Muybridge)|[αX↑2](https://alphaxiv.org/abs/2609.02854)|
+|**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03222)|
+|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|[link](https://github.com/Abradshaw1/Muybridge)|[αX↑3](https://alphaxiv.org/abs/2609.02854)|
 |**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02705)|
-|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.01840)|
-|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.01530)|
+|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.01840)|
+|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.01530)|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01089)|
-|**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.00995)|
-|**2026-09-01**|**Efficient and Robust Absolute Pose Estimation via Gravity-Prior-Driven Transformation Decoupling and Pose Refinement**|Hu Cao et.al.|[2609.00713v1](http://arxiv.org/abs/2609.00713v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00713)|
-|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.31074)|
-|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|[🤗👍104](https://huggingface.co/papers/2608.30821) [αX↑47](https://alphaxiv.org/abs/2608.30821)|
+|**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.00995)|
+|**2026-09-01**|**Efficient and Robust Absolute Pose Estimation via Gravity-Prior-Driven Transformation Decoupling and Pose Refinement**|Hu Cao et.al.|[2609.00713v1](http://arxiv.org/abs/2609.00713v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.00713)|
+|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.31074)|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|[🤗👍104](https://huggingface.co/papers/2608.30821) [αX↑53](https://alphaxiv.org/abs/2608.30821)|
 |**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30521)|
 |**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927v1](http://arxiv.org/abs/2608.29927v1)|[link](https://github.com/danderfer/Comp_Sci_Sem_2)|[αX↑4](https://alphaxiv.org/abs/2608.29927)|
 |**2026-08-29**|**Foundational feature fusion for conditional flow matching in 6D pose estimation**|Amir Hamza et.al.|[2608.29183v1](http://arxiv.org/abs/2608.29183v1)|[link](https://github.com/tev-fbk/FunFlow6D)|[αX↑1](https://alphaxiv.org/abs/2608.29183)|
 |**2026-08-28**|**BlobBoards: Robust Markers for Accurate Pose**|James Pritts et.al.|[2608.28830v1](http://arxiv.org/abs/2608.28830v1)|[link](https://github.com/blobboards/blobboards.github.io)|[αX↑1](https://alphaxiv.org/abs/2608.28830)|
 |**2026-08-28**|**SCoPE-Reg: Efficient Rigid Ultrasound Slice-to-Volume Registration via State-Space Correlation and Closed-Form Pose Estimation**|Niklas Schwarz et.al.|[2608.28715v1](http://arxiv.org/abs/2608.28715v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.28715)|
 |**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584v1](http://arxiv.org/abs/2608.27584v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.27584)|
-|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.27181)|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.27181)|
 |**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.26859)|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26589)|
 |**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.26011)|
@@ -48,7 +48,7 @@ layout: default
 |**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.19480)|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.18470)|
 |**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.17691)|
-|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.16785)|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.16785)|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|[link](https://github.com/irajisamurai/2D-Motion-Interface)|[🤗👍1](https://huggingface.co/papers/2608.15984) [αX↑26](https://alphaxiv.org/abs/2608.15984)|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|[αX↑22](https://alphaxiv.org/abs/2608.15917)|
 |**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.15815)|
@@ -68,7 +68,7 @@ layout: default
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.10938)|
 |**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09735)|
 |**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.09658)|
-|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.09620)|
+|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.09620)|
 |**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579v1](http://arxiv.org/abs/2608.09579v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.09579)|
 |**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520v1](http://arxiv.org/abs/2608.09520v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.09520)|
 |**2026-08-10**|**CableDex: Cable Length Estimation on Industrial Reels Using a Handheld Device**|Francisco Guillén et.al.|[2608.09392v1](http://arxiv.org/abs/2608.09392v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.09392)|

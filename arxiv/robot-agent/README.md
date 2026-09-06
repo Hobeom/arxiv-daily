@@ -1,30 +1,30 @@
 ## Robot & Agent
 
-### Updated on 2026.09.05
+### Updated on 2026.09.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.04193)|
-|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927v1](http://arxiv.org/abs/2609.03927v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03927)|
-|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03715)|
+|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.04193)|
+|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927v1](http://arxiv.org/abs/2609.03927v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.03927)|
+|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03715)|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657v1](http://arxiv.org/abs/2609.03657v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.03657)|
-|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Howard Qian et.al.|[2609.03199v1](http://arxiv.org/abs/2609.03199v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.03199)|
-|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑15](https://alphaxiv.org/abs/2609.02531)|
-|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.02402)|
+|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Howard Qian et.al.|[2609.03199v1](http://arxiv.org/abs/2609.03199v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.03199)|
+|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑16](https://alphaxiv.org/abs/2609.02531)|
+|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02402)|
 |**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350v1](http://arxiv.org/abs/2609.02350v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.02350)|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|[link](https://github.com/nabirarashid/structural-retrieval)|[αX↑0](https://alphaxiv.org/abs/2609.01556)|
-|**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950v1](http://arxiv.org/abs/2609.00950v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.00950)|
-|**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845v1](http://arxiv.org/abs/2609.00845v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.00845)|
-|**2026-09-01**|**DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments**|Ming Liao et.al.|[2609.00619v1](http://arxiv.org/abs/2609.00619v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.00619)|
-|**2026-08-31**|**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**|Rongze Tang et.al.|[2609.00161v1](http://arxiv.org/abs/2609.00161v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.00161)|
-|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983v1](http://arxiv.org/abs/2608.30983v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30983)|
-|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760v1](http://arxiv.org/abs/2608.30760v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.30760)|
+|**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950v1](http://arxiv.org/abs/2609.00950v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.00950)|
+|**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845v1](http://arxiv.org/abs/2609.00845v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.00845)|
+|**2026-09-01**|**DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments**|Ming Liao et.al.|[2609.00619v1](http://arxiv.org/abs/2609.00619v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.00619)|
+|**2026-08-31**|**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**|Rongze Tang et.al.|[2609.00161v1](http://arxiv.org/abs/2609.00161v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.00161)|
+|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983v1](http://arxiv.org/abs/2608.30983v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.30983)|
+|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760v1](http://arxiv.org/abs/2608.30760v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.30760)|
 |**2026-08-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al.|[2608.30451v1](http://arxiv.org/abs/2608.30451v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.30451)|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237v1](http://arxiv.org/abs/2608.30237v1)|null|[αX↑41](https://alphaxiv.org/abs/2608.30237)|
-|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937v1](http://arxiv.org/abs/2608.29937v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29937)|
+|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937v1](http://arxiv.org/abs/2608.29937v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.29937)|
 |**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910v1](http://arxiv.org/abs/2608.29910v1)|[link](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)|[🤗👍14](https://huggingface.co/papers/2608.29910) [αX↑10](https://alphaxiv.org/abs/2608.29910)|
-|**2026-08-30**|**EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy**|Zhirui Fang et.al.|[2608.29896v1](http://arxiv.org/abs/2608.29896v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.29896)|
-|**2026-08-30**|**SmoothRL: Online Reinforcement Learning During Asynchronous Execution**|Guang Gao et.al.|[2608.29768v1](http://arxiv.org/abs/2608.29768v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.29768)|
+|**2026-08-30**|**EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy**|Zhirui Fang et.al.|[2608.29896v1](http://arxiv.org/abs/2608.29896v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.29896)|
+|**2026-08-30**|**SmoothRL: Online Reinforcement Learning During Asynchronous Execution**|Guang Gao et.al.|[2608.29768v1](http://arxiv.org/abs/2608.29768v1)|null|[αX↑15](https://alphaxiv.org/abs/2608.29768)|
 |**2026-08-29**|**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**|Cheng Chen et.al.|[2608.29242v1](http://arxiv.org/abs/2608.29242v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29242)|
 |**2026-08-29**|**Teaching Robot Policies to Humans Using Erroneous Examples**|Rithika Narayan et.al.|[2608.29023v1](http://arxiv.org/abs/2608.29023v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.29023)|
 |**2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Yang Chen et.al.|[2608.28266v1](http://arxiv.org/abs/2608.28266v1)|null|[αX↑1](https://alphaxiv.org/abs/2608.28266)|
