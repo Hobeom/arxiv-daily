@@ -1,14 +1,15 @@
 ## Dialogue Agents
 
-### Updated on 2026.09.10
+### Updated on 2026.09.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-10**|**Multimodal Temporal Modeling for Continuous Group Emotion Recognition in Multi-party Dialogues**|Soma Iwata et.al.|[2609.11164v1](http://arxiv.org/abs/2609.11164v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.11164)|
 |**2026-09-06**|**CAPMAS: Capability-Based Delegation of Privileges in Multi-Agent Systems**|Rasmus Moorits Veski et.al.|[2609.06500v1](http://arxiv.org/abs/2609.06500v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06500)|
 |**2026-09-03**|**Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting**|Muneeb Khan et.al.|[2609.03923v1](http://arxiv.org/abs/2609.03923v1)|[link](https://github.com/FKIRSTE/emnlp2026-meeting-delegation)|[αX↑7](https://alphaxiv.org/abs/2609.03923)|
-|**2026-09-07**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203v2](http://arxiv.org/abs/2609.03203v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.03203)|
+|**2026-09-07**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203v2](http://arxiv.org/abs/2609.03203v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.03203)|
 |**2026-07-06**|**RL-ADA: A World-Feedback Framework for Adversarially Robust Enterprise Dialogue Agents**|Ram Narayanan et.al.|[2609.02902v1](http://arxiv.org/abs/2609.02902v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.02902)|
-|**2026-09-01**|**PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance**|Rohan Kirti et.al.|[2609.01188v1](http://arxiv.org/abs/2609.01188v1)|[link](https://github.com/Rohan9182/PersuaRL)|[αX↑4](https://alphaxiv.org/abs/2609.01188)|
+|**2026-09-01**|**PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance**|Rohan Kirti et.al.|[2609.01188v1](http://arxiv.org/abs/2609.01188v1)|[link](https://github.com/Rohan9182/PersuaRL)|[αX↑5](https://alphaxiv.org/abs/2609.01188)|
 |**2026-08-31**|**SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents**|Rayan Khoury et.al.|[2609.00434v1](http://arxiv.org/abs/2609.00434v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.00434)|
 |**2026-08-23**|**Query-Driven Multimodal Information Extraction from Long Documents**|Yikai Gao et.al.|[2608.22214v1](http://arxiv.org/abs/2608.22214v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.22214)|
 |**2026-08-24**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739v2](http://arxiv.org/abs/2608.19739v2)|null|[αX↑14](https://alphaxiv.org/abs/2608.19739)|
@@ -21,7 +22,7 @@
 |**2026-08-10**|**MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts**|Peiwen Li et.al.|[2608.09251v1](http://arxiv.org/abs/2608.09251v1)|[link](https://github.com/lpwpower/MoRSE)|[αX↑8](https://alphaxiv.org/abs/2608.09251)|
 |**2026-08-07**|**IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents**|Senhao Wang et.al.|[2608.06735v1](http://arxiv.org/abs/2608.06735v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.06735)|
 |**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372v1](http://arxiv.org/abs/2608.02372v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.02372)|
-|**2026-09-02**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v2](http://arxiv.org/abs/2608.01708v2)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑7](https://alphaxiv.org/abs/2608.01708)|
+|**2026-09-02**|**PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents**|Wonjun Choi et.al.|[2608.01708v2](http://arxiv.org/abs/2608.01708v2)|[link](https://github.com/wonjunchoi23/pgmem)|[αX↑8](https://alphaxiv.org/abs/2608.01708)|
 |**2026-08-02**|**TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents**|Jingyu Sun et.al.|[2608.00967v1](http://arxiv.org/abs/2608.00967v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.00967)|
 |**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su et.al.|[2607.26593v1](http://arxiv.org/abs/2607.26593v1)|null|[αX↑9](https://alphaxiv.org/abs/2607.26593)|
 |**2026-07-27**|**A Neural Network model of Cultural Evolution**|Kingsley J. A. Cox et.al.|[2607.24886v1](http://arxiv.org/abs/2607.24886v1)|null|[αX↑6](https://alphaxiv.org/abs/2607.24886)|

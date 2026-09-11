@@ -1,19 +1,20 @@
 ## Action Recognition
 
-### Updated on 2026.09.10
+### Updated on 2026.09.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-09**|**TrajMark: Ownership Attribution and Segment-Level Tamper Localization for Coding-Agent Trajectories**|Bokang Zeng et.al.|[2609.10416v1](http://arxiv.org/abs/2609.10416v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.10416)|
-|**2026-09-08**|**SoftRerank: Hierarchical Soft Fusion with Candidate-Label Reranking for Long-Tailed Micro-Action Recognition**|Yichi Zhang et.al.|[2609.08221v1](http://arxiv.org/abs/2609.08221v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08221)|
-|**2026-09-08**|**Boundary Voting Network for Ambiguity-Aware Timestamp-Supervised Action Segmentation**|Runzhong Zhang et.al.|[2609.08167v1](http://arxiv.org/abs/2609.08167v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08167)|
-|**2026-09-09**|**SAFER-Activities: A Dataset for Smart Assessment of Fall Events and Routine Activities**|Diwas Lamsal et.al.|[2609.08038v2](http://arxiv.org/abs/2609.08038v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.08038)|
-|**2026-09-07**|**A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models**|Kacper Mroczek et.al.|[2609.08013v1](http://arxiv.org/abs/2609.08013v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08013)|
-|**2026-09-06**|**AURA-Eval: Evaluation Framework for Acting Under Risk Awareness in LLM Agent Trajectories**|Ruoxi Shang et.al.|[2609.06783v1](http://arxiv.org/abs/2609.06783v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06783)|
+|**2026-09-10**|**Single-Stream Multi-Feature Fusion with Temporal Robustness for Gait Emotion Recognition**|Shirong Lyu et.al.|[2609.11680v1](http://arxiv.org/abs/2609.11680v1)|[link](https://github.com/lsr51/SV-GCN)|[αX↑0](https://alphaxiv.org/abs/2609.11680)|
+|**2026-09-09**|**TrajMark: Ownership Attribution and Segment-Level Tamper Localization for Coding-Agent Trajectories**|Bokang Zeng et.al.|[2609.10416v1](http://arxiv.org/abs/2609.10416v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.10416)|
+|**2026-09-08**|**SoftRerank: Hierarchical Soft Fusion with Candidate-Label Reranking for Long-Tailed Micro-Action Recognition**|Yichi Zhang et.al.|[2609.08221v1](http://arxiv.org/abs/2609.08221v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.08221)|
+|**2026-09-08**|**Boundary Voting Network for Ambiguity-Aware Timestamp-Supervised Action Segmentation**|Runzhong Zhang et.al.|[2609.08167v1](http://arxiv.org/abs/2609.08167v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08167)|
+|**2026-09-09**|**SAFER-Activities: A Dataset for Smart Assessment of Fall Events and Routine Activities**|Diwas Lamsal et.al.|[2609.08038v2](http://arxiv.org/abs/2609.08038v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.08038)|
+|**2026-09-07**|**A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models**|Kacper Mroczek et.al.|[2609.08013v1](http://arxiv.org/abs/2609.08013v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08013)|
+|**2026-09-06**|**AURA-Eval: Evaluation Framework for Acting Under Risk Awareness in LLM Agent Trajectories**|Ruoxi Shang et.al.|[2609.06783v1](http://arxiv.org/abs/2609.06783v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.06783)|
 |**2026-09-06**|**An Integrated Video-AI Platform for Action-Level Microanastomosis Training and Performance Feedback**|Yan Meng et.al.|[2609.06380v1](http://arxiv.org/abs/2609.06380v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06380)|
-|**2026-09-04**|**Few-Shot Video Recognition via Hierarchical Metric Learning**|Jiaxin Zhang et.al.|[2609.05242v1](http://arxiv.org/abs/2609.05242v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.05242)|
+|**2026-09-04**|**Few-Shot Video Recognition via Hierarchical Metric Learning**|Jiaxin Zhang et.al.|[2609.05242v1](http://arxiv.org/abs/2609.05242v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.05242)|
 |**2026-09-04**|**Hidden In Plain Gaze: Gaze Representations as Privacy Controls for Utility and Re-identification Risk in XR**|Cory Ilo et.al.|[2609.04592v1](http://arxiv.org/abs/2609.04592v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.04592)|
-|**2026-09-03**|**What Moves? Localized Motion Representations for Compositional Scene Control**|Frank Fundel et.al.|[2609.04383v1](http://arxiv.org/abs/2609.04383v1)|[link](https://github.com/CompVis/WhatMoves)|[αX↑4](https://alphaxiv.org/abs/2609.04383)|
+|**2026-09-03**|**What Moves? Localized Motion Representations for Compositional Scene Control**|Frank Fundel et.al.|[2609.04383v1](http://arxiv.org/abs/2609.04383v1)|[link](https://github.com/CompVis/WhatMoves)|[αX↑6](https://alphaxiv.org/abs/2609.04383)|
 |**2026-09-09**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048v2](http://arxiv.org/abs/2608.31048v2)|null|[αX↑5](https://alphaxiv.org/abs/2608.31048)|
 |**2026-08-31**|**TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale**|Sandeep Sricharan Mukku et.al.|[2608.30614v1](http://arxiv.org/abs/2608.30614v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30614)|
 |**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536v1](http://arxiv.org/abs/2608.30536v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.30536)|

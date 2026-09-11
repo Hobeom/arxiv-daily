@@ -4,18 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.10
+### Updated on 2026.09.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-10**|**Acoustic-based Guidance for Automatic Docking of Holonomic AUVs**|Ravi Regalo et.al.|[2609.11821v1](http://arxiv.org/abs/2609.11821v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.11821)|
+|**2026-09-10**|**Predictive Multi-Landmark OCT Tracking for Increased Motion Robustness**|Konrad Reuter et.al.|[2609.11330v1](http://arxiv.org/abs/2609.11330v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.11330)|
 |**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|[link](https://github.com/KhanSimon/field_converter)|[αX↑0](https://alphaxiv.org/abs/2609.10498)|
-|**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09826)|
+|**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.09826)|
 |**2026-09-09**|**Recovering Biomechanical Signals from Missing Keypoints Using Temporal Interpolation in Monocular Gait Analysis**|Shubham Jariwala et.al.|[2609.09670v1](http://arxiv.org/abs/2609.09670v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09670)|
-|**2026-09-09**|**Marker-free eye-gaze estimation using a single image and depth from defocus**|David Hurtubise-Martin et.al.|[2609.09610v1](http://arxiv.org/abs/2609.09610v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09610)|
-|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491v1](http://arxiv.org/abs/2609.09491v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09491)|
-|**2026-09-08**|**Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering**|Jiahui Zhang et.al.|[2609.09069v1](http://arxiv.org/abs/2609.09069v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09069)|
-|**2026-09-08**|**Prior-free relative 6D pose estimation of multiple object instances**|Behdad Khodabandehloo et.al.|[2609.08949v1](http://arxiv.org/abs/2609.08949v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08949)|
-|**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806v1](http://arxiv.org/abs/2609.08806v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08806)|
+|**2026-09-09**|**Marker-free eye-gaze estimation using a single image and depth from defocus**|David Hurtubise-Martin et.al.|[2609.09610v1](http://arxiv.org/abs/2609.09610v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.09610)|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491v1](http://arxiv.org/abs/2609.09491v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.09491)|
+|**2026-09-08**|**Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering**|Jiahui Zhang et.al.|[2609.09069v1](http://arxiv.org/abs/2609.09069v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.09069)|
+|**2026-09-08**|**Prior-free relative 6D pose estimation of multiple object instances**|Behdad Khodabandehloo et.al.|[2609.08949v1](http://arxiv.org/abs/2609.08949v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08949)|
+|**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806v1](http://arxiv.org/abs/2609.08806v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.08806)|
 |**2026-09-08**|**TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads**|Yuqian Ye et.al.|[2609.08214v1](http://arxiv.org/abs/2609.08214v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08214)|
 |**2026-09-07**|**A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models**|Kacper Mroczek et.al.|[2609.08013v1](http://arxiv.org/abs/2609.08013v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08013)|
 |**2026-09-07**|**Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs**|Xinggang Hu et.al.|[2609.07497v1](http://arxiv.org/abs/2609.07497v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.07497)|
@@ -26,7 +28,7 @@ layout: default
 |**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.04009)|
 |**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.03222)|
 |**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|[link](https://github.com/Abradshaw1/Muybridge)|[αX↑4](https://alphaxiv.org/abs/2609.02854)|
-|**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.02705)|
+|**2026-09-02**|**A Top-Down Framework for Metric-Scale Athlete Localization from Single Broadcast Frames**|Thanh-Khoi Nguyen et.al.|[2609.02705v1](http://arxiv.org/abs/2609.02705v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.02705)|
 |**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.01840)|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.01530)|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01089)|

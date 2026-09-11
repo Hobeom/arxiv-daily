@@ -4,18 +4,27 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.10
+### Updated on 2026.09.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-09**|**Adaptive Shared Control with Online Bounded-Rational Human Behavior Estimation**|Henry Ascencio Trejo et.al.|[2609.10215v1](http://arxiv.org/abs/2609.10215v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10215)|
-|**2026-09-09**|**Assembling Two Parts in One Hand**|Liuao Pei et.al.|[2609.10137v1](http://arxiv.org/abs/2609.10137v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10137)|
-|**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Zengjue Chen et.al.|[2609.09941v1](http://arxiv.org/abs/2609.09941v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09941)|
-|**2026-09-08**|**Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning**|Kousheek Chakraborty et.al.|[2609.09492v1](http://arxiv.org/abs/2609.09492v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09492)|
-|**2026-09-08**|**A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects**|David Stenger et.al.|[2609.09403v1](http://arxiv.org/abs/2609.09403v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09403)|
-|**2026-09-08**|**No Free Checker: A Survey of Verifiers for Robot Policies**|Yang Wan et.al.|[2609.09250v1](http://arxiv.org/abs/2609.09250v1)|[link](https://github.com/ZJUSCL/Awesome-Robot-Verifier)|[αX↑0](https://alphaxiv.org/abs/2609.09250)|
-|**2026-09-09**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v2](http://arxiv.org/abs/2609.09148v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.09148)|
-|**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493v1](http://arxiv.org/abs/2609.08493v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08493)|
+|**2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Tengbo Yu et.al.|[2609.11753v1](http://arxiv.org/abs/2609.11753v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11753)|
+|**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660v1](http://arxiv.org/abs/2609.11660v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.11660)|
+|**2026-09-10**|**Memory as Plans: World-Action Modeling with Memory-Grounded Planning**|Sizhe Zhao et.al.|[2609.11561v1](http://arxiv.org/abs/2609.11561v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.11561)|
+|**2026-09-10**|**CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising**|Hongjin Chen et.al.|[2609.11553v1](http://arxiv.org/abs/2609.11553v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11553)|
+|**2026-09-10**|**Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy**|Pengfei Zhang et.al.|[2609.11270v1](http://arxiv.org/abs/2609.11270v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11270)|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225v1](http://arxiv.org/abs/2609.11225v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.11225)|
+|**2026-09-10**|**ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations**|Jiawen Wang et.al.|[2609.10918v1](http://arxiv.org/abs/2609.10918v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10918)|
+|**2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Yizhan Li et.al.|[2609.10895v1](http://arxiv.org/abs/2609.10895v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10895)|
+|**2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Qinzhen Ma et.al.|[2609.10873v1](http://arxiv.org/abs/2609.10873v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10873)|
+|**2026-09-09**|**Adaptive Shared Control with Online Bounded-Rational Human Behavior Estimation**|Henry Ascencio Trejo et.al.|[2609.10215v1](http://arxiv.org/abs/2609.10215v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.10215)|
+|**2026-09-09**|**Assembling Two Parts in One Hand**|Liuao Pei et.al.|[2609.10137v1](http://arxiv.org/abs/2609.10137v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.10137)|
+|**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Zengjue Chen et.al.|[2609.09941v1](http://arxiv.org/abs/2609.09941v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.09941)|
+|**2026-09-08**|**Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning**|Kousheek Chakraborty et.al.|[2609.09492v1](http://arxiv.org/abs/2609.09492v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.09492)|
+|**2026-09-08**|**A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects**|David Stenger et.al.|[2609.09403v1](http://arxiv.org/abs/2609.09403v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.09403)|
+|**2026-09-08**|**No Free Checker: A Survey of Verifiers for Robot Policies**|Yang Wan et.al.|[2609.09250v1](http://arxiv.org/abs/2609.09250v1)|[link](https://github.com/ZJUSCL/Awesome-Robot-Verifier)|[αX↑7](https://alphaxiv.org/abs/2609.09250)|
+|**2026-09-09**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v2](http://arxiv.org/abs/2609.09148v2)|null|[αX↑16](https://alphaxiv.org/abs/2609.09148)|
+|**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493v1](http://arxiv.org/abs/2609.08493v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.08493)|
 |**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Siyuan Li et.al.|[2609.08444v1](http://arxiv.org/abs/2609.08444v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08444)|
 |**2026-09-08**|**Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies**|Ruiyu Wang et.al.|[2609.08408v1](http://arxiv.org/abs/2609.08408v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08408)|
 |**2026-09-08**|**EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments**|Xilin Wang et.al.|[2609.08292v1](http://arxiv.org/abs/2609.08292v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.08292)|
@@ -23,9 +32,9 @@ layout: default
 |**2026-09-09**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Ruoqu Chen et.al.|[2609.07747v2](http://arxiv.org/abs/2609.07747v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.07747)|
 |**2026-09-07**|**PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling**|Yinan Deng et.al.|[2609.07532v1](http://arxiv.org/abs/2609.07532v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07532)|
 |**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Hongxiang Zhao et.al.|[2609.07498v1](http://arxiv.org/abs/2609.07498v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.07498)|
-|**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie et.al.|[2609.07474v1](http://arxiv.org/abs/2609.07474v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07474)|
+|**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie et.al.|[2609.07474v1](http://arxiv.org/abs/2609.07474v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.07474)|
 |**2026-09-07**|**Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy**|Ayoub Kirouane et.al.|[2609.07470v1](http://arxiv.org/abs/2609.07470v1)|null|[🤗👍19](https://huggingface.co/papers/2609.07470) [αX↑0](https://alphaxiv.org/abs/2609.07470)|
-|**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Haiyang Sun et.al.|[2609.07047v1](http://arxiv.org/abs/2609.07047v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.07047)|
+|**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Haiyang Sun et.al.|[2609.07047v1](http://arxiv.org/abs/2609.07047v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.07047)|
 |**2026-09-07**|**Networked Embodied Communication: From Collective Distinguishability to Communication Reliability**|Yewen Cao et.al.|[2609.06969v1](http://arxiv.org/abs/2609.06969v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06969)|
 |**2026-09-07**|**Mind the Phase: Effective Rank and Representation Health in Legged Locomotion**|Felipe Tommaselli et.al.|[2609.06958v1](http://arxiv.org/abs/2609.06958v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06958)|
 |**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Yifan Han et.al.|[2609.05892v1](http://arxiv.org/abs/2609.05892v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.05892)|
