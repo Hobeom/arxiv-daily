@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.09.12
+### Updated on 2026.09.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 |**2026-09-08**|**Observe Before You Alert: Adaptive Driver Alerting with Vision-Language Models**|Yuhang Wang et.al.|[2609.08130v1](http://arxiv.org/abs/2609.08130v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08130)|
 |**2026-09-09**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Ruoqu Chen et.al.|[2609.07747v2](http://arxiv.org/abs/2609.07747v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.07747)|
 |**2026-09-07**|**PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling**|Yinan Deng et.al.|[2609.07532v1](http://arxiv.org/abs/2609.07532v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07532)|
-|**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Hongxiang Zhao et.al.|[2609.07498v1](http://arxiv.org/abs/2609.07498v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.07498)|
+|**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Hongxiang Zhao et.al.|[2609.07498v1](http://arxiv.org/abs/2609.07498v1)|[link](https://github.com/GAP-LAB-CUHK-SZ/CosmoH2G)|[αX↑3](https://alphaxiv.org/abs/2609.07498)|
 |**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie et.al.|[2609.07474v1](http://arxiv.org/abs/2609.07474v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.07474)|
 |**2026-09-07**|**Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy**|Ayoub Kirouane et.al.|[2609.07470v1](http://arxiv.org/abs/2609.07470v1)|null|[🤗👍19](https://huggingface.co/papers/2609.07470) [αX↑0](https://alphaxiv.org/abs/2609.07470)|
 |**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Haiyang Sun et.al.|[2609.07047v1](http://arxiv.org/abs/2609.07047v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.07047)|

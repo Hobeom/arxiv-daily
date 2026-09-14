@@ -1,6 +1,6 @@
 ## Theory of Mind
 
-### Updated on 2026.09.12
+### Updated on 2026.09.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|

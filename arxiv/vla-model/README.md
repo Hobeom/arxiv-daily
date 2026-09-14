@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.12
+### Updated on 2026.09.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 |**2026-09-02**|**Latent Cluster Analysis for Vision-Language-Action Models**|Theodor Wulff et.al.|[2609.02634v1](http://arxiv.org/abs/2609.02634v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.02634)|
 |**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|Mi Yan et.al.|[2609.02546v1](http://arxiv.org/abs/2609.02546v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.02546)|
 |**2026-09-02**|**Towards Zero-Shot Transfer Across Embodiments For Driving VLAs**|Caio Azevedo et.al.|[2609.02341v1](http://arxiv.org/abs/2609.02341v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.02341)|
-|**2026-09-01**|**EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents**|Wei Wang et.al.|[2609.01281v1](http://arxiv.org/abs/2609.01281v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.01281)|
+|**2026-09-01**|**EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents**|Wei Wang et.al.|[2609.01281v1](http://arxiv.org/abs/2609.01281v1)|[link](https://github.com/DCDmllm/EmbodiedSkills)|[αX↑17](https://alphaxiv.org/abs/2609.01281)|
 |**2026-09-01**|**REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs**|Riyaaz Shaik et.al.|[2609.01215v1](http://arxiv.org/abs/2609.01215v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.01215)|
 |**2026-08-31**|**Temporal Forcing: 4D Representation Alignment for Vision-Language-Action Models**|Xingyu Ding et.al.|[2608.30643v1](http://arxiv.org/abs/2608.30643v1)|null|[αX↑14](https://alphaxiv.org/abs/2608.30643)|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289v1](http://arxiv.org/abs/2608.30289v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30289)|
