@@ -4,10 +4,14 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.09.14
+### Updated on 2026.09.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-15**|**Verifiable Social Reasoning for LLM Assistants**|Amir Taubenfeld et.al.|[2609.17496v1](http://arxiv.org/abs/2609.17496v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17496)|
+|**2026-09-15**|**ToMAS: A Pilot Failure-Grounded Theory-of-Mind Benchmark from Multi-Agent LLM Failures**|Muhammad Ashar Ishfaq et.al.|[2609.16986v1](http://arxiv.org/abs/2609.16986v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16986)|
+|**2026-09-14**|**Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States**|Zixuan Wang et.al.|[2609.15972v1](http://arxiv.org/abs/2609.15972v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.15972)|
+|**2026-09-10**|**GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting**|Tenghao Huang et.al.|[2609.12165v1](http://arxiv.org/abs/2609.12165v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.12165)|
 |**2026-09-01**|**Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks**|Hatim Chergui et.al.|[2609.01779v1](http://arxiv.org/abs/2609.01779v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.01779)|
 |**2026-08-31**|**Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment**|Yifan Zhu et.al.|[2608.30719v1](http://arxiv.org/abs/2608.30719v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.30719)|
 |**2026-08-31**|**SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos**|Zheyu Huang et.al.|[2608.30716v1](http://arxiv.org/abs/2608.30716v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.30716)|

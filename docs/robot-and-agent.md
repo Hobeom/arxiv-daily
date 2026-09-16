@@ -4,15 +4,32 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.14
+### Updated on 2026.09.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Tengbo Yu et.al.|[2609.11753v1](http://arxiv.org/abs/2609.11753v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11753)|
+|**2026-09-15**|**Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion**|Ning Hu et.al.|[2609.17484v1](http://arxiv.org/abs/2609.17484v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17484)|
+|**2026-09-15**|**Exploring 2D backbone effects for indoor semantic occupancy prediction**|Shizhang Fanga et.al.|[2609.17257v1](http://arxiv.org/abs/2609.17257v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17257)|
+|**2026-09-15**|**Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement**|Tobias Schaffer et.al.|[2609.17115v1](http://arxiv.org/abs/2609.17115v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17115)|
+|**2026-09-15**|**Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects**|Zeyuan Huang et.al.|[2609.16880v1](http://arxiv.org/abs/2609.16880v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16880)|
+|**2026-09-15**|**Rethinking Visual Embodiment Dependence in Visuomotor Policies**|Hongjie Fang et.al.|[2609.16815v1](http://arxiv.org/abs/2609.16815v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16815)|
+|**2026-09-15**|**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**|Nanjie Yao et.al.|[2609.16697v1](http://arxiv.org/abs/2609.16697v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16697)|
+|**2026-09-15**|**ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation**|Yushan Bai et.al.|[2609.16586v1](http://arxiv.org/abs/2609.16586v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16586)|
+|**2026-09-15**|**Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array**|Svetoslav Kolev et.al.|[2609.16518v1](http://arxiv.org/abs/2609.16518v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16518)|
+|**2026-09-13**|**World-Action Models for Robot Learning and Control: A Survey**|Zuxing Lu et.al.|[2609.16074v1](http://arxiv.org/abs/2609.16074v1)|[link](https://github.com/RCL-Robotics/Awesome-World-Action-Models)|[αX↑0](https://alphaxiv.org/abs/2609.16074)|
+|**2026-09-13**|**Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents**|Norbert Oswald et.al.|[2609.16056v1](http://arxiv.org/abs/2609.16056v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16056)|
+|**2026-09-14**|**Steering Generative Robot Policies with Lexicographic Preferences**|Yixuan Jia et.al.|[2609.15014v1](http://arxiv.org/abs/2609.15014v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.15014)|
+|**2026-09-13**|**GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation**|I-Tak Ieong et.al.|[2609.14561v1](http://arxiv.org/abs/2609.14561v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.14561)|
+|**2026-09-13**|**VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching**|Prajwal Koirala et.al.|[2609.14261v1](http://arxiv.org/abs/2609.14261v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.14261)|
+|**2026-09-12**|**How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026**|Jiaming Wang et.al.|[2609.13679v1](http://arxiv.org/abs/2609.13679v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.13679)|
+|**2026-09-11**|**Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model**|Hoeun Lee et.al.|[2609.13053v1](http://arxiv.org/abs/2609.13053v1)|[link](https://github.com/AIDASLab/Dynin-Robotics)|[αX↑9](https://alphaxiv.org/abs/2609.13053)|
+|**2026-09-14**|**Agent as Policy for Robotic Manipulation**|Mengzhao Jia et.al.|[2609.12541v2](http://arxiv.org/abs/2609.12541v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.12541)|
+|**2026-09-14**|**DIA: Denoising Intermediate Advantage for Diffusion Policy Optimization**|Arjun Sohal et.al.|[2609.12245v2](http://arxiv.org/abs/2609.12245v2)|null|[αX↑3](https://alphaxiv.org/abs/2609.12245)|
+|**2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Tengbo Yu et.al.|[2609.11753v1](http://arxiv.org/abs/2609.11753v1)|null|[αX↑11](https://alphaxiv.org/abs/2609.11753)|
 |**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660v1](http://arxiv.org/abs/2609.11660v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.11660)|
-|**2026-09-10**|**Memory as Plans: World-Action Modeling with Memory-Grounded Planning**|Sizhe Zhao et.al.|[2609.11561v1](http://arxiv.org/abs/2609.11561v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.11561)|
+|**2026-09-10**|**Memory as Plans: World-Action Modeling with Memory-Grounded Planning**|Sizhe Zhao et.al.|[2609.11561v1](http://arxiv.org/abs/2609.11561v1)|[link](https://github.com/aipixel/MaP-WAM)|[🤗👍38](https://huggingface.co/papers/2609.11561) [αX↑28](https://alphaxiv.org/abs/2609.11561)|
 |**2026-09-10**|**CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising**|Hongjin Chen et.al.|[2609.11553v1](http://arxiv.org/abs/2609.11553v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11553)|
-|**2026-09-10**|**Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy**|Pengfei Zhang et.al.|[2609.11270v1](http://arxiv.org/abs/2609.11270v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.11270)|
+|**2026-09-10**|**Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy**|Pengfei Zhang et.al.|[2609.11270v1](http://arxiv.org/abs/2609.11270v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.11270)|
 |**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225v1](http://arxiv.org/abs/2609.11225v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.11225)|
 |**2026-09-10**|**ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations**|Jiawen Wang et.al.|[2609.10918v1](http://arxiv.org/abs/2609.10918v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10918)|
 |**2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Yizhan Li et.al.|[2609.10895v1](http://arxiv.org/abs/2609.10895v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10895)|
