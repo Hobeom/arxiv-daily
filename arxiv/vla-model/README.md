@@ -1,14 +1,27 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.16
+### Updated on 2026.09.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104v1](http://arxiv.org/abs/2609.19104v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19104)|
+|**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623v1](http://arxiv.org/abs/2609.18623v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18623)|
+|**2026-09-16**|**ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware**|Shuai Zhou et.al.|[2609.18514v1](http://arxiv.org/abs/2609.18514v1)|[link](https://github.com/ShuaiZhou302/ActiveScale)|[αX↑2](https://alphaxiv.org/abs/2609.18514)|
+|**2026-09-16**|**TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation**|Bohan Gan et.al.|[2609.18497v1](http://arxiv.org/abs/2609.18497v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.18497)|
+|**2026-09-16**|**ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models**|Shijie Lian et.al.|[2609.18487v1](http://arxiv.org/abs/2609.18487v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18487)|
+|**2026-09-16**|**DistAL: Distance-based Advantage Learning for VLA Fine-Tuning**|Reece O'Mahoney et.al.|[2609.18392v1](http://arxiv.org/abs/2609.18392v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.18392)|
+|**2026-09-16**|**Decoupling Vision, Language, and Action for Efficient Multi-Task Robot Policies**|Xiatao Sun et.al.|[2609.18374v1](http://arxiv.org/abs/2609.18374v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18374)|
+|**2026-09-16**|**${M}^2$ Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models**|Chunpu Xu et.al.|[2609.18259v1](http://arxiv.org/abs/2609.18259v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18259)|
+|**2026-09-16**|**Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation**|Lijie Wang et.al.|[2609.18243v1](http://arxiv.org/abs/2609.18243v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18243)|
+|**2026-09-16**|**Reinforcement Learning for Real-Time Vision-Language-Action Policies**|Perry Dong et.al.|[2609.18207v1](http://arxiv.org/abs/2609.18207v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.18207)|
+|**2026-09-16**|**A Comprehensive Review of Generative Physical Artificial Intelligence**|Satyam Gaba et.al.|[2609.18111v1](http://arxiv.org/abs/2609.18111v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18111)|
+|**2026-09-16**|**Not All Layers Need Tuning: Diagnosing and Directing Adaptation in Vision-Language-Action Models**|Shahram Najam Syed et.al.|[2609.18084v1](http://arxiv.org/abs/2609.18084v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18084)|
+|**2026-09-15**|**RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving**|Dogun Kim et.al.|[2609.17728v1](http://arxiv.org/abs/2609.17728v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17728)|
 |**2026-09-15**|**FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence**|Yinhao Li et.al.|[2609.17210v1](http://arxiv.org/abs/2609.17210v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17210)|
-|**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021v1](http://arxiv.org/abs/2609.17021v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17021)|
+|**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021v1](http://arxiv.org/abs/2609.17021v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.17021)|
 |**2026-09-15**|**TEMPO: Learning Temporal Context for Dynamic Robot Manipulation**|Zhenyang Feng et.al.|[2609.16864v1](http://arxiv.org/abs/2609.16864v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16864)|
-|**2026-09-15**|**The Robot Data Factory**|Sami Haddadin et.al.|[2609.16705v1](http://arxiv.org/abs/2609.16705v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16705)|
-|**2026-09-15**|**SAVLA: Symmetry-Aware Vision-Language-Action Models for Robotic Manipulation**|Junle Li et.al.|[2609.16641v1](http://arxiv.org/abs/2609.16641v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16641)|
+|**2026-09-15**|**The Robot Data Factory**|Sami Haddadin et.al.|[2609.16705v1](http://arxiv.org/abs/2609.16705v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.16705)|
+|**2026-09-15**|**SAVLA: Symmetry-Aware Vision-Language-Action Models for Robotic Manipulation**|Junle Li et.al.|[2609.16641v1](http://arxiv.org/abs/2609.16641v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.16641)|
 |**2026-09-15**|**Dense to MoE Adaptation for Compact Vision Language Action Policies**|Muchun Niu et.al.|[2609.16503v1](http://arxiv.org/abs/2609.16503v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16503)|
 |**2026-09-14**|**XRoboToolKit-T: Teleoperation with High Stability and Precision with Tactile Sensing for Contact-rich Manipulation**|Xiwen Dengxiong et.al.|[2609.16437v1](http://arxiv.org/abs/2609.16437v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16437)|
 |**2026-09-14**|**GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving**|Xiao Liu et.al.|[2609.15169v1](http://arxiv.org/abs/2609.15169v1)|[link](https://github.com/AhernResearch/grava)|[αX↑0](https://alphaxiv.org/abs/2609.15169)|
