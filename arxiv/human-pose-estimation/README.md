@@ -1,9 +1,10 @@
 ## Human Pose Estimation
 
-### Updated on 2026.09.17
+### Updated on 2026.09.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19872)|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18738)|
 |**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.18473)|
 |**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.18406)|

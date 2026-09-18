@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.09.17
+### Updated on 2026.09.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-17**|**Theories of Mind as Domain-Specific Languages of Thought**|Kartik Chandra et.al.|[2609.19598v1](http://arxiv.org/abs/2609.19598v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19598)|
 |**2026-09-15**|**Verifiable Social Reasoning for LLM Assistants**|Amir Taubenfeld et.al.|[2609.17496v1](http://arxiv.org/abs/2609.17496v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.17496)|
 |**2026-09-15**|**ToMAS: A Pilot Failure-Grounded Theory-of-Mind Benchmark from Multi-Agent LLM Failures**|Muhammad Ashar Ishfaq et.al.|[2609.16986v1](http://arxiv.org/abs/2609.16986v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16986)|
 |**2026-09-14**|**Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States**|Zixuan Wang et.al.|[2609.15972v1](http://arxiv.org/abs/2609.15972v1)|[link](https://github.com/wannabeyourfriend/mind2dialogue)|[🤗👍5](https://huggingface.co/papers/2609.15972) [αX↑5](https://alphaxiv.org/abs/2609.15972)|
