@@ -4,13 +4,13 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[2609.20659v1](http://arxiv.org/abs/2609.20659v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.20659)|
-|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.20648)|
-|**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Harsha Guda et.al.|[2609.19976v1](http://arxiv.org/abs/2609.19976v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19976)|
-|**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923v1](http://arxiv.org/abs/2609.19923v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19923)|
-|**2026-09-17**|**Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation**|Chiyoung Kim et.al.|[2609.19579v1](http://arxiv.org/abs/2609.19579v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19579)|
-|**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475v1](http://arxiv.org/abs/2609.19475v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19475)|
-|**2026-09-16**|**ULOHA: An Underwater Bimanual Robot System for Robot Learning**|Masato Kobayashi et.al.|[2609.19200v1](http://arxiv.org/abs/2609.19200v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19200)|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[2609.20659v1](http://arxiv.org/abs/2609.20659v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.20659)|
+|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.20648)|
+|**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Harsha Guda et.al.|[2609.19976v1](http://arxiv.org/abs/2609.19976v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.19976)|
+|**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923v1](http://arxiv.org/abs/2609.19923v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.19923)|
+|**2026-09-17**|**Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation**|Chiyoung Kim et.al.|[2609.19579v1](http://arxiv.org/abs/2609.19579v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19579)|
+|**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475v1](http://arxiv.org/abs/2609.19475v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19475)|
+|**2026-09-16**|**ULOHA: An Underwater Bimanual Robot System for Robot Learning**|Masato Kobayashi et.al.|[2609.19200v1](http://arxiv.org/abs/2609.19200v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.19200)|
 |**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104v1](http://arxiv.org/abs/2609.19104v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.19104)|
 |**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623v1](http://arxiv.org/abs/2609.18623v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18623)|
 |**2026-09-16**|**ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware**|Shuai Zhou et.al.|[2609.18514v1](http://arxiv.org/abs/2609.18514v1)|[link](https://github.com/ShuaiZhou302/ActiveScale)|[αX↑5](https://alphaxiv.org/abs/2609.18514)|
