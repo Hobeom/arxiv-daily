@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.09.18
+### Updated on 2026.09.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -18,11 +18,11 @@
 |**2026-09-17**|**SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership**|Run Peng et.al.|[2609.19610v1](http://arxiv.org/abs/2609.19610v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19610)|
 |**2026-09-17**|**WorldContact: A Contact-Centric World Model for Scalable Robot Learning**|Caoliwen Wang et.al.|[2609.19600v1](http://arxiv.org/abs/2609.19600v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19600)|
 |**2026-09-16**|**ULOHA: An Underwater Bimanual Robot System for Robot Learning**|Masato Kobayashi et.al.|[2609.19200v1](http://arxiv.org/abs/2609.19200v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.19200)|
-|**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138v1](http://arxiv.org/abs/2609.19138v1)|[link](https://github.com/cheng-haha/GPT-Policy)|[🤗👍15](https://huggingface.co/papers/2609.19138) [αX↑11](https://alphaxiv.org/abs/2609.19138)|
-|**2026-09-16**|**FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback**|Runjia Tan et.al.|[2609.18651v1](http://arxiv.org/abs/2609.18651v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18651)|
-|**2026-09-16**|**AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution**|Jiabin Lou et.al.|[2609.18520v1](http://arxiv.org/abs/2609.18520v1)|[link](https://github.com/Admire-ljb/AeroWeaver)|[αX↑1](https://alphaxiv.org/abs/2609.18520)|
+|**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138v1](http://arxiv.org/abs/2609.19138v1)|[link](https://github.com/cheng-haha/GPT-Policy)|[🤗👍15](https://huggingface.co/papers/2609.19138) [αX↑41](https://alphaxiv.org/abs/2609.19138)|
+|**2026-09-16**|**FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback**|Runjia Tan et.al.|[2609.18651v1](http://arxiv.org/abs/2609.18651v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18651)|
+|**2026-09-16**|**AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution**|Jiabin Lou et.al.|[2609.18520v1](http://arxiv.org/abs/2609.18520v1)|[link](https://github.com/Admire-ljb/AeroWeaver)|[αX↑2](https://alphaxiv.org/abs/2609.18520)|
 |**2026-09-16**|**Decoupling Vision, Language, and Action for Efficient Multi-Task Robot Policies**|Xiatao Sun et.al.|[2609.18374v1](http://arxiv.org/abs/2609.18374v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18374)|
-|**2026-09-16**|**Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation**|Tianyi Xiang et.al.|[2609.18293v1](http://arxiv.org/abs/2609.18293v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.18293)|
+|**2026-09-16**|**Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation**|Tianyi Xiang et.al.|[2609.18293v1](http://arxiv.org/abs/2609.18293v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.18293)|
 |**2026-09-16**|**UMI-Bridge: Action-Anchored Latent Alignment across Human and Robot Manipulation Data**|Haiyi Liu et.al.|[2609.18232v1](http://arxiv.org/abs/2609.18232v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18232)|
 |**2026-09-16**|**Finder: Agentic Closed-Loop Object Finding for Embodied Grounding**|Shixiong Xu et.al.|[2609.18058v1](http://arxiv.org/abs/2609.18058v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18058)|
 |**2026-09-15**|**Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion**|Ning Hu et.al.|[2609.17484v1](http://arxiv.org/abs/2609.17484v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.17484)|
