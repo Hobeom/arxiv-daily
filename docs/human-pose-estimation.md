@@ -4,20 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.19
+### Updated on 2026.09.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|[link](https://github.com/iambrc/PART)|[αX↑5](https://alphaxiv.org/abs/2609.19872)|
+|**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|[link](https://github.com/iambrc/PART)|[αX↑7](https://alphaxiv.org/abs/2609.19872)|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18738)|
-|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18473)|
-|**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18406)|
+|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.18473)|
+|**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.18406)|
 |**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905v1](http://arxiv.org/abs/2609.17905v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17905)|
-|**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106v1](http://arxiv.org/abs/2609.17106v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.17106)|
-|**2026-09-15**|**PriorPose: Reference-Guided Joint Deformation and Alignment for Category-Level Object Pose Estimation**|Yihan Chen et.al.|[2609.16727v1](http://arxiv.org/abs/2609.16727v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.16727)|
+|**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106v1](http://arxiv.org/abs/2609.17106v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.17106)|
+|**2026-09-15**|**PriorPose: Reference-Guided Joint Deformation and Alignment for Category-Level Object Pose Estimation**|Yihan Chen et.al.|[2609.16727v1](http://arxiv.org/abs/2609.16727v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.16727)|
 |**2026-09-14**|**Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation**|Guo Ning et.al.|[2609.16256v1](http://arxiv.org/abs/2609.16256v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.16256)|
-|**2026-09-14**|**LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration**|Jianhe Zhao et.al.|[2609.15098v1](http://arxiv.org/abs/2609.15098v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.15098)|
-|**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183v1](http://arxiv.org/abs/2609.14183v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.14183)|
+|**2026-09-14**|**LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration**|Jianhe Zhao et.al.|[2609.15098v1](http://arxiv.org/abs/2609.15098v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.15098)|
+|**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183v1](http://arxiv.org/abs/2609.14183v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.14183)|
 |**2026-09-12**|**Vision-Force Admittance Learning for Peg Insertion into a Movable Hole**|Yuzhong Chen et.al.|[2609.14133v1](http://arxiv.org/abs/2609.14133v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.14133)|
 |**2026-09-12**|**FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry**|Meng-Li Shih et.al.|[2609.13733v1](http://arxiv.org/abs/2609.13733v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.13733)|
 |**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559v1](http://arxiv.org/abs/2609.12559v1)|[link](https://github.com/MMMing123/KAD-Net)|[αX↑3](https://alphaxiv.org/abs/2609.12559)|

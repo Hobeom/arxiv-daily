@@ -1,26 +1,26 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.19
+### Updated on 2026.09.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[2609.20659v1](http://arxiv.org/abs/2609.20659v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.20659)|
-|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.20648)|
-|**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Harsha Guda et.al.|[2609.19976v1](http://arxiv.org/abs/2609.19976v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.19976)|
-|**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923v1](http://arxiv.org/abs/2609.19923v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.19923)|
-|**2026-09-17**|**Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation**|Chiyoung Kim et.al.|[2609.19579v1](http://arxiv.org/abs/2609.19579v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19579)|
-|**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475v1](http://arxiv.org/abs/2609.19475v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19475)|
-|**2026-09-16**|**ULOHA: An Underwater Bimanual Robot System for Robot Learning**|Masato Kobayashi et.al.|[2609.19200v1](http://arxiv.org/abs/2609.19200v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.19200)|
-|**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104v1](http://arxiv.org/abs/2609.19104v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.19104)|
-|**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623v1](http://arxiv.org/abs/2609.18623v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18623)|
-|**2026-09-16**|**ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware**|Shuai Zhou et.al.|[2609.18514v1](http://arxiv.org/abs/2609.18514v1)|[link](https://github.com/ShuaiZhou302/ActiveScale)|[αX↑5](https://alphaxiv.org/abs/2609.18514)|
-|**2026-09-16**|**TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation**|Bohan Gan et.al.|[2609.18497v1](http://arxiv.org/abs/2609.18497v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18497)|
-|**2026-09-16**|**ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models**|Shijie Lian et.al.|[2609.18487v1](http://arxiv.org/abs/2609.18487v1)|[link](https://github.com/DeepCybo-PhysAI/ActionPiece)|[🤗👍39](https://huggingface.co/papers/2609.18487) [αX↑7](https://alphaxiv.org/abs/2609.18487)|
-|**2026-09-16**|**DistAL: Distance-based Advantage Learning for VLA Fine-Tuning**|Reece O'Mahoney et.al.|[2609.18392v1](http://arxiv.org/abs/2609.18392v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18392)|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[2609.20659v1](http://arxiv.org/abs/2609.20659v1)|null|[αX↑15](https://alphaxiv.org/abs/2609.20659)|
+|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.20648)|
+|**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Harsha Guda et.al.|[2609.19976v1](http://arxiv.org/abs/2609.19976v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.19976)|
+|**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923v1](http://arxiv.org/abs/2609.19923v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.19923)|
+|**2026-09-17**|**Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation**|Chiyoung Kim et.al.|[2609.19579v1](http://arxiv.org/abs/2609.19579v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.19579)|
+|**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475v1](http://arxiv.org/abs/2609.19475v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.19475)|
+|**2026-09-16**|**ULOHA: An Underwater Bimanual Robot System for Robot Learning**|Masato Kobayashi et.al.|[2609.19200v1](http://arxiv.org/abs/2609.19200v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.19200)|
+|**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104v1](http://arxiv.org/abs/2609.19104v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.19104)|
+|**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623v1](http://arxiv.org/abs/2609.18623v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.18623)|
+|**2026-09-16**|**ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware**|Shuai Zhou et.al.|[2609.18514v1](http://arxiv.org/abs/2609.18514v1)|[link](https://github.com/ShuaiZhou302/ActiveScale)|[αX↑12](https://alphaxiv.org/abs/2609.18514)|
+|**2026-09-16**|**TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation**|Bohan Gan et.al.|[2609.18497v1](http://arxiv.org/abs/2609.18497v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.18497)|
+|**2026-09-16**|**ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models**|Shijie Lian et.al.|[2609.18487v1](http://arxiv.org/abs/2609.18487v1)|[link](https://github.com/DeepCybo-PhysAI/ActionPiece)|[🤗👍39](https://huggingface.co/papers/2609.18487) [αX↑9](https://alphaxiv.org/abs/2609.18487)|
+|**2026-09-16**|**DistAL: Distance-based Advantage Learning for VLA Fine-Tuning**|Reece O'Mahoney et.al.|[2609.18392v1](http://arxiv.org/abs/2609.18392v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18392)|
 |**2026-09-16**|**Decoupling Vision, Language, and Action for Efficient Multi-Task Robot Policies**|Xiatao Sun et.al.|[2609.18374v1](http://arxiv.org/abs/2609.18374v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18374)|
-|**2026-09-17**|**M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models**|Chunpu Xu et.al.|[2609.18259v2](http://arxiv.org/abs/2609.18259v2)|null|[αX↑6](https://alphaxiv.org/abs/2609.18259)|
+|**2026-09-17**|**M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models**|Chunpu Xu et.al.|[2609.18259v2](http://arxiv.org/abs/2609.18259v2)|null|[αX↑8](https://alphaxiv.org/abs/2609.18259)|
 |**2026-09-16**|**Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation**|Lijie Wang et.al.|[2609.18243v1](http://arxiv.org/abs/2609.18243v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18243)|
-|**2026-09-16**|**Reinforcement Learning for Real-Time Vision-Language-Action Policies**|Perry Dong et.al.|[2609.18207v1](http://arxiv.org/abs/2609.18207v1)|null|[αX↑72](https://alphaxiv.org/abs/2609.18207)|
+|**2026-09-16**|**Reinforcement Learning for Real-Time Vision-Language-Action Policies**|Perry Dong et.al.|[2609.18207v1](http://arxiv.org/abs/2609.18207v1)|null|[αX↑111](https://alphaxiv.org/abs/2609.18207)|
 |**2026-09-16**|**A Comprehensive Review of Generative Physical Artificial Intelligence**|Satyam Gaba et.al.|[2609.18111v1](http://arxiv.org/abs/2609.18111v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.18111)|
 |**2026-09-16**|**Not All Layers Need Tuning: Diagnosing and Directing Adaptation in Vision-Language-Action Models**|Shahram Najam Syed et.al.|[2609.18084v1](http://arxiv.org/abs/2609.18084v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18084)|
 |**2026-09-15**|**RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving**|Dogun Kim et.al.|[2609.17728v1](http://arxiv.org/abs/2609.17728v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.17728)|
