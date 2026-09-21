@@ -9,8 +9,8 @@ layout: default
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-09-18**|**PSEE: Progressive Sensor Event Expansion for Point-Supervised Temporal Action Localization**|Jiaxi Yin et.al.|[2609.21462v1](http://arxiv.org/abs/2609.21462v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21462)|
-|**2026-09-16**|**Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective**|Panjian Huang et.al.|[2609.18432v1](http://arxiv.org/abs/2609.18432v1)|[link](https://github.com/BNU-IVC/OccGait)|[αX↑2](https://alphaxiv.org/abs/2609.18432)|
-|**2026-09-14**|**On $\boldsymbol{p}$ -rationality in double covers of symmetric and alternating groups**|Olivier Brunat et.al.|[2609.15244v1](http://arxiv.org/abs/2609.15244v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.15244)|
+|**2026-09-16**|**Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective**|Panjian Huang et.al.|[2609.18432v1](http://arxiv.org/abs/2609.18432v1)|[link](https://github.com/BNU-IVC/OccGait)|[αX↑3](https://alphaxiv.org/abs/2609.18432)|
+|**2026-09-14**|**On $\boldsymbol{p}$ -rationality in double covers of symmetric and alternating groups**|Olivier Brunat et.al.|[2609.15244v1](http://arxiv.org/abs/2609.15244v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.15244)|
 |**2026-09-11**|**Label-Guided Knowledge Distillation for 3D-CNNs in Action Recognition**|Yanjiang Shi et.al.|[2609.13024v1](http://arxiv.org/abs/2609.13024v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.13024)|
 |**2026-09-11**|**PhysioAI: Clinical Knowledge-Guided Semantic Supervision for Skeleton-Based Physiotherapy Action Recognition**|Jie Cao et.al.|[2609.12491v1](http://arxiv.org/abs/2609.12491v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.12491)|
 |**2026-09-11**|**OphBiWSSD: Scaling Temporal Action Localization in Ophthalmic Surgeries with Bidirectional Weight-tied State Space Duality**|Yang Liu et.al.|[2609.12409v1](http://arxiv.org/abs/2609.12409v1)|[link](https://github.com/yo3nglau/OphBiWSSD)|[αX↑5](https://alphaxiv.org/abs/2609.12409)|

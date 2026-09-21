@@ -9,8 +9,8 @@ layout: default
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-09-17**|**Scaling Discovery through Test-Time Communication**|Jongho Park et.al.|[2609.21032v1](http://arxiv.org/abs/2609.21032v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21032)|
-|**2026-09-14**|**Translator vs. Challenger: Adversarial Agentic Learning for C-to-Rust Translation**|Chaofan Wang et.al.|[2609.15381v1](http://arxiv.org/abs/2609.15381v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.15381)|
-|**2026-09-13**|**Optimizing Sparse Outcomes Through Dense Behavioral Signals via Value-Guided Preference Distillation**|Ziyi Zhu et.al.|[2609.14648v1](http://arxiv.org/abs/2609.14648v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.14648)|
+|**2026-09-14**|**Translator vs. Challenger: Adversarial Agentic Learning for C-to-Rust Translation**|Chaofan Wang et.al.|[2609.15381v1](http://arxiv.org/abs/2609.15381v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.15381)|
+|**2026-09-13**|**Optimizing Sparse Outcomes Through Dense Behavioral Signals via Value-Guided Preference Distillation**|Ziyi Zhu et.al.|[2609.14648v1](http://arxiv.org/abs/2609.14648v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.14648)|
 |**2026-09-10**|**Multimodal Temporal Modeling for Continuous Group Emotion Recognition in Multi-party Dialogues**|Soma Iwata et.al.|[2609.11164v1](http://arxiv.org/abs/2609.11164v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.11164)|
 |**2026-09-06**|**CAPMAS: Capability-Based Delegation of Privileges in Multi-Agent Systems**|Rasmus Moorits Veski et.al.|[2609.06500v1](http://arxiv.org/abs/2609.06500v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.06500)|
 |**2026-09-03**|**Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting**|Muneeb Khan et.al.|[2609.03923v1](http://arxiv.org/abs/2609.03923v1)|[link](https://github.com/FKIRSTE/emnlp2026-meeting-delegation)|[αX↑8](https://alphaxiv.org/abs/2609.03923)|
