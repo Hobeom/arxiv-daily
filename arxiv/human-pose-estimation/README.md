@@ -1,9 +1,15 @@
 ## Human Pose Estimation
 
-### Updated on 2026.09.20
+### Updated on 2026.09.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21938)|
+|**2026-09-18**|**SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP**|Kai Zhang et.al.|[2609.21754v1](http://arxiv.org/abs/2609.21754v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21754)|
+|**2026-09-18**|**HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation**|André Lopo et.al.|[2609.21597v1](http://arxiv.org/abs/2609.21597v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21597)|
+|**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502v1](http://arxiv.org/abs/2609.21502v1)|[link](https://github.com/wenmenxixing/awm-3dfm)|[αX↑0](https://alphaxiv.org/abs/2609.21502)|
+|**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498v1](http://arxiv.org/abs/2609.21498v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21498)|
+|**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Jingke Zhou et.al.|[2609.21437v1](http://arxiv.org/abs/2609.21437v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21437)|
 |**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|[link](https://github.com/iambrc/PART)|[αX↑7](https://alphaxiv.org/abs/2609.19872)|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.18738)|
 |**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.18473)|

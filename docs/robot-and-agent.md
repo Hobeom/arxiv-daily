@@ -4,15 +4,20 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.20
+### Updated on 2026.09.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085v1](http://arxiv.org/abs/2609.22085v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22085)|
+|**2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Pengjun Niu et.al.|[2609.21983v1](http://arxiv.org/abs/2609.21983v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21983)|
+|**2026-09-18**|**SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation**|Jinzhu Luo et.al.|[2609.21223v1](http://arxiv.org/abs/2609.21223v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21223)|
+|**2026-09-18**|**Safe Real-Time Policy Steering via Noise-Space Trajectory Optimization for One-Step Generative Policies**|Qingyi Chen et.al.|[2609.21220v1](http://arxiv.org/abs/2609.21220v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21220)|
+|**2026-09-17**|**Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs**|Yiheng Ji et.al.|[2609.21022v1](http://arxiv.org/abs/2609.21022v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21022)|
 |**2026-09-17**|**MoWAM: Explicit Future Motion Prediction for Efficient World Action Models**|Jiayu Wang et.al.|[2609.20709v1](http://arxiv.org/abs/2609.20709v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.20709)|
-|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Yan Qin et.al.|[2609.20649v1](http://arxiv.org/abs/2609.20649v1)|null|[αX↑21](https://alphaxiv.org/abs/2609.20649)|
-|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.20648)|
+|**2026-09-18**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Yan Qin et.al.|[2609.20649v2](http://arxiv.org/abs/2609.20649v2)|null|[αX↑21](https://alphaxiv.org/abs/2609.20649)|
+|**2026-09-18**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v2](http://arxiv.org/abs/2609.20648v2)|null|[αX↑3](https://alphaxiv.org/abs/2609.20648)|
 |**2026-09-17**|**TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces**|Jiaxuan Zhang et.al.|[2609.20646v1](http://arxiv.org/abs/2609.20646v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.20646)|
-|**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v1](http://arxiv.org/abs/2609.20388v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.20388)|
+|**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v2](http://arxiv.org/abs/2609.20388v2)|null|[αX↑2](https://alphaxiv.org/abs/2609.20388)|
 |**2026-09-17**|**MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution**|Loan Bernat et.al.|[2609.20056v1](http://arxiv.org/abs/2609.20056v1)|[link](https://github.com/MAGMA-rob/magma-gen)|[αX↑2](https://alphaxiv.org/abs/2609.20056)|
 |**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923v1](http://arxiv.org/abs/2609.19923v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.19923)|
 |**2026-09-17**|**Learning and Transferring Closed-Loop Robot Software**|So Kuroki et.al.|[2609.19906v1](http://arxiv.org/abs/2609.19906v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.19906)|

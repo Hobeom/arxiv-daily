@@ -1,6 +1,6 @@
 ## Theory of Mind
 
-### Updated on 2026.09.20
+### Updated on 2026.09.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 |**2026-09-14**|**Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States**|Zixuan Wang et.al.|[2609.15972v1](http://arxiv.org/abs/2609.15972v1)|[link](https://github.com/wannabeyourfriend/mind2dialogue)|[🤗👍5](https://huggingface.co/papers/2609.15972) [αX↑7](https://alphaxiv.org/abs/2609.15972)|
 |**2026-09-10**|**GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting**|Tenghao Huang et.al.|[2609.12165v1](http://arxiv.org/abs/2609.12165v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.12165)|
 |**2026-09-01**|**Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks**|Hatim Chergui et.al.|[2609.01779v1](http://arxiv.org/abs/2609.01779v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.01779)|
-|**2026-08-31**|**Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment**|Yifan Zhu et.al.|[2608.30719v1](http://arxiv.org/abs/2608.30719v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.30719)|
+|**2026-09-18**|**Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment**|Yifan Zhu et.al.|[2608.30719v2](http://arxiv.org/abs/2608.30719v2)|null|[αX↑10](https://alphaxiv.org/abs/2608.30719)|
 |**2026-08-31**|**SocialReasonBench: A Video-QA Benchmark for Social Reasoning with Counterfactual Narrative Videos**|Zheyu Huang et.al.|[2608.30716v1](http://arxiv.org/abs/2608.30716v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.30716)|
 |**2026-08-28**|**The Shape of Power: A Multilingual Framework for Social Power Reasoning in Dialogues**|Farah Atif et.al.|[2608.28144v1](http://arxiv.org/abs/2608.28144v1)|[link](https://github.com/farahFif/Social-Power-in-Dialogs)|[αX↑1](https://alphaxiv.org/abs/2608.28144)|
 |**2026-08-26**|**Assessing mentalization in humans and large language models**|Aamir Sohail et.al.|[2608.26291v1](http://arxiv.org/abs/2608.26291v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.26291)|

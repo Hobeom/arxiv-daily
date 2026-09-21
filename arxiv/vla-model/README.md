@@ -1,9 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.20
+### Updated on 2026.09.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-18**|**PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models**|Erik Deinzer et.al.|[2609.22040v1](http://arxiv.org/abs/2609.22040v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22040)|
+|**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Yichen Liu et.al.|[2609.21948v1](http://arxiv.org/abs/2609.21948v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21948)|
+|**2026-09-18**|**A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies**|Mathilde Kappel et.al.|[2609.21817v1](http://arxiv.org/abs/2609.21817v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21817)|
+|**2026-09-18**|**PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation**|Shengbao Li et.al.|[2609.21753v1](http://arxiv.org/abs/2609.21753v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21753)|
+|**2026-09-18**|**SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations**|Hiroaki Kingetsu et.al.|[2609.21650v1](http://arxiv.org/abs/2609.21650v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21650)|
+|**2026-09-18**|**FAN: Foresight Action Normalization for Continual Adaptation of Vision-Language-Action Models**|Yijun Hong et.al.|[2609.21358v1](http://arxiv.org/abs/2609.21358v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21358)|
+|**2026-09-18**|**VLA-Scope: Shift-Aware Failure Prediction for Vision-Language-Action Models**|Kaiwen Zhu et.al.|[2609.21246v1](http://arxiv.org/abs/2609.21246v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21246)|
+|**2026-09-18**|**FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models**|Zhiyuan Gao et.al.|[2609.21228v1](http://arxiv.org/abs/2609.21228v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21228)|
+|**2026-09-17**|**Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs**|Yiheng Ji et.al.|[2609.21022v1](http://arxiv.org/abs/2609.21022v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21022)|
+|**2026-09-17**|**ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation**|Zhengyu Tao et.al.|[2609.20980v1](http://arxiv.org/abs/2609.20980v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.20980)|
 |**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[2609.20659v1](http://arxiv.org/abs/2609.20659v1)|null|[αX↑15](https://alphaxiv.org/abs/2609.20659)|
 |**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Kaivalya Agrawal et.al.|[2609.20648v1](http://arxiv.org/abs/2609.20648v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.20648)|
 |**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Harsha Guda et.al.|[2609.19976v1](http://arxiv.org/abs/2609.19976v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.19976)|
