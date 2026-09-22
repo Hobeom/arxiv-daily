@@ -4,6 +4,9 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-21**|**H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer**|Chuyang Xiao et.al.|[2609.24778v1](http://arxiv.org/abs/2609.24778v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24778)|
+|**2026-09-21**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Trung Dao et.al.|[2609.24682v1](http://arxiv.org/abs/2609.24682v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24682)|
+|**2026-09-21**|**ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation**|Bowei Li et.al.|[2609.24563v1](http://arxiv.org/abs/2609.24563v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24563)|
 |**2026-09-21**|**Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors**|Elizaveta Kovtun et.al.|[2609.24385v1](http://arxiv.org/abs/2609.24385v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24385)|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189v1](http://arxiv.org/abs/2609.24189v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24189)|
 |**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170v1](http://arxiv.org/abs/2609.24170v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24170)|

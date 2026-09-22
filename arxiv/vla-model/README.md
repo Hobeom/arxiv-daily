@@ -4,6 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-21**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Trung Dao et.al.|[2609.24682v1](http://arxiv.org/abs/2609.24682v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24682)|
 |**2026-09-21**|**Bridge3D: Enabling Vision-Language-Action Models to See and Act in 3D**|Haoxuan Li et.al.|[2609.24525v1](http://arxiv.org/abs/2609.24525v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24525)|
 |**2026-09-21**|**FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding**|Hung T. Ho et.al.|[2609.24433v1](http://arxiv.org/abs/2609.24433v1)|[link](https://github.com/cair-vinuni/FoldQuantVLA)|[αX↑0](https://alphaxiv.org/abs/2609.24433)|
 |**2026-09-21**|**LIBERO-VPro: Benchmarking Closed-Loop Visual Robustness of Robotic Foundation Models**|Huiqiong Li et.al.|[2609.24350v1](http://arxiv.org/abs/2609.24350v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24350)|
