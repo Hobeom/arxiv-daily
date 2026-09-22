@@ -1,9 +1,25 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.21
+### Updated on 2026.09.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-21**|**Bridge3D: Enabling Vision-Language-Action Models to See and Act in 3D**|Haoxuan Li et.al.|[2609.24525v1](http://arxiv.org/abs/2609.24525v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24525)|
+|**2026-09-21**|**FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding**|Hung T. Ho et.al.|[2609.24433v1](http://arxiv.org/abs/2609.24433v1)|[link](https://github.com/cair-vinuni/FoldQuantVLA)|[αX↑0](https://alphaxiv.org/abs/2609.24433)|
+|**2026-09-21**|**LIBERO-VPro: Benchmarking Closed-Loop Visual Robustness of Robotic Foundation Models**|Huiqiong Li et.al.|[2609.24350v1](http://arxiv.org/abs/2609.24350v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24350)|
+|**2026-09-21**|**StenoVLA-3D: 3D-Aware Reasoning VLA for Navigation Through Gastrointestinal Stenoses**|Tamima Tabassum et.al.|[2609.24187v1](http://arxiv.org/abs/2609.24187v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24187)|
+|**2026-09-21**|**Opt2VLA: Force-Aware Vision-Language-Action for Contact-Rich Humanoid Whole-Body Manipulation**|Fukang Liu et.al.|[2609.23968v1](http://arxiv.org/abs/2609.23968v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23968)|
+|**2026-09-20**|**Grounded Action Model: 3D Grounding as a Foundation for Robotics**|Gehao Zhang et.al.|[2609.23863v1](http://arxiv.org/abs/2609.23863v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23863)|
+|**2026-09-20**|**Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models**|Shuaijun Liu et.al.|[2609.23650v1](http://arxiv.org/abs/2609.23650v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23650)|
+|**2026-09-20**|**CompVLA: A Variable Compliance Vision-Language-Action Model for Contact-rich Manipulation**|Jongmin Kim et.al.|[2609.23614v1](http://arxiv.org/abs/2609.23614v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23614)|
+|**2026-09-20**|**TaskAnchor: Grounding Task State in Reactive VLAs for Long-Horizon Manipulation**|Hengyan Liu et.al.|[2609.23580v1](http://arxiv.org/abs/2609.23580v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23580)|
+|**2026-09-20**|**AR-WAM: A Visual-Conditioned Agent-Ready World Action Model for Robotic Manipulation**|Yicheng Jiang et.al.|[2609.23578v1](http://arxiv.org/abs/2609.23578v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23578)|
+|**2026-09-20**|**MaskVLA: Visual Masking Against Trajectory Overfitting of Vision-Language-Action Model**|Yuxuan Jiang et.al.|[2609.23565v1](http://arxiv.org/abs/2609.23565v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23565)|
+|**2026-09-20**|**HEARTH: An Object-Centric RGB-Thermal-3D Dataset for Temperature-Aware Robot Manipulation**|Yuning Su et.al.|[2609.23418v1](http://arxiv.org/abs/2609.23418v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23418)|
+|**2026-09-19**|**AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy**|Xiaoshi Li et.al.|[2609.23133v1](http://arxiv.org/abs/2609.23133v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23133)|
+|**2026-09-19**|**An Empirical Study and Open Testbed for Federated Fine-Tuning of Vision-Language-Action Models**|Zhekai Duan et.al.|[2609.22973v1](http://arxiv.org/abs/2609.22973v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22973)|
+|**2026-09-19**|**H-VLA: Hierarchical Vision-Language-Action Model with Key-Action Reasoning and Motion Planning in a Unified Action Space**|Xiongfeng Peng et.al.|[2609.22895v1](http://arxiv.org/abs/2609.22895v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22895)|
+|**2026-09-19**|**SmoLSTM: A Compact Vision-Language-Action Model with Recurrent Memory that Persists**|Jan-Gerrit Habekost et.al.|[2609.22854v1](http://arxiv.org/abs/2609.22854v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22854)|
 |**2026-09-18**|**PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models**|Erik Deinzer et.al.|[2609.22040v1](http://arxiv.org/abs/2609.22040v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22040)|
 |**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Yichen Liu et.al.|[2609.21948v1](http://arxiv.org/abs/2609.21948v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21948)|
 |**2026-09-18**|**A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies**|Mathilde Kappel et.al.|[2609.21817v1](http://arxiv.org/abs/2609.21817v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21817)|

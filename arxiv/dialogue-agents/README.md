@@ -1,10 +1,12 @@
 ## Dialogue Agents
 
-### Updated on 2026.09.21
+### Updated on 2026.09.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-17**|**Scaling Discovery through Test-Time Communication**|Jongho Park et.al.|[2609.21032v1](http://arxiv.org/abs/2609.21032v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21032)|
+|**2026-09-19**|**An Evolutionary Agentic Approach for Open-ended Image Quality Perception**|Zhenchen Tang et.al.|[2609.22942v1](http://arxiv.org/abs/2609.22942v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22942)|
+|**2026-09-18**|**Social Influence and the Allocation of Scientific Attention in AI Populations**|Maxim Chupilkin et.al.|[2609.22408v1](http://arxiv.org/abs/2609.22408v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22408)|
+|**2026-09-17**|**Scaling Discovery through Test-Time Communication**|Jongho Park et.al.|[2609.21032v1](http://arxiv.org/abs/2609.21032v1)|null|[αX↑11](https://alphaxiv.org/abs/2609.21032)|
 |**2026-09-14**|**Translator vs. Challenger: Adversarial Agentic Learning for C-to-Rust Translation**|Chaofan Wang et.al.|[2609.15381v1](http://arxiv.org/abs/2609.15381v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.15381)|
 |**2026-09-13**|**Optimizing Sparse Outcomes Through Dense Behavioral Signals via Value-Guided Preference Distillation**|Ziyi Zhu et.al.|[2609.14648v1](http://arxiv.org/abs/2609.14648v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.14648)|
 |**2026-09-10**|**Multimodal Temporal Modeling for Continuous Group Emotion Recognition in Multi-party Dialogues**|Soma Iwata et.al.|[2609.11164v1](http://arxiv.org/abs/2609.11164v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.11164)|
