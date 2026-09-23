@@ -4,26 +4,37 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.22
+### Updated on 2026.09.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-22**|**RouteRLT: Learning When and Which RL Specialist Should Control a Vision-Language-Action Policy**|Chongyu Zhu et.al.|[2609.26467v1](http://arxiv.org/abs/2609.26467v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26467)|
+|**2026-09-22**|**What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation**|Ziyan Feng et.al.|[2609.25887v1](http://arxiv.org/abs/2609.25887v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25887)|
+|**2026-09-22**|**MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts**|Mohan Liu et.al.|[2609.25689v1](http://arxiv.org/abs/2609.25689v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25689)|
+|**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666v1](http://arxiv.org/abs/2609.25666v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25666)|
+|**2026-09-22**|**Contact-Stable Deformable Tissue Simulation Using Implicit Integration and Live-Pose Grasp Constraints for Laparoscopic Surgery Robot Policy Evaluation**|Juahn Oh et.al.|[2609.25642v1](http://arxiv.org/abs/2609.25642v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25642)|
+|**2026-09-22**|**RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents**|Chang Guo et.al.|[2609.25636v1](http://arxiv.org/abs/2609.25636v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25636)|
+|**2026-09-22**|**PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning**|Lars Johannsmeier et.al.|[2609.25630v1](http://arxiv.org/abs/2609.25630v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25630)|
+|**2026-09-22**|**From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations**|Dongho Yee et.al.|[2609.25625v1](http://arxiv.org/abs/2609.25625v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25625)|
+|**2026-09-22**|**Recording Hand-Held Laparoscopic Instrument Motion in the Operating Room: Magnetometer-Free Fusion of Inertial, Range and Visual Sensing**|Jiyul Lee et.al.|[2609.25577v1](http://arxiv.org/abs/2609.25577v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25577)|
+|**2026-09-22**|**IndustrialVLA-Bench: A Traceable Multi-Axis Evaluation of Open Robot Policy Models**|Yiqi Wang et.al.|[2609.25562v1](http://arxiv.org/abs/2609.25562v1)|[link](https://github.com/xiaoqi-7/IndustrialVLA-Bench)|[αX↑0](https://alphaxiv.org/abs/2609.25562)|
+|**2026-09-21**|**GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry**|Chankyo Kim et.al.|[2609.25338v1](http://arxiv.org/abs/2609.25338v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25338)|
 |**2026-09-21**|**H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer**|Chuyang Xiao et.al.|[2609.24778v1](http://arxiv.org/abs/2609.24778v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24778)|
-|**2026-09-21**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Trung Dao et.al.|[2609.24682v1](http://arxiv.org/abs/2609.24682v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24682)|
+|**2026-09-22**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Trung Dao et.al.|[2609.24682v2](http://arxiv.org/abs/2609.24682v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.24682)|
 |**2026-09-21**|**ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation**|Bowei Li et.al.|[2609.24563v1](http://arxiv.org/abs/2609.24563v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24563)|
-|**2026-09-21**|**Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors**|Elizaveta Kovtun et.al.|[2609.24385v1](http://arxiv.org/abs/2609.24385v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24385)|
+|**2026-09-21**|**Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors**|Elizaveta Kovtun et.al.|[2609.24385v1](http://arxiv.org/abs/2609.24385v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.24385)|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189v1](http://arxiv.org/abs/2609.24189v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24189)|
-|**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170v1](http://arxiv.org/abs/2609.24170v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24170)|
+|**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170v1](http://arxiv.org/abs/2609.24170v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.24170)|
 |**2026-09-21**|**Object-Centric Conditioning for Visuomotor Flow Matching**|Jijie Li et.al.|[2609.24155v1](http://arxiv.org/abs/2609.24155v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24155)|
-|**2026-09-21**|**Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning**|Zihao Yang et.al.|[2609.24093v1](http://arxiv.org/abs/2609.24093v1)|[link](https://github.com/DexGEM-Lab/real2sim2real)|[αX↑0](https://alphaxiv.org/abs/2609.24093)|
+|**2026-09-21**|**Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning**|Zihao Yang et.al.|[2609.24093v1](http://arxiv.org/abs/2609.24093v1)|[link](https://github.com/DexGEM-Lab/real2sim2real)|[αX↑2](https://alphaxiv.org/abs/2609.24093)|
 |**2026-09-20**|**FinsSim: A Reality-Aligned Integrated Simulation Platform for Underwater Robot Learning**|Yu Zhang et.al.|[2609.23943v1](http://arxiv.org/abs/2609.23943v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23943)|
 |**2026-09-20**|**BarrierFormer: Transformer-Guided Predictive Barrier Enforcement for Safe Robot Control**|Anandsingh Chauhan et.al.|[2609.23896v1](http://arxiv.org/abs/2609.23896v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23896)|
 |**2026-09-20**|**From Biological Precursors to Artificial Cognition: Consciousness, Embodiment, and the MEM Architecture**|Janusz A. Starzyk et.al.|[2609.23828v1](http://arxiv.org/abs/2609.23828v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23828)|
 |**2026-09-20**|**CompVLA: A Variable Compliance Vision-Language-Action Model for Contact-rich Manipulation**|Jongmin Kim et.al.|[2609.23614v1](http://arxiv.org/abs/2609.23614v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23614)|
 |**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Hongwei Yan et.al.|[2609.23492v1](http://arxiv.org/abs/2609.23492v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23492)|
 |**2026-09-20**|**Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations**|Zhihao Gu et.al.|[2609.23486v1](http://arxiv.org/abs/2609.23486v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23486)|
-|**2026-09-20**|**HEARTH: An Object-Centric RGB-Thermal-3D Dataset for Temperature-Aware Robot Manipulation**|Yuning Su et.al.|[2609.23418v1](http://arxiv.org/abs/2609.23418v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23418)|
-|**2026-09-19**|**Robot World Models Are Not Invariant to How the Actions Are Written**|Ahmed Karim et.al.|[2609.23252v1](http://arxiv.org/abs/2609.23252v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23252)|
+|**2026-09-20**|**HEARTH: An Object-Centric RGB-Thermal-3D Dataset for Temperature-Aware Robot Manipulation**|Yuning Su et.al.|[2609.23418v1](http://arxiv.org/abs/2609.23418v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23418)|
+|**2026-09-19**|**Robot World Models Are Not Invariant to How the Actions Are Written**|Ahmed Karim et.al.|[2609.23252v1](http://arxiv.org/abs/2609.23252v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.23252)|
 |**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085v1](http://arxiv.org/abs/2609.22085v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.22085)|
 |**2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Pengjun Niu et.al.|[2609.21983v1](http://arxiv.org/abs/2609.21983v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21983)|
 |**2026-09-18**|**SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation**|Jinzhu Luo et.al.|[2609.21223v1](http://arxiv.org/abs/2609.21223v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.21223)|

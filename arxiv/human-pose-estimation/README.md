@@ -1,14 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.09.22
+### Updated on 2026.09.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-21**|**STA-TFM: Spatio-Temporal Aggregation Across Views TransForMer for Pose Estimation**|Mena Kamel et.al.|[2609.24482v1](http://arxiv.org/abs/2609.24482v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24482)|
-|**2026-09-21**|**Estimating Accurate Hand Pose in Camera Space with Vision Transformer**|Kaiwen Ren et.al.|[2609.24424v1](http://arxiv.org/abs/2609.24424v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24424)|
-|**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961v1](http://arxiv.org/abs/2609.23961v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23961)|
-|**2026-09-20**|**G6D: Geometric Learning-Free RGB-D 6D Pose Solver for Robotic Manipulation**|Yixuan Liang et.al.|[2609.23566v1](http://arxiv.org/abs/2609.23566v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23566)|
-|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.21938)|
+|**2026-09-22**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v1](http://arxiv.org/abs/2609.26590v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26590)|
+|**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26561)|
+|**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25966)|
+|**2026-09-22**|**Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation**|Mingxuan Zhang et.al.|[2609.25898v1](http://arxiv.org/abs/2609.25898v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25898)|
+|**2026-09-22**|**Isolated Sign Language Recognition for Icelandic Sign Language: Experiments in a Low-resource Setting**|Finnur Ágúst Ingimundarson et.al.|[2609.25862v1](http://arxiv.org/abs/2609.25862v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25862)|
+|**2026-09-21**|**STA-TFM: Spatio-Temporal Aggregation Across Views TransForMer for Pose Estimation**|Mena Kamel et.al.|[2609.24482v1](http://arxiv.org/abs/2609.24482v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.24482)|
+|**2026-09-22**|**Estimating Accurate Hand Pose in Camera Space with Vision Transformer**|Kaiwen Ren et.al.|[2609.24424v2](http://arxiv.org/abs/2609.24424v2)|null|[αX↑2](https://alphaxiv.org/abs/2609.24424)|
+|**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961v1](http://arxiv.org/abs/2609.23961v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23961)|
+|**2026-09-20**|**G6D: Geometric Learning-Free RGB-D 6D Pose Solver for Robotic Manipulation**|Yixuan Liang et.al.|[2609.23566v1](http://arxiv.org/abs/2609.23566v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23566)|
+|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.21938)|
 |**2026-09-18**|**SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP**|Kai Zhang et.al.|[2609.21754v1](http://arxiv.org/abs/2609.21754v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.21754)|
 |**2026-09-18**|**HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation**|André Lopo et.al.|[2609.21597v1](http://arxiv.org/abs/2609.21597v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21597)|
 |**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502v1](http://arxiv.org/abs/2609.21502v1)|[link](https://github.com/wenmenxixing/awm-3dfm)|[αX↑3](https://alphaxiv.org/abs/2609.21502)|
