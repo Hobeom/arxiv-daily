@@ -4,10 +4,21 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.23
+### Updated on 2026.09.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-23**|**Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams**|Ding Yi et.al.|[2609.28429v1](http://arxiv.org/abs/2609.28429v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28429)|
+|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339v1](http://arxiv.org/abs/2609.28339v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28339)|
+|**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Jiahang Cao et.al.|[2609.28161v1](http://arxiv.org/abs/2609.28161v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28161)|
+|**2026-09-23**|**InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies**|Sai Puneeth Reddy Gottam et.al.|[2609.27734v1](http://arxiv.org/abs/2609.27734v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27734)|
+|**2026-09-23**|**Behavior-Aligned Action Tokenization for Robot Policy Learning**|Junbo Dong et.al.|[2609.27513v1](http://arxiv.org/abs/2609.27513v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27513)|
+|**2026-09-23**|**Turning Safety into Competence: Minimally Exploitable Robot Policies via Safety-Filtered Reinforcement Learning**|Ruihan Wu et.al.|[2609.27312v1](http://arxiv.org/abs/2609.27312v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27312)|
+|**2026-09-23**|**EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics**|Haoxiang You et.al.|[2609.27308v1](http://arxiv.org/abs/2609.27308v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27308)|
+|**2026-09-23**|**Memory That Changes Action Is Not Memory That Guides It: Counterfactual Auditing of History-Conditioned Robot Policies**|Jiajie Zhang et.al.|[2609.27247v1](http://arxiv.org/abs/2609.27247v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27247)|
+|**2026-09-23**|**Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR**|Nathalia Gomez et.al.|[2609.27246v1](http://arxiv.org/abs/2609.27246v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27246)|
+|**2026-09-22**|**HiRE: Hindsight Reward Editing for Policy Finetuning**|Haoyi Niu et.al.|[2609.27068v1](http://arxiv.org/abs/2609.27068v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27068)|
+|**2026-09-22**|**Backdoors in Learning-Based Industrial Robotic Arm Manipulation: An Empirical Security Study**|Zijian Zhang et.al.|[2609.26868v1](http://arxiv.org/abs/2609.26868v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26868)|
 |**2026-09-22**|**RouteRLT: Learning When and Which RL Specialist Should Control a Vision-Language-Action Policy**|Chongyu Zhu et.al.|[2609.26467v1](http://arxiv.org/abs/2609.26467v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26467)|
 |**2026-09-22**|**What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation**|Ziyan Feng et.al.|[2609.25887v1](http://arxiv.org/abs/2609.25887v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25887)|
 |**2026-09-22**|**MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts**|Mohan Liu et.al.|[2609.25689v1](http://arxiv.org/abs/2609.25689v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25689)|

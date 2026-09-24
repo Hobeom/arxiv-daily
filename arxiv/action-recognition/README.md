@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.09.23
+### Updated on 2026.09.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560v1](http://arxiv.org/abs/2609.27560v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27560)|
 |**2026-09-21**|**Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding**|Yu-Ho Chang et.al.|[2609.24127v1](http://arxiv.org/abs/2609.24127v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24127)|
 |**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Hongwei Yan et.al.|[2609.23492v1](http://arxiv.org/abs/2609.23492v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23492)|
 |**2026-09-18**|**PSEE: Progressive Sensor Event Expansion for Point-Supervised Temporal Action Localization**|Jiaxi Yin et.al.|[2609.21462v1](http://arxiv.org/abs/2609.21462v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.21462)|

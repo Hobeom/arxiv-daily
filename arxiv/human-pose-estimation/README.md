@@ -1,10 +1,12 @@
 ## Human Pose Estimation
 
-### Updated on 2026.09.23
+### Updated on 2026.09.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-22**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v1](http://arxiv.org/abs/2609.26590v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26590)|
+|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27363)|
+|**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27094)|
+|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.26590)|
 |**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26561)|
 |**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25966)|
 |**2026-09-22**|**Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation**|Mingxuan Zhang et.al.|[2609.25898v1](http://arxiv.org/abs/2609.25898v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25898)|

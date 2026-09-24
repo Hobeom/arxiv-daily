@@ -4,10 +4,16 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.09.23
+### Updated on 2026.09.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Ning Chen et.al.|[2609.28431v1](http://arxiv.org/abs/2609.28431v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28431)|
+|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Samrat Sahoo et.al.|[2609.28314v1](http://arxiv.org/abs/2609.28314v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28314)|
+|**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Tej Deep Pala et.al.|[2609.28256v1](http://arxiv.org/abs/2609.28256v1)|[link](https://github.com/declare-lab/MemBodied)|[αX↑0](https://alphaxiv.org/abs/2609.28256)|
+|**2026-09-23**|**Less Language, More Latents: Annotation-Efficient VLAs for Driving**|Alexey Zakharov et.al.|[2609.27747v1](http://arxiv.org/abs/2609.27747v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27747)|
+|**2026-09-23**|**BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models**|Weihui Zhao et.al.|[2609.27450v1](http://arxiv.org/abs/2609.27450v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27450)|
+|**2026-09-23**|**Full-Covariance Smoothing of Bayesian Neural Networks for Online Adaptation**|Oren Wright et.al.|[2609.27244v1](http://arxiv.org/abs/2609.27244v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27244)|
 |**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672v1](http://arxiv.org/abs/2609.26672v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26672)|
 |**2026-09-22**|**RouteRLT: Learning When and Which RL Specialist Should Control a Vision-Language-Action Policy**|Chongyu Zhu et.al.|[2609.26467v1](http://arxiv.org/abs/2609.26467v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26467)|
 |**2026-09-22**|**SafeLoop: Risk-Aware Rollback for Vision-Language-Action Manipulation**|Zeyu Lou et.al.|[2609.26313v1](http://arxiv.org/abs/2609.26313v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.26313)|
