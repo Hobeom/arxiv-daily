@@ -4,16 +4,23 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.09.24
+### Updated on 2026.09.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Ning Chen et.al.|[2609.28431v1](http://arxiv.org/abs/2609.28431v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28431)|
-|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Samrat Sahoo et.al.|[2609.28314v1](http://arxiv.org/abs/2609.28314v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28314)|
-|**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Tej Deep Pala et.al.|[2609.28256v1](http://arxiv.org/abs/2609.28256v1)|[link](https://github.com/declare-lab/MemBodied)|[αX↑0](https://alphaxiv.org/abs/2609.28256)|
+|**2026-09-24**|**Self-Adaptive VLA for Robust Robot Deployment**|Hongxin Zhang et.al.|[2609.30092v1](http://arxiv.org/abs/2609.30092v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30092)|
+|**2026-09-24**|**Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation**|Zexi Li et.al.|[2609.29389v1](http://arxiv.org/abs/2609.29389v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.29389)|
+|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Riccardo Andrea Izzo et.al.|[2609.29382v1](http://arxiv.org/abs/2609.29382v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.29382)|
+|**2026-09-24**|**AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution**|Junyi Tang et.al.|[2609.29204v1](http://arxiv.org/abs/2609.29204v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.29204)|
+|**2026-09-24**|**CrossSafe: Towards Cross-Embodiment Latent Safety Filters**|Ihab Tabbara et.al.|[2609.28984v1](http://arxiv.org/abs/2609.28984v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28984)|
+|**2026-09-24**|**ActGaze: Learning Action-Grounded Gaze through Counterfactual Visual Interventions for High-Precision Manipulation**|Jinxuan Zhu et.al.|[2609.28955v1](http://arxiv.org/abs/2609.28955v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28955)|
+|**2026-09-24**|**Direction-Scale Decomposition in Action Representation: Rethinking What to Tokenize for Vision-Language-Action Models**|Yufei Duan et.al.|[2609.28865v1](http://arxiv.org/abs/2609.28865v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28865)|
+|**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Ning Chen et.al.|[2609.28431v1](http://arxiv.org/abs/2609.28431v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.28431)|
+|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Samrat Sahoo et.al.|[2609.28314v1](http://arxiv.org/abs/2609.28314v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.28314)|
+|**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Tej Deep Pala et.al.|[2609.28256v1](http://arxiv.org/abs/2609.28256v1)|[link](https://github.com/declare-lab/MemBodied)|[αX↑3](https://alphaxiv.org/abs/2609.28256)|
 |**2026-09-23**|**Less Language, More Latents: Annotation-Efficient VLAs for Driving**|Alexey Zakharov et.al.|[2609.27747v1](http://arxiv.org/abs/2609.27747v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27747)|
-|**2026-09-23**|**BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models**|Weihui Zhao et.al.|[2609.27450v1](http://arxiv.org/abs/2609.27450v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27450)|
-|**2026-09-23**|**Full-Covariance Smoothing of Bayesian Neural Networks for Online Adaptation**|Oren Wright et.al.|[2609.27244v1](http://arxiv.org/abs/2609.27244v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27244)|
+|**2026-09-23**|**BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models**|Weihui Zhao et.al.|[2609.27450v1](http://arxiv.org/abs/2609.27450v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.27450)|
+|**2026-09-23**|**Full-Covariance Smoothing of Bayesian Neural Networks for Online Adaptation**|Oren Wright et.al.|[2609.27244v1](http://arxiv.org/abs/2609.27244v1)|[link](https://github.com/omwright/bnn-smoother)|[αX↑0](https://alphaxiv.org/abs/2609.27244)|
 |**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672v1](http://arxiv.org/abs/2609.26672v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.26672)|
 |**2026-09-22**|**RouteRLT: Learning When and Which RL Specialist Should Control a Vision-Language-Action Policy**|Chongyu Zhu et.al.|[2609.26467v1](http://arxiv.org/abs/2609.26467v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.26467)|
 |**2026-09-22**|**SafeLoop: Risk-Aware Rollback for Vision-Language-Action Manipulation**|Zeyu Lou et.al.|[2609.26313v1](http://arxiv.org/abs/2609.26313v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.26313)|

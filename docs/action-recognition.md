@@ -4,11 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.09.24
+### Updated on 2026.09.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560v1](http://arxiv.org/abs/2609.27560v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27560)|
+|**2026-09-24**|**NNV3: Expanding Neural Network Verification to New Architectures and Domains**|Anne M. Tumlin et.al.|[2609.30050v1](http://arxiv.org/abs/2609.30050v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30050)|
+|**2026-09-24**|**Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning**|Tomohiro Motoda et.al.|[2609.29822v1](http://arxiv.org/abs/2609.29822v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.29822)|
+|**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560v1](http://arxiv.org/abs/2609.27560v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.27560)|
 |**2026-09-21**|**Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding**|Yu-Ho Chang et.al.|[2609.24127v1](http://arxiv.org/abs/2609.24127v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.24127)|
 |**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Hongwei Yan et.al.|[2609.23492v1](http://arxiv.org/abs/2609.23492v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.23492)|
 |**2026-09-18**|**PSEE: Progressive Sensor Event Expansion for Point-Supervised Temporal Action Localization**|Jiaxi Yin et.al.|[2609.21462v1](http://arxiv.org/abs/2609.21462v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.21462)|

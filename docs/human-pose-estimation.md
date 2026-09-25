@@ -4,11 +4,13 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.24
+### Updated on 2026.09.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27363)|
+|**2026-09-24**|**Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models**|Abu Bakar et.al.|[2609.30026v1](http://arxiv.org/abs/2609.30026v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30026)|
+|**2026-09-24**|**Singularity Analysis for the Perspective-Four and Five-Line Problems**|Jorge García Fontán et.al.|[2609.29417v1](http://arxiv.org/abs/2609.29417v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.29417)|
+|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.27363)|
 |**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27094)|
 |**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|[link](https://github.com/Intellindust-AI-Lab/GTR)|[αX↑1](https://alphaxiv.org/abs/2609.26590)|
 |**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.26561)|
