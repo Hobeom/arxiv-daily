@@ -4,11 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-24**|**Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models**|Abu Bakar et.al.|[2609.30026v1](http://arxiv.org/abs/2609.30026v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.30026)|
+|**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[2609.31452v1](http://arxiv.org/abs/2609.31452v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.31452)|
+|**2026-09-25**|**PICO: Projection-Informed Consistency Optimisation for 6DoF Surgical Tool Pose Estimation**|Lucy Fothergill et.al.|[2609.30989v1](http://arxiv.org/abs/2609.30989v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30989)|
+|**2026-09-25**|**SeA-RVINS: Semantic-Aware Tightly Coupled RTK-Visual-Inertial System with Correlation-Preserving Robust Estimation for Urban Navigation**|Wang Hu et.al.|[2609.30814v1](http://arxiv.org/abs/2609.30814v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30814)|
+|**2026-09-24**|**POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems**|Sang Min Kim et.al.|[2609.30404v1](http://arxiv.org/abs/2609.30404v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30404)|
+|**2026-09-24**|**Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models**|Abu Bakar et.al.|[2609.30026v1](http://arxiv.org/abs/2609.30026v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.30026)|
 |**2026-09-24**|**Singularity Analysis for the Perspective-Four and Five-Line Problems**|Jorge García Fontán et.al.|[2609.29417v1](http://arxiv.org/abs/2609.29417v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.29417)|
-|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.27363)|
-|**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.27094)|
-|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|[link](https://github.com/Intellindust-AI-Lab/GTR)|[αX↑6](https://alphaxiv.org/abs/2609.26590)|
+|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27363)|
+|**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.27094)|
+|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|[link](https://github.com/Intellindust-AI-Lab/GTR)|[αX↑7](https://alphaxiv.org/abs/2609.26590)|
 |**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.26561)|
 |**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.25966)|
 |**2026-09-22**|**Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation**|Mingxuan Zhang et.al.|[2609.25898v1](http://arxiv.org/abs/2609.25898v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.25898)|

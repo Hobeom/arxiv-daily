@@ -4,18 +4,25 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837v1](http://arxiv.org/abs/2609.29837v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.29837)|
-|**2026-09-24**|**RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning**|Zexi Li et.al.|[2609.29394v1](http://arxiv.org/abs/2609.29394v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.29394)|
-|**2026-09-24**|**Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation**|Zexi Li et.al.|[2609.29389v1](http://arxiv.org/abs/2609.29389v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.29389)|
-|**2026-09-24**|**EgoSpeedUp: Transferring Human Manipulation Tempo to Robot Policies**|Hanbit Oh et.al.|[2609.29310v1](http://arxiv.org/abs/2609.29310v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.29310)|
-|**2026-09-24**|**IronViT: Toward Efficient Generalist Visual Representation Learning**|Jiaxi Huang et.al.|[2609.29252v1](http://arxiv.org/abs/2609.29252v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.29252)|
-|**2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Xin Wang et.al.|[2609.29166v1](http://arxiv.org/abs/2609.29166v1)|null|[αX↑11](https://alphaxiv.org/abs/2609.29166)|
-|**2026-09-24**|**Learning from Mixed-Quality Deployment Experience for Robot Manipulation**|Yangang Ren et.al.|[2609.29000v1](http://arxiv.org/abs/2609.29000v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.29000)|
+|**2026-09-25**|**Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient**|Hongrui Zheng et.al.|[2609.31606v1](http://arxiv.org/abs/2609.31606v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.31606)|
+|**2026-09-25**|**SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents**|Maokai Qin et.al.|[2609.30971v1](http://arxiv.org/abs/2609.30971v1)|[link](https://github.com/SciHorizon-elab/SciHorizon-elab)|[αX↑1](https://alphaxiv.org/abs/2609.30971)|
+|**2026-09-25**|**FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation**|Hiroshi Ito et.al.|[2609.30965v1](http://arxiv.org/abs/2609.30965v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.30965)|
+|**2026-09-25**|**VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations**|Julien Poffet et.al.|[2609.30959v1](http://arxiv.org/abs/2609.30959v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30959)|
+|**2026-09-25**|**Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models**|Tianhang Guo et.al.|[2609.30783v1](http://arxiv.org/abs/2609.30783v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.30783)|
+|**2026-09-25**|**RoboMonitor: Label-Efficient Runtime Monitoring of Robot Task Execution via Predictive Representation Learning**|Abhiroop Ajith et.al.|[2609.30715v1](http://arxiv.org/abs/2609.30715v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30715)|
+|**2026-09-25**|**Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic**|Nuthasith Gerdpratoom et.al.|[2609.30696v1](http://arxiv.org/abs/2609.30696v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30696)|
+|**2026-09-25**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|PUBG Ally Team et.al.|[2609.29837v2](http://arxiv.org/abs/2609.29837v2)|null|[🤗👍11](https://huggingface.co/papers/2609.29837) [αX↑3](https://alphaxiv.org/abs/2609.29837)|
+|**2026-09-24**|**RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning**|Zexi Li et.al.|[2609.29394v1](http://arxiv.org/abs/2609.29394v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.29394)|
+|**2026-09-24**|**Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation**|Zexi Li et.al.|[2609.29389v1](http://arxiv.org/abs/2609.29389v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.29389)|
+|**2026-09-25**|**EgoSpeedUp: Transferring Human Manipulation Tempo to Robot Policies**|Hanbit Oh et.al.|[2609.29310v2](http://arxiv.org/abs/2609.29310v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.29310)|
+|**2026-09-24**|**IronViT: Toward Efficient Generalist Visual Representation Learning**|Jiaxi Huang et.al.|[2609.29252v1](http://arxiv.org/abs/2609.29252v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.29252)|
+|**2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Xin Wang et.al.|[2609.29166v1](http://arxiv.org/abs/2609.29166v1)|null|[αX↑18](https://alphaxiv.org/abs/2609.29166)|
+|**2026-09-24**|**Learning from Mixed-Quality Deployment Experience for Robot Manipulation**|Yangang Ren et.al.|[2609.29000v1](http://arxiv.org/abs/2609.29000v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.29000)|
 |**2026-09-24**|**AquaMend: Minimal Re-probing and Conditional Rollback for Latent-Belief Failures in Embodied Agents**|Yufan Liu et.al.|[2609.28973v1](http://arxiv.org/abs/2609.28973v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.28973)|
 |**2026-09-24**|**RoboRecover: Benchmarking Robot Policy Recovery under Execution Deviations**|Yang Li et.al.|[2609.28952v1](http://arxiv.org/abs/2609.28952v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28952)|
 |**2026-09-24**|**Online Sim-to-Real Adaptation via Closed-Loop System Modeling**|Yuhao Huang et.al.|[2609.28878v1](http://arxiv.org/abs/2609.28878v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.28878)|
 |**2026-09-23**|**An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics**|Teeratham Vitchutripop et.al.|[2609.28807v1](http://arxiv.org/abs/2609.28807v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28807)|
-|**2026-09-23**|**CuACD: A Fully GPU-Resident Approximate Convex Decomposition**|Ruoxi Shi et.al.|[2609.28731v1](http://arxiv.org/abs/2609.28731v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.28731)|
+|**2026-09-23**|**CuACD: A Fully GPU-Resident Approximate Convex Decomposition**|Ruoxi Shi et.al.|[2609.28731v1](http://arxiv.org/abs/2609.28731v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28731)|
 |**2026-09-23**|**Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams**|Ding Yi et.al.|[2609.28429v1](http://arxiv.org/abs/2609.28429v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.28429)|
 |**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339v1](http://arxiv.org/abs/2609.28339v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.28339)|
 |**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Jiahang Cao et.al.|[2609.28161v1](http://arxiv.org/abs/2609.28161v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.28161)|
