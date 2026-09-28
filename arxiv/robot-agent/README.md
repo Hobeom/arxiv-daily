@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.09.27
+### Updated on 2026.09.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 |**2026-09-23**|**InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies**|Sai Puneeth Reddy Gottam et.al.|[2609.27734v1](http://arxiv.org/abs/2609.27734v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27734)|
 |**2026-09-23**|**Behavior-Aligned Action Tokenization for Robot Policy Learning**|Junbo Dong et.al.|[2609.27513v1](http://arxiv.org/abs/2609.27513v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27513)|
 |**2026-09-23**|**Turning Safety into Competence: Minimally Exploitable Robot Policies via Safety-Filtered Reinforcement Learning**|Ruihan Wu et.al.|[2609.27312v1](http://arxiv.org/abs/2609.27312v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27312)|
-|**2026-09-23**|**EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics**|Haoxiang You et.al.|[2609.27308v1](http://arxiv.org/abs/2609.27308v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27308)|
+|**2026-09-23**|**EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics**|Haoxiang You et.al.|[2609.27308v1](http://arxiv.org/abs/2609.27308v1)|[link](https://github.com/EmbodiedSWE/EmbodiedSWE)|[αX↑0](https://alphaxiv.org/abs/2609.27308)|
 |**2026-09-23**|**Memory That Changes Action Is Not Memory That Guides It: Counterfactual Auditing of History-Conditioned Robot Policies**|Jiajie Zhang et.al.|[2609.27247v1](http://arxiv.org/abs/2609.27247v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27247)|
 |**2026-09-23**|**Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR**|Nathalia Gomez et.al.|[2609.27246v1](http://arxiv.org/abs/2609.27246v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.27246)|
 |**2026-09-22**|**HiRE: Hindsight Reward Editing for Policy Finetuning**|Haoyi Niu et.al.|[2609.27068v1](http://arxiv.org/abs/2609.27068v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27068)|

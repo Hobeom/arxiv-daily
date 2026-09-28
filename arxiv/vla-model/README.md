@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.27
+### Updated on 2026.09.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 |**2026-09-19**|**H-VLA: Hierarchical Vision-Language-Action Model with Key-Action Reasoning and Motion Planning in a Unified Action Space**|Xiongfeng Peng et.al.|[2609.22895v1](http://arxiv.org/abs/2609.22895v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22895)|
 |**2026-09-19**|**SmoLSTM: A Compact Vision-Language-Action Model with Recurrent Memory that Persists**|Jan-Gerrit Habekost et.al.|[2609.22854v1](http://arxiv.org/abs/2609.22854v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22854)|
 |**2026-09-18**|**PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models**|Erik Deinzer et.al.|[2609.22040v1](http://arxiv.org/abs/2609.22040v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.22040)|
-|**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Yichen Liu et.al.|[2609.21948v1](http://arxiv.org/abs/2609.21948v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21948)|
+|**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Yichen Liu et.al.|[2609.21948v1](http://arxiv.org/abs/2609.21948v1)|[link](https://github.com/PuzhenYuan/GALA)|[αX↑0](https://alphaxiv.org/abs/2609.21948)|
 |**2026-09-18**|**A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies**|Mathilde Kappel et.al.|[2609.21817v1](http://arxiv.org/abs/2609.21817v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21817)|
 |**2026-09-18**|**PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation**|Shengbao Li et.al.|[2609.21753v1](http://arxiv.org/abs/2609.21753v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21753)|
 |**2026-09-18**|**SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations**|Hiroaki Kingetsu et.al.|[2609.21650v1](http://arxiv.org/abs/2609.21650v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21650)|
