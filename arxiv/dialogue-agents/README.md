@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.09.28
+### Updated on 2026.09.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-27**|**Beyond Solo and Consistency: Vindicating Multi-Agent Debate via Conditional Progressive Pruning**|Ruosong Ye et.al.|[2609.33974v1](http://arxiv.org/abs/2609.33974v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33974)|
 |**2026-09-25**|**MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory**|De Jiang et.al.|[2609.30939v1](http://arxiv.org/abs/2609.30939v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30939)|
 |**2026-09-19**|**An Evolutionary Agentic Approach for Open-ended Image Quality Perception**|Zhenchen Tang et.al.|[2609.22942v1](http://arxiv.org/abs/2609.22942v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.22942)|
 |**2026-09-18**|**Social Influence and the Allocation of Scientific Attention in AI Populations**|Maxim Chupilkin et.al.|[2609.22408v1](http://arxiv.org/abs/2609.22408v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.22408)|

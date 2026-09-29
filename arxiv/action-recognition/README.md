@@ -1,13 +1,19 @@
 ## Action Recognition
 
-### Updated on 2026.09.28
+### Updated on 2026.09.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-28**|**DiMoP: Diffusion-Driven Motion Representation Learning With Frame-Level Pseudo-Classification for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2609.35444v1](http://arxiv.org/abs/2609.35444v1)|[link](https://github.com/ShanakaRG/DiMoP-Diffusion-Driven-Motion-Representation-Learning-for-Skeleton-Based-Action-Recognition)|[αX↑0](https://alphaxiv.org/abs/2609.35444)|
+|**2026-09-28**|**Privacy-Preserving Full-Body Meshing from mmWave Radar via Mesh Foundation Model Supervision**|Shuxing Zhang et.al.|[2609.34768v1](http://arxiv.org/abs/2609.34768v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34768)|
+|**2026-09-28**|**mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar**|Junqiao Fan et.al.|[2609.34220v1](http://arxiv.org/abs/2609.34220v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34220)|
+|**2026-09-28**|**Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos**|Wonseok Roh et.al.|[2609.34149v1](http://arxiv.org/abs/2609.34149v1)|[link](https://github.com/kuai-lab/functional_hand_type)|[αX↑2](https://alphaxiv.org/abs/2609.34149)|
+|**2026-09-26**|**De-biasing Skeleton-based Action Recognition with Convex Hull Adaptive Shift**|Mengyuan Liu et.al.|[2609.32454v1](http://arxiv.org/abs/2609.32454v1)|[link](https://github.com/Necolizer/CHASE)|[αX↑0](https://alphaxiv.org/abs/2609.32454)|
+|**2026-09-25**|**SynDORBench: Evaluating LVLM Perceptual Robustness Under Physically Constrained Visibility Conditions**|Jeremy Stephen Gabriel Yee et.al.|[2609.31823v1](http://arxiv.org/abs/2609.31823v1)|[link](https://github.com/jzyee/SynDORBench)|[αX↑0](https://alphaxiv.org/abs/2609.31823)|
 |**2026-09-24**|**NNV3: Expanding Neural Network Verification to New Architectures and Domains**|Anne M. Tumlin et.al.|[2609.30050v1](http://arxiv.org/abs/2609.30050v1)|[link](https://github.com/verivital/nnv)|[αX↑2](https://alphaxiv.org/abs/2609.30050)|
-|**2026-09-24**|**Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning**|Tomohiro Motoda et.al.|[2609.29822v1](http://arxiv.org/abs/2609.29822v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.29822)|
+|**2026-09-24**|**Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning**|Tomohiro Motoda et.al.|[2609.29822v1](http://arxiv.org/abs/2609.29822v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.29822)|
 |**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560v1](http://arxiv.org/abs/2609.27560v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27560)|
-|**2026-09-21**|**Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding**|Yu-Ho Chang et.al.|[2609.24127v1](http://arxiv.org/abs/2609.24127v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.24127)|
+|**2026-09-21**|**Action-Slot: Structured Action-Centric Representation Learning for Multi-Agent Atomic Activity Understanding**|Yu-Ho Chang et.al.|[2609.24127v1](http://arxiv.org/abs/2609.24127v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.24127)|
 |**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Hongwei Yan et.al.|[2609.23492v1](http://arxiv.org/abs/2609.23492v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.23492)|
 |**2026-09-18**|**PSEE: Progressive Sensor Event Expansion for Point-Supervised Temporal Action Localization**|Jiaxi Yin et.al.|[2609.21462v1](http://arxiv.org/abs/2609.21462v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.21462)|
 |**2026-09-16**|**Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective**|Panjian Huang et.al.|[2609.18432v1](http://arxiv.org/abs/2609.18432v1)|[link](https://github.com/BNU-IVC/OccGait)|[αX↑5](https://alphaxiv.org/abs/2609.18432)|

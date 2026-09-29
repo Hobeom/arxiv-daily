@@ -4,10 +4,21 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.28
+### Updated on 2026.09.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764v1](http://arxiv.org/abs/2609.35764v1)|[link](https://github.com/ZhilinGuo/reliability-gated-imu-fusion)|[αX↑0](https://alphaxiv.org/abs/2609.35764)|
+|**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743v1](http://arxiv.org/abs/2609.35743v1)|[link](https://github.com/infinihand/InfiniHand)|[αX↑5](https://alphaxiv.org/abs/2609.35743)|
+|**2026-09-28**|**Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring**|Miriama Jánošová et.al.|[2609.35726v1](http://arxiv.org/abs/2609.35726v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35726)|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35715)|
+|**2026-09-28**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490v1](http://arxiv.org/abs/2609.35490v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35490)|
+|**2026-09-28**|**LEGAU: Learning Semantic Gaussian Priors for Scalable Category-level Pose Estimation**|Hongli Xu et.al.|[2609.35046v1](http://arxiv.org/abs/2609.35046v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35046)|
+|**2026-09-28**|**Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos**|Wonseok Roh et.al.|[2609.34149v1](http://arxiv.org/abs/2609.34149v1)|[link](https://github.com/kuai-lab/functional_hand_type)|[αX↑2](https://alphaxiv.org/abs/2609.34149)|
+|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939v1](http://arxiv.org/abs/2609.33939v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33939)|
+|**2026-09-27**|**VPTwin: Real-Sim-Real Video Prediction for Robotic Manipulation Planning**|Zhenghao Xiao et.al.|[2609.33104v1](http://arxiv.org/abs/2609.33104v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33104)|
+|**2026-09-26**|**Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling**|Krzysztof Marcin Choromanski et.al.|[2609.32824v1](http://arxiv.org/abs/2609.32824v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.32824)|
+|**2026-09-26**|**QuacamFM: Quaternion-Constrained Flow Matching for Camera Pose Estimation**|Bao-Long Tran et.al.|[2609.32455v1](http://arxiv.org/abs/2609.32455v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.32455)|
 |**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[2609.31452v1](http://arxiv.org/abs/2609.31452v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.31452)|
 |**2026-09-25**|**PICO: Projection-Informed Consistency Optimisation for 6DoF Surgical Tool Pose Estimation**|Lucy Fothergill et.al.|[2609.30989v1](http://arxiv.org/abs/2609.30989v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30989)|
 |**2026-09-25**|**SeA-RVINS: Semantic-Aware Tightly Coupled RTK-Visual-Inertial System with Correlation-Preserving Robust Estimation for Urban Navigation**|Wang Hu et.al.|[2609.30814v1](http://arxiv.org/abs/2609.30814v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.30814)|

@@ -4,10 +4,30 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.28
+### Updated on 2026.09.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Chenyu Zhang et.al.|[2609.35469v1](http://arxiv.org/abs/2609.35469v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35469)|
+|**2026-09-28**|**LLMs are General Asynchronous Agents**|George Yakushev et.al.|[2609.35427v1](http://arxiv.org/abs/2609.35427v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.35427)|
+|**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Dingsheng Liu et.al.|[2609.35249v1](http://arxiv.org/abs/2609.35249v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35249)|
+|**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231v1](http://arxiv.org/abs/2609.35231v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35231)|
+|**2026-09-28**|**JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments**|Zhixi Cai et.al.|[2609.35032v1](http://arxiv.org/abs/2609.35032v1)|[link](https://github.com/ControlNet/JRDB-AVR)|[αX↑0](https://alphaxiv.org/abs/2609.35032)|
+|**2026-09-28**|**NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory**|Kai Sheng et.al.|[2609.34969v1](http://arxiv.org/abs/2609.34969v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34969)|
+|**2026-09-28**|**Don't Throw Away the Tail: Action Upcycling for Policy Acceleration**|Taesung Kwon et.al.|[2609.34911v1](http://arxiv.org/abs/2609.34911v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34911)|
+|**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794v1](http://arxiv.org/abs/2609.34794v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34794)|
+|**2026-09-28**|**SOR-Nav: Search or Relocate? Context-Gated Exploration and Cross-Region Relocation for Object Navigation**|Yuan Ji et.al.|[2609.34707v1](http://arxiv.org/abs/2609.34707v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34707)|
+|**2026-09-28**|**VCN-Bench: A Video-Contextualized Navigation Benchmark for Spatial Reasoning over Prior Visual Experience**|Siqi Zhang et.al.|[2609.34687v1](http://arxiv.org/abs/2609.34687v1)|[link](https://github.com/siqiZ805/VCN-Bench)|[αX↑0](https://alphaxiv.org/abs/2609.34687)|
+|**2026-09-28**|**ARS: Agentic Reward System for Robot Learning**|Sheng Hu et.al.|[2609.34484v1](http://arxiv.org/abs/2609.34484v1)|[link](https://github.com/midea-ai/ars)|[αX↑0](https://alphaxiv.org/abs/2609.34484)|
+|**2026-09-28**|**From World Models to World Action Models: Rethinking Next-State Prediction**|Tingyu Yuan et.al.|[2609.34414v1](http://arxiv.org/abs/2609.34414v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34414)|
+|**2026-09-28**|**SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former**|Zhengding Luo et.al.|[2609.34347v1](http://arxiv.org/abs/2609.34347v1)|[link](https://github.com/Luo-Zhengding/SAIL)|[αX↑0](https://alphaxiv.org/abs/2609.34347)|
+|**2026-09-28**|**TLC-DiT: Task-Aligned Local Visual Conditioning for Robust Multitask Robot Manipulation**|Xianbo Cai et.al.|[2609.34297v1](http://arxiv.org/abs/2609.34297v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34297)|
+|**2026-09-27**|**Robot-GST: geometry-aware spatial-temporal robot policy representation and evaluation**|Sichao Liu et.al.|[2609.33872v1](http://arxiv.org/abs/2609.33872v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33872)|
+|**2026-09-27**|**Achieve What You Imagined: Learning to Align Actions with Visual Plans**|Yuheng Qiao et.al.|[2609.33832v1](http://arxiv.org/abs/2609.33832v1)|[link](https://github.com/imagine-to-achieve/imagine-to-achieve)|[αX↑0](https://alphaxiv.org/abs/2609.33832)|
+|**2026-09-27**|**Principal Steering Subspaces for Online Adaptation of Frozen Generative Robot Policies**|Jialeng Ni et.al.|[2609.33765v1](http://arxiv.org/abs/2609.33765v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.33765)|
+|**2026-09-27**|**Demonstration-Free Success-Probability Reward Learning for Generalist Robot Policies**|Duo Wu et.al.|[2609.33653v1](http://arxiv.org/abs/2609.33653v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33653)|
+|**2026-09-27**|**TimelyDAgger: Timing-Aware Expert Querying for VLA Policy Improvement**|Zhixuan Zhao et.al.|[2609.33157v1](http://arxiv.org/abs/2609.33157v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33157)|
+|**2026-09-26**|**CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning**|Shivam Aarya et.al.|[2609.33007v1](http://arxiv.org/abs/2609.33007v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33007)|
 |**2026-09-25**|**Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient**|Hongrui Zheng et.al.|[2609.31606v1](http://arxiv.org/abs/2609.31606v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.31606)|
 |**2026-09-25**|**SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents**|Maokai Qin et.al.|[2609.30971v1](http://arxiv.org/abs/2609.30971v1)|[link](https://github.com/SciHorizon-elab/SciHorizon-elab)|[αX↑1](https://alphaxiv.org/abs/2609.30971)|
 |**2026-09-25**|**FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation**|Hiroshi Ito et.al.|[2609.30965v1](http://arxiv.org/abs/2609.30965v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.30965)|
