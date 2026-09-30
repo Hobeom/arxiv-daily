@@ -4,6 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172v1](http://arxiv.org/abs/2609.38172v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38172)|
+|**2026-09-29**|**Learning When to Update: A Near-Optimal Timing Bandit Approach**|Qiulin Lin et.al.|[2609.37932v1](http://arxiv.org/abs/2609.37932v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37932)|
+|**2026-09-29**|**Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding**|Jiayu Ying et.al.|[2609.37655v1](http://arxiv.org/abs/2609.37655v1)|[link](https://github.com/yingjiayu12/Exemplar2VQA)|[αX↑0](https://alphaxiv.org/abs/2609.37655)|
+|**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591v1](http://arxiv.org/abs/2609.37591v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37591)|
+|**2026-09-29**|**RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing**|Haowei Wen et.al.|[2609.37560v1](http://arxiv.org/abs/2609.37560v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37560)|
+|**2026-09-29**|**The Domain Is a Residue: Adapting Self-Supervised Features, Not Generators**|Thomas Deixelberger et.al.|[2609.37330v1](http://arxiv.org/abs/2609.37330v1)|[link](https://github.com/d3ixi/RepresentationFeatureAdapter)|[αX↑1](https://alphaxiv.org/abs/2609.37330)|
+|**2026-09-29**|**Geometry-Aided Channel Deduction with Partial Channel Estimates and Uncalibrated Digital Twin**|Hongning Ruan et.al.|[2609.37277v1](http://arxiv.org/abs/2609.37277v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37277)|
+|**2026-09-29**|**Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport**|Sergio Calo et.al.|[2609.37239v1](http://arxiv.org/abs/2609.37239v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37239)|
+|**2026-09-29**|**All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control**|Liam Maloney et.al.|[2609.36993v1](http://arxiv.org/abs/2609.36993v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36993)|
 |**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Hang Li et.al.|[2609.36870v1](http://arxiv.org/abs/2609.36870v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36870)|
 |**2026-09-29**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v1](http://arxiv.org/abs/2609.36851v1)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑0](https://alphaxiv.org/abs/2609.36851)|
 |**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36801)|

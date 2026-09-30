@@ -4,6 +4,19 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163v1](http://arxiv.org/abs/2609.38163v1)|[link](https://github.com/hustvl/ReWAM)|[αX↑8](https://alphaxiv.org/abs/2609.38163)|
+|**2026-09-29**|**LongLive-Plug: Once-for-All Distillation for Video Generation**|Shuai Yang et.al.|[2609.38154v1](http://arxiv.org/abs/2609.38154v1)|[link](https://github.com/NVlabs/LongLive)|[αX↑7](https://alphaxiv.org/abs/2609.38154)|
+|**2026-09-29**|**PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams**|Trong-Tung Nguyen et.al.|[2609.38153v1](http://arxiv.org/abs/2609.38153v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38153)|
+|**2026-09-29**|**Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE**|Yu Xu et.al.|[2609.38140v1](http://arxiv.org/abs/2609.38140v1)|[link](https://github.com/yuci-gpt/SplitMoE)|[αX↑0](https://alphaxiv.org/abs/2609.38140)|
+|**2026-09-29**|**HelixWorld: A Real-time Interactive Audio-Visual World Model**|Lei Ke et.al.|[2609.38123v1](http://arxiv.org/abs/2609.38123v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38123)|
+|**2026-09-29**|**Stochastic World Models for Verifying Vision-Based Neural Feedback Systems**|I. Samuel Akinwande et.al.|[2609.38120v1](http://arxiv.org/abs/2609.38120v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38120)|
+|**2026-09-29**|**Honeycomb: Constant-Size Scene Memory Representation for Video World Models**|Jack Wei Lun Shi et.al.|[2609.37690v1](http://arxiv.org/abs/2609.37690v1)|[link](https://github.com/kaichen-z/honeycomb)|[αX↑0](https://alphaxiv.org/abs/2609.37690)|
+|**2026-09-29**|**Beyond a single latent space: a dual-latent world model for long-horizon planning**|Delin Zhao et.al.|[2609.37644v1](http://arxiv.org/abs/2609.37644v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37644)|
+|**2026-09-29**|**Anisotropic Representations Improve Planning in JEPA World Models**|Mingu Kang et.al.|[2609.37441v1](http://arxiv.org/abs/2609.37441v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37441)|
+|**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Xiangcheng Zhan et.al.|[2609.37398v1](http://arxiv.org/abs/2609.37398v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37398)|
+|**2026-09-29**|**Do-JEPA: From Masking to Intervention in Latent World Models**|Hossein Resani et.al.|[2609.37378v1](http://arxiv.org/abs/2609.37378v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37378)|
+|**2026-09-29**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107v1](http://arxiv.org/abs/2609.37107v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37107)|
+|**2026-09-29**|**World2Motion: Turning Video World Models into 3D Human Motion Generators**|Tu Fangyuan et.al.|[2609.37004v1](http://arxiv.org/abs/2609.37004v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37004)|
 |**2026-09-29**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v1](http://arxiv.org/abs/2609.36851v1)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑0](https://alphaxiv.org/abs/2609.36851)|
 |**2026-09-29**|**DSWM: Decomposed Spatio-Temporal World Model for Demand-Driven UAV Base Station Repositioning**|Shengjie Zhong et.al.|[2609.36845v1](http://arxiv.org/abs/2609.36845v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36845)|
 |**2026-09-29**|**RolloutFaith: Auditing Persistent Internal Interventions in Visual World Model**|Junchi Yao et.al.|[2609.36843v1](http://arxiv.org/abs/2609.36843v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36843)|

@@ -4,11 +4,18 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172v1](http://arxiv.org/abs/2609.38172v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38172)|
+|**2026-09-29**|**CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments**|Tan-Dzung Do et.al.|[2609.38087v1](http://arxiv.org/abs/2609.38087v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38087)|
+|**2026-09-29**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yiming Jiang et.al.|[2609.38046v1](http://arxiv.org/abs/2609.38046v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38046)|
+|**2026-09-29**|**Learning Expressive and Compositional Motion Representation via Spectral Skills**|Feiyang Wu et.al.|[2609.37677v1](http://arxiv.org/abs/2609.37677v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37677)|
+|**2026-09-29**|**Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning**|Merve Atasever et.al.|[2609.37519v1](http://arxiv.org/abs/2609.37519v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37519)|
+|**2026-09-29**|**EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation**|Jin Chen et.al.|[2609.37181v1](http://arxiv.org/abs/2609.37181v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.37181)|
+|**2026-09-29**|**Predictive Safety Curricula for Robust Legged Locomotion**|Ivan Ovinnikov et.al.|[2609.37070v1](http://arxiv.org/abs/2609.37070v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37070)|
 |**2026-09-29**|**Track-and-Complete: Learning Humanoid Skills from a Single Failed Human Video**|Sarmad Idrees et.al.|[2609.36924v1](http://arxiv.org/abs/2609.36924v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36924)|
 |**2026-09-29**|**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**|Guillaume Besset et.al.|[2609.36602v1](http://arxiv.org/abs/2609.36602v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36602)|
 |**2026-09-29**|**Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing**|Dawei Xu et.al.|[2609.36582v1](http://arxiv.org/abs/2609.36582v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36582)|
 |**2026-09-29**|**EquivDP3: A SIM(3)-Invariant Point-Cloud Encoder for Data-Efficient Humanoid Loco-Manipulation**|Abu Hanif Muhammad Syarubany et.al.|[2609.36575v1](http://arxiv.org/abs/2609.36575v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36575)|
-|**2026-09-29**|**A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability**|Ying Yang et.al.|[2609.36558v1](http://arxiv.org/abs/2609.36558v1)|null|null|
+|**2026-09-29**|**A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability**|Ying Yang et.al.|[2609.36558v1](http://arxiv.org/abs/2609.36558v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36558)|
 |**2026-09-28**|**ChronoSRL: Temporal Geometry for Self-Supervised Reinforcement Learning**|Nico Bohlinger et.al.|[2609.36238v1](http://arxiv.org/abs/2609.36238v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36238)|
 |**2026-09-28**|**KPI: A Promptable Kernel for Physical Interaction on Humanoids**|Yikai Wang et.al.|[2609.36151v1](http://arxiv.org/abs/2609.36151v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36151)|
 |**2026-09-28**|**Passive-Dynamic-Walking-Inspired Dynamics Guidance for Energy-Efficient Humanoid Locomotion**|Hyeonjin Choi et.al.|[2609.35935v1](http://arxiv.org/abs/2609.35935v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35935)|

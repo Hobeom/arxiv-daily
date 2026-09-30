@@ -4,6 +4,20 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Skill-Space Shooting for Autonomous Robot Policy Improvement**|Zihang Rui et.al.|[2609.38178v1](http://arxiv.org/abs/2609.38178v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38178)|
+|**2026-09-29**|**In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks**|Minxing Li et.al.|[2609.38173v1](http://arxiv.org/abs/2609.38173v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38173)|
+|**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163v1](http://arxiv.org/abs/2609.38163v1)|[link](https://github.com/hustvl/ReWAM)|[αX↑8](https://alphaxiv.org/abs/2609.38163)|
+|**2026-09-29**|**CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments**|Tan-Dzung Do et.al.|[2609.38087v1](http://arxiv.org/abs/2609.38087v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38087)|
+|**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Shenghe Zheng et.al.|[2609.38059v1](http://arxiv.org/abs/2609.38059v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38059)|
+|**2026-09-29**|**EVO-WAM: Evolving World Action Models through Video-Action Verification**|Shiyang Zhou et.al.|[2609.38057v1](http://arxiv.org/abs/2609.38057v1)|[link](https://github.com/Clausy9/EVO-WAM)|[αX↑1](https://alphaxiv.org/abs/2609.38057)|
+|**2026-09-29**|**Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents**|Sicheng Xie et.al.|[2609.37810v1](http://arxiv.org/abs/2609.37810v1)|[link](https://github.com/SII-dannyXSC/RoboSkill)|[αX↑0](https://alphaxiv.org/abs/2609.37810)|
+|**2026-09-29**|**CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces**|Sen Wang et.al.|[2609.37721v1](http://arxiv.org/abs/2609.37721v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.37721)|
+|**2026-09-29**|**Generative Interactions: Weaving Multiparty Human Motion with Bilevel Latent Dynamics**|Ojas Shirekar et.al.|[2609.37708v1](http://arxiv.org/abs/2609.37708v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37708)|
+|**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599v1](http://arxiv.org/abs/2609.37599v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37599)|
+|**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Johannes Hechtl et.al.|[2609.37552v1](http://arxiv.org/abs/2609.37552v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.37552)|
+|**2026-09-29**|**Video2STL: Grounding VLM-Generated Temporal Specifications for Robot Learning**|Merve Atasever et.al.|[2609.37519v1](http://arxiv.org/abs/2609.37519v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37519)|
+|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Yifan Kang et.al.|[2609.37359v1](http://arxiv.org/abs/2609.37359v1)|[link](https://github.com/YIFANK/encore)|[αX↑1](https://alphaxiv.org/abs/2609.37359)|
+|**2026-09-29**|**Multi-Granularity Language-Guided Imitation Learning via Instruction Decomposition**|Yi-Pei Chiu et.al.|[2609.37135v1](http://arxiv.org/abs/2609.37135v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37135)|
 |**2026-09-29**|**Track-and-Complete: Learning Humanoid Skills from a Single Failed Human Video**|Sarmad Idrees et.al.|[2609.36924v1](http://arxiv.org/abs/2609.36924v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36924)|
 |**2026-09-29**|**PreferenceFlow: Test-Time Guidance of Flow-Matching Robot Policies from Human Interventions**|Yiqi Tang et.al.|[2609.36872v1](http://arxiv.org/abs/2609.36872v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36872)|
 |**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Hang Li et.al.|[2609.36870v1](http://arxiv.org/abs/2609.36870v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36870)|

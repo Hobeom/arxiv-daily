@@ -4,6 +4,14 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving**|Parthib Roy et.al.|[2609.38028v1](http://arxiv.org/abs/2609.38028v1)|[link](https://github.com/Mi3-Lab/doPlan)|[αX↑0](https://alphaxiv.org/abs/2609.38028)|
+|**2026-09-29**|**Brain-SAD: A Brain-Inspired Safe Autonomous Driving Control Framework with Dynamic Fear-Oriented Constraint on Dual-Policy**|Huan Rong et.al.|[2609.38016v1](http://arxiv.org/abs/2609.38016v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38016)|
+|**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Dhruv Parikh et.al.|[2609.37970v1](http://arxiv.org/abs/2609.37970v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37970)|
+|**2026-09-29**|**ExceptionDrive: A Planning-Oriented Counterfactual Corner-Case Benchmark for Autonomous Driving**|Ziyi Luo et.al.|[2609.37871v1](http://arxiv.org/abs/2609.37871v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37871)|
+|**2026-09-29**|**Learning from synthetic photorealistic raindrop for single image raindrop removal**|Zhixiang Hao et.al.|[2609.37870v1](http://arxiv.org/abs/2609.37870v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37870)|
+|**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591v1](http://arxiv.org/abs/2609.37591v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37591)|
+|**2026-09-29**|**V2X-WAM: A Cooperative World Action Model for End-to-End Autonomous Driving**|Junwei You et.al.|[2609.37098v1](http://arxiv.org/abs/2609.37098v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37098)|
+|**2026-09-29**|**Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving**|Katharina Winter et.al.|[2609.37046v1](http://arxiv.org/abs/2609.37046v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37046)|
 |**2026-09-29**|**S4VY: Segment Anything in Feed-Forward 4D Visual Geometry**|Jingdong Zhang et.al.|[2609.36875v1](http://arxiv.org/abs/2609.36875v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36875)|
 |**2026-09-29**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v1](http://arxiv.org/abs/2609.36851v1)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑0](https://alphaxiv.org/abs/2609.36851)|
 |**2026-09-29**|**World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving**|Jieyuan Pei et.al.|[2609.36438v1](http://arxiv.org/abs/2609.36438v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36438)|

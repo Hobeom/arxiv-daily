@@ -4,6 +4,14 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Rho Team et.al.|[2609.38164v1](http://arxiv.org/abs/2609.38164v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38164)|
+|**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078v1](http://arxiv.org/abs/2609.38078v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38078)|
+|**2026-09-29**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yiming Jiang et.al.|[2609.38046v1](http://arxiv.org/abs/2609.38046v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38046)|
+|**2026-09-29**|**WayFinder: Hierarchical Visual-Language-Action for Zero-Shot Waypoint Generation and Low-Level Kinematic Control**|Timothy K Johnsen et.al.|[2609.37922v1](http://arxiv.org/abs/2609.37922v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37922)|
+|**2026-09-29**|**RawVLA: Embodied Neural Image Signal Processor For Robotic Manipulation**|Shuhong Liu et.al.|[2609.37530v1](http://arxiv.org/abs/2609.37530v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37530)|
+|**2026-09-29**|**Remember What You Did: Action-History Memory with Dual-Expert Denoising for Long-Horizon Vision-Language-Action Policies**|Yaxin Zhao et.al.|[2609.37307v1](http://arxiv.org/abs/2609.37307v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37307)|
+|**2026-09-29**|**Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead**|Junghyun Kim et.al.|[2609.37165v1](http://arxiv.org/abs/2609.37165v1)|[link](https://github.com/DILL-VLA/dill-vla.github.io)|[αX↑1](https://alphaxiv.org/abs/2609.37165)|
+|**2026-09-29**|**Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving**|Katharina Winter et.al.|[2609.37046v1](http://arxiv.org/abs/2609.37046v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37046)|
 |**2026-09-29**|**VLALight: A Vision-Language-Action Model for Traffic Signal Control**|Pan Zhang et.al.|[2609.36934v1](http://arxiv.org/abs/2609.36934v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36934)|
 |**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915v1](http://arxiv.org/abs/2609.36915v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36915)|
 |**2026-09-29**|**LexiconVLA: Learning Reusable Atomic Action Codebooks for Unseen Tasks**|Zeming Wei et.al.|[2609.36774v1](http://arxiv.org/abs/2609.36774v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36774)|
