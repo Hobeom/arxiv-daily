@@ -174,7 +174,11 @@ def update_summaries(papers: list, limit: int, model: str) -> dict:
 # ---------------------------------------------------------------- embedding
 def embed(papers: list):
     """Return (3D coords, cluster ids, cluster info, neighbour ids)."""
-    texts = [(p['title'] + '. ') * 2 + p['abstract'] for p in papers]
+    # URLs (code links in abstracts) would otherwise form their own cluster.
+    texts = [
+        re.sub(r'https?://\S+|\S+\.(?:com|io|org)/\S*', ' ',
+               (p['title'] + '. ') * 2 + p['abstract']) for p in papers
+    ]
     tfidf = TfidfVectorizer(
         stop_words=list(ENGLISH_STOP_WORDS | DOMAIN_STOP),
         ngram_range=(1, 2),
@@ -238,9 +242,23 @@ def build(config, backfill_limit, summary_limit):
     backfill_meta(order, backfill_limit)
     meta = load_meta()
 
+    # Apply each topic's category filter to stored papers too, so papers
+    # collected before the filter existed (e.g. astro-ph "VLA") drop out.
+    topic_cats = {
+        t: set(v['categories'])
+        for t, v in config['keywords'].items() if v.get('categories')
+    }
     out = []
     for pid in order:
         p, m = papers[pid], meta.get(pid, {})
+        cats = set(m.get('categories', []))
+        if cats:
+            p['topics'] = [
+                t for t in p['topics']
+                if t not in topic_cats or cats & topic_cats[t]
+            ]
+        if not p['topics']:
+            continue
         out.append({
             'id': pid,
             'title': p['title'],

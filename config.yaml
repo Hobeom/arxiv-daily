@@ -26,6 +26,8 @@ keywords:
         qa_json_path: 'arxiv/physical-ai/qa.json'
     "Vision Language Action Model":
         queries: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA Model", "VLA Models"]
+        # "VLA" is also the Very Large Array telescope (astro-ph)
+        categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG", "cs.CL"]
         md_readme_path: 'arxiv/vla-model/README.md'
         json_readme_path: 'arxiv/vla-model/data.json'
         qa_json_path: 'arxiv/vla-model/qa.json'
