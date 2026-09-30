@@ -100,6 +100,7 @@ class ArxivPaper:
         ]
         self.primary_category = entry.get('arxiv_primary_category',
                                           {}).get('term', '')
+        self.categories = [t.get('term', '') for t in entry.get('tags', [])]
         self.comment = entry.get('arxiv_comment', None)
         self.updated = self._parse_date(entry.get('updated', ''))
         self.published = self._parse_date(entry.get('published', ''))
@@ -135,11 +136,24 @@ class ArxivPaper:
             return match.group(1)
         return self.entry_id.split('/')[-1]
 
+    def to_meta(self) -> dict:
+        return {
+            'title': self.title,
+            'abstract': re.sub(r'\s+', ' ', self.summary),
+            'authors': [a.name for a in self.authors],
+            'categories': self.categories or [self.primary_category],
+            'published': self.published.strftime('%Y-%m-%d'),
+            'comment': self.comment,
+        }
 
-def fetch_arxiv(query: str, start: int = 0, max_results: int = 10) -> list:
+
+def fetch_arxiv(query: str,
+                start: int = 0,
+                max_results: int = 10,
+                id_list: str = '') -> list:
     params = {
         'search_query': query,
-        'id_list': '',
+        'id_list': id_list,
         'sortBy': 'submittedDate',
         'sortOrder': 'descending',
         'start': start,
@@ -368,6 +382,36 @@ def get_hf_paper_info(paper_id: str) -> dict:
     }
 
 
+META_FILE = 'arxiv/meta.json'
+_meta = None
+
+
+def load_meta() -> dict:
+    """Paper metadata (abstract, full author list, ...) keyed by arXiv id."""
+    global _meta
+    if _meta is None:
+        _meta = {}
+        if os.path.exists(META_FILE):
+            try:
+                with open(META_FILE, 'r', encoding='utf-8') as f:
+                    _meta = json.load(f)
+            except Exception as e:
+                logging.warning('Failed to load %s: %s', META_FILE, e)
+    return _meta
+
+
+def save_meta():
+    if _meta is None:
+        return
+    os.makedirs(os.path.dirname(META_FILE), exist_ok=True)
+    with open(META_FILE, 'w', encoding='utf-8') as f:
+        json.dump(_meta, f, ensure_ascii=False, sort_keys=True)
+
+
+def strip_version(paper_id: str) -> str:
+    return re.sub(r'v\d+$', '', paper_id)
+
+
 def get_daily_papers(subqueries, max_results=2):
     logging.info('[arxiv] delay=%ss, retries=%s', DELAY_SECONDS, NUM_RETRIES)
     content = dict()
@@ -397,6 +441,7 @@ def get_daily_papers(subqueries, max_results=2):
 
             if paper_key in content:
                 continue
+            load_meta()[paper_key] = result.to_meta()
             try:
                 cache = _load_hf_cache()
                 cached = cache.get(paper_key)
@@ -686,49 +731,6 @@ def parse_paper_row(paper_id: str, row: str):
     }
 
 
-def export_site_data(config, out_path='docs/data/papers.json'):
-    """Merge all topic JSON files into one dataset for docs/index.html."""
-    topics, papers = [], {}
-    for topic, info in config['keywords'].items():
-        topics.append({
-            'name': topic,
-            'slug': format_keyword_name(topic),
-            'queries': info['queries'],
-        })
-        try:
-            with open(info['json_readme_path'], 'r') as f:
-                content = f.read()
-            data = json.loads(content) if content else {}
-        except FileNotFoundError:
-            data = {}
-        for pid, row in data.get(topic, {}).items():
-            if pid in papers:
-                papers[pid]['topics'].append(topic)
-                continue
-            paper = parse_paper_row(pid, str(row))
-            if paper:
-                paper['topics'] = [topic]
-                papers[pid] = paper
-
-    ordered = sorted(papers.values(), key=lambda p: p['date'], reverse=True)
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, 'w', encoding='utf-8') as f:
-        json.dump(
-            {
-                'title': config.get('site_title', 'arXiv Daily'),
-                'repo': 'https://github.com/{}/{}'.format(
-                    config.get('user_name', 'HoBeom'),
-                    config.get('repo_name', 'arxiv-daily')),
-                'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),
-                'topics': topics,
-                'papers': ordered,
-            },
-            f,
-            ensure_ascii=False,
-            separators=(',', ':'))
-    logging.info('Site data: %d papers -> %s', len(ordered), out_path)
-
-
 def demo(**config):
     subqueries = config['kv']
     max_results = config['max_results']
@@ -764,8 +766,7 @@ def demo(**config):
             logging.exception(f'topic {topic} failed: {e}')
             failed.append(topic)
 
-    if config['publish_gitpage']:
-        export_site_data(config)
+    save_meta()
 
     if failed:
         logging.warning('Topics with errors: %s', failed)
@@ -784,16 +785,7 @@ if __name__ == '__main__':
         action='store_true',
         help='whether to update paper links etc.',
     )
-    parser.add_argument(
-        '--site_only',
-        default=False,
-        action='store_true',
-        help='only rebuild docs/data/papers.json from stored data',
-    )
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links': args.update_paper_links}
-    if args.site_only:
-        export_site_data(config)
-    else:
-        demo(**config)
+    demo(**config)

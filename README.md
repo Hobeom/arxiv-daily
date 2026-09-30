@@ -9,7 +9,7 @@ This repository hosts the source code for arxiv-daily, an useful sripts to fetch
 
 ## Table of Keywords
 
-Focus: **Physical AI**. Browse everything on the web page (cards, list and graph view): https://hobeom.github.io/arxiv-daily/
+Focus: **Physical AI**. Browse everything in the explorer (3D similarity map, list, stats, summaries): https://hobeom.github.io/arxiv-daily/
 
  * [Physical AI](arxiv/physical-ai/)
  * [Vision Language Action Model](arxiv/vla-model/)
@@ -26,7 +26,7 @@ This codebase is composed of the following parts:
 
 - `daily_arxiv.py`: main scripts to processing given configurations
 - `config.yaml`: configuration file of papers' keywords etc. (optional `categories` per topic limits arXiv categories)
-- `docs/`: static web page (GitHub Pages). `daily_arxiv.py` writes `docs/data/papers.json`; rebuild it alone with `python daily_arxiv.py --site_only`
+- `build_explorer.py`: builds `docs/data.json` for the explorer page `docs/index.html` — abstracts (`arxiv/meta.json`), optional Gemini summaries (`arxiv/summaries.json`), TF-IDF + UMAP 3D similarity map, auto sub-topic clusters and similar papers
 
 ## Release plan
 

@@ -32,6 +32,11 @@ jobs:
         run: |
           python daily_arxiv.py --update_paper_links
 
+      - name: Build explorer data
+        continue-on-error: true  # never block committing the fetched papers
+        run: |
+          python build_explorer.py --summaries 0
+
       - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:

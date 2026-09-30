@@ -32,6 +32,13 @@ jobs:
         run: |
           python daily_arxiv.py
 
+      - name: Build explorer data
+        continue-on-error: true  # never block committing the fetched papers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python build_explorer.py
+
       - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:

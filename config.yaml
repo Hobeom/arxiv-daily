@@ -6,6 +6,11 @@ show_links: True
 max_results: 10
 max_qa_num: 2
 
+# Explorer page (build_explorer.py): structured summaries with Gemini for
+# up to this many new papers per run (needs the GEMINI_API_KEY secret).
+summary_per_run: 30
+summary_model: "gemini-2.5-flash"
+
 publish_readme: True
 publish_gitpage: True
 
