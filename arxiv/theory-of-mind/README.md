@@ -1,13 +1,14 @@
 ## Theory of Mind
 
-### Updated on 2026.09.28
+### Updated on 2026.09.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-26**|**Theory of Scene: Breaking the Symmetry Trap in Multi-Agent LLM Coordination**|Liangqi Yuan et.al.|[2609.32939v1](http://arxiv.org/abs/2609.32939v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.32939)|
 |**2026-09-22**|**Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations**|David Berga et.al.|[2609.26927v1](http://arxiv.org/abs/2609.26927v1)|[link](https://github.com/dberga/AGIMUD)|[αX↑2](https://alphaxiv.org/abs/2609.26927)|
-|**2026-09-21**|**When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning**|Jianzhe Lin et.al.|[2609.25284v1](http://arxiv.org/abs/2609.25284v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.25284)|
-|**2026-09-21**|**Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation**|Cong Li et.al.|[2609.24146v1](http://arxiv.org/abs/2609.24146v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.24146)|
-|**2026-09-20**|**Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations**|Zhihao Gu et.al.|[2609.23486v1](http://arxiv.org/abs/2609.23486v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.23486)|
+|**2026-09-21**|**When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning**|Jianzhe Lin et.al.|[2609.25284v1](http://arxiv.org/abs/2609.25284v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.25284)|
+|**2026-09-21**|**Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation**|Cong Li et.al.|[2609.24146v1](http://arxiv.org/abs/2609.24146v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.24146)|
+|**2026-09-20**|**Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations**|Zhihao Gu et.al.|[2609.23486v1](http://arxiv.org/abs/2609.23486v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.23486)|
 |**2026-09-17**|**Theories of Mind as Domain-Specific Languages of Thought**|Kartik Chandra et.al.|[2609.19598v1](http://arxiv.org/abs/2609.19598v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.19598)|
 |**2026-09-15**|**Verifiable Social Reasoning for LLM Assistants**|Amir Taubenfeld et.al.|[2609.17496v1](http://arxiv.org/abs/2609.17496v1)|null|[🤗👍67](https://huggingface.co/papers/2609.17496) [αX↑31](https://alphaxiv.org/abs/2609.17496)|
 |**2026-09-15**|**ToMAS: A Pilot Failure-Grounded Theory-of-Mind Benchmark from Multi-Agent LLM Failures**|Muhammad Ashar Ishfaq et.al.|[2609.16986v1](http://arxiv.org/abs/2609.16986v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.16986)|
