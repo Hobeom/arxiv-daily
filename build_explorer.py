@@ -78,7 +78,7 @@ def load_papers(config) -> dict:
     return papers
 
 
-def backfill_meta(ids: list, limit: int, batch: int = 50):
+def backfill_meta(ids: list, limit: int, batch: int = 100):
     """Fetch abstracts for papers collected before meta.json existed."""
     meta = load_meta()
     missing = [i for i in ids if i not in meta][:limit]
@@ -308,7 +308,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--backfill',
         type=int,
-        default=1000,
+        default=5000,
         help='max papers whose abstracts are fetched from arXiv per run')
     parser.add_argument(
         '--summaries',
