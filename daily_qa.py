@@ -37,7 +37,7 @@ def get_arxiv_ids_from_daily_papers(config):
     arxiv_ids = dict()
     for topic, info in config['keywords'].items():
         json_path = info['json_readme_path']
-        ids = load_json(json_path)[topic].keys()
+        ids = load_json(json_path).get(topic, {}).keys()
         arxiv_ids[topic] = sorted(ids)
     return arxiv_ids
 
@@ -72,6 +72,8 @@ def main(config):
     for topic, info in config['keywords'].items():
         arxiv_ids = filterd_arxiv_ids[topic][:max_qa_num]
         logging.info(f'{arxiv_ids=}')
+        if not arxiv_ids:
+            continue
 
         logging.info(f'1. Get metadata for the papers [{arxiv_ids}]')
         papers = get_papers_from_arxiv_ids(arxiv_ids)

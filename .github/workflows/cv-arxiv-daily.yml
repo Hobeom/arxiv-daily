@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python Env
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
@@ -28,13 +28,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Debug arxiv version
-        run: |
-          python -c "import arxiv; print('arxiv version:', getattr(arxiv, '__version__', 'unknown'))"
-
       - name: Run daily arxiv
         run: |
           python daily_arxiv.py
+
+      - name: Build explorer data
+        continue-on-error: true  # never block committing the fetched papers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python build_explorer.py
 
       - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.9

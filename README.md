@@ -8,19 +8,25 @@
 This repository hosts the source code for arxiv-daily, an useful sripts to fetch arxiv paper daily.
 
 ## Table of Keywords
- * [Action Recognition](arxiv/action-recognition/)
- * [Human Pose Estimation](arxiv/human-pose-estimation/)
- * [Theory of Mind](arxiv/theory-of-mind/)
- * [Dialogue Agents](arxiv/dialogue-agents/)
- * [Robot & Agent](arxiv/robot-agent/)
+
+Focus: **Physical AI**. Browse everything in the explorer (3D similarity map, list, stats, summaries): https://hobeom.github.io/arxiv-daily/
+
+ * [Physical AI](arxiv/physical-ai/)
  * [Vision Language Action Model](arxiv/vla-model/)
+ * [Robot & Agent](arxiv/robot-agent/)
+ * [World Models](arxiv/world-models/)
+ * [Robot Manipulation](arxiv/robot-manipulation/)
+ * [Humanoid & Locomotion](arxiv/humanoid-locomotion/)
+ * [Sim-to-Real](arxiv/sim-to-real/)
+ * [Embodied Navigation & Driving](arxiv/embodied-navigation/)
 
 ## Overview
 
 This codebase is composed of the following parts:
 
 - `daily_arxiv.py`: main scripts to processing given configurations
-- `config.yaml`: configuration file of papers' keywords etc.
+- `config.yaml`: configuration file of papers' keywords etc. (optional `categories` per topic limits arXiv categories)
+- `build_explorer.py`: builds `docs/data.json` for the explorer page `docs/index.html` — abstracts (`arxiv/meta.json`), optional Gemini summaries (`arxiv/summaries.json`), TF-IDF + UMAP 3D similarity map, auto sub-topic clusters and similar papers
 
 ## Release plan
 

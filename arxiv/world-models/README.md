@@ -1,0 +1,25 @@
+## World Models
+
+### Updated on 2026.09.30
+
+|Date|Title|Authors|PDF|Code|Stars|
+|---|---|---|---|---|---|
+|**2026-09-29**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v1](http://arxiv.org/abs/2609.36851v1)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑0](https://alphaxiv.org/abs/2609.36851)|
+|**2026-09-29**|**DSWM: Decomposed Spatio-Temporal World Model for Demand-Driven UAV Base Station Repositioning**|Shengjie Zhong et.al.|[2609.36845v1](http://arxiv.org/abs/2609.36845v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36845)|
+|**2026-09-29**|**RolloutFaith: Auditing Persistent Internal Interventions in Visual World Model**|Junchi Yao et.al.|[2609.36843v1](http://arxiv.org/abs/2609.36843v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36843)|
+|**2026-09-29**|**MeteoVerse: Unified Weather-Controllable Video World Model**|Renlong Wu et.al.|[2609.36810v1](http://arxiv.org/abs/2609.36810v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36810)|
+|**2026-09-29**|**ReWorld-Track: A Recursive Event World Model for Language-Guided Multi-Camera Tracking**|Haoyang Wu et.al.|[2609.36677v1](http://arxiv.org/abs/2609.36677v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36677)|
+|**2026-09-29**|**Text2Sim: Agentic Physics-Based Simulation Generation with Distilled Expertise**|Xiaoyu Xiong et.al.|[2609.36593v1](http://arxiv.org/abs/2609.36593v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36593)|
+|**2026-09-29**|**Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing**|Dawei Xu et.al.|[2609.36582v1](http://arxiv.org/abs/2609.36582v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36582)|
+|**2026-09-29**|**Foresight at the Event Boundary: Evaluating Physical Prediction in Video World Models**|Estela Monserrat Arriaga Santana et.al.|[2609.36531v1](http://arxiv.org/abs/2609.36531v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36531)|
+|**2026-09-29**|**DynamicHOI: Coupled Dynamics for Physics-aware HOI Reconstruction**|Wenliang Guo et.al.|[2609.36454v1](http://arxiv.org/abs/2609.36454v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36454)|
+|**2026-09-29**|**World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving**|Jieyuan Pei et.al.|[2609.36438v1](http://arxiv.org/abs/2609.36438v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36438)|
+|**2026-09-29**|**One from Infinity: Actualizing Futures from Pretrained World Models into Robot Actions**|Bang Du et.al.|[2609.36413v1](http://arxiv.org/abs/2609.36413v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36413)|
+|**2026-09-28**|**PyroStack: A Multi-Band Spatio-Temporal Sub-Daily Dataset for Wildfires in the United States**|Arya Kondur et.al.|[2609.36315v1](http://arxiv.org/abs/2609.36315v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36315)|
+|**2026-09-28**|**GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation**|Yuchen Sun et.al.|[2609.35639v1](http://arxiv.org/abs/2609.35639v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.35639)|
+|**2026-09-28**|**RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts**|Jin Hyun Kim et.al.|[2609.35311v1](http://arxiv.org/abs/2609.35311v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35311)|
+|**2026-09-28**|**OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models**|Hao Wang et.al.|[2609.35052v1](http://arxiv.org/abs/2609.35052v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35052)|
+|**2026-09-28**|**WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**|Zeyu Zhang et.al.|[2609.34606v1](http://arxiv.org/abs/2609.34606v1)|[link](https://github.com/alibaba-damo-academy/WorldAttention)|[αX↑3](https://alphaxiv.org/abs/2609.34606)|
+
+<p align=right>(<a href="#">back to top</a>)</p>
+

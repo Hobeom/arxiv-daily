@@ -1,0 +1,671 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Physical AI Explorer</title>
+<meta name="description" content="Explore daily arXiv papers on Physical AI: 3D similarity map, sub-topic clusters, summaries, bookmarks and CSV export.">
+<script>
+  (function () {
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+  })();
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.35.2/plotly.min.js"></script>
+<style>
+  :root {
+    --bg:#0c0e12; --panel:#13161d; --panel2:#1a1e27; --panel3:#222734;
+    --ink:#eef1f7; --mut:#8a93a3; --faint:#5f6878; --acc:#6ea8ff; --acc-ink:#0b0e14;
+    --line:#262c39; --line2:#323a4a; --soft:#c5cbd6; --good:#4dd98b; --warn:#ffd166;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.25);
+    --glass:rgba(12,14,18,.8);
+    color-scheme:dark;
+  }
+  :root[data-theme="light"] {
+    --bg:#f5f6f8; --panel:#fff; --panel2:#f0f2f5; --panel3:#e6e9ee;
+    --ink:#1a1d24; --mut:#5f6675; --faint:#7d8696; --acc:#2563eb; --acc-ink:#fff;
+    --line:#dfe2e7; --line2:#cfd4db; --soft:#3a3f4a; --good:#15935a; --warn:#a86a00;
+    --shadow:0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.06);
+    --glass:rgba(255,255,255,.88);
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg:#f5f6f8; --panel:#fff; --panel2:#f0f2f5; --panel3:#e6e9ee;
+      --ink:#1a1d24; --mut:#5f6675; --faint:#7d8696; --acc:#2563eb; --acc-ink:#fff;
+      --line:#dfe2e7; --line2:#cfd4db; --soft:#3a3f4a; --good:#15935a; --warn:#a86a00;
+      --shadow:0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.06);
+      --glass:rgba(255,255,255,.88);
+      color-scheme:light;
+    }
+  }
+  * { box-sizing:border-box }
+  html, body { height:100% }
+  body { margin:0; font:15px/1.55 -apple-system,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--ink); -webkit-font-smoothing:antialiased; display:flex; flex-direction:column; height:100vh; overflow:hidden }
+  a { color:var(--acc); text-decoration:none } a:hover { text-decoration:underline }
+  button { font:inherit }
+  *:focus-visible { outline:2px solid var(--acc); outline-offset:2px; border-radius:4px }
+  * { scrollbar-width:thin; scrollbar-color:var(--line2) transparent }
+
+  header { display:flex; align-items:center; gap:16px; padding:12px 20px; background:var(--panel); border-bottom:1px solid var(--line); flex:none; z-index:6 }
+  .brand { font-weight:700; font-size:17px; white-space:nowrap; cursor:pointer; display:flex; align-items:baseline; gap:8px }
+  .brand small { color:var(--mut); font-weight:500; font-size:12.5px }
+  .search { flex:1; max-width:560px; position:relative }
+  .search input { width:100%; background:var(--panel2); border:1px solid var(--line2); color:var(--ink); border-radius:11px; padding:10px 14px 10px 36px; font-size:14.5px }
+  .search input:focus { outline:none; border-color:var(--acc) }
+  .search .ico { position:absolute; left:13px; top:50%; transform:translateY(-50%); color:var(--faint) }
+  .count { color:var(--mut); font-size:13px; white-space:nowrap }
+  .tabs { display:flex; gap:2px; background:var(--panel2); padding:3px; border-radius:11px; border:1px solid var(--line); margin-left:auto }
+  .tab { padding:7px 13px; border-radius:8px; cursor:pointer; color:var(--mut); font-size:14px; font-weight:500; border:0; background:none }
+  .tab:hover { color:var(--ink) }
+  .tab.active { background:var(--panel3); color:var(--ink) }
+
+  .subheader { display:flex; flex-wrap:wrap; gap:6px; align-items:center; padding:8px 20px; background:var(--panel); border-bottom:1px solid var(--line); flex:none }
+  .subheader .sep { width:1px; height:20px; background:var(--line2); margin:0 6px }
+  .chip { font-size:12.5px; padding:4px 11px; border-radius:20px; background:var(--panel2); border:1px solid var(--line2); color:var(--mut); cursor:pointer; white-space:nowrap; display:inline-flex; align-items:center; gap:6px }
+  .chip:hover { color:var(--ink); border-color:var(--faint) }
+  .chip.on { background:var(--acc); color:var(--acc-ink); border-color:var(--acc); font-weight:600 }
+  .chip .dot { width:8px; height:8px; border-radius:50% }
+  .chip .n { opacity:.7; font-variant-numeric:tabular-nums }
+
+  .layout { display:grid; grid-template-columns:260px 1fr 460px; flex:1; min-height:0 }
+  .layout.nomenu { grid-template-columns:1fr 460px }
+  .layout.nomenu .col.l { display:none }
+  .col { overflow:auto; min-height:0 }
+  .col.l { border-right:1px solid var(--line); padding:18px }
+  .col.r { border-left:1px solid var(--line); padding:20px; background:var(--panel) }
+  .main { overflow:auto; position:relative; min-width:0 }
+  .main.pad { padding:22px 24px }
+  h3.h { font-size:11.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--faint); margin:0 0 9px; font-weight:600 }
+  .seg { margin-bottom:22px }
+  select { width:100%; background:var(--panel2); color:var(--ink); border:1px solid var(--line2); border-radius:9px; padding:7px 9px; font-size:13.5px }
+  .chiprow { display:flex; flex-wrap:wrap; gap:6px }
+  .linkish { font-size:13px; color:var(--faint); cursor:pointer; background:none; border:0; padding:0 }
+  .linkish:hover { color:var(--acc) }
+  .mini { font-size:12.5px; color:var(--mut); cursor:pointer; padding:4px 0; border-bottom:1px solid var(--line); overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
+  .mini:hover { color:var(--ink) }
+  .clusters .cl { display:flex; justify-content:space-between; gap:8px; font-size:12.5px; color:var(--mut); padding:4px 6px; border-radius:6px; cursor:pointer }
+  .clusters .cl:hover { background:var(--panel2); color:var(--ink) }
+  .clusters .cl.on { background:var(--acc); color:var(--acc-ink) }
+  .clusters .cl span:first-child { overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
+
+  /* list */
+  .listhead { display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:space-between; margin-bottom:14px }
+  .listhead select { width:auto }
+  .lcard { padding:14px 16px; border:1px solid var(--line); border-radius:12px; margin-bottom:10px; cursor:pointer; background:var(--panel2); position:relative }
+  .lcard::before { content:""; position:absolute; left:0; top:8px; bottom:8px; width:3px; border-radius:2px; background:var(--c); opacity:.9 }
+  .lcard:hover { border-color:var(--line2); background:var(--panel3) }
+  .lcard.sel { border-color:var(--acc); box-shadow:0 0 0 2px color-mix(in srgb,var(--acc) 25%,transparent) }
+  .lcard .t { font-weight:600; line-height:1.35; font-size:16px }
+  .lcard .au { color:var(--mut); font-size:13px; margin-top:3px }
+  .lcard .ol { color:var(--soft); font-size:13.5px; margin-top:6px; line-height:1.45 }
+  .tag { display:inline-block; background:var(--panel3); border:1px solid var(--line2); border-radius:6px; padding:1px 8px; font-size:12px; margin:7px 6px 0 0; color:var(--mut); cursor:pointer }
+  .tag:hover { border-color:var(--acc); color:var(--acc) }
+  .tag.tp { color:var(--c); border-color:color-mix(in srgb,var(--c) 45%,transparent) }
+  .tag.st { color:var(--warn) }
+  .tag.cd { color:var(--good) }
+  mark { background:color-mix(in srgb,var(--acc) 30%,transparent); color:inherit; border-radius:2px }
+  .pager { display:flex; gap:8px; align-items:center; justify-content:center; margin:16px 0 30px; color:var(--mut); font-size:13px }
+  .btn { display:inline-flex; align-items:center; gap:5px; background:var(--acc); color:var(--acc-ink); padding:8px 14px; border-radius:9px; font-weight:600; font-size:13.5px; margin:6px 8px 0 0; border:1px solid var(--acc); cursor:pointer }
+  .btn:hover { filter:brightness(1.08); text-decoration:none }
+  .btn.ghost { background:var(--panel3); color:var(--ink); border-color:var(--line2) }
+  .btn.ghost:hover { border-color:var(--acc) }
+  .btn.on { color:var(--warn); border-color:var(--warn) }
+  .btn:disabled { opacity:.4; cursor:default }
+
+  /* detail */
+  .detail h2 { font-size:21px; line-height:1.3; margin:0 0 8px }
+  .detail .au { color:var(--mut); font-size:13.5px; line-height:1.55 }
+  .detail .au span { cursor:pointer } .detail .au span:hover { color:var(--acc); text-decoration:underline }
+  .detail .meta { color:var(--faint); font-size:12.5px; margin-top:6px }
+  .detail .abs { color:var(--soft); font-size:14.5px; line-height:1.65; margin:14px 0 }
+  .lbl2 { font-size:10.5px; text-transform:uppercase; letter-spacing:.07em; color:var(--faint); font-weight:700; margin:18px 0 7px }
+  .sumcard { background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:13px; margin-top:14px }
+  .sumcard .one { font-size:14.5px; font-weight:600; line-height:1.45; border-left:3px solid var(--acc); background:linear-gradient(90deg,color-mix(in srgb,var(--acc) 14%,transparent),transparent); padding:8px 11px; border-radius:8px; margin-bottom:10px }
+  .sumsec { border:1px solid var(--line); border-radius:9px; padding:8px 11px; margin-bottom:7px; background:color-mix(in srgb,var(--bg) 40%,transparent) }
+  .sumsec .k { font-size:10.5px; text-transform:uppercase; letter-spacing:.07em; color:var(--faint); font-weight:700 }
+  .sumsec.res .k { color:var(--warn) } .sumsec.nov .k { color:var(--good) }
+  .sumsec .v { font-size:13.5px; color:var(--soft); line-height:1.5 }
+  .kp { margin:6px 0 0; padding-left:18px } .kp li { font-size:13.5px; color:var(--soft); margin:3px 0 }
+  .tagc { display:inline-block; font-size:11.5px; padding:2px 9px; border-radius:6px; margin:0 5px 5px 0; background:color-mix(in srgb,var(--acc) 14%,transparent); border:1px solid color-mix(in srgb,var(--acc) 35%,transparent); color:var(--acc) }
+  .tagd { display:inline-block; font-size:11.5px; padding:2px 9px; border-radius:6px; margin:0 5px 5px 0; background:color-mix(in srgb,var(--good) 12%,transparent); border:1px solid color-mix(in srgb,var(--good) 30%,transparent); color:var(--good) }
+  .simrow { display:flex; gap:9px; padding:7px 8px; border-radius:8px; cursor:pointer; font-size:13px; line-height:1.4; color:var(--soft) }
+  .simrow:hover { background:var(--panel2); color:var(--ink) }
+  .simrow .d { width:8px; height:8px; border-radius:50%; margin-top:6px; flex:none }
+  .empty { color:var(--faint); padding:50px 16px; text-align:center; font-size:14px; line-height:1.8 }
+  .closer { display:none }
+
+  /* map */
+  #map { position:absolute; inset:0 }
+  .mapbar { position:absolute; top:12px; left:12px; right:12px; display:flex; gap:8px; flex-wrap:wrap; z-index:5; pointer-events:none }
+  .mapbar > * { pointer-events:auto }
+  .glass { background:var(--glass); border:1px solid var(--line2); border-radius:10px; backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px) }
+  .seg2 { display:flex; padding:3px; gap:2px }
+  .seg2 button { border:0; background:none; color:var(--mut); padding:5px 10px; border-radius:7px; cursor:pointer; font-size:12.5px }
+  .seg2 button.on { background:var(--panel3); color:var(--ink) }
+  .legend { position:absolute; left:12px; bottom:12px; z-index:5; padding:9px 11px; max-width:min(320px,70%); max-height:45%; overflow:auto; font-size:12px }
+  .legend .li { display:flex; align-items:center; gap:7px; color:var(--mut); padding:2px 0; cursor:pointer }
+  .legend .li:hover { color:var(--ink) }
+  .legend .li .dot { width:9px; height:9px; border-radius:50%; flex:none }
+  .hint { position:absolute; right:12px; bottom:12px; z-index:5; font-size:11px; color:var(--faint); padding:4px 10px }
+
+  /* stats */
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; margin-bottom:26px }
+  .stat { background:var(--panel2); border:1px solid var(--line); border-radius:14px; padding:14px 16px; position:relative; overflow:hidden }
+  .stat b { display:block; font-size:30px; font-weight:300; letter-spacing:-.02em; font-variant-numeric:tabular-nums }
+  .stat span { color:var(--mut); font-size:13px }
+  .bars .row { display:flex; align-items:center; gap:10px; margin:6px 0; cursor:pointer }
+  .bars .row:hover .lb { color:var(--ink) }
+  .bars .lb { width:240px; font-size:13px; color:var(--mut); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:none }
+  .bars .tr { flex:1; height:9px; background:var(--panel2); border-radius:5px; overflow:hidden }
+  .bars .fl { height:100%; background:var(--c,var(--acc)); border-radius:5px }
+  .bars .n { font-size:12.5px; color:var(--mut); min-width:40px; text-align:right; font-variant-numeric:tabular-nums }
+  .spark { display:flex; align-items:flex-end; gap:2px; height:120px; padding:8px 0; border-bottom:1px solid var(--line) }
+  .spark div { flex:1; background:var(--acc); opacity:.8; border-radius:2px 2px 0 0; min-height:1px }
+  .spark div:hover { opacity:1 }
+  .twocol { display:grid; grid-template-columns:1fr 1fr; gap:28px }
+  .section-title { font-size:17px; font-weight:700; margin:0 0 10px }
+
+  /* pdf modal */
+  .modal { position:fixed; inset:0; background:rgba(5,7,10,.8); backdrop-filter:blur(4px); display:none; z-index:50; align-items:center; justify-content:center }
+  .modal.on { display:flex }
+  .modalbox { position:relative; width:94vw; max-width:1200px; height:92vh; background:var(--panel); border:1px solid var(--line2); border-radius:14px; overflow:hidden; display:flex; flex-direction:column }
+  .modalbar { display:flex; align-items:center; gap:10px; padding:9px 14px; border-bottom:1px solid var(--line); font-size:13px; color:var(--mut) }
+  .modalbar b { color:var(--ink); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:1 }
+  .modalbox iframe { flex:1; border:0; width:100%; background:#fff }
+  .x { background:var(--panel3); color:var(--ink); border:1px solid var(--line2); width:32px; height:32px; border-radius:8px; cursor:pointer }
+  .tip { position:fixed; z-index:60; pointer-events:none; background:var(--ink); color:var(--bg); font-size:12px; padding:5px 9px; border-radius:7px; max-width:320px }
+
+  @media (max-width:1100px) {
+    .layout, .layout.nomenu { grid-template-columns:1fr }
+    .col.l { display:none }
+    .col.r { position:fixed; right:0; top:0; bottom:0; width:min(440px,92vw); z-index:30; transform:translateX(100%); transition:transform .25s; box-shadow:var(--shadow) }
+    .col.r.open { transform:none }
+    .closer { display:inline-block; float:right }
+    .twocol { grid-template-columns:1fr }
+    .bars .lb { width:150px }
+  }
+  @media (max-width:700px) {
+    header { flex-wrap:wrap; gap:10px; padding:10px 16px }
+    .brand small { display:none }
+    .search { order:3; flex-basis:100%; max-width:none }
+    .count { display:none }
+    .subheader { padding:8px 16px; flex-wrap:nowrap; overflow-x:auto }
+    .main.pad { padding:16px }
+    .legend { display:none }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand" id="brand">Physical AI Explorer <small id="brand-sub"></small></div>
+  <div class="search"><span class="ico">⌕</span><input id="search" type="search" placeholder="Search title, abstract, author, sub-topic…  ( / )" autocomplete="off"></div>
+  <div class="count" id="count"></div>
+  <div class="tabs">
+    <button class="tab active" data-view="map" title="3D paper similarity map">Similarity</button>
+    <button class="tab" data-view="list" title="Browse papers">List</button>
+    <button class="tab" data-view="stats" title="Statistics">Stats</button>
+    <button class="tab" id="rand" title="Random paper">🎲</button>
+    <button class="tab" id="theme" title="Toggle theme">🌓</button>
+  </div>
+</header>
+<div class="subheader" id="subheader"></div>
+
+<div class="layout nomenu" id="layout">
+  <aside class="col l">
+    <div class="seg"><h3 class="h">Sub-topics (auto clusters)</h3><div class="clusters" id="clusters"></div></div>
+    <div class="seg"><h3 class="h">Author</h3><select id="f-author"><option value="">Any</option></select></div>
+    <div class="seg"><h3 class="h">Recently viewed</h3><div id="recent"></div></div>
+    <div class="seg"><h3 class="h">Bookmarks</h3>
+      <div class="chiprow">
+        <button class="chip" id="bm-toggle">★ Saved (<span id="bm-count">0</span>)</button>
+        <button class="chip" id="csv-saved">↓ Saved CSV</button>
+        <button class="chip" id="csv-filtered">↓ Filtered CSV</button>
+      </div>
+    </div>
+    <div class="seg"><h3 class="h">Tips</h3>
+      <div style="color:var(--faint);font-size:12.5px;line-height:1.7">
+        • <b>/</b> search · <b>j / k</b> page · <b>Esc</b> close<br>
+        • <b>s</b> save the selected paper<br>
+        • Click an author or tag to filter<br>
+        • Map: drag = rotate, scroll = zoom
+      </div>
+      <button class="linkish" id="reset" style="margin-top:10px">↺ Reset all filters</button>
+    </div>
+  </aside>
+  <main class="main" id="main">
+    <div id="view-map" style="position:absolute;inset:0">
+      <div id="map"></div>
+      <div class="mapbar">
+        <div class="glass seg2" id="colorby"><button data-c="topic" class="on">Color: topic</button><button data-c="cluster">sub-topic</button><button data-c="date">recency</button></div>
+      </div>
+      <div class="legend glass" id="legend"></div>
+      <div class="hint glass">drag = rotate · scroll = zoom · click = details</div>
+    </div>
+    <div id="view-list" hidden></div>
+    <div id="view-stats" hidden></div>
+  </main>
+  <aside class="col r detail" id="detail"><div class="empty">👆 Click a paper to see details.<br>🌌 <b>Similarity</b>: nearby dots = related papers<br>🔎 Search dims everything that does not match</div></aside>
+</div>
+
+<div class="modal" id="modal"><div class="modalbox">
+  <div class="modalbar"><b id="modal-title"></b><a id="modal-open" target="_blank" rel="noopener">Open in new tab ↗</a><button class="x" id="modal-x" aria-label="Close">✕</button></div>
+  <iframe id="modal-pdf" title="PDF"></iframe>
+</div></div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+(function () {
+  'use strict';
+  var PAL = ['#6ea8ff','#ff8a5c','#4dd98b','#b48cff','#ffd166','#4fd6e0','#ff6f9c','#9c8bff','#86d35a','#ffae42','#5fe0c4','#f0769a'];
+  var PER_PAGE = 25;
+  var D, PAPERS = [], BY_ID = {}, TOPICS = [], TCOLOR = {}, CLUSTERS = [];
+  var VIEW = 'map', SEL = null, COLORBY = 'topic';
+  var F = { q: '', topic: '', range: 0, code: false, summary: false, saved: false, author: '', cluster: -1, sort: 'date', page: 0 };
+  var SAVED = new Set(read('px_saved', [])), RECENT = read('px_recent', []);
+  var $ = function (id) { return document.getElementById(id); };
+
+  function read(k, d) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }
+  function write(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function votes(p) { return (p.hf || 0) + (p.ax || 0); }
+  function daysAgo(n) { var d = new Date(); d.setDate(d.getDate() - n); return d.toISOString().slice(0, 10); }
+  function clusterColor(c) { return c == null || c < 0 ? '#888' : PAL[c % PAL.length]; }
+  function hl(s) {
+    var t = esc(s);
+    if (!F.q) return t;
+    var q = esc(F.q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    return t.replace(new RegExp('(' + q + ')', 'ig'), '<mark>$1</mark>');
+  }
+
+  // ---------- filtering ----------
+  function matches(p) {
+    if (F.topic && p.topics.indexOf(F.topic) < 0) return false;
+    if (F.range && p.date < daysAgo(F.range)) return false;
+    if (F.code && !p.code) return false;
+    if (F.summary && !p.summary) return false;
+    if (F.saved && !SAVED.has(p.id)) return false;
+    if (F.author && p.authors.indexOf(F.author) < 0) return false;
+    if (F.cluster >= 0 && p.c !== F.cluster) return false;
+    if (F.q && p._s.indexOf(F.q) < 0) return false;
+    return true;
+  }
+  function filtered() {
+    var fs = PAPERS.filter(matches);
+    if (F.sort === 'votes') fs.sort(function (a, b) { return votes(b) - votes(a) || (a.date < b.date ? 1 : -1); });
+    return fs;
+  }
+  function anyFilter() { return F.q || F.topic || F.range || F.code || F.summary || F.saved || F.author || F.cluster >= 0; }
+
+  // ---------- chrome ----------
+  function renderSubheader() {
+    var h = '<button class="chip' + (F.topic ? '' : ' on') + '" data-topic="">All topics</button>';
+    D.stats.topics.forEach(function (t) {
+      h += '<button class="chip' + (F.topic === t.name ? ' on' : '') + '" data-topic="' + esc(t.name) + '"><span class="dot" style="background:' + TCOLOR[t.name] + '"></span>' + esc(t.name) + ' <span class="n">' + t.n + '</span></button>';
+    });
+    h += '<span class="sep"></span>';
+    [[0, 'All time'], [7, '7d'], [30, '30d'], [90, '90d']].forEach(function (r) {
+      h += '<button class="chip' + (F.range === r[0] ? ' on' : '') + '" data-range="' + r[0] + '">' + r[1] + '</button>';
+    });
+    h += '<span class="sep"></span>';
+    h += '<button class="chip' + (F.code ? ' on' : '') + '" data-flag="code">‹/› Has code</button>';
+    if (D.stats.with_summary) h += '<button class="chip' + (F.summary ? ' on' : '') + '" data-flag="summary">✦ Summarized</button>';
+    h += '<button class="chip' + (F.saved ? ' on' : '') + '" data-flag="saved">★ Saved</button>';
+    if (F.author) h += '<button class="chip on" data-clear="author">👤 ' + esc(F.author) + ' ✕</button>';
+    if (F.cluster >= 0) h += '<button class="chip on" data-clear="cluster">◎ ' + esc(CLUSTERS[F.cluster].label) + ' ✕</button>';
+    $('subheader').innerHTML = h;
+  }
+
+  function renderSidebar() {
+    var counts = {};
+    PAPERS.forEach(function (p) { if (p.c != null) counts[p.c] = (counts[p.c] || 0) + 1; });
+    $('clusters').innerHTML = CLUSTERS.slice().sort(function (a, b) { return b.n - a.n; }).map(function (c) {
+      return '<div class="cl' + (F.cluster === c.id ? ' on' : '') + '" data-cluster="' + c.id + '"><span><span style="color:' + clusterColor(c.id) + '">●</span> ' + esc(c.label) + '</span><span>' + c.n + '</span></div>';
+    }).join('') || '<div class="mini">No clusters yet</div>';
+    $('recent').innerHTML = RECENT.slice().reverse().map(function (id) {
+      var p = BY_ID[id];
+      return p ? '<div class="mini" data-id="' + esc(id) + '" title="' + esc(p.title) + '">' + esc(p.title) + '</div>' : '';
+    }).join('') || '<div class="mini" style="cursor:default">None yet</div>';
+    $('bm-count').textContent = SAVED.size;
+    $('bm-toggle').classList.toggle('on', F.saved);
+    $('f-author').value = F.author;
+  }
+
+  function render() {
+    var fs = filtered();
+    $('count').textContent = (anyFilter() ? fs.length + ' / ' : '') + PAPERS.length + ' papers';
+    renderSubheader();
+    $('layout').classList.toggle('nomenu', VIEW !== 'list');
+    $('main').classList.toggle('pad', VIEW !== 'map');
+    ['map', 'list', 'stats'].forEach(function (v) { $('view-' + v).hidden = VIEW !== v; });
+    if (VIEW === 'map') renderMap(fs);
+    else if (VIEW === 'list') { renderSidebar(); renderList(fs); }
+    else renderStats(fs);
+  }
+
+  // ---------- map ----------
+  var mapReady = false;
+  function themeColors() {
+    var cs = getComputedStyle(document.documentElement);
+    return { ink: cs.getPropertyValue('--mut').trim(), line: cs.getPropertyValue('--line').trim(), bg: cs.getPropertyValue('--bg').trim(), faint: cs.getPropertyValue('--line2').trim() };
+  }
+  function renderMap(fs) {
+    if (typeof Plotly === 'undefined') { $('map').innerHTML = '<div class="empty">Plotly failed to load.</div>'; return; }
+    var pts = PAPERS.filter(function (p) { return p.x != null; });
+    if (!pts.length) { $('map').innerHTML = '<div class="empty">No map yet — run build_explorer.py.</div>'; return; }
+    var inSet = new Set(fs.map(function (p) { return p.id; }));
+    var on = pts.filter(function (p) { return inSet.has(p.id); });
+    var off = pts.filter(function (p) { return !inSet.has(p.id); });
+    var tc = themeColors();
+    var traces = [];
+    function tr(list, name, color, extra) {
+      return Object.assign({
+        type: 'scatter3d', mode: 'markers', name: name,
+        x: list.map(function (p) { return p.x; }), y: list.map(function (p) { return p.y; }), z: list.map(function (p) { return p.z; }),
+        customdata: list.map(function (p) { return p.id; }),
+        text: list.map(function (p) { return p.title; }),
+        hovertemplate: '%{text}<extra></extra>',
+        marker: { size: list.map(function (p) { return 3 + Math.min(7, Math.sqrt(votes(p))); }), color: color, opacity: 0.9, line: { width: 0 } }
+      }, extra || {});
+    }
+    if (off.length) traces.push(tr(off, 'other', tc.faint, { hoverinfo: 'skip', hovertemplate: null, marker: { size: 2.2, color: tc.faint, opacity: 0.35 } }));
+    if (COLORBY === 'topic') {
+      TOPICS.forEach(function (t) {
+        var l = on.filter(function (p) { return p.topics[0] === t; });
+        if (l.length) traces.push(tr(l, t, TCOLOR[t]));
+      });
+    } else if (COLORBY === 'cluster') {
+      CLUSTERS.forEach(function (c) {
+        var l = on.filter(function (p) { return p.c === c.id; });
+        if (l.length) traces.push(tr(l, c.label, clusterColor(c.id)));
+      });
+    } else {
+      var t = tr(on, 'papers', null);
+      var t0 = new Date(daysAgo(365)).getTime();
+      t.marker.color = on.map(function (p) { return Math.max(t0, new Date(p.date).getTime()) / 864e5; });
+      t.marker.colorscale = 'Viridis';
+      traces.push(t);
+    }
+    if (SEL && BY_ID[SEL] && BY_ID[SEL].x != null) {
+      var s = BY_ID[SEL], sims = (s.sim || []).map(function (id) { return BY_ID[id]; }).filter(function (p) { return p && p.x != null; });
+      var lx = [], ly = [], lz = [];
+      sims.forEach(function (p) { lx.push(s.x, p.x, null); ly.push(s.y, p.y, null); lz.push(s.z, p.z, null); });
+      traces.push({ type: 'scatter3d', mode: 'lines', x: lx, y: ly, z: lz, hoverinfo: 'skip', line: { color: '#ffd166', width: 3 }, showlegend: false });
+      traces.push(tr([s], 'selected', '#ffd166', { marker: { size: 12, color: '#ffd166', line: { color: '#fff', width: 2 } }, showlegend: false }));
+    }
+    var axis = { showgrid: false, zeroline: false, showticklabels: false, title: '', showspikes: false, showbackground: false };
+    var layout = {
+      paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)', margin: { l: 0, r: 0, t: 0, b: 0 },
+      showlegend: false, uirevision: 'keep', hoverlabel: { font: { size: 12 } },
+      scene: { xaxis: axis, yaxis: axis, zaxis: axis, aspectmode: 'cube', camera: { eye: { x: 1.05, y: 1.05, z: 0.7 } } }
+    };
+    Plotly.react('map', traces, layout, { displaylogo: false, responsive: true, modeBarButtonsToRemove: ['toImage', 'resetCameraLastSave3d'] });
+    if (!mapReady) {
+      mapReady = true;
+      $('map').on('plotly_click', function (ev) { var id = ev.points[0].customdata; if (id) select(id); });
+    }
+    // legend
+    var items = COLORBY === 'topic'
+      ? TOPICS.map(function (t) { return [TCOLOR[t], t, 'data-topic="' + esc(t) + '"']; })
+      : COLORBY === 'cluster'
+        ? CLUSTERS.map(function (c) { return [clusterColor(c.id), c.label, 'data-cluster="' + c.id + '"']; })
+        : [['#fde725', 'newer'], ['#440154', 'older (≥ 1 year)']];
+    $('legend').innerHTML = items.map(function (i) { return '<div class="li" ' + (i[2] || '') + '><span class="dot" style="background:' + i[0] + '"></span>' + esc(i[1]) + '</div>'; }).join('');
+  }
+
+  // ---------- list ----------
+  function card(p) {
+    var ol = p.summary && p.summary.one_liner ? p.summary.one_liner : (p.abstract ? p.abstract.slice(0, 220) + (p.abstract.length > 220 ? '…' : '') : '');
+    var au = p.authors.slice(0, 4).join(', ') + (p.authors.length > 4 ? ' et al.' : p.authors.length === 1 ? ' et al.' : '');
+    var tags = p.topics.map(function (t) { return '<span class="tag tp" style="--c:' + TCOLOR[t] + '" data-topic="' + esc(t) + '">' + esc(t) + '</span>'; }).join('');
+    if (p.c != null && CLUSTERS[p.c]) tags += '<span class="tag" data-cluster="' + p.c + '">◎ ' + esc(CLUSTERS[p.c].label) + '</span>';
+    if (p.code) tags += '<span class="tag cd">‹/› code</span>';
+    if (votes(p)) tags += '<span class="tag st">▲ ' + votes(p) + '</span>';
+    if (SAVED.has(p.id)) tags += '<span class="tag st">★</span>';
+    return '<div class="lcard' + (p.id === SEL ? ' sel' : '') + '" data-id="' + esc(p.id) + '" style="--c:' + TCOLOR[p.topics[0]] + '">' +
+      '<div class="t">' + hl(p.title) + '</div>' +
+      '<div class="au">' + hl(au) + ' · ' + esc(p.date) + '</div>' +
+      (ol ? '<div class="ol">' + hl(ol) + '</div>' : '') + '<div>' + tags + '</div></div>';
+  }
+  function renderList(fs) {
+    var pages = Math.max(1, Math.ceil(fs.length / PER_PAGE));
+    F.page = Math.min(F.page, pages - 1);
+    var items = fs.slice(F.page * PER_PAGE, (F.page + 1) * PER_PAGE);
+    var head = '<div class="listhead"><div class="count">' + fs.length + ' papers</div>' +
+      '<select id="sort"><option value="date">Newest first</option><option value="votes">Most upvoted</option></select></div>';
+    var pager = '<div class="pager"><button class="btn ghost" data-page="-1"' + (F.page ? '' : ' disabled') + '>← Prev</button>' +
+      '<span>Page ' + (F.page + 1) + ' / ' + pages + '</span><button class="btn ghost" data-page="1"' + (F.page < pages - 1 ? '' : ' disabled') + '>Next →</button></div>';
+    $('view-list').innerHTML = head + (items.length ? items.map(card).join('') : '<div class="empty">No papers match these filters.</div>') + pager;
+    $('sort').value = F.sort;
+    $('sort').onchange = function (e) { F.sort = e.target.value; F.page = 0; render(); };
+  }
+
+  // ---------- stats ----------
+  function bars(rows, attr) {
+    var max = Math.max.apply(null, rows.map(function (r) { return r[1]; }).concat([1]));
+    return '<div class="bars">' + rows.map(function (r) {
+      return '<div class="row" ' + (r[3] || '') + '><div class="lb" title="' + esc(r[0]) + '">' + esc(r[0]) + '</div><div class="tr"><div class="fl" style="width:' + (100 * r[1] / max) + '%;--c:' + (r[2] || 'var(--acc)') + '"></div></div><div class="n">' + r[1] + '</div></div>';
+    }).join('') + '</div>';
+  }
+  function renderStats(fs) {
+    var week = daysAgo(7);
+    var tcount = {}, ccount = {}, acount = {}, dcount = {};
+    fs.forEach(function (p) {
+      p.topics.forEach(function (t) { tcount[t] = (tcount[t] || 0) + 1; });
+      if (p.c != null) ccount[p.c] = (ccount[p.c] || 0) + 1;
+      p.authors.forEach(function (a) { acount[a] = (acount[a] || 0) + 1; });
+      dcount[p.date] = (dcount[p.date] || 0) + 1;
+    });
+    var days = [];
+    for (var i = 89; i >= 0; i--) { var d = daysAgo(i); days.push([d, dcount[d] || 0]); }
+    var dmax = Math.max.apply(null, days.map(function (d) { return d[1]; }).concat([1]));
+    var h = '<div class="cards">' + [
+      [fs.length, anyFilter() ? 'papers (filtered)' : 'papers tracked'],
+      [fs.filter(function (p) { return p.date >= week; }).length, 'in the last 7 days'],
+      [fs.filter(function (p) { return p.code; }).length, 'with code'],
+      [fs.filter(function (p) { return p.summary; }).length, 'with AI summary'],
+      [CLUSTERS.length, 'sub-topic clusters']
+    ].map(function (s) { return '<div class="stat"><b>' + s[0].toLocaleString() + '</b><span>' + s[1] + '</span></div>'; }).join('') + '</div>';
+    h += '<div class="section-title">Papers per day (last 90 days)</div><div class="spark">' + days.map(function (d) {
+      return '<div title="' + d[0] + ': ' + d[1] + '" style="height:' + (100 * d[1] / dmax) + '%"></div>';
+    }).join('') + '</div><div style="height:26px"></div>';
+    h += '<div class="twocol"><div><div class="section-title">Topics</div>' +
+      bars(TOPICS.map(function (t) { return [t, tcount[t] || 0, TCOLOR[t], 'data-topic="' + esc(t) + '"']; })) +
+      '<div style="height:24px"></div><div class="section-title">Most active authors</div>' +
+      bars(Object.keys(acount).sort(function (a, b) { return acount[b] - acount[a]; }).slice(0, 15).map(function (a) { return [a, acount[a], null, 'data-author="' + esc(a) + '"']; })) +
+      '</div><div><div class="section-title">Sub-topics</div>' +
+      bars(CLUSTERS.slice().sort(function (a, b) { return (ccount[b.id] || 0) - (ccount[a.id] || 0); }).map(function (c) { return [c.label, ccount[c.id] || 0, clusterColor(c.id), 'data-cluster="' + c.id + '"']; })) +
+      '</div></div><div style="height:30px"></div>';
+    $('view-stats').innerHTML = h;
+  }
+
+  // ---------- detail ----------
+  function select(id) {
+    var p = BY_ID[id];
+    if (!p) return;
+    SEL = id;
+    RECENT = RECENT.filter(function (x) { return x !== id; }).concat([id]).slice(-10);
+    write('px_recent', RECENT);
+    try { history.replaceState(null, '', '?p=' + encodeURIComponent(id)); } catch (e) {}
+    renderDetail(p);
+    $('detail').classList.add('open');
+    if (VIEW === 'map') renderMap(filtered());
+    else if (VIEW === 'list') {
+      document.querySelectorAll('.lcard').forEach(function (el) { el.classList.toggle('sel', el.dataset.id === id); });
+      renderSidebar();
+    }
+  }
+  function renderDetail(p) {
+    var s = p.summary;
+    var h = '<button class="x closer" id="detail-x" aria-label="Close">✕</button>';
+    h += '<h2>' + esc(p.title) + '</h2>';
+    h += '<div class="au">' + p.authors.map(function (a) { return '<span data-author="' + esc(a) + '">' + esc(a) + '</span>'; }).join(', ') + '</div>';
+    h += '<div class="meta">' + esc(p.date) + ' · arXiv ' + esc(p.id) + (p.cats.length ? ' · ' + esc(p.cats.slice(0, 4).join(', ')) : '') + '</div>';
+    h += '<div>' + p.topics.map(function (t) { return '<span class="tag tp" style="--c:' + TCOLOR[t] + '" data-topic="' + esc(t) + '">' + esc(t) + '</span>'; }).join('') +
+      (p.c != null && CLUSTERS[p.c] ? '<span class="tag" data-cluster="' + p.c + '">◎ ' + esc(CLUSTERS[p.c].label) + '</span>' : '') + '</div>';
+    h += '<div style="margin-top:10px">' +
+      '<button class="btn" data-pdf="' + esc(p.id) + '">📄 Read PDF</button>' +
+      '<a class="btn ghost" href="https://arxiv.org/abs/' + esc(p.id) + '" target="_blank" rel="noopener">arXiv</a>' +
+      (p.code ? '<a class="btn ghost" href="' + esc(p.code) + '" target="_blank" rel="noopener">‹/› Code</a>' : '') +
+      (p.hf != null ? '<a class="btn ghost" href="https://huggingface.co/papers/' + esc(p.id) + '" target="_blank" rel="noopener">🤗 ' + p.hf + '</a>' : '') +
+      (p.ax != null ? '<a class="btn ghost" href="https://alphaxiv.org/abs/' + esc(p.id) + '" target="_blank" rel="noopener">αX ↑' + p.ax + '</a>' : '') +
+      '<button class="btn ghost' + (SAVED.has(p.id) ? ' on' : '') + '" data-save="' + esc(p.id) + '">' + (SAVED.has(p.id) ? '★ Saved' : '☆ Save') + '</button></div>';
+    if (s) {
+      h += '<div class="sumcard">' + (s.one_liner ? '<div class="one">' + esc(s.one_liner) + '</div>' : '');
+      [['problem', 'Problem', ''], ['approach', 'Approach', ''], ['result', 'Result', 'res'], ['novelty', 'Novelty', 'nov']].forEach(function (k) {
+        if (s[k[0]]) h += '<div class="sumsec ' + k[2] + '"><div class="k">' + k[1] + '</div><div class="v">' + esc(s[k[0]]) + '</div></div>';
+      });
+      if (s.key_points && s.key_points.length) h += '<div class="lbl2" style="margin-top:10px">Key points</div><ul class="kp">' + s.key_points.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
+      h += '</div>';
+      if (s.methods && s.methods.length) h += '<div class="lbl2">Methods</div>' + s.methods.map(function (m) { return '<span class="tagc">' + esc(m) + '</span>'; }).join('');
+      if (s.datasets && s.datasets.length) h += '<div class="lbl2">Datasets / platforms</div>' + s.datasets.map(function (m) { return '<span class="tagd">' + esc(m) + '</span>'; }).join('');
+    }
+    if (p.abstract) h += '<div class="lbl2">Abstract</div><div class="abs">' + esc(p.abstract) + '</div>';
+    else if (!s) h += '<div class="abs" style="color:var(--faint)">Abstract not fetched yet — it will appear after the next data update.</div>';
+    var sims = (p.sim || []).map(function (id) { return BY_ID[id]; }).filter(Boolean);
+    if (sims.length) {
+      h += '<div class="lbl2">Similar papers</div>' + sims.map(function (q) {
+        return '<div class="simrow" data-id="' + esc(q.id) + '"><span class="d" style="background:' + TCOLOR[q.topics[0]] + '"></span><span>' + esc(q.title) + ' <span style="color:var(--faint)">· ' + esc(q.date) + '</span></span></div>';
+      }).join('');
+    }
+    $('detail').innerHTML = h;
+    $('detail').scrollTop = 0;
+  }
+
+  function toggleSave(id) {
+    if (SAVED.has(id)) SAVED.delete(id); else SAVED.add(id);
+    write('px_saved', Array.from(SAVED));
+    if (BY_ID[id]) renderDetail(BY_ID[id]);
+    if (VIEW === 'list') render();
+  }
+
+  function csv(list, name) {
+    var rows = [['arxiv_id', 'date', 'title', 'authors', 'topics', 'sub_topic', 'code', 'url']];
+    list.forEach(function (p) { rows.push([p.id, p.date, p.title, p.authors.join('; '), p.topics.join('; '), p.c != null && CLUSTERS[p.c] ? CLUSTERS[p.c].label : '', p.code || '', 'https://arxiv.org/abs/' + p.id]); });
+    var text = rows.map(function (r) { return r.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(','); }).join('\n');
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([text], { type: 'text/csv' }));
+    a.download = name;
+    a.click();
+  }
+
+  function openPDF(id) {
+    var p = BY_ID[id];
+    $('modal-title').textContent = p ? p.title : id;
+    $('modal-open').href = 'https://arxiv.org/pdf/' + id;
+    $('modal-pdf').src = 'https://arxiv.org/pdf/' + id;
+    $('modal').classList.add('on');
+  }
+  function closePDF() { $('modal').classList.remove('on'); $('modal-pdf').src = 'about:blank'; }
+
+  function setView(v) {
+    VIEW = v;
+    document.querySelectorAll('.tab[data-view]').forEach(function (t) { t.classList.toggle('active', t.dataset.view === v); });
+    write('px_view', v);
+    render();
+    if (v === 'map' && typeof Plotly !== 'undefined') setTimeout(function () { Plotly.Plots.resize('map'); }, 30);
+  }
+
+  // ---------- events ----------
+  function bind() {
+    var timer;
+    $('search').addEventListener('input', function (e) {
+      clearTimeout(timer);
+      timer = setTimeout(function () { F.q = e.target.value.trim().toLowerCase(); F.page = 0; render(); }, 200);
+    });
+    document.querySelectorAll('.tab[data-view]').forEach(function (t) { t.onclick = function () { setView(t.dataset.view); }; });
+    $('rand').onclick = function () { var fs = filtered(); if (fs.length) select(fs[Math.floor(Math.random() * fs.length)].id); };
+    $('theme').onclick = function () {
+      var root = document.documentElement;
+      var cur = root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      var next = cur === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      if (VIEW === 'map') render();
+    };
+    $('brand').onclick = function () { $('reset').click(); setView('map'); };
+    $('colorby').onclick = function (e) {
+      var b = e.target.closest('button'); if (!b) return;
+      COLORBY = b.dataset.c;
+      this.querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x === b); });
+      render();
+    };
+    $('f-author').onchange = function (e) { F.author = e.target.value; F.page = 0; render(); };
+    $('bm-toggle').onclick = function () { F.saved = !F.saved; F.page = 0; render(); };
+    $('csv-saved').onclick = function () { csv(PAPERS.filter(function (p) { return SAVED.has(p.id); }), 'physical-ai-saved.csv'); };
+    $('csv-filtered').onclick = function () { var fs = filtered(); csv(fs, 'physical-ai-filtered-' + fs.length + '.csv'); };
+    $('reset').onclick = function () {
+      F = { q: '', topic: '', range: 0, code: false, summary: false, saved: false, author: '', cluster: -1, sort: 'date', page: 0 };
+      $('search').value = '';
+      render();
+    };
+    $('modal-x').onclick = closePDF;
+    $('modal').onclick = function (e) { if (e.target === this) closePDF(); };
+
+    // One delegated handler for chips, tags, cards, bars, authors.
+    document.addEventListener('click', function (e) {
+      var t = e.target.closest('[data-topic],[data-range],[data-flag],[data-clear],[data-cluster],[data-author],[data-id],[data-page],[data-save],[data-pdf],#detail-x');
+      if (!t) return;
+      var ds = t.dataset;
+      if (t.id === 'detail-x') { $('detail').classList.remove('open'); return; }
+      if (ds.pdf) { openPDF(ds.pdf); return; }
+      if (ds.save) { toggleSave(ds.save); return; }
+      if (ds.page) { F.page += +ds.page; render(); $('main').scrollTop = 0; return; }
+      if (ds.id) { select(ds.id); return; }
+      if ('topic' in ds) F.topic = (F.topic === ds.topic && t.classList.contains('on')) ? '' : ds.topic;
+      else if ('range' in ds) F.range = +ds.range;
+      else if (ds.flag) F[ds.flag] = !F[ds.flag];
+      else if (ds.clear === 'author') F.author = '';
+      else if (ds.clear === 'cluster') F.cluster = -1;
+      else if ('cluster' in ds) F.cluster = F.cluster === +ds.cluster ? -1 : +ds.cluster;
+      else if (ds.author) { F.author = ds.author; if (VIEW === 'stats' || VIEW === 'map') setView('list'); }
+      F.page = 0;
+      render();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') { if (e.key === 'Escape') e.target.blur(); return; }
+      if (e.key === '/') { e.preventDefault(); $('search').focus(); }
+      else if (e.key === 'Escape') { closePDF(); $('detail').classList.remove('open'); }
+      else if (e.key === 's' && SEL) toggleSave(SEL);
+      else if (VIEW === 'list' && (e.key === 'j' || e.key === 'k')) {
+        var pages = Math.ceil(filtered().length / PER_PAGE);
+        F.page = Math.max(0, Math.min(pages - 1, F.page + (e.key === 'j' ? 1 : -1)));
+        render(); $('main').scrollTop = 0;
+      }
+    });
+  }
+
+  function init(data) {
+    D = data;
+    PAPERS = data.papers;
+    CLUSTERS = data.stats.clusters || [];
+    TOPICS = data.stats.topics.map(function (t) { return t.name; });
+    TOPICS.forEach(function (t, i) { TCOLOR[t] = PAL[i % PAL.length]; });
+    PAPERS.forEach(function (p) {
+      BY_ID[p.id] = p;
+      p._s = (p.title + ' ' + p.abstract + ' ' + p.authors.join(' ') + ' ' + p.id + ' ' +
+        (p.c != null && CLUSTERS[p.c] ? CLUSTERS[p.c].terms.join(' ') : '') + ' ' +
+        (p.summary ? [p.summary.one_liner, (p.summary.methods || []).join(' '), (p.summary.datasets || []).join(' ')].join(' ') : '')).toLowerCase();
+    });
+    document.title = data.title.replace(/Daily$/, 'Explorer');
+    $('brand').firstChild.textContent = document.title + ' ';
+    $('brand-sub').textContent = PAPERS.length.toLocaleString() + ' papers · updated ' + data.updated;
+    $('f-author').innerHTML = '<option value="">Any</option>' + data.stats.authors.map(function (a) { return '<option value="' + esc(a[0]) + '">' + esc(a[0]) + ' (' + a[1] + ')</option>'; }).join('');
+    bind();
+    var params = new URLSearchParams(location.search);
+    var v = params.get('view') || read('px_view', 'map');
+    if (v === 'list' || v === 'stats') VIEW = v;
+    setView(VIEW);
+    var pid = params.get('p');
+    if (pid && BY_ID[pid]) select(pid);
+  }
+
+  $('count').textContent = 'Loading…';
+  fetch('data.json', { cache: 'no-cache' })
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(init)
+    .catch(function (e) { $('detail').innerHTML = '<div class="empty">Could not load data.json (' + esc(e.message) + ')</div>'; $('count').textContent = ''; });
+})();
+</script>
+</body>
+</html>

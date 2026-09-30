@@ -1,18 +1,25 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.29
+### Updated on 2026.09.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-28**|**Humanoid Loco-Manipulation With Discrete VLA Model**|Wenxin Shao et.al.|[2609.35709v1](http://arxiv.org/abs/2609.35709v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.35709)|
-|**2026-09-28**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575v1](http://arxiv.org/abs/2609.35575v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35575)|
+|**2026-09-29**|**VLALight: A Vision-Language-Action Model for Traffic Signal Control**|Pan Zhang et.al.|[2609.36934v1](http://arxiv.org/abs/2609.36934v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36934)|
+|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915v1](http://arxiv.org/abs/2609.36915v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36915)|
+|**2026-09-29**|**LexiconVLA: Learning Reusable Atomic Action Codebooks for Unseen Tasks**|Zeming Wei et.al.|[2609.36774v1](http://arxiv.org/abs/2609.36774v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36774)|
+|**2026-09-29**|**Cooperative Multi-Agent Vision-Language-Action Models via Reinforced Fine Tuning**|Ruixiao Xu et.al.|[2609.36588v1](http://arxiv.org/abs/2609.36588v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36588)|
+|**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540v1](http://arxiv.org/abs/2609.36540v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36540)|
+|**2026-09-29**|**FineART: Fine-grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation**|Jade Choghari et.al.|[2609.36416v1](http://arxiv.org/abs/2609.36416v1)|[link](https://github.com/huggingface/lerobot)|[αX↑0](https://alphaxiv.org/abs/2609.36416)|
+|**2026-09-28**|**StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks**|Ziyi Yin et.al.|[2609.36352v1](http://arxiv.org/abs/2609.36352v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36352)|
+|**2026-09-28**|**Humanoid Loco-Manipulation With Discrete VLA Model**|Wenxin Shao et.al.|[2609.35709v1](http://arxiv.org/abs/2609.35709v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.35709)|
+|**2026-09-29**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575v2](http://arxiv.org/abs/2609.35575v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.35575)|
 |**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Chenyu Zhang et.al.|[2609.35469v1](http://arxiv.org/abs/2609.35469v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35469)|
 |**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Dingsheng Liu et.al.|[2609.35249v1](http://arxiv.org/abs/2609.35249v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35249)|
-|**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231v1](http://arxiv.org/abs/2609.35231v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35231)|
+|**2026-09-29**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231v2](http://arxiv.org/abs/2609.35231v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.35231)|
 |**2026-09-28**|**RefineDrive: Reliable Failure-Guided Learning for Vision-Language-Action Driving**|Zhe Sun et.al.|[2609.35078v1](http://arxiv.org/abs/2609.35078v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35078)|
 |**2026-09-28**|**Learning to Act under Visual Interruptions with Vision-Language-Action Models**|Mingle Jiang et.al.|[2609.35003v1](http://arxiv.org/abs/2609.35003v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35003)|
 |**2026-09-28**|**ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning**|Di Zhu et.al.|[2609.34982v1](http://arxiv.org/abs/2609.34982v1)|[link](https://github.com/Di-Zhu123/ActionUNet)|[αX↑1](https://alphaxiv.org/abs/2609.34982)|
-|**2026-09-28**|**Don't Throw Away the Tail: Action Upcycling for Policy Acceleration**|Taesung Kwon et.al.|[2609.34911v1](http://arxiv.org/abs/2609.34911v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34911)|
+|**2026-09-29**|**Don't Throw Away the Tail: Action Upcycling for Policy Acceleration**|Taesung Kwon et.al.|[2609.34911v2](http://arxiv.org/abs/2609.34911v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.34911)|
 |**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794v1](http://arxiv.org/abs/2609.34794v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34794)|
 |**2026-09-28**|**D $^2$ -VLA: Dual-Memory Dual-Frequency Vision-Language-Action Model For Long Dynamic Manipulation**|Zijian Ye et.al.|[2609.34792v1](http://arxiv.org/abs/2609.34792v1)|[link](https://github.com/your-project/your-repo)|[αX↑2](https://alphaxiv.org/abs/2609.34792)|
 |**2026-09-28**|**Unified Trajectory Matching Policy Optimization: Diverse T2I Generation and VLA Generalization**|Zhiyuan Ma et.al.|[2609.34688v1](http://arxiv.org/abs/2609.34688v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34688)|

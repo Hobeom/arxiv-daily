@@ -1,23 +1,44 @@
 ## Robot & Agent
 
-### Updated on 2026.09.29
+### Updated on 2026.09.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-29**|**Track-and-Complete: Learning Humanoid Skills from a Single Failed Human Video**|Sarmad Idrees et.al.|[2609.36924v1](http://arxiv.org/abs/2609.36924v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36924)|
+|**2026-09-29**|**PreferenceFlow: Test-Time Guidance of Flow-Matching Robot Policies from Human Interventions**|Yiqi Tang et.al.|[2609.36872v1](http://arxiv.org/abs/2609.36872v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36872)|
+|**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Hang Li et.al.|[2609.36870v1](http://arxiv.org/abs/2609.36870v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36870)|
+|**2026-09-29**|**Video2Skill: From Streaming Experience to Reusable Embodied Skills**|Jianshu Zhang et.al.|[2609.36691v1](http://arxiv.org/abs/2609.36691v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36691)|
+|**2026-09-29**|**ProgressCompass: Embodied Progress Reward Models Are Lost Without the Right Context**|Jianshu Zhang et.al.|[2609.36684v1](http://arxiv.org/abs/2609.36684v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36684)|
+|**2026-09-29**|**RobotEQ 3.0: Towards Personalized Social Proactive Intelligence in Embodied Agents**|Shufan Zhang et.al.|[2609.36618v1](http://arxiv.org/abs/2609.36618v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36618)|
+|**2026-09-29**|**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**|Guillaume Besset et.al.|[2609.36602v1](http://arxiv.org/abs/2609.36602v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36602)|
+|**2026-09-29**|**Simple Agentic Memory for Generalist Robot Policies**|Yuyou Zhang et.al.|[2609.36595v1](http://arxiv.org/abs/2609.36595v1)|[link](https://github.com/simplearm/SimpleARM)|[αX↑0](https://alphaxiv.org/abs/2609.36595)|
+|**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540v1](http://arxiv.org/abs/2609.36540v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36540)|
+|**2026-09-29**|**LIBERO-MAX: Do Robot Policies Adapt When the World Changes?**|Yunbei Zhang et.al.|[2609.36518v1](http://arxiv.org/abs/2609.36518v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36518)|
+|**2026-09-29**|**One from Infinity: Actualizing Futures from Pretrained World Models into Robot Actions**|Bang Du et.al.|[2609.36413v1](http://arxiv.org/abs/2609.36413v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36413)|
+|**2026-09-28**|**SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation**|He Zhu et.al.|[2609.36171v1](http://arxiv.org/abs/2609.36171v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36171)|
+|**2026-09-28**|**Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback**|Yishu Li et.al.|[2609.36107v1](http://arxiv.org/abs/2609.36107v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36107)|
+|**2026-09-28**|**HEIR: Learning Human-Entity Interactions with Functional Roles**|Di Wen et.al.|[2609.35955v1](http://arxiv.org/abs/2609.35955v1)|[link](https://github.com/Kratos-Wen/HEIR)|[αX↑0](https://alphaxiv.org/abs/2609.35955)|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35715)|
+|**2026-09-28**|**CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting**|Dantong Qin et.al.|[2609.35476v1](http://arxiv.org/abs/2609.35476v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35476)|
 |**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Chenyu Zhang et.al.|[2609.35469v1](http://arxiv.org/abs/2609.35469v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35469)|
+|**2026-09-28**|**Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation**|Zihao Wang et.al.|[2609.35450v1](http://arxiv.org/abs/2609.35450v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.35450)|
 |**2026-09-28**|**LLMs are General Asynchronous Agents**|George Yakushev et.al.|[2609.35427v1](http://arxiv.org/abs/2609.35427v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.35427)|
+|**2026-09-28**|**From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations**|Bangjun Wang et.al.|[2609.35375v1](http://arxiv.org/abs/2609.35375v1)|[link](https://github.com/OpenDriveLab/P2P-T)|[αX↑5](https://alphaxiv.org/abs/2609.35375)|
 |**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Dingsheng Liu et.al.|[2609.35249v1](http://arxiv.org/abs/2609.35249v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35249)|
-|**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231v1](http://arxiv.org/abs/2609.35231v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35231)|
+|**2026-09-29**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231v2](http://arxiv.org/abs/2609.35231v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.35231)|
 |**2026-09-28**|**JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments**|Zhixi Cai et.al.|[2609.35032v1](http://arxiv.org/abs/2609.35032v1)|[link](https://github.com/ControlNet/JRDB-AVR)|[αX↑0](https://alphaxiv.org/abs/2609.35032)|
 |**2026-09-28**|**NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory**|Kai Sheng et.al.|[2609.34969v1](http://arxiv.org/abs/2609.34969v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34969)|
-|**2026-09-28**|**Don't Throw Away the Tail: Action Upcycling for Policy Acceleration**|Taesung Kwon et.al.|[2609.34911v1](http://arxiv.org/abs/2609.34911v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34911)|
+|**2026-09-29**|**Don't Throw Away the Tail: Action Upcycling for Policy Acceleration**|Taesung Kwon et.al.|[2609.34911v2](http://arxiv.org/abs/2609.34911v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.34911)|
 |**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794v1](http://arxiv.org/abs/2609.34794v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34794)|
 |**2026-09-28**|**SOR-Nav: Search or Relocate? Context-Gated Exploration and Cross-Region Relocation for Object Navigation**|Yuan Ji et.al.|[2609.34707v1](http://arxiv.org/abs/2609.34707v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34707)|
 |**2026-09-28**|**VCN-Bench: A Video-Contextualized Navigation Benchmark for Spatial Reasoning over Prior Visual Experience**|Siqi Zhang et.al.|[2609.34687v1](http://arxiv.org/abs/2609.34687v1)|[link](https://github.com/siqiZ805/VCN-Bench)|[αX↑0](https://alphaxiv.org/abs/2609.34687)|
+|**2026-09-28**|**Trajectory-Safe Orienteering for Human-Robot Shared Environments**|Songqun Gao et.al.|[2609.34485v1](http://arxiv.org/abs/2609.34485v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34485)|
 |**2026-09-28**|**ARS: Agentic Reward System for Robot Learning**|Sheng Hu et.al.|[2609.34484v1](http://arxiv.org/abs/2609.34484v1)|[link](https://github.com/midea-ai/ars)|[αX↑0](https://alphaxiv.org/abs/2609.34484)|
 |**2026-09-28**|**From World Models to World Action Models: Rethinking Next-State Prediction**|Tingyu Yuan et.al.|[2609.34414v1](http://arxiv.org/abs/2609.34414v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34414)|
 |**2026-09-28**|**SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former**|Zhengding Luo et.al.|[2609.34347v1](http://arxiv.org/abs/2609.34347v1)|[link](https://github.com/Luo-Zhengding/SAIL)|[αX↑0](https://alphaxiv.org/abs/2609.34347)|
 |**2026-09-28**|**TLC-DiT: Task-Aligned Local Visual Conditioning for Robust Multitask Robot Manipulation**|Xianbo Cai et.al.|[2609.34297v1](http://arxiv.org/abs/2609.34297v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34297)|
+|**2026-09-28**|**Bayesian Active Learning for Intent Disambiguation in Interactive Robot Planning**|Huao Li et.al.|[2609.34270v1](http://arxiv.org/abs/2609.34270v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34270)|
+|**2026-09-28**|**UMR: Universal Manipulation Representation**|Song Liu et.al.|[2609.34256v1](http://arxiv.org/abs/2609.34256v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.34256)|
 |**2026-09-27**|**Robot-GST: geometry-aware spatial-temporal robot policy representation and evaluation**|Sichao Liu et.al.|[2609.33872v1](http://arxiv.org/abs/2609.33872v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33872)|
 |**2026-09-27**|**Achieve What You Imagined: Learning to Align Actions with Visual Plans**|Yuheng Qiao et.al.|[2609.33832v1](http://arxiv.org/abs/2609.33832v1)|[link](https://github.com/imagine-to-achieve/imagine-to-achieve)|[αX↑0](https://alphaxiv.org/abs/2609.33832)|
 |**2026-09-27**|**Principal Steering Subspaces for Online Adaptation of Frozen Generative Robot Policies**|Jialeng Ni et.al.|[2609.33765v1](http://arxiv.org/abs/2609.33765v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.33765)|

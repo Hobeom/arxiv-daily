@@ -1,42 +1,68 @@
-# TODO: add papers by configuration file
 user_name: "HoBeom"
 repo_name: "arxiv-daily"
+site_title: "Physical AI Daily"
 show_authors: True
 show_links: True
 max_results: 10
 max_qa_num: 2
 
+# Explorer page (build_explorer.py): structured summaries with Gemini for
+# up to this many new papers per run (needs the GEMINI_API_KEY secret).
+# 0 = disabled.
+summary_per_run: 0
+summary_model: "gemini-2.5-flash"
+
 publish_readme: True
 publish_gitpage: True
 
+# Each topic: `queries` are OR-ed phrase searches over all arXiv fields
+# (sent 2 per request). Optional `categories` restricts results to those
+# arXiv categories, which keeps broad terms such as "world model" on-topic.
 keywords:
-    "Action Recognition":
-        queries: ["action recognition", "action classification", "action detection", "action segmentation", "temporal action localization"]
-        md_readme_path: 'arxiv/action-recognition/README.md'
-        json_readme_path: 'arxiv/action-recognition/data.json'
-        qa_json_path: 'arxiv/action-recognition/qa.json'
-    "Human Pose Estimation":
-        queries: ["human pose estimation", "pose estimation", "keypoint detection", "keypoint estimation", "pose detection"]
-        md_readme_path: 'arxiv/human-pose-estimation/README.md'
-        json_readme_path: 'arxiv/human-pose-estimation/data.json'
-        qa_json_path: 'arxiv/human-pose-estimation/qa.json'
-    "Theory of Mind":
-        queries: ["theory of mind", "ToM", "social reasoning", "mental state modeling"]
-        md_readme_path: 'arxiv/theory-of-mind/README.md'
-        json_readme_path: 'arxiv/theory-of-mind/data.json'
-        qa_json_path: 'arxiv/theory-of-mind/qa.json'
-    "Dialogue Agents":
-        queries: ["collaboration agent", "communication agent", "dialogue agent"]
-        md_readme_path: 'arxiv/dialogue-agents/README.md'
-        json_readme_path: 'arxiv/dialogue-agents/data.json'
-        qa_json_path: 'arxiv/dialogue-agents/qa.json'
+    "Physical AI":
+        queries: ["Physical AI", "Embodied AI", "Embodied Intelligence", "Embodied Foundation Model", "Generalist Robot", "Robot Foundation Model"]
+        md_readme_path: 'arxiv/physical-ai/README.md'
+        json_readme_path: 'arxiv/physical-ai/data.json'
+        qa_json_path: 'arxiv/physical-ai/qa.json'
+    "Vision Language Action Model":
+        queries: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA Model", "VLA Models"]
+        # "VLA" is also the Very Large Array telescope (astro-ph)
+        categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG", "cs.CL"]
+        md_readme_path: 'arxiv/vla-model/README.md'
+        json_readme_path: 'arxiv/vla-model/data.json'
+        qa_json_path: 'arxiv/vla-model/qa.json'
     "Robot & Agent":
         queries: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
         md_readme_path: 'arxiv/robot-agent/README.md'
         json_readme_path: 'arxiv/robot-agent/data.json'
         qa_json_path: 'arxiv/robot-agent/qa.json'
-    "Vision Language Action Model":
-        queries: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA Model", "VLA Models"]
-        md_readme_path: 'arxiv/vla-model/README.md'
-        json_readme_path: 'arxiv/vla-model/data.json'
-        qa_json_path: 'arxiv/vla-model/qa.json'
+    "World Models":
+        queries: ["World Model", "World Models", "Video World Model", "Physical Simulation"]
+        categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG"]
+        md_readme_path: 'arxiv/world-models/README.md'
+        json_readme_path: 'arxiv/world-models/data.json'
+        qa_json_path: 'arxiv/world-models/qa.json'
+    "Robot Manipulation":
+        queries: ["Dexterous Manipulation", "Robotic Manipulation", "Bimanual Manipulation", "Visuotactile", "Grasping", "Imitation Learning"]
+        categories: ["cs.RO"]
+        md_readme_path: 'arxiv/robot-manipulation/README.md'
+        json_readme_path: 'arxiv/robot-manipulation/data.json'
+        qa_json_path: 'arxiv/robot-manipulation/qa.json'
+    "Humanoid & Locomotion":
+        queries: ["Humanoid Robot", "Humanoid", "Legged Locomotion", "Whole-Body Control", "Quadruped"]
+        categories: ["cs.RO"]
+        md_readme_path: 'arxiv/humanoid-locomotion/README.md'
+        json_readme_path: 'arxiv/humanoid-locomotion/data.json'
+        qa_json_path: 'arxiv/humanoid-locomotion/qa.json'
+    "Sim-to-Real":
+        queries: ["Sim-to-Real", "Sim2Real", "Real-to-Sim", "Digital Twin"]
+        categories: ["cs.RO", "cs.CV", "cs.LG"]
+        md_readme_path: 'arxiv/sim-to-real/README.md'
+        json_readme_path: 'arxiv/sim-to-real/data.json'
+        qa_json_path: 'arxiv/sim-to-real/qa.json'
+    "Embodied Navigation & Driving":
+        queries: ["Vision-Language Navigation", "Embodied Navigation", "End-to-End Autonomous Driving", "Autonomous Driving"]
+        categories: ["cs.RO", "cs.CV"]
+        md_readme_path: 'arxiv/embodied-navigation/README.md'
+        json_readme_path: 'arxiv/embodied-navigation/data.json'
+        qa_json_path: 'arxiv/embodied-navigation/qa.json'
