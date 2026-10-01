@@ -1,9 +1,20 @@
 ## World Models
 
-### Updated on 2026.09.30
+### Updated on 2026.10.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358v1](http://arxiv.org/abs/2609.40358v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40358)|
+|**2026-09-30**|**LOCI: Spatial Linear Memory for Streaming World Models**|Ji Xia et.al.|[2609.40222v1](http://arxiv.org/abs/2609.40222v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40222)|
+|**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177v1](http://arxiv.org/abs/2609.40177v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40177)|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153v1](http://arxiv.org/abs/2609.40153v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40153)|
+|**2026-09-30**|**DashVMC: Real-Time Discrete World Model Control in Geometry Dash**|Florent Tariolle et.al.|[2609.40003v1](http://arxiv.org/abs/2609.40003v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40003)|
+|**2026-09-30**|**OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software**|Dingyuan Dai et.al.|[2609.39903v1](http://arxiv.org/abs/2609.39903v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39903)|
+|**2026-09-30**|**Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models**|Kowndinya Boyalakuntla et.al.|[2609.39751v1](http://arxiv.org/abs/2609.39751v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39751)|
+|**2026-09-30**|**OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation**|Oana Madalina Fron et.al.|[2609.39727v1](http://arxiv.org/abs/2609.39727v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39727)|
+|**2026-09-30**|**RoboCoach: World Models as Active Coaches for Compositional Robot Skills**|Jiajun Liu et.al.|[2609.39685v1](http://arxiv.org/abs/2609.39685v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.39685)|
+|**2026-09-30**|**Why Do Conventional World Models Fail to Learn Cellular Automata?**|Shaoyang Guo et.al.|[2609.39604v1](http://arxiv.org/abs/2609.39604v1)|[link](https://github.com/guoshaoyang-pku/momentum-induction)|[αX↑0](https://alphaxiv.org/abs/2609.39604)|
+|**2026-09-30**|**MotionWeave: Learning Motion-Centered Future Dynamics for Vision-Language-Action Policies**|Jingqiu Wang et.al.|[2609.39324v1](http://arxiv.org/abs/2609.39324v1)|[link](https://github.com/autu-mn/MotionWeave)|[αX↑0](https://alphaxiv.org/abs/2609.39324)|
 |**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163v1](http://arxiv.org/abs/2609.38163v1)|[link](https://github.com/hustvl/ReWAM)|[αX↑8](https://alphaxiv.org/abs/2609.38163)|
 |**2026-09-29**|**LongLive-Plug: Once-for-All Distillation for Video Generation**|Shuai Yang et.al.|[2609.38154v1](http://arxiv.org/abs/2609.38154v1)|[link](https://github.com/NVlabs/LongLive)|[αX↑7](https://alphaxiv.org/abs/2609.38154)|
 |**2026-09-29**|**PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams**|Trong-Tung Nguyen et.al.|[2609.38153v1](http://arxiv.org/abs/2609.38153v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38153)|
@@ -15,12 +26,12 @@
 |**2026-09-29**|**Anisotropic Representations Improve Planning in JEPA World Models**|Mingu Kang et.al.|[2609.37441v1](http://arxiv.org/abs/2609.37441v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37441)|
 |**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Xiangcheng Zhan et.al.|[2609.37398v1](http://arxiv.org/abs/2609.37398v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37398)|
 |**2026-09-29**|**Do-JEPA: From Masking to Intervention in Latent World Models**|Hossein Resani et.al.|[2609.37378v1](http://arxiv.org/abs/2609.37378v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37378)|
-|**2026-09-29**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107v1](http://arxiv.org/abs/2609.37107v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37107)|
-|**2026-09-29**|**World2Motion: Turning Video World Models into 3D Human Motion Generators**|Tu Fangyuan et.al.|[2609.37004v1](http://arxiv.org/abs/2609.37004v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37004)|
-|**2026-09-29**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v1](http://arxiv.org/abs/2609.36851v1)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑0](https://alphaxiv.org/abs/2609.36851)|
+|**2026-09-30**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107v2](http://arxiv.org/abs/2609.37107v2)|null|[αX↑0](https://alphaxiv.org/abs/2609.37107)|
+|**2026-09-30**|**World2Motion: Turning Video World Models into 3D Human Motion Generators**|Fangyuan Tu et.al.|[2609.37004v2](http://arxiv.org/abs/2609.37004v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.37004)|
+|**2026-09-30**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v2](http://arxiv.org/abs/2609.36851v2)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑3](https://alphaxiv.org/abs/2609.36851)|
 |**2026-09-29**|**DSWM: Decomposed Spatio-Temporal World Model for Demand-Driven UAV Base Station Repositioning**|Shengjie Zhong et.al.|[2609.36845v1](http://arxiv.org/abs/2609.36845v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36845)|
 |**2026-09-29**|**RolloutFaith: Auditing Persistent Internal Interventions in Visual World Model**|Junchi Yao et.al.|[2609.36843v1](http://arxiv.org/abs/2609.36843v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36843)|
-|**2026-09-29**|**MeteoVerse: Unified Weather-Controllable Video World Model**|Renlong Wu et.al.|[2609.36810v1](http://arxiv.org/abs/2609.36810v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36810)|
+|**2026-09-29**|**MeteoVerse: Unified Weather-Controllable Video World Model**|Renlong Wu et.al.|[2609.36810v1](http://arxiv.org/abs/2609.36810v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36810)|
 |**2026-09-29**|**ReWorld-Track: A Recursive Event World Model for Language-Guided Multi-Camera Tracking**|Haoyang Wu et.al.|[2609.36677v1](http://arxiv.org/abs/2609.36677v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36677)|
 |**2026-09-29**|**Text2Sim: Agentic Physics-Based Simulation Generation with Distilled Expertise**|Xiaoyu Xiong et.al.|[2609.36593v1](http://arxiv.org/abs/2609.36593v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36593)|
 |**2026-09-29**|**Inferring Soil Friction Angle from Robot Foot-Ground Force Histories: A Bayesian Inverse Approach to Proprioceptive Soil Sensing**|Dawei Xu et.al.|[2609.36582v1](http://arxiv.org/abs/2609.36582v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36582)|

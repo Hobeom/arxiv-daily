@@ -1,9 +1,33 @@
 ## Robot & Agent
 
-### Updated on 2026.09.30
+### Updated on 2026.10.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-30**|**Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?**|Zhihao Sun et.al.|[2609.40341v1](http://arxiv.org/abs/2609.40341v1)|[link](https://github.com/HorizonRobotics/Ego4WAM)|[αX↑0](https://alphaxiv.org/abs/2609.40341)|
+|**2026-09-30**|**DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents**|Haoyuan Deng et.al.|[2609.40306v1](http://arxiv.org/abs/2609.40306v1)|[link](https://github.com/Denghaoyuan123/DynaHarness)|[αX↑1](https://alphaxiv.org/abs/2609.40306)|
+|**2026-09-30**|**STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction**|Nathan Tsoi et.al.|[2609.40245v1](http://arxiv.org/abs/2609.40245v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40245)|
+|**2026-09-30**|**Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models**|Qi Lyu et.al.|[2609.40219v1](http://arxiv.org/abs/2609.40219v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40219)|
+|**2026-09-30**|**PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors**|Seungeun Rho et.al.|[2609.40165v1](http://arxiv.org/abs/2609.40165v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40165)|
+|**2026-09-30**|**Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction**|Pranav Goyal et.al.|[2609.40158v1](http://arxiv.org/abs/2609.40158v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40158)|
+|**2026-09-30**|**Game-Guided Skill Discovery through Self-Play for Playable Agent Control**|Seungeun Rho et.al.|[2609.40137v1](http://arxiv.org/abs/2609.40137v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.40137)|
+|**2026-09-30**|**EWAM: Emergent Depth-Wise Specialization in a Unified Embodied Model -- From Semantic Understanding through Visual Foresight to Action**|Hao Wang et.al.|[2609.39973v1](http://arxiv.org/abs/2609.39973v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39973)|
+|**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915v1](http://arxiv.org/abs/2609.39915v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39915)|
+|**2026-09-30**|**Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence**|Xuhua Chen et.al.|[2609.39870v1](http://arxiv.org/abs/2609.39870v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39870)|
+|**2026-09-30**|**ChunkTrust: Adapting Execution Horizons for Robot Policies with Action-Expert Evidence**|Fanding Huang et.al.|[2609.39754v1](http://arxiv.org/abs/2609.39754v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39754)|
+|**2026-09-30**|**ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning**|Chenyangguang Zhang et.al.|[2609.39665v1](http://arxiv.org/abs/2609.39665v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39665)|
+|**2026-09-30**|**RoboAssist: Interactive Human-Humanoid Planning for Long-Horizon Surgical Assistance**|Jingwei Jia et.al.|[2609.39384v1](http://arxiv.org/abs/2609.39384v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39384)|
+|**2026-09-30**|**A Biophysically Detailed C. elegans Circuit as a Task-Agnostic Dynamical Core for Visually Robust Robot Manipulation**|Linrui Qian et.al.|[2609.39322v1](http://arxiv.org/abs/2609.39322v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39322)|
+|**2026-09-30**|**Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents**|Zhijie Wei et.al.|[2609.39304v1](http://arxiv.org/abs/2609.39304v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39304)|
+|**2026-09-30**|**ASENA: Self-evolving Agents for Embodied Navigation**|An-Chieh Cheng et.al.|[2609.39207v1](http://arxiv.org/abs/2609.39207v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39207)|
+|**2026-09-30**|**Uruqi: Learning Spatial Cognition from Visual Experience**|Shichao Li et.al.|[2609.39195v1](http://arxiv.org/abs/2609.39195v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39195)|
+|**2026-09-30**|**Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds**|Mingjian Gao et.al.|[2609.39166v1](http://arxiv.org/abs/2609.39166v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39166)|
+|**2026-09-30**|**Drape-Compatible Tool-Tip Localization for Hand-Held Laparoscopic Instruments via UWB Carrier-Phase Ranging and Trocar-Constrained Geometry**|Jinseok Lee et.al.|[2609.39129v1](http://arxiv.org/abs/2609.39129v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39129)|
+|**2026-09-30**|**DiFF: Doppler-informed Flow Matching for Human Motion Flow**|Kai Wang et.al.|[2609.39098v1](http://arxiv.org/abs/2609.39098v1)|[link](https://github.com/keroseus/DiFF)|[αX↑0](https://alphaxiv.org/abs/2609.39098)|
+|**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038v1](http://arxiv.org/abs/2609.39038v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39038)|
+|**2026-09-30**|**Function beyond Form: Functional Correspondence for Cross-Embodiment Dexterous Grasp Generation**|Bolin Zou et.al.|[2609.39006v1](http://arxiv.org/abs/2609.39006v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39006)|
+|**2026-09-30**|**Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation**|Yansong Shi et.al.|[2609.38886v1](http://arxiv.org/abs/2609.38886v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38886)|
+|**2026-09-29**|**BIND: Binding 3D Robot Actions to 2D Image Features**|Cameron Smith et.al.|[2609.38443v1](http://arxiv.org/abs/2609.38443v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38443)|
 |**2026-09-29**|**Skill-Space Shooting for Autonomous Robot Policy Improvement**|Zihang Rui et.al.|[2609.38178v1](http://arxiv.org/abs/2609.38178v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38178)|
 |**2026-09-29**|**In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks**|Minxing Li et.al.|[2609.38173v1](http://arxiv.org/abs/2609.38173v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38173)|
 |**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163v1](http://arxiv.org/abs/2609.38163v1)|[link](https://github.com/hustvl/ReWAM)|[αX↑8](https://alphaxiv.org/abs/2609.38163)|

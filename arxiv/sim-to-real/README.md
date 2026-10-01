@@ -1,9 +1,16 @@
 ## Sim-to-Real
 
-### Updated on 2026.09.30
+### Updated on 2026.10.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-30**|**Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models**|Kowndinya Boyalakuntla et.al.|[2609.39751v1](http://arxiv.org/abs/2609.39751v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39751)|
+|**2026-09-30**|**OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion**|Ziheng Xu et.al.|[2609.39017v1](http://arxiv.org/abs/2609.39017v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39017)|
+|**2026-09-30**|**EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation**|Haoran Lang et.al.|[2609.38905v1](http://arxiv.org/abs/2609.38905v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38905)|
+|**2026-09-30**|**Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter**|Kowndinya Boyalakuntla et.al.|[2609.38857v1](http://arxiv.org/abs/2609.38857v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38857)|
+|**2026-09-29**|**Drone Soccer: Learning to Manipulate with Multicopter Downwash**|Neelay Joglekar et.al.|[2609.38588v1](http://arxiv.org/abs/2609.38588v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38588)|
+|**2026-09-29**|**Curating Synthetic Data for Task-Specific Visual Perception**|Saptarshi Neil Sinha et.al.|[2609.38476v1](http://arxiv.org/abs/2609.38476v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38476)|
+|**2026-09-29**|**PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation**|Shaohong Zhong et.al.|[2609.38418v1](http://arxiv.org/abs/2609.38418v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38418)|
 |**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172v1](http://arxiv.org/abs/2609.38172v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38172)|
 |**2026-09-29**|**Learning When to Update: A Near-Optimal Timing Bandit Approach**|Qiulin Lin et.al.|[2609.37932v1](http://arxiv.org/abs/2609.37932v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37932)|
 |**2026-09-29**|**Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding**|Jiayu Ying et.al.|[2609.37655v1](http://arxiv.org/abs/2609.37655v1)|[link](https://github.com/yingjiayu12/Exemplar2VQA)|[αX↑0](https://alphaxiv.org/abs/2609.37655)|
@@ -23,7 +30,7 @@
 |**2026-09-28**|**SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation**|He Zhu et.al.|[2609.36171v1](http://arxiv.org/abs/2609.36171v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36171)|
 |**2026-09-28**|**Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback**|Yishu Li et.al.|[2609.36107v1](http://arxiv.org/abs/2609.36107v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36107)|
 |**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35715)|
-|**2026-09-29**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575v2](http://arxiv.org/abs/2609.35575v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.35575)|
+|**2026-09-29**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575v2](http://arxiv.org/abs/2609.35575v2)|null|[αX↑3](https://alphaxiv.org/abs/2609.35575)|
 |**2026-09-28**|**DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library**|Youhui Wang et.al.|[2609.35318v1](http://arxiv.org/abs/2609.35318v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.35318)|
 |**2026-09-27**|**Estimate, Don't Imitate: Reusing Differentiable State-Based Policies for Visuomotor Control**|Denis Shcherba et.al.|[2609.34018v1](http://arxiv.org/abs/2609.34018v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34018)|
 |**2026-09-27**|**Test-Time Spatial Reasoning for Robot Manipulation Using Generative Real-to-Sim**|Ivan Kapelyukh et.al.|[2609.33982v1](http://arxiv.org/abs/2609.33982v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.33982)|
