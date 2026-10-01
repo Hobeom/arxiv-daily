@@ -3,7 +3,8 @@ repo_name: "arxiv-daily"
 site_title: "Physical AI Daily"
 show_authors: True
 show_links: True
-max_results: 10
+# per arXiv query; large enough to catch up after a missed run
+max_results: 25
 max_qa_num: 2
 
 # Explorer page (build_explorer.py): structured summaries with Gemini for

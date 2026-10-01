@@ -3,7 +3,8 @@ name: Run Arxiv Papers Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0/12 * * *"
+    # off the top of the hour, when many scheduled jobs hit arXiv at once
+    - cron: "41 1,13 * * *"
 
 env:
   GITHUB_USER_NAME: HoBeom

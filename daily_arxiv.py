@@ -26,8 +26,15 @@ ALPHAXIV_CACHE_FILE = 'hf_cache/alphaxiv_cache.json'
 ALPHAXIV_REFRESH_DAYS = 30
 
 ARXIV_API_URL = 'https://export.arxiv.org/api/query'
-DELAY_SECONDS = 5
+DELAY_SECONDS = 30     # first back-off after a failed arXiv request
+MAX_BACKOFF = 300
+MIN_INTERVAL = 5       # arXiv asks for >= 3s between API calls
 NUM_RETRIES = 6
+# Total back-off allowed per run, so a long arXiv outage can't push the job
+# past the Actions time limit (which would lose everything fetched so far).
+WAIT_BUDGET = 90 * 60
+_last_arxiv_call = 0.0
+_arxiv_waited = 0.0
 
 
 def _requests_session() -> requests.Session:
@@ -159,8 +166,13 @@ def fetch_arxiv(query: str,
         'start': start,
         'max_results': max_results,
     }
+    global _last_arxiv_call, _arxiv_waited
     backoff = DELAY_SECONDS
     for attempt in range(NUM_RETRIES + 1):
+        wait = MIN_INTERVAL - (time.time() - _last_arxiv_call)
+        if wait > 0:
+            time.sleep(wait)
+        _last_arxiv_call = time.time()
         logging.info(
             'arXiv request (try %d): query=%s start=%d max=%d',
             attempt,
@@ -168,28 +180,35 @@ def fetch_arxiv(query: str,
             start,
             max_results,
         )
+        delay = backoff
         try:
             resp = _SESSION.get(ARXIV_API_URL, params=params, timeout=30)
         except requests.RequestException as e:
             logging.warning('arXiv network error (%s) — waiting %ds', e,
-                            backoff)
+                            delay)
         else:
             if resp.status_code == 200:
                 feed = feedparser.parse(resp.text)
                 return [ArxivPaper(e) for e in feed.entries]
+            retry_after = resp.headers.get('Retry-After', '')
+            if retry_after.isdigit():
+                delay = min(int(retry_after), MAX_BACKOFF)
             logging.warning(
                 'arXiv HTTP %d — waiting %ds before retry',
                 resp.status_code,
-                backoff,
+                delay,
             )
-        time.sleep(backoff)
-        backoff = min(backoff * 2, 120)
-    logging.error(
-        'arXiv request failed after %d retries for query=%s',
-        NUM_RETRIES,
-        query,
-    )
-    return []
+        if attempt == NUM_RETRIES:
+            break
+        if _arxiv_waited + delay > WAIT_BUDGET:
+            logging.warning('arXiv wait budget used up; not retrying')
+            break
+        _arxiv_waited += delay
+        time.sleep(delay)
+        backoff = min(backoff * 2, MAX_BACKOFF)
+    logging.error('arXiv request failed after %d tries for query=%s',
+                  attempt + 1, query)
+    return None
 
 
 def build_subqueries(queries: list,
@@ -412,12 +431,16 @@ def strip_version(paper_id: str) -> str:
     return re.sub(r'v\d+$', '', paper_id)
 
 
-def get_daily_papers(subqueries, max_results=2):
-    logging.info('[arxiv] delay=%ss, retries=%s', DELAY_SECONDS, NUM_RETRIES)
+def get_daily_papers(subqueries, max_results=2, failed=None):
+    """Fetch papers for each subquery; append unreachable ones to failed."""
     content = dict()
     logging.info(f'subqueries={subqueries}')
-    for idx, subq in enumerate(subqueries):
+    for subq in subqueries:
         results = fetch_arxiv(query=subq, max_results=max_results)
+        if results is None:
+            if failed is not None:
+                failed.append(subq)
+            continue
         for result in results:
             paper_id = result.get_short_id()
             # '|' would break the markdown table row
@@ -469,8 +492,6 @@ def get_daily_papers(subqueries, max_results=2):
                     ))
             except Exception as e:
                 logging.error(f'exception: {e} with id: {paper_key}')
-        if idx != len(subqueries) - 1:
-            time.sleep(5)
     _save_alphaxiv_cache()
     return content
 
@@ -747,29 +768,49 @@ def demo(**config):
     if config['update_paper_links']:
         update_paper_links_all(json_file_path)
 
-    failed = []
-    for topic, queries in subqueries.items():
-        logging.info(f'{topic=} {queries=}')
+    def run_topic(topic, queries, unreachable):
         json_file = json_file_path[topic]
         md_file = md_readme_path[topic]
         os.makedirs(os.path.dirname(json_file), exist_ok=True)
         os.makedirs(os.path.dirname(md_file), exist_ok=True)
-
         # One failing topic must not discard the others' results.
         try:
             if not config['update_paper_links']:
-                content = get_daily_papers(queries, max_results=max_results)
+                content = get_daily_papers(
+                    queries, max_results=max_results, failed=unreachable)
                 update_json_file(json_file, [{topic: content}])
             if config['publish_readme']:
                 json_to_md(json_file, md_file, task='Update Readme')
+            return True
         except Exception as e:
             logging.exception(f'topic {topic} failed: {e}')
-            failed.append(topic)
+            return False
+
+    errors, unreachable = [], {}
+    for topic, queries in subqueries.items():
+        logging.info(f'{topic=} {queries=}')
+        unreachable[topic] = []
+        if not run_topic(topic, queries, unreachable[topic]):
+            errors.append(topic)
+
+    # arXiv rate limits (HTTP 429) often lift after a while, so give the
+    # queries that ran out of retries one more pass at the end of the run.
+    still_unreachable = {}
+    for topic, queries in unreachable.items():
+        if not queries:
+            continue
+        logging.info('Second pass for %s: %d queries', topic, len(queries))
+        still_unreachable[topic] = []
+        run_topic(topic, queries, still_unreachable[topic])
 
     save_meta()
 
-    if failed:
-        logging.warning('Topics with errors: %s', failed)
+    if errors:
+        logging.warning('Topics with errors: %s', errors)
+    missed = {t: q for t, q in still_unreachable.items() if q}
+    if missed:
+        logging.warning('Queries still unreachable after second pass: %s',
+                        missed)
 
 
 if __name__ == '__main__':
