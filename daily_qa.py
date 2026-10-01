@@ -52,7 +52,7 @@ def load_qa_json(config):
 
 def get_papers_from_arxiv_ids(arxiv_ids):
     query = ' OR '.join([f'id:{arxiv_id}' for arxiv_id in arxiv_ids])
-    return fetch_arxiv(query=query, max_results=len(arxiv_ids))
+    return fetch_arxiv(query=query, max_results=len(arxiv_ids)) or []
 
 
 def main(config):
