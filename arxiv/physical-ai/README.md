@@ -1,9 +1,14 @@
 ## Physical AI
 
-### Updated on 2026.10.01
+### Updated on 2026.10.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑0](https://alphaxiv.org/abs/2610.01863)|
+|**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981v1](http://arxiv.org/abs/2610.00981v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.00981)|
+|**2026-10-01**|**Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models**|Jiawei Fan et.al.|[2610.00864v1](http://arxiv.org/abs/2610.00864v1)|[link](https://github.com/IntelChina-AI/K-MF)|[αX↑0](https://alphaxiv.org/abs/2610.00864)|
+|**2026-09-30**|**JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts**|Zheyuan Zhang et.al.|[2610.00722v1](http://arxiv.org/abs/2610.00722v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.00722)|
+|**2026-09-28**|**EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems**|Zhiheng Chen et.al.|[2610.00311v1](http://arxiv.org/abs/2610.00311v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.00311)|
 |**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39514)|
 |**2026-09-30**|**Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos**|Hangong Chen et.al.|[2609.38966v1](http://arxiv.org/abs/2609.38966v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38966)|
 |**2026-09-29**|**Exo2EgoHOI: Hand-Object-Interaction Aware Exocentric-to-Egocentric Video Generation**|Hongjia Zhai et.al.|[2609.38615v1](http://arxiv.org/abs/2609.38615v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38615)|
