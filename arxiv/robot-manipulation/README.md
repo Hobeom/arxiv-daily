@@ -1,6 +1,6 @@
 ## Robot Manipulation
 
-### Updated on 2026.10.02
+### Updated on 2026.10.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -49,23 +49,23 @@
 |**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401v1](http://arxiv.org/abs/2609.38401v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38401)|
 |**2026-09-28**|**A Two-Echelon Covering Tour Vehicle Routing Problem with Drones for Post-Disaster Relief**|Dang Viet Anh Nguyen et.al.|[2609.38227v1](http://arxiv.org/abs/2609.38227v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38227)|
 |**2026-09-28**|**SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets**|Yuto Tanaka et.al.|[2609.38225v1](http://arxiv.org/abs/2609.38225v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38225)|
-|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Rho Team et.al.|[2609.38164v1](http://arxiv.org/abs/2609.38164v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.38164)|
+|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Rho Team et.al.|[2609.38164v1](http://arxiv.org/abs/2609.38164v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.38164)|
 |**2026-09-29**|**FORM: Robot Manipulation through Direct Material Law Identification**|Stepan Tretiakov et.al.|[2609.38105v1](http://arxiv.org/abs/2609.38105v1)|[link](https://github.com/form-robots/FORM)|[αX↑1](https://alphaxiv.org/abs/2609.38105)|
 |**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078v1](http://arxiv.org/abs/2609.38078v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38078)|
 |**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Shenghe Zheng et.al.|[2609.38059v1](http://arxiv.org/abs/2609.38059v1)|[link](https://github.com/Zhengsh123/WorldLine)|[🤗👍15](https://huggingface.co/papers/2609.38059) [αX↑5](https://alphaxiv.org/abs/2609.38059)|
 |**2026-09-29**|**MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation**|Wenbo Chen et.al.|[2609.37793v1](http://arxiv.org/abs/2609.37793v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.37793)|
-|**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Xiaoyu Yang et.al.|[2609.37776v1](http://arxiv.org/abs/2609.37776v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.37776)|
-|**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599v1](http://arxiv.org/abs/2609.37599v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37599)|
+|**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Xiaoyu Yang et.al.|[2609.37776v1](http://arxiv.org/abs/2609.37776v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.37776)|
+|**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599v1](http://arxiv.org/abs/2609.37599v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37599)|
 |**2026-09-30**|**RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation**|Shifeng Bao et.al.|[2609.37583v2](http://arxiv.org/abs/2609.37583v2)|null|[αX↑2](https://alphaxiv.org/abs/2609.37583)|
-|**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Johannes Hechtl et.al.|[2609.37552v1](http://arxiv.org/abs/2609.37552v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.37552)|
+|**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Johannes Hechtl et.al.|[2609.37552v1](http://arxiv.org/abs/2609.37552v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.37552)|
 |**2026-09-29**|**RawVLA: Embodied Neural Image Signal Processor For Robotic Manipulation**|Shuhong Liu et.al.|[2609.37530v1](http://arxiv.org/abs/2609.37530v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.37530)|
 |**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Xiangcheng Zhan et.al.|[2609.37398v1](http://arxiv.org/abs/2609.37398v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37398)|
-|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Yifan Kang et.al.|[2609.37359v1](http://arxiv.org/abs/2609.37359v1)|[link](https://github.com/YIFANK/encore)|[αX↑4](https://alphaxiv.org/abs/2609.37359)|
+|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Yifan Kang et.al.|[2609.37359v1](http://arxiv.org/abs/2609.37359v1)|[link](https://github.com/YIFANK/encore)|[αX↑6](https://alphaxiv.org/abs/2609.37359)|
 |**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Vincenzo Pomponi et.al.|[2609.37348v1](http://arxiv.org/abs/2609.37348v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37348)|
-|**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084v1](http://arxiv.org/abs/2609.37084v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37084)|
+|**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084v1](http://arxiv.org/abs/2609.37084v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37084)|
 |**2026-09-29**|**Beyond Token Importance: Preserving Spatial Scaffolds for Efficient Vision-Language-Action Inference**|Jiayu Chen et.al.|[2609.36967v1](http://arxiv.org/abs/2609.36967v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36967)|
 |**2026-09-29**|**ComManip: Overfitting Manipulation Policies to Comfortable Regions**|Yidan Lai et.al.|[2609.36928v1](http://arxiv.org/abs/2609.36928v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36928)|
-|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915v1](http://arxiv.org/abs/2609.36915v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36915)|
+|**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915v1](http://arxiv.org/abs/2609.36915v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.36915)|
 |**2026-09-29**|**TaRL: Learning General and Physical Rewards from Tactile Demonstrations**|Po-Yi Wu et.al.|[2609.36785v1](http://arxiv.org/abs/2609.36785v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.36785)|
 |**2026-09-29**|**DRHeC: Differentiable Rendering for Hand-Eye Calibration with RGB-Based Gradients**|Xiaotian Zhang et.al.|[2609.36779v1](http://arxiv.org/abs/2609.36779v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.36779)|
 |**2026-09-29**|**T $^2$ Mem: Learning Test-Time Memory for Robotics**|Yize Liu et.al.|[2609.36720v1](http://arxiv.org/abs/2609.36720v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36720)|
