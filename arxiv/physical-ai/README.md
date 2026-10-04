@@ -4,11 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑1](https://alphaxiv.org/abs/2610.01863)|
-|**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981v1](http://arxiv.org/abs/2610.00981v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.00981)|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑3](https://alphaxiv.org/abs/2610.01863)|
+|**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981v1](http://arxiv.org/abs/2610.00981v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.00981)|
 |**2026-10-01**|**Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models**|Jiawei Fan et.al.|[2610.00864v1](http://arxiv.org/abs/2610.00864v1)|[link](https://github.com/IntelChina-AI/K-MF)|[αX↑1](https://alphaxiv.org/abs/2610.00864)|
-|**2026-09-30**|**JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts**|Zheyuan Zhang et.al.|[2610.00722v1](http://arxiv.org/abs/2610.00722v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.00722)|
-|**2026-09-28**|**EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems**|Zhiheng Chen et.al.|[2610.00311v1](http://arxiv.org/abs/2610.00311v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.00311)|
+|**2026-09-30**|**JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts**|Zheyuan Zhang et.al.|[2610.00722v1](http://arxiv.org/abs/2610.00722v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.00722)|
+|**2026-09-28**|**EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems**|Zhiheng Chen et.al.|[2610.00311v1](http://arxiv.org/abs/2610.00311v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.00311)|
 |**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.39514)|
 |**2026-09-30**|**Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos**|Hangong Chen et.al.|[2609.38966v1](http://arxiv.org/abs/2609.38966v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38966)|
 |**2026-09-29**|**Exo2EgoHOI: Hand-Object-Interaction Aware Exocentric-to-Egocentric Video Generation**|Hongjia Zhai et.al.|[2609.38615v1](http://arxiv.org/abs/2609.38615v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.38615)|
@@ -21,7 +21,7 @@
 |**2026-09-29**|**CoRe-VLA: Preserving Cross-View Coordination in VLAs under Camera Shifts**|Tianhang Pan et.al.|[2609.37150v1](http://arxiv.org/abs/2609.37150v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.37150)|
 |**2026-09-29**|**All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping**|Yang Li et.al.|[2609.36889v1](http://arxiv.org/abs/2609.36889v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36889)|
 |**2026-09-29**|**IronLLM: Forging Compact Edge-Native Language Models for Real-Time Embodied Intelligence**|Changdi Yang et.al.|[2609.36860v1](http://arxiv.org/abs/2609.36860v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.36860)|
-|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36801)|
+|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36801)|
 |**2026-09-29**|**Simple Agentic Memory for Generalist Robot Policies**|Yuyou Zhang et.al.|[2609.36595v1](http://arxiv.org/abs/2609.36595v1)|[link](https://github.com/simplearm/SimpleARM)|[αX↑4](https://alphaxiv.org/abs/2609.36595)|
 |**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540v1](http://arxiv.org/abs/2609.36540v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.36540)|
 |**2026-09-28**|**Embodied Semantic Communication for Collective Autonomous Agents: A Tutorial on Representation, Wireless Delivery, and Closed-Loop Coordination**|Yizheng Huang et.al.|[2609.35936v1](http://arxiv.org/abs/2609.35936v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.35936)|
