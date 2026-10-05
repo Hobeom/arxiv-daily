@@ -1,9 +1,14 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.04
+### Updated on 2026.10.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-02**|**TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving**|Yang Chen et.al.|[2610.02825v1](http://arxiv.org/abs/2610.02825v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02825)|
+|**2026-10-02**|**Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving**|Luís Marques et.al.|[2610.02765v1](http://arxiv.org/abs/2610.02765v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02765)|
+|**2026-10-02**|**SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models**|Xi Ye et.al.|[2610.02726v1](http://arxiv.org/abs/2610.02726v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02726)|
+|**2026-10-02**|**GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation**|Yixuan Jiang et.al.|[2610.02697v1](http://arxiv.org/abs/2610.02697v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02697)|
+|**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513v1](http://arxiv.org/abs/2610.02513v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02513)|
 |**2026-10-01**|**Weather-Aware Domain Adaptation for Street-View Weather Recognition**|Hossein Maghsoumi et.al.|[2610.02000v1](http://arxiv.org/abs/2610.02000v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.02000)|
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905v1](http://arxiv.org/abs/2610.01905v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.01905)|
 |**2026-10-01**|**End-to-End Learning vs. Modular Architectures: Comparative Insights into Autonomous Driving Systems**|Kartik B. Kapse et.al.|[2610.01746v1](http://arxiv.org/abs/2610.01746v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.01746)|
@@ -23,13 +28,13 @@
 |**2026-09-29**|**Vision-Language-Action Autonomous Driving Agent with Language-based Memory**|Kai Yan et.al.|[2609.38641v1](http://arxiv.org/abs/2609.38641v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.38641)|
 |**2026-09-29**|**Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving**|Bruno Maciel Machado et.al.|[2609.38472v1](http://arxiv.org/abs/2609.38472v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.38472)|
 |**2026-09-29**|**TrafficSignBench: Rule-Centric Closed-Loop Evaluation of Traffic-Sign Compliance in Autonomous Driving**|Victoria Smirnova et.al.|[2609.38463v1](http://arxiv.org/abs/2609.38463v1)|[link](https://github.com/emb-ai/traffic-sign-bench)|[αX↑2](https://alphaxiv.org/abs/2609.38463)|
-|**2026-09-29**|**GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions**|Hongbo Wang et.al.|[2609.38285v1](http://arxiv.org/abs/2609.38285v1)|[link](https://github.com/wafer-bob/GaugeVLM)|[αX↑1](https://alphaxiv.org/abs/2609.38285)|
-|**2026-09-29**|**doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving**|Parthib Roy et.al.|[2609.38028v1](http://arxiv.org/abs/2609.38028v1)|[link](https://github.com/Mi3-Lab/doPlan)|[αX↑0](https://alphaxiv.org/abs/2609.38028)|
+|**2026-09-29**|**GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions**|Hongbo Wang et.al.|[2609.38285v1](http://arxiv.org/abs/2609.38285v1)|[link](https://github.com/wafer-bob/GaugeVLM)|[αX↑2](https://alphaxiv.org/abs/2609.38285)|
+|**2026-09-29**|**doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving**|Parthib Roy et.al.|[2609.38028v1](http://arxiv.org/abs/2609.38028v1)|[link](https://github.com/Mi3-Lab/doPlan)|[αX↑2](https://alphaxiv.org/abs/2609.38028)|
 |**2026-09-29**|**Brain-SAD: A Brain-Inspired Safe Autonomous Driving Control Framework with Dynamic Fear-Oriented Constraint on Dual-Policy**|Huan Rong et.al.|[2609.38016v1](http://arxiv.org/abs/2609.38016v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38016)|
 |**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Dhruv Parikh et.al.|[2609.37970v1](http://arxiv.org/abs/2609.37970v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.37970)|
-|**2026-09-29**|**ExceptionDrive: A Planning-Oriented Counterfactual Corner-Case Benchmark for Autonomous Driving**|Ziyi Luo et.al.|[2609.37871v1](http://arxiv.org/abs/2609.37871v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.37871)|
+|**2026-09-29**|**ExceptionDrive: A Planning-Oriented Counterfactual Corner-Case Benchmark for Autonomous Driving**|Ziyi Luo et.al.|[2609.37871v1](http://arxiv.org/abs/2609.37871v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37871)|
 |**2026-09-29**|**Learning from synthetic photorealistic raindrop for single image raindrop removal**|Zhixiang Hao et.al.|[2609.37870v1](http://arxiv.org/abs/2609.37870v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.37870)|
-|**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591v1](http://arxiv.org/abs/2609.37591v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.37591)|
+|**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591v1](http://arxiv.org/abs/2609.37591v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.37591)|
 |**2026-09-30**|**V2X-WAM: A Cooperative World Action Model for End-to-End Autonomous Driving**|Junwei You et.al.|[2609.37098v2](http://arxiv.org/abs/2609.37098v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.37098)|
 |**2026-09-29**|**Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving**|Katharina Winter et.al.|[2609.37046v1](http://arxiv.org/abs/2609.37046v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.37046)|
 |**2026-09-29**|**S4VY: Segment Anything in Feed-Forward 4D Visual Geometry**|Jingdong Zhang et.al.|[2609.36875v1](http://arxiv.org/abs/2609.36875v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.36875)|
@@ -48,19 +53,19 @@
 |**2026-09-27**|**MomWorld: Momentum-Aware Latent World Model for Long-Horizon Autonomous Driving**|Ziying Song et.al.|[2609.33737v1](http://arxiv.org/abs/2609.33737v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33737)|
 |**2026-09-27**|**ForeFly: A Dual-Horizon World Action Model for Aerial Vision-Language Navigation**|Kunhui Wang et.al.|[2609.33581v1](http://arxiv.org/abs/2609.33581v1)|[link](https://github.com/kunhuiW/ForeFly)|[αX↑5](https://alphaxiv.org/abs/2609.33581)|
 |**2026-09-27**|**VehDyn: A Driving World Model Benchmark for Vehicle Dynamics**|Tianyi Wang et.al.|[2609.33264v1](http://arxiv.org/abs/2609.33264v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33264)|
-|**2026-09-26**|**FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation**|Khang H. Nguyen et.al.|[2609.32855v1](http://arxiv.org/abs/2609.32855v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.32855)|
+|**2026-09-26**|**FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation**|Khang H. Nguyen et.al.|[2609.32855v1](http://arxiv.org/abs/2609.32855v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.32855)|
 |**2026-09-25**|**SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery**|Jiajun Jiang et.al.|[2609.31507v1](http://arxiv.org/abs/2609.31507v1)|[link](https://github.com/Eku127/SatNav)|[αX↑9](https://alphaxiv.org/abs/2609.31507)|
-|**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xijie Huang et.al.|[2609.30770v1](http://arxiv.org/abs/2609.30770v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.30770)|
-|**2026-09-25**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861v2](http://arxiv.org/abs/2609.29861v2)|null|[αX↑25](https://alphaxiv.org/abs/2609.29861)|
+|**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xijie Huang et.al.|[2609.30770v1](http://arxiv.org/abs/2609.30770v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.30770)|
+|**2026-09-25**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861v2](http://arxiv.org/abs/2609.29861v2)|null|[αX↑26](https://alphaxiv.org/abs/2609.29861)|
 |**2026-09-30**|**NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation**|Chuanlin Lan et.al.|[2609.27218v2](http://arxiv.org/abs/2609.27218v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.27218)|
 |**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408v1](http://arxiv.org/abs/2609.26408v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.26408)|
-|**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666v1](http://arxiv.org/abs/2609.25666v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.25666)|
-|**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576v1](http://arxiv.org/abs/2609.24576v1)|null|[αX↑11](https://alphaxiv.org/abs/2609.24576)|
-|**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526v2](http://arxiv.org/abs/2609.24526v2)|null|[αX↑19](https://alphaxiv.org/abs/2609.24526)|
+|**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666v1](http://arxiv.org/abs/2609.25666v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.25666)|
+|**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576v1](http://arxiv.org/abs/2609.24576v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.24576)|
+|**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526v2](http://arxiv.org/abs/2609.24526v2)|null|[αX↑20](https://alphaxiv.org/abs/2609.24526)|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189v1](http://arxiv.org/abs/2609.24189v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.24189)|
 |**2026-09-20**|**RiverVLN: Phase-Grounded Temporal Vision--Language Navigation for Unmanned Surface Vehicles**|Jieling Wu et.al.|[2609.23423v1](http://arxiv.org/abs/2609.23423v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23423)|
-|**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v2](http://arxiv.org/abs/2609.20388v2)|null|[αX↑9](https://alphaxiv.org/abs/2609.20388)|
-|**2026-09-16**|**AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation**|Quan-Dung Pham et.al.|[2609.18789v1](http://arxiv.org/abs/2609.18789v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.18789)|
+|**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v2](http://arxiv.org/abs/2609.20388v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.20388)|
+|**2026-09-16**|**AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation**|Quan-Dung Pham et.al.|[2609.18789v1](http://arxiv.org/abs/2609.18789v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.18789)|
 |**2026-09-22**|**GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation**|Kailing Li et.al.|[2609.18581v2](http://arxiv.org/abs/2609.18581v2)|null|[αX↑16](https://alphaxiv.org/abs/2609.18581)|
 |**2026-09-16**|**UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents**|Yonglin Tian et.al.|[2609.18326v1](http://arxiv.org/abs/2609.18326v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.18326)|
 
