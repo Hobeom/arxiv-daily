@@ -1,20 +1,38 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.05
+### Updated on 2026.10.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-02**|**Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models**|Yukiya Horiba et.al.|[2610.03498v1](http://arxiv.org/abs/2610.03498v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.03498)|
+|**2026-10-05**|**SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models**|Xiaodong Wang et.al.|[2610.06598v1](http://arxiv.org/abs/2610.06598v1)|[link](https://github.com/Wang-Xiaodong1899/SimForcing)|[αX↑0](https://alphaxiv.org/abs/2610.06598)|
+|**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jungho Kim et.al.|[2610.06469v1](http://arxiv.org/abs/2610.06469v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06469)|
+|**2026-10-05**|**VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models**|Jaemin Kim et.al.|[2610.06271v1](http://arxiv.org/abs/2610.06271v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06271)|
+|**2026-10-05**|**Arm-wise Compositional Generalization in Dual-Arm Vision-Language-Action Models**|Zaibin Zhang et.al.|[2610.06184v1](http://arxiv.org/abs/2610.06184v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06184)|
+|**2026-10-05**|**How (and How Not) to Use Data Augmentation in VLA Post-Training**|Bram Grooten et.al.|[2610.05994v1](http://arxiv.org/abs/2610.05994v1)|[link](https://github.com/bramgrooten/vla-augm)|[αX↑0](https://alphaxiv.org/abs/2610.05994)|
+|**2026-10-05**|**What the Guard Misses, the Robot Executes: Implied Harm in VLA Instructions**|Sripad Karne et.al.|[2610.05818v1](http://arxiv.org/abs/2610.05818v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05818)|
+|**2026-10-05**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Seonghoon Yu et.al.|[2610.05719v1](http://arxiv.org/abs/2610.05719v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05719)|
+|**2026-10-04**|**When Does Retrieval Help? A Study of In-Context Adaptation in Vision-Language-Action Models**|Zixuan Liu et.al.|[2610.05492v1](http://arxiv.org/abs/2610.05492v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05492)|
+|**2026-10-04**|**EvoMem-VLA: State-Evolution Memory for Long-Horizon Robot Manipulation**|Yuheng Na et.al.|[2610.05418v1](http://arxiv.org/abs/2610.05418v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05418)|
+|**2026-10-04**|**When and What to Prune? Stage-Aware Visual Token Pruning for Efficient VLA**|Tianjun Shi et.al.|[2610.05273v1](http://arxiv.org/abs/2610.05273v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05273)|
+|**2026-10-04**|**Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization**|Yifan Li et.al.|[2610.05230v1](http://arxiv.org/abs/2610.05230v1)|[link](https://github.com/Clementine24/Vela)|[αX↑0](https://alphaxiv.org/abs/2610.05230)|
+|**2026-10-04**|**Beyond LLM Serving: Characterizing Vision-Language-Action Workloads for Embodied AI System Design**|Seonghun Jung et.al.|[2610.05062v1](http://arxiv.org/abs/2610.05062v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05062)|
+|**2026-10-04**|**GeoBridge-VLA: Geometry-Aware Residual Adaptation for Vision-Language-Action Models**|Hyun Song et.al.|[2610.05026v1](http://arxiv.org/abs/2610.05026v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05026)|
+|**2026-10-04**|**Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA**|Hyemin Yang et.al.|[2610.05025v1](http://arxiv.org/abs/2610.05025v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05025)|
+|**2026-10-03**|**ExStereo: Lifting 2D Vision-Language-Action Models to 3D with Explicit Stereo Representations**|I-Chun Arthur Liu et.al.|[2610.04805v1](http://arxiv.org/abs/2610.04805v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.04805)|
+|**2026-10-03**|**PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training**|Mingyu Liu et.al.|[2610.04616v1](http://arxiv.org/abs/2610.04616v1)|[link](https://github.com/aim-uofa/PerturBot)|[αX↑0](https://alphaxiv.org/abs/2610.04616)|
+|**2026-10-03**|**Grounded in Time: A Multi-Source Dataset and Benchmark for Temporal Grounding in Robotic Manipulation**|Yi Wang et.al.|[2610.04255v1](http://arxiv.org/abs/2610.04255v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.04255)|
+|**2026-10-02**|**SUAVE: Unified Video-Action Models via Masked Diffusion**|Rhythm Syed et.al.|[2610.04009v1](http://arxiv.org/abs/2610.04009v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.04009)|
+|**2026-10-02**|**Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models**|Yukiya Horiba et.al.|[2610.03498v1](http://arxiv.org/abs/2610.03498v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.03498)|
 |**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Chenzhi Liu et.al.|[2610.03476v1](http://arxiv.org/abs/2610.03476v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.03476)|
-|**2026-10-02**|**MixVLA: Adaptive Mixing of Non-Invariant Information for Generalizable Vision-Language-Action Models**|Pingrui Zhang et.al.|[2610.02898v1](http://arxiv.org/abs/2610.02898v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02898)|
+|**2026-10-02**|**MixVLA: Adaptive Mixing of Non-Invariant Information for Generalizable Vision-Language-Action Models**|Pingrui Zhang et.al.|[2610.02898v1](http://arxiv.org/abs/2610.02898v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.02898)|
 |**2026-10-02**|**SARI: Phase-Split Sim-Real Co-Training for Contact-Rich Manipulation**|Xingxin He et.al.|[2610.02804v1](http://arxiv.org/abs/2610.02804v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02804)|
 |**2026-10-02**|**ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation**|Sangwu Park et.al.|[2610.02802v1](http://arxiv.org/abs/2610.02802v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02802)|
 |**2026-10-02**|**SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?**|Chen Yang et.al.|[2610.02784v1](http://arxiv.org/abs/2610.02784v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02784)|
 |**2026-10-02**|**CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation**|Jin Hyun et.al.|[2610.02666v1](http://arxiv.org/abs/2610.02666v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02666)|
-|**2026-10-02**|**Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination**|Shenglan Li et.al.|[2610.02626v1](http://arxiv.org/abs/2610.02626v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02626)|
+|**2026-10-02**|**Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination**|Shenglan Li et.al.|[2610.02626v1](http://arxiv.org/abs/2610.02626v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.02626)|
 |**2026-10-01**|**World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models**|Jie He et.al.|[2610.02323v1](http://arxiv.org/abs/2610.02323v1)|[link](https://github.com/JiuTian-VL/ProAct-page)|[αX↑0](https://alphaxiv.org/abs/2610.02323)|
 |**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161v1](http://arxiv.org/abs/2610.02161v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.02161)|
-|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054v1](http://arxiv.org/abs/2610.02054v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.02054)|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054v2](http://arxiv.org/abs/2610.02054v2)|null|[αX↑22](https://alphaxiv.org/abs/2610.02054)|
 |**2026-10-01**|**ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing**|Zhugang Liu et.al.|[2610.01856v1](http://arxiv.org/abs/2610.01856v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01856)|
 |**2026-10-01**|**Continuous Conditioning of VLAs with Augmenting EMG and Visual Task Descriptors**|Edward W. Staley et.al.|[2610.01794v1](http://arxiv.org/abs/2610.01794v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01794)|
 |**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Yijie Zhu et.al.|[2610.01741v1](http://arxiv.org/abs/2610.01741v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.01741)|
@@ -25,7 +43,7 @@
 |**2026-10-01**|**TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models**|Keisuke Shirai et.al.|[2610.00899v1](http://arxiv.org/abs/2610.00899v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.00899)|
 |**2026-09-30**|**MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation**|Egor Cherepanov et.al.|[2610.00604v1](http://arxiv.org/abs/2610.00604v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.00604)|
 |**2026-09-30**|**Same Scene, Different Task: Skill Alignment for Compositional Generalization in VLAs**|Taegeun Yang et.al.|[2610.00524v1](http://arxiv.org/abs/2610.00524v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.00524)|
-|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325v1](http://arxiv.org/abs/2609.40325v1)|[link](https://github.com/UCSB-NLP-Chang/WorldAuditBench)|[🤗👍99](https://huggingface.co/papers/2609.40325) [αX↑2](https://alphaxiv.org/abs/2609.40325)|
+|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325v1](http://arxiv.org/abs/2609.40325v1)|[link](https://github.com/UCSB-NLP-Chang/WorldAuditBench)|[🤗👍99](https://huggingface.co/papers/2609.40325) [αX↑3](https://alphaxiv.org/abs/2609.40325)|
 |**2026-10-02**|**Tactile Curiosity Drives Robot Interaction**|Klemens Iten et.al.|[2609.40134v2](http://arxiv.org/abs/2609.40134v2)|null|[αX↑22](https://alphaxiv.org/abs/2609.40134)|
 |**2026-09-30**|**When Instructions Retrieve Trajectories: Diagnosing and Mitigating Generalization Failures in VLA Models**|Hung-Jen Chen et.al.|[2609.39971v1](http://arxiv.org/abs/2609.39971v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.39971)|
 |**2026-09-30**|**Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation**|Di Wu et.al.|[2609.39822v1](http://arxiv.org/abs/2609.39822v1)|[link](https://github.com/MagiclabRobotics/Inference)|[αX↑6](https://alphaxiv.org/abs/2609.39822)|
@@ -33,7 +51,7 @@
 |**2026-09-30**|**Inline Memory Meets Reusable Skills: Memory-centric Framework for Vision-Language-Action Model**|Zaijing Li et.al.|[2609.39794v1](http://arxiv.org/abs/2609.39794v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.39794)|
 |**2026-09-30**|**From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation**|Weixiang Guo et.al.|[2609.39670v1](http://arxiv.org/abs/2609.39670v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.39670)|
 |**2026-09-30**|**Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts**|Jingbo Wang et.al.|[2609.39526v1](http://arxiv.org/abs/2609.39526v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.39526)|
-|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.39514)|
+|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.39514)|
 |**2026-09-30**|**IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining**|Huimin Pan et.al.|[2609.39403v1](http://arxiv.org/abs/2609.39403v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.39403)|
 |**2026-09-30**|**MotionWeave: Learning Motion-Centered Future Dynamics for Vision-Language-Action Policies**|Jingqiu Wang et.al.|[2609.39324v1](http://arxiv.org/abs/2609.39324v1)|[link](https://github.com/autu-mn/MotionWeave)|[αX↑2](https://alphaxiv.org/abs/2609.39324)|
 |**2026-09-30**|**DSDyn-VLA: A Dual-Stream Dynamic Manipulation Framework with Motion Perception, Future Awareness, and Realtime Correction**|Wenhao Li et.al.|[2609.39198v1](http://arxiv.org/abs/2609.39198v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.39198)|
