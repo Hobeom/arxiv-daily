@@ -1,9 +1,17 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.06
+### Updated on 2026.10.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Lei Yang et.al.|[2610.08573v1](http://arxiv.org/abs/2610.08573v1)|[link](https://github.com/yanglei18/Sparse2comm)|[αX↑0](https://alphaxiv.org/abs/2610.08573)|
+|**2026-10-06**|**Digital Twin-Driven Real2Sim2Real: Simulator-Conditioned Generation via Paired Driving-Scene Reconstruction**|Hojun Lim et.al.|[2610.08339v1](http://arxiv.org/abs/2610.08339v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08339)|
+|**2026-10-06**|**Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving**|Heyam Bin Jahlan Areej Alhothali Abeer Alhothali et.al.|[2610.08331v1](http://arxiv.org/abs/2610.08331v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08331)|
+|**2026-10-06**|**Mitigating Concept Drift in QoS Prediction for Teleoperation of Autonomous Vehicles Using Historic Data**|Xiyan Su et.al.|[2610.08297v1](http://arxiv.org/abs/2610.08297v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08297)|
+|**2026-10-06**|**Vector Map Quality Metrics for Contextual Autonomous Driving Systems**|Marie-Ngoïe Badibanga Kalenda et.al.|[2610.08043v1](http://arxiv.org/abs/2610.08043v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08043)|
+|**2026-10-06**|**From Laboratory to Road: Evaluating Wearable Gaze Accuracy for Driving**|William Engel et.al.|[2610.07783v1](http://arxiv.org/abs/2610.07783v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07783)|
+|**2026-10-05**|**GeoWM: Efficient Direct World Modeling in Explicit Geometry**|Mehrdad Noori et.al.|[2610.07381v1](http://arxiv.org/abs/2610.07381v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07381)|
+|**2026-10-05**|**Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot**|Chalindu Abeywansa et.al.|[2610.07192v1](http://arxiv.org/abs/2610.07192v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07192)|
 |**2026-10-05**|**Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems**|Rohan Mehra et.al.|[2610.06596v1](http://arxiv.org/abs/2610.06596v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06596)|
 |**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171v1](http://arxiv.org/abs/2610.06171v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06171)|
 |**2026-10-05**|**Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning**|Ling Yao et.al.|[2610.06121v1](http://arxiv.org/abs/2610.06121v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06121)|
@@ -20,13 +28,13 @@
 |**2026-10-02**|**SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models**|Xi Ye et.al.|[2610.02726v1](http://arxiv.org/abs/2610.02726v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.02726)|
 |**2026-10-02**|**GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation**|Yixuan Jiang et.al.|[2610.02697v1](http://arxiv.org/abs/2610.02697v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.02697)|
 |**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513v1](http://arxiv.org/abs/2610.02513v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.02513)|
-|**2026-10-01**|**Weather-Aware Domain Adaptation for Street-View Weather Recognition**|Hossein Maghsoumi et.al.|[2610.02000v1](http://arxiv.org/abs/2610.02000v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.02000)|
+|**2026-10-01**|**Weather-Aware Domain Adaptation for Street-View Weather Recognition**|Hossein Maghsoumi et.al.|[2610.02000v1](http://arxiv.org/abs/2610.02000v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.02000)|
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905v1](http://arxiv.org/abs/2610.01905v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.01905)|
 |**2026-10-01**|**End-to-End Learning vs. Modular Architectures: Comparative Insights into Autonomous Driving Systems**|Kartik B. Kapse et.al.|[2610.01746v1](http://arxiv.org/abs/2610.01746v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.01746)|
 |**2026-10-01**|**Towards Reliable Vision-Language Models for Autonomous Driving**|Manasa Mariam Mammen et.al.|[2610.01531v1](http://arxiv.org/abs/2610.01531v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.01531)|
 |**2026-10-01**|**Towards Subject Consistency over Dynamic Subject Sets in Video Generation**|Tongcheng Zhang et.al.|[2610.01052v1](http://arxiv.org/abs/2610.01052v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.01052)|
 |**2026-10-01**|**A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform**|Chengkai Xu et.al.|[2610.00926v1](http://arxiv.org/abs/2610.00926v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.00926)|
-|**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915v1](http://arxiv.org/abs/2609.39915v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.39915)|
+|**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915v1](http://arxiv.org/abs/2609.39915v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.39915)|
 |**2026-10-01**|**DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes**|Merav Keidar et.al.|[2609.39841v2](http://arxiv.org/abs/2609.39841v2)|[link](https://github.com/Dyrad-NVS/DyRAD)|[🤗👍40](https://huggingface.co/papers/2609.39841) [αX↑4](https://alphaxiv.org/abs/2609.39841)|
 |**2026-09-30**|**DiffWAM: A Fast and Efficient Navigation World Action Model**|Mo Zhu et.al.|[2609.39763v1](http://arxiv.org/abs/2609.39763v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.39763)|
 |**2026-09-30**|**GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives**|Qize Yu et.al.|[2609.39601v1](http://arxiv.org/abs/2609.39601v1)|[link](https://github.com/groundingpi/GroundingPI)|[αX↑18](https://alphaxiv.org/abs/2609.39601)|
@@ -34,7 +42,7 @@
 |**2026-09-30**|**Comparative study of adapting pre-trained models for driving behavior video captioning**|Sayak Mallick et.al.|[2609.39542v1](http://arxiv.org/abs/2609.39542v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.39542)|
 |**2026-09-30**|**DensePed-Lite: Quality-Aware Adaptive Detection for Dense Pedestrians under Occlusion**|ZiAn Wang et.al.|[2609.39467v1](http://arxiv.org/abs/2609.39467v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.39467)|
 |**2026-09-30**|**ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving**|Benshan Ma et.al.|[2609.39245v1](http://arxiv.org/abs/2609.39245v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.39245)|
-|**2026-09-30**|**ASENA: Self-evolving Agents for Embodied Navigation**|An-Chieh Cheng et.al.|[2609.39207v1](http://arxiv.org/abs/2609.39207v1)|null|[αX↑15](https://alphaxiv.org/abs/2609.39207)|
+|**2026-09-30**|**ASENA: Self-evolving Agents for Embodied Navigation**|An-Chieh Cheng et.al.|[2609.39207v1](http://arxiv.org/abs/2609.39207v1)|null|[αX↑19](https://alphaxiv.org/abs/2609.39207)|
 |**2026-09-30**|**Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving**|Chenglin Chen et.al.|[2609.38862v1](http://arxiv.org/abs/2609.38862v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38862)|
 |**2026-09-29**|**Vision-Language-Action Autonomous Driving Agent with Language-based Memory**|Kai Yan et.al.|[2609.38641v1](http://arxiv.org/abs/2609.38641v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.38641)|
 |**2026-09-29**|**Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving**|Bruno Maciel Machado et.al.|[2609.38472v1](http://arxiv.org/abs/2609.38472v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.38472)|
@@ -51,10 +59,10 @@
 |**2026-09-29**|**S4VY: Segment Anything in Feed-Forward 4D Visual Geometry**|Jingdong Zhang et.al.|[2609.36875v1](http://arxiv.org/abs/2609.36875v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.36875)|
 |**2026-09-30**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v2](http://arxiv.org/abs/2609.36851v2)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑3](https://alphaxiv.org/abs/2609.36851)|
 |**2026-09-29**|**World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving**|Jieyuan Pei et.al.|[2609.36438v1](http://arxiv.org/abs/2609.36438v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.36438)|
-|**2026-09-28**|**EdgeVLN: Runtime-Aware Deployment Ready Quantized Vision Language Navigation Model**|Rithvik Jonna et.al.|[2609.35570v1](http://arxiv.org/abs/2609.35570v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.35570)|
+|**2026-09-28**|**EdgeVLN: Runtime-Aware Deployment Ready Quantized Vision Language Navigation Model**|Rithvik Jonna et.al.|[2609.35570v1](http://arxiv.org/abs/2609.35570v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.35570)|
 |**2026-09-28**|**RefineDrive: Reliable Failure-Guided Learning for Vision-Language-Action Driving**|Zhe Sun et.al.|[2609.35078v1](http://arxiv.org/abs/2609.35078v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35078)|
 |**2026-09-28**|**NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory**|Kai Sheng et.al.|[2609.34969v1](http://arxiv.org/abs/2609.34969v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.34969)|
-|**2026-09-28**|**Multi-Scale Semantic Mapping in Urban Environments via Observation Calibration and Policy Dependence Regularization**|Runling Long et.al.|[2609.34833v1](http://arxiv.org/abs/2609.34833v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.34833)|
+|**2026-09-28**|**Multi-Scale Semantic Mapping in Urban Environments via Observation Calibration and Policy Dependence Regularization**|Runling Long et.al.|[2609.34833v1](http://arxiv.org/abs/2609.34833v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.34833)|
 |**2026-09-28**|**When the Score Becomes the Target: Rethinking Metric Validity in Autonomous Driving**|Morui Zhu et.al.|[2609.34440v1](http://arxiv.org/abs/2609.34440v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34440)|
 |**2026-09-29**|**CAR-VLA: Complexity-Aware and Risk-Adaptive Reasoning for Autonomous Driving**|Xiaolei Chen et.al.|[2609.34387v2](http://arxiv.org/abs/2609.34387v2)|[link](https://github.com/chenxl124578/CAR-VLA)|[αX↑3](https://alphaxiv.org/abs/2609.34387)|
 |**2026-09-28**|**NavHarness: Towards Lifelong Embodied Navigation**|Xunyi Zhao et.al.|[2609.34276v1](http://arxiv.org/abs/2609.34276v1)|[link](https://github.com/billzhao1030/NavHarness)|[🤗👍5](https://huggingface.co/papers/2609.34276) [αX↑17](https://alphaxiv.org/abs/2609.34276)|
@@ -62,7 +70,7 @@
 |**2026-09-28**|**AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving**|Haoran Zhu et.al.|[2609.34085v1](http://arxiv.org/abs/2609.34085v1)|null|[αX↑44](https://alphaxiv.org/abs/2609.34085)|
 |**2026-09-27**|**3D Point Tracking with State Space Models**|Masahiro Ogawa et.al.|[2609.34035v1](http://arxiv.org/abs/2609.34035v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34035)|
 |**2026-09-27**|**MomWorld: Momentum-Aware Latent World Model for Long-Horizon Autonomous Driving**|Ziying Song et.al.|[2609.33737v1](http://arxiv.org/abs/2609.33737v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33737)|
-|**2026-09-27**|**ForeFly: A Dual-Horizon World Action Model for Aerial Vision-Language Navigation**|Kunhui Wang et.al.|[2609.33581v1](http://arxiv.org/abs/2609.33581v1)|[link](https://github.com/kunhuiW/ForeFly)|[αX↑7](https://alphaxiv.org/abs/2609.33581)|
+|**2026-09-27**|**ForeFly: A Dual-Horizon World Action Model for Aerial Vision-Language Navigation**|Kunhui Wang et.al.|[2609.33581v1](http://arxiv.org/abs/2609.33581v1)|[link](https://github.com/kunhuiW/ForeFly)|[αX↑8](https://alphaxiv.org/abs/2609.33581)|
 |**2026-09-27**|**VehDyn: A Driving World Model Benchmark for Vehicle Dynamics**|Tianyi Wang et.al.|[2609.33264v1](http://arxiv.org/abs/2609.33264v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33264)|
 |**2026-09-26**|**FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation**|Khang H. Nguyen et.al.|[2609.32855v1](http://arxiv.org/abs/2609.32855v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.32855)|
 |**2026-09-25**|**SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery**|Jiajun Jiang et.al.|[2609.31507v1](http://arxiv.org/abs/2609.31507v1)|[link](https://github.com/Eku127/SatNav)|[αX↑10](https://alphaxiv.org/abs/2609.31507)|

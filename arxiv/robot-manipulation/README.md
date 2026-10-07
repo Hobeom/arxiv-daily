@@ -1,9 +1,33 @@
 ## Robot Manipulation
 
-### Updated on 2026.10.06
+### Updated on 2026.10.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780v1](http://arxiv.org/abs/2610.08780v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08780)|
+|**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|Maximilian Mühlbauer et.al.|[2610.08650v1](http://arxiv.org/abs/2610.08650v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08650)|
+|**2026-10-06**|**RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation**|Jing Xie et.al.|[2610.08640v1](http://arxiv.org/abs/2610.08640v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08640)|
+|**2026-10-06**|**Towards Efficient Robotic Manipulation Models with Self-Recursive Pruning**|Zijia Chen et.al.|[2610.08555v1](http://arxiv.org/abs/2610.08555v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08555)|
+|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526v1](http://arxiv.org/abs/2610.08526v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08526)|
+|**2026-10-06**|**MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback**|Jaeyoung Lee et.al.|[2610.08425v1](http://arxiv.org/abs/2610.08425v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08425)|
+|**2026-10-06**|**Post-Grasp Kinematic Repair for Robotic Insertion via Object-in-Gripper Reorientation**|Haegu Lee et.al.|[2610.08421v1](http://arxiv.org/abs/2610.08421v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08421)|
+|**2026-10-06**|**Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating**|Haozhuo Zhang et.al.|[2610.08320v1](http://arxiv.org/abs/2610.08320v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08320)|
+|**2026-10-05**|**HexaGripper: A Single-Actuator, Winch-Deployed Gripper for Autonomous Aerial Parcel Collection**|Nimantha Adikaram et.al.|[2610.08259v1](http://arxiv.org/abs/2610.08259v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08259)|
+|**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al.|[2610.08133v1](http://arxiv.org/abs/2610.08133v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08133)|
+|**2026-10-06**|**iGPC: Generative Motion Priors for Object-Aware Humanoid Interaction**|Anujith Muraleedharan et.al.|[2610.08120v1](http://arxiv.org/abs/2610.08120v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08120)|
+|**2026-10-06**|**AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions**|Sergei Kurchev et.al.|[2610.08119v1](http://arxiv.org/abs/2610.08119v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08119)|
+|**2026-10-06**|**Reactive Exploration of Unknown Environments for Redundant Robots using Virtual Model Control**|Alessio Canzolino et.al.|[2610.08110v1](http://arxiv.org/abs/2610.08110v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08110)|
+|**2026-10-06**|**IronMan: Information-Constrained Video-Action Learning for Robot Manipulation**|Yuanshuo Zhang et.al.|[2610.07961v1](http://arxiv.org/abs/2610.07961v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07961)|
+|**2026-10-06**|**Commit While Futures Agree: Consequence-Aware Adaptive Action Chunking for Robot Manipulation**|Yuyan Li et.al.|[2610.07949v1](http://arxiv.org/abs/2610.07949v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07949)|
+|**2026-10-06**|**PACE: Stage-Consistent Long-Horizon Robot Manipulation via Progress-Aligned Context for Execution**|Yenan Chen et.al.|[2610.07917v1](http://arxiv.org/abs/2610.07917v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07917)|
+|**2026-10-06**|**EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors**|Harsh Gupta et.al.|[2610.07681v1](http://arxiv.org/abs/2610.07681v1)|[link](https://github.com/hgupt3/eigendexplore)|[αX↑0](https://alphaxiv.org/abs/2610.07681)|
+|**2026-10-06**|**Learning Grasp Targeting from Point Clouds for Log Pile Clearing on a Hydraulic Crane**|George Sideris et.al.|[2610.07613v1](http://arxiv.org/abs/2610.07613v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07613)|
+|**2026-10-06**|**BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation**|Zexi Zhang et.al.|[2610.07594v1](http://arxiv.org/abs/2610.07594v1)|[link](https://github.com/swirl-uk/BiGym2)|[αX↑0](https://alphaxiv.org/abs/2610.07594)|
+|**2026-10-05**|**Task-Space Imitation Guidance for Efficient Reinforcement Learning**|Salar Asayesh et.al.|[2610.07527v1](http://arxiv.org/abs/2610.07527v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07527)|
+|**2026-10-05**|**ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction**|Jinzhou Li et.al.|[2610.07525v1](http://arxiv.org/abs/2610.07525v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07525)|
+|**2026-10-05**|**MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation**|Suzannah Wistreich et.al.|[2610.07511v1](http://arxiv.org/abs/2610.07511v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07511)|
+|**2026-10-05**|**SharedKV-BT: Node-Local Typed Decisions for Behavior-Tree Agents**|Naoki Wake et.al.|[2610.07327v1](http://arxiv.org/abs/2610.07327v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07327)|
+|**2026-10-05**|**Behavioral Cloning Mystery**|Seohong Park et.al.|[2610.07056v1](http://arxiv.org/abs/2610.07056v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07056)|
 |**2026-10-05**|**Recursive Video In-Context Learning for Agentic Robot**|Wenrui Bao et.al.|[2610.06843v1](http://arxiv.org/abs/2610.06843v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06843)|
 |**2026-10-05**|**Physics Residual Dynamics and Reduced Order Whole-Body Planning for Obstacle Aware Human Robot Cloth CoTransportation**|Moein Forouhar et.al.|[2610.06641v1](http://arxiv.org/abs/2610.06641v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06641)|
 |**2026-10-05**|**Towards Robust Prehensile Manipulation in Open-Ended Environments**|Mathilde Kappel et.al.|[2610.06376v1](http://arxiv.org/abs/2610.06376v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06376)|
@@ -101,7 +125,7 @@
 |**2026-09-30**|**Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving**|Chenglin Chen et.al.|[2609.38862v1](http://arxiv.org/abs/2609.38862v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38862)|
 |**2026-09-30**|**Online Evolution Strategy for Flow-Matching VLA Policies via Self-Supervised Trajectory Distribution Optimization**|Gongxin Yao et.al.|[2609.38855v1](http://arxiv.org/abs/2609.38855v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38855)|
 |**2026-09-29**|**Systematically Exploring the Capabilities of GPT-6 Astra as Embodied Policies**|Galbot Team et.al.|[2609.38537v1](http://arxiv.org/abs/2609.38537v1)|[link](https://github.com/anonymous-report-421/GPT-as-Policy)|[αX↑0](https://alphaxiv.org/abs/2609.38537)|
-|**2026-09-29**|**What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory**|Amir-Hossein Shahidzadeh et.al.|[2609.38494v1](http://arxiv.org/abs/2609.38494v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38494)|
+|**2026-09-29**|**What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory**|Amir-Hossein Shahidzadeh et.al.|[2609.38494v1](http://arxiv.org/abs/2609.38494v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.38494)|
 |**2026-09-29**|**CADeT: Causal-Aware Deformation Transmission for Indirect Robotic Manipulation of Soft Tissue**|Junlei Hu et.al.|[2609.38483v1](http://arxiv.org/abs/2609.38483v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38483)|
 |**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401v1](http://arxiv.org/abs/2609.38401v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.38401)|
 |**2026-09-28**|**A Two-Echelon Covering Tour Vehicle Routing Problem with Drones for Post-Disaster Relief**|Dang Viet Anh Nguyen et.al.|[2609.38227v1](http://arxiv.org/abs/2609.38227v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38227)|
@@ -131,14 +155,14 @@
 |**2026-09-29**|**HACo: Learning Haptic Active Compliance for Force-Aware Dexterous Manipulation**|Naisheng Ye et.al.|[2609.36596v1](http://arxiv.org/abs/2609.36596v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36596)|
 |**2026-09-29**|**Simple Agentic Memory for Generalist Robot Policies**|Yuyou Zhang et.al.|[2609.36595v1](http://arxiv.org/abs/2609.36595v1)|[link](https://github.com/simplearm/SimpleARM)|[αX↑0](https://alphaxiv.org/abs/2609.36595)|
 |**2026-09-29**|**Staircase Policy: Streaming Inference for World-Action Models with Large Action Chunks**|Guoheng Sun et.al.|[2609.36471v1](http://arxiv.org/abs/2609.36471v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36471)|
-|**2026-09-30**|**FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation**|Jade Choghari et.al.|[2609.36416v2](http://arxiv.org/abs/2609.36416v2)|[link](https://github.com/huggingface/lerobot)|[αX↑3](https://alphaxiv.org/abs/2609.36416)|
+|**2026-10-05**|**FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation**|Jade Choghari et.al.|[2609.36416v3](http://arxiv.org/abs/2609.36416v3)|[link](https://github.com/huggingface/lerobot)|[αX↑3](https://alphaxiv.org/abs/2609.36416)|
 |**2026-09-28**|**Design and Validation of an Antagonistic Tendon-Driven Dexterous Robotic Hand with Bidirectional Operation**|Chunghyeon Lee et.al.|[2609.36241v1](http://arxiv.org/abs/2609.36241v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36241)|
 |**2026-09-28**|**Test-Time Adaptation of Manipulation Policies Under Actuator Degradation**|Som Sagar et.al.|[2609.36182v1](http://arxiv.org/abs/2609.36182v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36182)|
 |**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.35715)|
 |**2026-09-28**|**Agent Priors-guided Policy Learning**|Puming Jiang et.al.|[2609.35690v1](http://arxiv.org/abs/2609.35690v1)|null|[αX↑55](https://alphaxiv.org/abs/2609.35690)|
 |**2026-09-28**|**Graph-Based Simultaneous Path and Foothold Planning for Multi-Limbed Intra-Vehicular Robots in Space Stations**|Masazumi Imai et.al.|[2609.35000v1](http://arxiv.org/abs/2609.35000v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.35000)|
 |**2026-09-28**|**Aerial GRIPPER: A Gradient-based Real-time Inverse-game Predictor and Planner**|Zeshuai Chen et.al.|[2609.34594v1](http://arxiv.org/abs/2609.34594v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.34594)|
-|**2026-09-28**|**Gaze Prompts: Temporally Dense Human Attention for Vision-Language-Action Fine-Tuning**|Yihan Zhou et.al.|[2609.34550v1](http://arxiv.org/abs/2609.34550v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.34550)|
+|**2026-09-28**|**Gaze Prompts: Temporally Dense Human Attention for Vision-Language-Action Fine-Tuning**|Yihan Zhou et.al.|[2609.34550v1](http://arxiv.org/abs/2609.34550v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.34550)|
 |**2026-09-28**|**AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving**|Haoran Zhu et.al.|[2609.34085v1](http://arxiv.org/abs/2609.34085v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.34085)|
 |**2026-09-27**|**ZeroBot: Learning from Scratch in Minutes with Generative Real2Sim**|Ivan Kapelyukh et.al.|[2609.34010v1](http://arxiv.org/abs/2609.34010v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.34010)|
 |**2026-09-26**|**PF-RL: Progress Field Reinforcement Learning via Goal-Conditioned Value Geometry for Vision-Language-Action Models**|Yunpeng Qing et.al.|[2609.32634v1](http://arxiv.org/abs/2609.32634v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.32634)|

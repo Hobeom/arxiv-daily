@@ -1,9 +1,19 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.06
+### Updated on 2026.10.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-06**|**RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins**|Dicong Qiu et.al.|[2610.08684v1](http://arxiv.org/abs/2610.08684v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08684)|
+|**2026-10-06**|**Micro Neural Policies for Safe Real-Time Robotic Control**|Hongpeng Cao et.al.|[2610.08541v1](http://arxiv.org/abs/2610.08541v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08541)|
+|**2026-10-06**|**Federated Bayesian Surveillance of Mechanical Thrombectomy Adverse Events: A Population Risk Layer for Surgical Digital Twins**|Damini Rijhwani et.al.|[2610.08464v1](http://arxiv.org/abs/2610.08464v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08464)|
+|**2026-10-06**|**Digital Twin-Driven Real2Sim2Real: Simulator-Conditioned Generation via Paired Driving-Scene Reconstruction**|Hojun Lim et.al.|[2610.08339v1](http://arxiv.org/abs/2610.08339v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08339)|
+|**2026-10-06**|**EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors**|Harsh Gupta et.al.|[2610.07681v1](http://arxiv.org/abs/2610.07681v1)|[link](https://github.com/hgupt3/eigendexplore)|[αX↑0](https://alphaxiv.org/abs/2610.07681)|
+|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07652)|
+|**2026-10-05**|**ReDex: Repairing Sim-to-Real Dexterous Policies by Finger-Level Compliant Interaction**|Jinzhou Li et.al.|[2610.07525v1](http://arxiv.org/abs/2610.07525v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07525)|
+|**2026-10-05**|**Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot**|Chalindu Abeywansa et.al.|[2610.07192v1](http://arxiv.org/abs/2610.07192v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07192)|
+|**2026-10-05**|**AIM: Adaptive Interaction Modeling Networks for Real-to-Sim Soft-Body Simulation**|Tiancheng Yang et.al.|[2610.07116v1](http://arxiv.org/abs/2610.07116v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07116)|
+|**2026-10-05**|**Demo: Vision-Language Model-Guided Online Calibration of an Electromagnetic Digital Twin**|Zerui Kang et.al.|[2610.07081v1](http://arxiv.org/abs/2610.07081v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07081)|
 |**2026-10-05**|**Dual Variational Autoencoders for Efficient Sim-to-Real Transfer in Low-Cost Robotic Navigation**|Álvaro Díez et.al.|[2610.06327v1](http://arxiv.org/abs/2610.06327v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06327)|
 |**2026-10-05**|**APOD: reasoning-guided agentic population ordinary differential equation discovery for pharmacological digital twins**|Romain Ferrara et.al.|[2610.06227v1](http://arxiv.org/abs/2610.06227v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06227)|
 |**2026-10-04**|**Robust Surgical Robotic Instrument Tracking via Sequential Multi-Cue Fusion and Sim-to-Real Self-Training**|Hanyang Hu et.al.|[2610.05491v1](http://arxiv.org/abs/2610.05491v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.05491)|
@@ -23,18 +33,18 @@
 |**2026-10-01**|**BLT*: Informed Belief Localization Trees for Uncertainty-Aware Planning on Digital Twins**|Elliot Preston-Krebs et.al.|[2610.01972v1](http://arxiv.org/abs/2610.01972v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.01972)|
 |**2026-10-02**|**TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering**|Yitao Zhang et.al.|[2610.01943v2](http://arxiv.org/abs/2610.01943v2)|null|[αX↑2](https://alphaxiv.org/abs/2610.01943)|
 |**2026-10-01**|**From Pixels to Policy: A Multi-Agent System for Intervention and Geo-Spatial Decision Support**|Hosam Elgendy et.al.|[2610.01870v1](http://arxiv.org/abs/2610.01870v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01870)|
-|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑6](https://alphaxiv.org/abs/2610.01863)|
-|**2026-10-01**|**Continue, Abort, or Fall: Viability-Aware Policy Selection (VAPS) for Safe Humanoid Acrobatics**|Siwei Ju et.al.|[2610.01397v1](http://arxiv.org/abs/2610.01397v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.01397)|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑9](https://alphaxiv.org/abs/2610.01863)|
+|**2026-10-01**|**Continue, Abort, or Fall: Viability-Aware Policy Selection (VAPS) for Safe Humanoid Acrobatics**|Siwei Ju et.al.|[2610.01397v1](http://arxiv.org/abs/2610.01397v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.01397)|
 |**2026-10-01**|**ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot**|Jian Hu et.al.|[2610.01258v1](http://arxiv.org/abs/2610.01258v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01258)|
-|**2026-10-01**|**EIDA: Execution-Interface Dynamics Adaptation for Real-to-Sim-to-Real Robot Navigation**|Yiwei Qian et.al.|[2610.01219v1](http://arxiv.org/abs/2610.01219v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01219)|
-|**2026-10-01**|**Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation**|Isabella Liu et.al.|[2610.01178v1](http://arxiv.org/abs/2610.01178v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.01178)|
+|**2026-10-01**|**EIDA: Execution-Interface Dynamics Adaptation for Real-to-Sim-to-Real Robot Navigation**|Yiwei Qian et.al.|[2610.01219v1](http://arxiv.org/abs/2610.01219v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.01219)|
+|**2026-10-01**|**Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation**|Isabella Liu et.al.|[2610.01178v1](http://arxiv.org/abs/2610.01178v1)|null|[αX↑17](https://alphaxiv.org/abs/2610.01178)|
 |**2026-09-30**|**Crossing the Cyber Divide: Sim-to-Sim and Sim-to-Real Transfer for RL Agents**|Sabrina Saika et.al.|[2610.00759v1](http://arxiv.org/abs/2610.00759v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.00759)|
 |**2026-10-02**|**Measuring Asset and Scene Reconstruction Effects in Real-to-Sim Robot Evaluation**|Sanya Verma et.al.|[2610.00731v2](http://arxiv.org/abs/2610.00731v2)|[link](https://github.com/Kaedim/yam-sim-harness-oss)|[αX↑1](https://alphaxiv.org/abs/2610.00731)|
-|**2026-09-30**|**Do Better Scores Mean Better Physics? Physics-Grounded Explanations for Sim2Real Neural Operators**|Somyajit Chakraborty et.al.|[2610.00415v1](http://arxiv.org/abs/2610.00415v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.00415)|
+|**2026-09-30**|**Do Better Scores Mean Better Physics? Physics-Grounded Explanations for Sim2Real Neural Operators**|Somyajit Chakraborty et.al.|[2610.00415v1](http://arxiv.org/abs/2610.00415v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.00415)|
 |**2026-09-30**|**Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models**|Kowndinya Boyalakuntla et.al.|[2609.39751v1](http://arxiv.org/abs/2609.39751v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.39751)|
 |**2026-09-30**|**OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion**|Ziheng Xu et.al.|[2609.39017v1](http://arxiv.org/abs/2609.39017v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.39017)|
-|**2026-10-03**|**EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation**|Haoran Lang et.al.|[2609.38905v3](http://arxiv.org/abs/2609.38905v3)|null|[αX↑10](https://alphaxiv.org/abs/2609.38905)|
-|**2026-09-30**|**Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter**|Kowndinya Boyalakuntla et.al.|[2609.38857v1](http://arxiv.org/abs/2609.38857v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38857)|
+|**2026-10-03**|**EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation**|Haoran Lang et.al.|[2609.38905v3](http://arxiv.org/abs/2609.38905v3)|null|[αX↑13](https://alphaxiv.org/abs/2609.38905)|
+|**2026-09-30**|**Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter**|Kowndinya Boyalakuntla et.al.|[2609.38857v1](http://arxiv.org/abs/2609.38857v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38857)|
 |**2026-09-29**|**Drone Soccer: Learning to Manipulate with Multicopter Downwash**|Neelay Joglekar et.al.|[2609.38588v1](http://arxiv.org/abs/2609.38588v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38588)|
 |**2026-09-29**|**Curating Synthetic Data for Task-Specific Visual Perception**|Saptarshi Neil Sinha et.al.|[2609.38476v1](http://arxiv.org/abs/2609.38476v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.38476)|
 |**2026-09-29**|**PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation**|Shaohong Zhong et.al.|[2609.38418v1](http://arxiv.org/abs/2609.38418v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.38418)|
@@ -49,7 +59,7 @@
 |**2026-09-29**|**All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control**|Liam Maloney et.al.|[2609.36993v1](http://arxiv.org/abs/2609.36993v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.36993)|
 |**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Hang Li et.al.|[2609.36870v1](http://arxiv.org/abs/2609.36870v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36870)|
 |**2026-09-30**|**RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts**|Hongbin Lin et.al.|[2609.36851v2](http://arxiv.org/abs/2609.36851v2)|[link](https://github.com/Hongbin98/RoXDrive)|[αX↑9](https://alphaxiv.org/abs/2609.36851)|
-|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36801)|
+|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.36801)|
 |**2026-09-29**|**Distilling Privileged Control Barrier Functions into RGB-Only Safety Filters for Dynamic Visual Navigation**|Seungyeon Yoo et.al.|[2609.36520v1](http://arxiv.org/abs/2609.36520v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.36520)|
 |**2026-09-29**|**DQ-MPCC: Dual-Quaternion MPCC for Quadrotor Racing**|Bryan S. Guevara et.al.|[2609.36482v1](http://arxiv.org/abs/2609.36482v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.36482)|
 |**2026-09-28**|**ChronoSRL: Temporal Geometry for Self-Supervised Reinforcement Learning**|Nico Bohlinger et.al.|[2609.36238v1](http://arxiv.org/abs/2609.36238v1)|[link](https://github.com/nico-bohlinger/chronosrl)|[αX↑2](https://alphaxiv.org/abs/2609.36238)|

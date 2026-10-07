@@ -1,9 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.06
+### Updated on 2026.10.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526v1](http://arxiv.org/abs/2610.08526v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08526)|
+|**2026-10-06**|**ViDAL: A Visual Dynamics-Grounded Action Latent Space for Vision-Language-Action Models**|Yuan Xu et.al.|[2610.08150v1](http://arxiv.org/abs/2610.08150v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08150)|
+|**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al.|[2610.08133v1](http://arxiv.org/abs/2610.08133v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08133)|
+|**2026-10-06**|**Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution**|Ahin Lee et.al.|[2610.07946v1](http://arxiv.org/abs/2610.07946v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07946)|
+|**2026-10-06**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756v1](http://arxiv.org/abs/2610.07756v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07756)|
+|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07652)|
+|**2026-10-06**|**Seeing the Invisible: Physics-Guided Visual Prompting for Temperature- and Radiation-Aware VLA Navigation**|Hojoon Son et.al.|[2610.07558v1](http://arxiv.org/abs/2610.07558v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07558)|
+|**2026-10-05**|**PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence**|Dheeraj Varghese et.al.|[2610.07127v1](http://arxiv.org/abs/2610.07127v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07127)|
+|**2026-10-04**|**ProactiveVLA: Augmenting Embodied Memory through Proactive Environment Exploration**|Shizuo Tian et.al.|[2610.06999v1](http://arxiv.org/abs/2610.06999v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06999)|
+|**2026-10-03**|**SWAP: Stepwise Action Policy Routing for Vision-Language-Action Models**|Mousumi Das et.al.|[2610.06926v1](http://arxiv.org/abs/2610.06926v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06926)|
 |**2026-10-05**|**SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models**|Xiaodong Wang et.al.|[2610.06598v1](http://arxiv.org/abs/2610.06598v1)|[link](https://github.com/Wang-Xiaodong1899/SimForcing)|[αX↑0](https://alphaxiv.org/abs/2610.06598)|
 |**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jungho Kim et.al.|[2610.06469v1](http://arxiv.org/abs/2610.06469v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06469)|
 |**2026-10-05**|**VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models**|Jaemin Kim et.al.|[2610.06271v1](http://arxiv.org/abs/2610.06271v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06271)|
@@ -31,8 +41,8 @@
 |**2026-10-02**|**CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation**|Jin Hyun et.al.|[2610.02666v1](http://arxiv.org/abs/2610.02666v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02666)|
 |**2026-10-02**|**Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination**|Shenglan Li et.al.|[2610.02626v1](http://arxiv.org/abs/2610.02626v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.02626)|
 |**2026-10-01**|**World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models**|Jie He et.al.|[2610.02323v1](http://arxiv.org/abs/2610.02323v1)|[link](https://github.com/JiuTian-VL/ProAct-page)|[αX↑0](https://alphaxiv.org/abs/2610.02323)|
-|**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161v1](http://arxiv.org/abs/2610.02161v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.02161)|
-|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054v2](http://arxiv.org/abs/2610.02054v2)|null|[αX↑22](https://alphaxiv.org/abs/2610.02054)|
+|**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161v1](http://arxiv.org/abs/2610.02161v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.02161)|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054v2](http://arxiv.org/abs/2610.02054v2)|null|[αX↑28](https://alphaxiv.org/abs/2610.02054)|
 |**2026-10-01**|**ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing**|Zhugang Liu et.al.|[2610.01856v1](http://arxiv.org/abs/2610.01856v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01856)|
 |**2026-10-01**|**Continuous Conditioning of VLAs with Augmenting EMG and Visual Task Descriptors**|Edward W. Staley et.al.|[2610.01794v1](http://arxiv.org/abs/2610.01794v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.01794)|
 |**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Yijie Zhu et.al.|[2610.01741v1](http://arxiv.org/abs/2610.01741v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.01741)|
