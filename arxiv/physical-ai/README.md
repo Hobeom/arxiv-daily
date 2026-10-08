@@ -1,24 +1,30 @@
 ## Physical AI
 
-### Updated on 2026.10.07
+### Updated on 2026.10.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791v1](http://arxiv.org/abs/2610.08791v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08791)|
-|**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720v1](http://arxiv.org/abs/2610.08720v1)|[link](https://github.com/sirujiang/WorldSolver)|[αX↑0](https://alphaxiv.org/abs/2610.08720)|
-|**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220v1](http://arxiv.org/abs/2610.08220v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08220)|
+|**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Python Song et.al.|[2610.10498v1](http://arxiv.org/abs/2610.10498v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.10498)|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270v1](http://arxiv.org/abs/2610.10270v1)|[link](https://github.com/Haodong-Yan/VPP2-project)|[αX↑0](https://alphaxiv.org/abs/2610.10270)|
+|**2026-10-07**|**Benchmarking Behavioral Steerability in Behavior Foundation Models**|Minghe Gao et.al.|[2610.10198v1](http://arxiv.org/abs/2610.10198v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.10198)|
+|**2026-10-07**|**Artificial intelligence pathways from weather to climate**|Tom Beucler et.al.|[2610.09770v1](http://arxiv.org/abs/2610.09770v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09770)|
+|**2026-10-07**|**Kuration SDK: Addressing the Virtual2Real Gap via Data Curation**|Nirmit Desai et.al.|[2610.09305v1](http://arxiv.org/abs/2610.09305v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09305)|
+|**2026-10-07**|**LeCuration: A Tiny World Model as a Data Curation Multi-Tool**|Mayank Sengupta et.al.|[2610.09285v1](http://arxiv.org/abs/2610.09285v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09285)|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791v1](http://arxiv.org/abs/2610.08791v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.08791)|
+|**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720v1](http://arxiv.org/abs/2610.08720v1)|[link](https://github.com/sirujiang/WorldSolver)|[αX↑1](https://alphaxiv.org/abs/2610.08720)|
+|**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220v1](http://arxiv.org/abs/2610.08220v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.08220)|
 |**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068v1](http://arxiv.org/abs/2610.08068v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08068)|
 |**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982v1](http://arxiv.org/abs/2610.07982v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07982)|
-|**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Yikai Qin et.al.|[2610.07969v1](http://arxiv.org/abs/2610.07969v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07969)|
-|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07652)|
-|**2026-10-06**|**PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation**|Yu Zhang et.al.|[2610.07609v1](http://arxiv.org/abs/2610.07609v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07609)|
-|**2026-10-05**|**Toward Trustworthy Physical AI for Human Interaction**|Niccolò Pagliarani et.al.|[2610.07382v1](http://arxiv.org/abs/2610.07382v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07382)|
+|**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Yikai Qin et.al.|[2610.07969v1](http://arxiv.org/abs/2610.07969v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.07969)|
+|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07652)|
+|**2026-10-06**|**PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation**|Yu Zhang et.al.|[2610.07609v1](http://arxiv.org/abs/2610.07609v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07609)|
+|**2026-10-05**|**Toward Trustworthy Physical AI for Human Interaction**|Niccolò Pagliarani et.al.|[2610.07382v1](http://arxiv.org/abs/2610.07382v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.07382)|
 |**2026-10-05**|**Is this machine playing?**|Nathan Cloos et.al.|[2610.07130v1](http://arxiv.org/abs/2610.07130v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07130)|
 |**2026-10-05**|**Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI**|Christopher Leet et.al.|[2610.06306v1](http://arxiv.org/abs/2610.06306v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06306)|
 |**2026-10-04**|**When Does Retrieval Help? A Study of In-Context Adaptation in Vision-Language-Action Models**|Zixuan Liu et.al.|[2610.05492v1](http://arxiv.org/abs/2610.05492v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.05492)|
 |**2026-10-04**|**Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization**|Yifan Li et.al.|[2610.05230v1](http://arxiv.org/abs/2610.05230v1)|[link](https://github.com/Clementine24/Vela)|[αX↑2](https://alphaxiv.org/abs/2610.05230)|
 |**2026-10-04**|**Beyond LLM Serving: Characterizing Vision-Language-Action Workloads for Embodied AI System Design**|Seonghun Jung et.al.|[2610.05062v1](http://arxiv.org/abs/2610.05062v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.05062)|
-|**2026-10-03**|**RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies**|Jiuzhou Lei et.al.|[2610.04681v1](http://arxiv.org/abs/2610.04681v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.04681)|
+|**2026-10-06**|**RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies**|Jiuzhou Lei et.al.|[2610.04681v2](http://arxiv.org/abs/2610.04681v2)|null|[αX↑0](https://alphaxiv.org/abs/2610.04681)|
 |**2026-10-03**|**EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI**|Kabir Swain et.al.|[2610.04301v1](http://arxiv.org/abs/2610.04301v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.04301)|
 |**2026-09-27**|**BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables**|Siyu Gan et.al.|[2610.03759v1](http://arxiv.org/abs/2610.03759v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.03759)|
 |**2026-10-02**|**Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models**|Jaron Fontaine et.al.|[2610.03139v1](http://arxiv.org/abs/2610.03139v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.03139)|
@@ -27,11 +33,11 @@
 |**2026-10-02**|**A Token Service Interface for AI-Native RANs**|Jianan Zhang et.al.|[2610.02618v1](http://arxiv.org/abs/2610.02618v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.02618)|
 |**2026-10-01**|**Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces**|Yuxing Wang et.al.|[2610.02580v1](http://arxiv.org/abs/2610.02580v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.02580)|
 |**2026-10-01**|**Joint Movement and Compression Ratio Design for Mobile Embodied AI Networks (MEAN)**|Yahao Ding et.al.|[2610.02334v1](http://arxiv.org/abs/2610.02334v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.02334)|
-|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑9](https://alphaxiv.org/abs/2610.01863)|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863v1](http://arxiv.org/abs/2610.01863v1)|[link](https://github.com/LiteReality/LiteReality-Agent/)|[αX↑11](https://alphaxiv.org/abs/2610.01863)|
 |**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981v1](http://arxiv.org/abs/2610.00981v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.00981)|
-|**2026-10-01**|**Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models**|Jiawei Fan et.al.|[2610.00864v1](http://arxiv.org/abs/2610.00864v1)|[link](https://github.com/IntelChina-AI/K-MF)|[αX↑4](https://alphaxiv.org/abs/2610.00864)|
-|**2026-09-30**|**JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts**|Zheyuan Zhang et.al.|[2610.00722v1](http://arxiv.org/abs/2610.00722v1)|null|[🤗👍2](https://huggingface.co/papers/2610.00722) [αX↑43](https://alphaxiv.org/abs/2610.00722)|
-|**2026-09-28**|**EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems**|Zhiheng Chen et.al.|[2610.00311v1](http://arxiv.org/abs/2610.00311v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.00311)|
+|**2026-10-01**|**Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models**|Jiawei Fan et.al.|[2610.00864v1](http://arxiv.org/abs/2610.00864v1)|[link](https://github.com/IntelChina-AI/K-MF)|[αX↑5](https://alphaxiv.org/abs/2610.00864)|
+|**2026-09-30**|**JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts**|Zheyuan Zhang et.al.|[2610.00722v1](http://arxiv.org/abs/2610.00722v1)|null|[🤗👍2](https://huggingface.co/papers/2610.00722) [αX↑46](https://alphaxiv.org/abs/2610.00722)|
+|**2026-09-28**|**EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems**|Zhiheng Chen et.al.|[2610.00311v1](http://arxiv.org/abs/2610.00311v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.00311)|
 |**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.39514)|
 |**2026-09-30**|**Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos**|Hangong Chen et.al.|[2609.38966v1](http://arxiv.org/abs/2609.38966v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38966)|
 |**2026-09-29**|**Exo2EgoHOI: Hand-Object-Interaction Aware Exocentric-to-Egocentric Video Generation**|Hongjia Zhai et.al.|[2609.38615v1](http://arxiv.org/abs/2609.38615v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.38615)|
@@ -44,7 +50,7 @@
 |**2026-09-29**|**CoRe-VLA: Preserving Cross-View Coordination in VLAs under Camera Shifts**|Tianhang Pan et.al.|[2609.37150v1](http://arxiv.org/abs/2609.37150v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.37150)|
 |**2026-09-29**|**All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping**|Yang Li et.al.|[2609.36889v1](http://arxiv.org/abs/2609.36889v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.36889)|
 |**2026-09-29**|**IronLLM: Forging Compact Edge-Native Language Models for Real-Time Embodied Intelligence**|Changdi Yang et.al.|[2609.36860v1](http://arxiv.org/abs/2609.36860v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.36860)|
-|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.36801)|
+|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801v1](http://arxiv.org/abs/2609.36801v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.36801)|
 |**2026-09-29**|**Simple Agentic Memory for Generalist Robot Policies**|Yuyou Zhang et.al.|[2609.36595v1](http://arxiv.org/abs/2609.36595v1)|[link](https://github.com/simplearm/SimpleARM)|[αX↑7](https://alphaxiv.org/abs/2609.36595)|
 |**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540v1](http://arxiv.org/abs/2609.36540v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.36540)|
 |**2026-09-28**|**Embodied Semantic Communication for Collective Autonomous Agents: A Tutorial on Representation, Wireless Delivery, and Closed-Loop Coordination**|Yizheng Huang et.al.|[2609.35936v1](http://arxiv.org/abs/2609.35936v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.35936)|

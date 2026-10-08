@@ -1,19 +1,31 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.07
+### Updated on 2026.10.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526v1](http://arxiv.org/abs/2610.08526v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08526)|
+|**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Mikey Watts et.al.|[2610.10526v1](http://arxiv.org/abs/2610.10526v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.10526)|
+|**2026-10-07**|**Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving**|Xingtai Gui et.al.|[2610.10390v1](http://arxiv.org/abs/2610.10390v1)|[link](https://github.com/TabGuigui/GeoCoTDrive)|[αX↑0](https://alphaxiv.org/abs/2610.10390)|
+|**2026-10-07**|**OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework**|Yifan Wu et.al.|[2610.10384v1](http://arxiv.org/abs/2610.10384v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.10384)|
+|**2026-10-07**|**Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding**|Theodor Wulff et.al.|[2610.10178v1](http://arxiv.org/abs/2610.10178v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.10178)|
+|**2026-10-07**|**Juno: Taming Predictive Latents for Vision-Language-Action Models**|Yuchen Zhu et.al.|[2610.09940v1](http://arxiv.org/abs/2610.09940v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09940)|
+|**2026-10-07**|**YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding**|Masatoshi Tateno et.al.|[2610.09718v1](http://arxiv.org/abs/2610.09718v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09718)|
+|**2026-10-07**|**SpikingVLA: Asynchronous Spiking Vision-Language-Action Models**|Jingya Wang et.al.|[2610.09710v1](http://arxiv.org/abs/2610.09710v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09710)|
+|**2026-10-07**|**Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models**|Jiho Lee et.al.|[2610.09496v1](http://arxiv.org/abs/2610.09496v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09496)|
+|**2026-10-07**|**TempoBridge: Language-Guided Tempo Control for Vision-Language-Action Policies**|Yeonseo Lee et.al.|[2610.09451v1](http://arxiv.org/abs/2610.09451v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09451)|
+|**2026-10-06**|**Beyond Reconstruction: What Matters in Action Tokenization for Robot Policies?**|Haoran Chen et.al.|[2610.09170v1](http://arxiv.org/abs/2610.09170v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.09170)|
+|**2026-10-06**|**PAIR: Bridging Perception and Action in Vision-Language-Action Models**|Kaixi Feng et.al.|[2610.09016v1](http://arxiv.org/abs/2610.09016v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.09016)|
+|**2026-10-06**|**CARE: Certifying Acceleration for Vision-Language-Action Inference**|Rui Liu et.al.|[2610.08917v1](http://arxiv.org/abs/2610.08917v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08917)|
+|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526v1](http://arxiv.org/abs/2610.08526v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.08526)|
 |**2026-10-06**|**ViDAL: A Visual Dynamics-Grounded Action Latent Space for Vision-Language-Action Models**|Yuan Xu et.al.|[2610.08150v1](http://arxiv.org/abs/2610.08150v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08150)|
 |**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al.|[2610.08133v1](http://arxiv.org/abs/2610.08133v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.08133)|
 |**2026-10-06**|**Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution**|Ahin Lee et.al.|[2610.07946v1](http://arxiv.org/abs/2610.07946v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07946)|
-|**2026-10-06**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756v1](http://arxiv.org/abs/2610.07756v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07756)|
-|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07652)|
-|**2026-10-06**|**Seeing the Invisible: Physics-Guided Visual Prompting for Temperature- and Radiation-Aware VLA Navigation**|Hojoon Son et.al.|[2610.07558v1](http://arxiv.org/abs/2610.07558v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07558)|
-|**2026-10-05**|**PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence**|Dheeraj Varghese et.al.|[2610.07127v1](http://arxiv.org/abs/2610.07127v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.07127)|
+|**2026-10-06**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756v1](http://arxiv.org/abs/2610.07756v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07756)|
+|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07652)|
+|**2026-10-06**|**Seeing the Invisible: Physics-Guided Visual Prompting for Temperature- and Radiation-Aware VLA Navigation**|Hojoon Son et.al.|[2610.07558v1](http://arxiv.org/abs/2610.07558v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07558)|
+|**2026-10-05**|**PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence**|Dheeraj Varghese et.al.|[2610.07127v1](http://arxiv.org/abs/2610.07127v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.07127)|
 |**2026-10-04**|**ProactiveVLA: Augmenting Embodied Memory through Proactive Environment Exploration**|Shizuo Tian et.al.|[2610.06999v1](http://arxiv.org/abs/2610.06999v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06999)|
-|**2026-10-03**|**SWAP: Stepwise Action Policy Routing for Vision-Language-Action Models**|Mousumi Das et.al.|[2610.06926v1](http://arxiv.org/abs/2610.06926v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.06926)|
+|**2026-10-03**|**SWAP: Stepwise Action Policy Routing for Vision-Language-Action Models**|Mousumi Das et.al.|[2610.06926v1](http://arxiv.org/abs/2610.06926v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.06926)|
 |**2026-10-05**|**SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models**|Xiaodong Wang et.al.|[2610.06598v1](http://arxiv.org/abs/2610.06598v1)|[link](https://github.com/Wang-Xiaodong1899/SimForcing)|[αX↑6](https://alphaxiv.org/abs/2610.06598)|
 |**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jungho Kim et.al.|[2610.06469v1](http://arxiv.org/abs/2610.06469v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.06469)|
 |**2026-10-05**|**VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models**|Jaemin Kim et.al.|[2610.06271v1](http://arxiv.org/abs/2610.06271v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.06271)|
