@@ -140,7 +140,7 @@
 |**2026-10-01**|**SoTa: Soft Tactile Skins for Dexterous Manipulation**|Jingyun Yang et.al.|[2610.02338v1](http://arxiv.org/abs/2610.02338v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.02338)|
 |**2026-10-01**|**Joint Movement and Compression Ratio Design for Mobile Embodied AI Networks (MEAN)**|Yahao Ding et.al.|[2610.02334v1](http://arxiv.org/abs/2610.02334v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.02334)|
 |**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204v1](http://arxiv.org/abs/2610.02204v1)|null|[αX↑32](https://alphaxiv.org/abs/2610.02204)|
-|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054v2](http://arxiv.org/abs/2610.02054v2)|null|[αX↑34](https://alphaxiv.org/abs/2610.02054)|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054v2](http://arxiv.org/abs/2610.02054v2)|[link](https://github.com/UniWAM/UniWAM)|[αX↑34](https://alphaxiv.org/abs/2610.02054)|
 |**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Dalle Vedove et.al.|[2610.01910v1](http://arxiv.org/abs/2610.01910v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.01910)|
 |**2026-10-01**|**Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities**|Peng Yi et.al.|[2610.01826v1](http://arxiv.org/abs/2610.01826v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.01826)|
 |**2026-10-01**|**World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories**|Jiahui Lei et.al.|[2610.01742v1](http://arxiv.org/abs/2610.01742v1)|null|[αX↑39](https://alphaxiv.org/abs/2610.01742)|
@@ -172,7 +172,7 @@
 |**2026-09-30**|**DiFF: Doppler-informed Flow Matching for Human Motion Flow**|Kai Wang et.al.|[2609.39098v1](http://arxiv.org/abs/2609.39098v1)|[link](https://github.com/keroseus/DiFF)|[αX↑3](https://alphaxiv.org/abs/2609.39098)|
 |**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038v1](http://arxiv.org/abs/2609.39038v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.39038)|
 |**2026-09-30**|**Function beyond Form: Functional Correspondence for Cross-Embodiment Dexterous Grasp Generation**|Bolin Zou et.al.|[2609.39006v1](http://arxiv.org/abs/2609.39006v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.39006)|
-|**2026-09-30**|**Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation**|Yansong Shi et.al.|[2609.38886v1](http://arxiv.org/abs/2609.38886v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.38886)|
+|**2026-09-30**|**Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation**|Yansong Shi et.al.|[2609.38886v1](http://arxiv.org/abs/2609.38886v1)|[link](https://github.com/nanamma/HIDE-SEEK)|[αX↑9](https://alphaxiv.org/abs/2609.38886)|
 |**2026-09-29**|**Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents**|Jiacheng Qiu et.al.|[2609.38536v1](http://arxiv.org/abs/2609.38536v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.38536)|
 |**2026-09-29**|**BIND: Binding 3D Robot Actions to 2D Image Features**|Cameron Smith et.al.|[2609.38443v1](http://arxiv.org/abs/2609.38443v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.38443)|
 |**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401v1](http://arxiv.org/abs/2609.38401v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.38401)|
@@ -257,7 +257,7 @@
 |**2026-09-23**|**An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics**|Teeratham Vitchutripop et.al.|[2609.28807v1](http://arxiv.org/abs/2609.28807v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28807)|
 |**2026-09-23**|**CuACD: A Fully GPU-Resident Approximate Convex Decomposition**|Ruoxi Shi et.al.|[2609.28731v1](http://arxiv.org/abs/2609.28731v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28731)|
 |**2026-09-23**|**Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams**|Ding Yi et.al.|[2609.28429v1](http://arxiv.org/abs/2609.28429v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.28429)|
-|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339v1](http://arxiv.org/abs/2609.28339v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.28339)|
+|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339v1](http://arxiv.org/abs/2609.28339v1)|[link](https://github.com/xmz111/NowWAM)|[αX↑20](https://alphaxiv.org/abs/2609.28339)|
 |**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Jiahang Cao et.al.|[2609.28161v1](http://arxiv.org/abs/2609.28161v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.28161)|
 |**2026-09-23**|**InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies**|Sai Puneeth Reddy Gottam et.al.|[2609.27734v1](http://arxiv.org/abs/2609.27734v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27734)|
 |**2026-09-23**|**Behavior-Aligned Action Tokenization for Robot Policy Learning**|Junbo Dong et.al.|[2609.27513v1](http://arxiv.org/abs/2609.27513v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27513)|
