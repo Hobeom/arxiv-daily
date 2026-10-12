@@ -315,6 +315,12 @@ def expand(config, papers, graph, opts):
         key=lambda t: (len(via[t]), t), reverse=True)
     logging.info('Expansion: %d candidates over threshold (%d seeds)',
                  len(pool), len(seeds))
+    # How many undecided candidates each threshold would admit; useful when
+    # tuning min_score.
+    scores = [len(src) for t, src in via.items() if undecided(t)]
+    logging.info('Expansion: undecided candidates by score: %s', {
+        f'>={k}': sum(x >= k for x in scores) for k in (3, 5, 10, 20, 50)
+    })
 
     matchers = topic_matchers(config)
     added = collections.defaultdict(dict)
@@ -382,7 +388,7 @@ def main():
         'hf_per_run': 1500,
         's2_recs_per_run': 150,
         'graph_expansion': True,
-        'min_score': 3,
+        'min_score': 5,
         'max_age_days': 365,
         'max_new_per_run': 30,
         'allowed_categories': ['cs.RO', 'cs.CV', 'cs.AI', 'cs.LG'],
