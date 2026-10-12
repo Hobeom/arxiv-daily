@@ -25,8 +25,8 @@ from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import normalize
 
-from daily_arxiv import (fetch_arxiv, load_config, load_meta, parse_paper_row,
-                         save_meta)
+from daily_arxiv import (fetch_arxiv, find_github_url, load_config, load_meta,
+                         load_topic_papers, save_meta)
 
 logging.basicConfig(
     format='[%(asctime)s %(levelname)s] %(message)s',
@@ -35,6 +35,8 @@ logging.basicConfig(
 )
 
 SUMMARY_FILE = 'arxiv/summaries.json'
+HF_FILE = 'hf_cache/hf_papers.json'
+GRAPH_FILE = 'arxiv/graph.json'
 OUT_FILE = 'docs/data.json'
 GEMINI_URL = ('https://generativelanguage.googleapis.com/v1beta/models/'
               '{model}:generateContent')
@@ -51,31 +53,39 @@ DOMAIN_STOP = {
 }
 
 
+_URL_RE = re.compile(r'https?://[^\s<>"\'(){}\[\],;]+')
+# Links in abstracts/comments that are not a project page.
+_NOT_PROJECT = re.compile(
+    r'(github\.com|arxiv\.org|doi\.org|youtube\.com|youtu\.be|'
+    r'anonymous\.4open\.science|openreview\.net|huggingface\.co|'
+    r'twitter\.com|x\.com|zenodo\.org|kaggle\.com|drive\.google|'
+    r'docs\.google|bit\.ly|creativecommons\.org|aclanthology|ieee\.org|'
+    r'springer|acm\.org|vimeo\.com|bilibili\.com|colab\.research)',
+    re.I)
+
+
+def find_project_url(text):
+    """First link that looks like a project page (e.g. *.github.io)."""
+    for url in _URL_RE.findall(text or ''):
+        url = url.rstrip('.')
+        if not _NOT_PROJECT.search(url):
+            return url
+    return None
+
+
+def load_json(path, default):
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, ValueError):
+        return default
+
+
 # Kept for similarity, but too broad to be useful in a cluster label.
 LABEL_STOP = {
     'vla', 'vlas', 'vision-language-action', 'vision', 'language', 'action',
     'actions', 'embodied', 'robotics', 'manipulation'
 }
-
-
-def load_papers(config) -> dict:
-    papers = {}
-    for topic, info in config['keywords'].items():
-        try:
-            with open(info['json_readme_path'], 'r') as f:
-                content = f.read()
-            data = json.loads(content) if content else {}
-        except FileNotFoundError:
-            data = {}
-        for pid, row in data.get(topic, {}).items():
-            if pid in papers:
-                papers[pid]['topics'].append(topic)
-                continue
-            paper = parse_paper_row(pid, str(row))
-            if paper:
-                paper['topics'] = [topic]
-                papers[pid] = paper
-    return papers
 
 
 def backfill_meta(ids: list, limit: int, batch: int = 100):
@@ -236,8 +246,35 @@ def embed(papers: list):
     return xyz, km.labels_, clusters, neighbours
 
 
+def add_graph(out, graph):
+    """Attach related-paper links from arxiv/graph.json (enrich.py).
+
+    refs / cby: references and citing papers inside the collection,
+    recs: Semantic Scholar recommendations inside the collection,
+    xrecs: up to 5 recommendations outside it as [id, title].
+    """
+    nodes, titles = graph.get('papers', {}), graph.get('titles', {})
+    ids = {p['id'] for p in out}
+    cited_by = collections.defaultdict(set)
+    for pid in ids:
+        for ref in nodes.get(pid, {}).get('refs', []):
+            if ref in ids:
+                cited_by[ref].add(pid)
+    for p in out:
+        node = nodes.get(p['id'], {})
+        p['refs'] = sorted(r for r in node.get('refs', []) if r in ids)
+        p['cby'] = sorted(cited_by[p['id']] |
+                          {c for c in node.get('cites', []) if c in ids})
+        recs = node.get('recs', [])
+        p['recs'] = [r for r in recs if r in ids]
+        p['xrecs'] = [[r, titles[r][0]] for r in recs
+                      if r not in ids and r in titles][:5]
+        p['nref'] = len(node.get('refs', []))
+        p['ncite'] = len(node.get('cites', []))
+
+
 def build(config, backfill_limit, summary_limit):
-    papers = load_papers(config)
+    papers = load_topic_papers(config)
     order = sorted(papers, key=lambda i: papers[i]['date'], reverse=True)
     backfill_meta(order, backfill_limit)
     meta = load_meta()
@@ -248,9 +285,12 @@ def build(config, backfill_limit, summary_limit):
         t: set(v['categories'])
         for t, v in config['keywords'].items() if v.get('categories')
     }
+    hf = load_json(HF_FILE, {})
     out = []
     for pid in order:
         p, m = papers[pid], meta.get(pid, {})
+        h = hf.get(pid) if hf.get(pid, {}).get('ok') else {}
+        text = (m.get('comment') or '') + ' ' + m.get('abstract', '')
         cats = set(m.get('categories', []))
         if cats:
             p['topics'] = [
@@ -267,10 +307,17 @@ def build(config, backfill_limit, summary_limit):
             'abstract': m.get('abstract', ''),
             'cats': m.get('categories', []),
             'topics': p['topics'],
-            'code': p['code'],
-            'hf': p['hf'],
+            'code': p['code'] or h.get('github') or find_github_url(text),
+            'project': h.get('project') or find_project_url(text),
+            'org': h.get('org'),
+            'stars': h.get('stars'),
+            'hf': h.get('upvotes', p['hf']) if h else p['hf'],
             'ax': p['ax'],
+            'src': m.get('source', 'search'),
         })
+        if m.get('source') == 'graph':
+            out[-1]['via'] = m.get('score')
+    add_graph(out, load_json(GRAPH_FILE, {}))
 
     summaries = update_summaries(out, summary_limit,
                                  config.get('summary_model',
@@ -298,6 +345,10 @@ def build(config, backfill_limit, summary_limit):
         'authors': authors.most_common(40),
         'days': sorted(days.items()),
         'with_code': sum(bool(p['code']) for p in out),
+        'with_project': sum(bool(p['project']) for p in out),
+        'on_hf': sum(p['hf'] is not None for p in out),
+        'via_graph': sum(p['src'] == 'graph' for p in out),
+        'graph_edges': sum(len(p.get('refs', [])) for p in out),
         'with_summary': sum('summary' in p for p in out),
     }
     os.makedirs(os.path.dirname(OUT_FILE), exist_ok=True)

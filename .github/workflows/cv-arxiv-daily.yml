@@ -33,6 +33,13 @@ jobs:
         run: |
           python daily_arxiv.py
 
+      - name: Enrich papers and grow related-paper graph
+        continue-on-error: true  # never block committing the fetched papers
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+        run: |
+          python enrich.py
+
       - name: Build explorer data
         continue-on-error: true  # never block committing the fetched papers
         env:

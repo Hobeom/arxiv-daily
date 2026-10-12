@@ -1,0 +1,50 @@
+# Temporary: run enrich.py + build_explorer.py against the real APIs on this
+# branch and print a summary. Does not commit. Remove before merging.
+name: Branch verify (enrich + graph)
+
+on:
+  push:
+    branches: [claude/error-check-layout-update-89ys3h]
+    paths: ['.github/workflows/branch-verify-enrich.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Enrich
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+        run: python enrich.py
+      - name: Build explorer
+        run: python build_explorer.py
+      - name: Summary
+        shell: python
+        run: |
+          import json, collections
+          g = json.load(open('arxiv/graph.json')); hf = json.load(open('hf_cache/hf_papers.json'))
+          d = json.load(open('docs/data.json')); s = d['stats']; P = d['papers']
+          print('HF looked up', len(hf), 'on HF', sum(v['ok'] for v in hf.values()))
+          nodes = g['papers']
+          print('S2 nodes', len(nodes), 'found', sum(n.get('found', False) for n in nodes.values()),
+                'with recs', sum(bool(n.get('recs')) for n in nodes.values()))
+          print('stats', {k: s[k] for k in ['total', 'with_code', 'with_project', 'on_hf', 'via_graph', 'graph_edges']})
+          print('papers with in-collection refs', sum(bool(p['refs']) for p in P), 'cited-by', sum(bool(p['cby']) for p in P),
+                'recs', sum(bool(p['recs']) for p in P))
+          c = g.get('candidates', {})
+          print('candidates', collections.Counter((v['status'], v.get('reason')) for v in c.values()))
+          for p in [p for p in P if p['src'] == 'graph'][:30]:
+              print(f"  + {p['id']} score={p.get('via')} {p['topics']} | {p['title'][:90]}")
+          for k, v in list(c.items())[:15]:
+              if v['status'] == 'rejected':
+                  print('  -', k, v)
+          print('graph.json bytes', len(json.dumps(g)), 'hf_papers.json bytes', len(json.dumps(hf)), 'data.json bytes', len(open('docs/data.json').read()))
