@@ -1,12 +1,16 @@
 ## Physical AI
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816v1](http://arxiv.org/abs/2610.13816v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13816)|
+|**2026-10-09**|**LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos**|Zhiyuan Xiang et.al.|[2610.13732v1](http://arxiv.org/abs/2610.13732v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13732)|
+|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578v1](http://arxiv.org/abs/2610.13578v1)|[link](https://github.com/Shua-Kang/RARA)|[αX↑0](https://alphaxiv.org/abs/2610.13578)|
+|**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522v1](http://arxiv.org/abs/2610.13522v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13522)|
 |**2026-10-08**|**RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments**|Zimo Wen et.al.|[2610.12424v1](http://arxiv.org/abs/2610.12424v1)|[link](https://github.com/nssmd/RoboRSI)|[αX↑19](https://alphaxiv.org/abs/2610.12424)|
 |**2026-10-08**|**ARC: A Reasoning Recipe for Robot Foundation Models**|Gokul Puthumanaillam et.al.|[2610.12386v1](http://arxiv.org/abs/2610.12386v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.12386)|
-|**2026-10-08**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v1](http://arxiv.org/abs/2610.12069v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.12069)|
+|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.12069)|
 |**2026-10-08**|**WAM-Cache: Staleness-Bounded KV Reuse for Efficient World Action Models**|Kai Ding et.al.|[2610.11401v1](http://arxiv.org/abs/2610.11401v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.11401)|
 |**2026-10-08**|**FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs**|Kyeong-Rae Kim et.al.|[2610.11310v1](http://arxiv.org/abs/2610.11310v1)|[link](https://github.com/byulharang/FloorSAV)|[αX↑3](https://alphaxiv.org/abs/2610.11310)|
 |**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Naiyu Fang et.al.|[2610.11194v1](http://arxiv.org/abs/2610.11194v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.11194)|

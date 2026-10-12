@@ -1,9 +1,31 @@
 ## Robot & Agent
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Chronos Policy: Learning Robot Policies on Physical Time**|Changhao Wang et.al.|[2610.13929v1](http://arxiv.org/abs/2610.13929v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13929)|
+|**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816v1](http://arxiv.org/abs/2610.13816v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13816)|
+|**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[2610.13740v1](http://arxiv.org/abs/2610.13740v1)|[link](https://github.com/iitimii/SmolWAM)|[αX↑0](https://alphaxiv.org/abs/2610.13740)|
+|**2026-10-09**|**LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos**|Zhiyuan Xiang et.al.|[2610.13732v1](http://arxiv.org/abs/2610.13732v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13732)|
+|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628v1](http://arxiv.org/abs/2610.13628v1)|[link](https://github.com/FaithOgunwoye/JitterVLA)|[αX↑0](https://alphaxiv.org/abs/2610.13628)|
+|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578v1](http://arxiv.org/abs/2610.13578v1)|[link](https://github.com/Shua-Kang/RARA)|[αX↑0](https://alphaxiv.org/abs/2610.13578)|
+|**2026-10-09**|**MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures**|Loan Bernat et.al.|[2610.13534v1](http://arxiv.org/abs/2610.13534v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13534)|
+|**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522v1](http://arxiv.org/abs/2610.13522v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13522)|
+|**2026-10-09**|**RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors**|David Ahmedt-Aristizabal et.al.|[2610.13516v1](http://arxiv.org/abs/2610.13516v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13516)|
+|**2026-10-09**|**Robot-WATCHDOG : failure detection through object-centric graph representation**|Quentin Rolland et.al.|[2610.13403v1](http://arxiv.org/abs/2610.13403v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13403)|
+|**2026-10-09**|**EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies**|Chi Kit Ng et.al.|[2610.13376v1](http://arxiv.org/abs/2610.13376v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13376)|
+|**2026-10-09**|**Evo-RL: Iterative Robot Reinforcement Learning from Selective Experience**|Kai Ye et.al.|[2610.13345v1](http://arxiv.org/abs/2610.13345v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13345)|
+|**2026-10-09**|**Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**|Feng Jiang et.al.|[2610.13164v1](http://arxiv.org/abs/2610.13164v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13164)|
+|**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Jiachen Zhang et.al.|[2610.13119v1](http://arxiv.org/abs/2610.13119v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13119)|
+|**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117v1](http://arxiv.org/abs/2610.13117v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13117)|
+|**2026-10-09**|**ReAT: Residual Action Tokenization for Autoregressive Robot Policies**|Dijia Zhan et.al.|[2610.13093v1](http://arxiv.org/abs/2610.13093v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13093)|
+|**2026-10-09**|**EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents**|Jie Huang et.al.|[2610.13021v1](http://arxiv.org/abs/2610.13021v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13021)|
+|**2026-10-09**|**CeDR-Nav: Cross-Embodiment Mapless Navigation via Offline Demonstration Recasting**|Xianghui Wang et.al.|[2610.13007v1](http://arxiv.org/abs/2610.13007v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13007)|
+|**2026-10-09**|**JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents**|Gangyi Li et.al.|[2610.12957v1](http://arxiv.org/abs/2610.12957v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12957)|
+|**2026-10-09**|**Evidence-Guided Counterfactual Learning for Long-Tailed Robotic Policies**|Weiwei Chen et.al.|[2610.12861v1](http://arxiv.org/abs/2610.12861v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12861)|
+|**2026-10-08**|**What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents**|Junxiang Wang et.al.|[2610.12561v1](http://arxiv.org/abs/2610.12561v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12561)|
+|**2026-10-08**|**Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback**|Jaewoo Lee et.al.|[2610.12549v1](http://arxiv.org/abs/2610.12549v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12549)|
 |**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468v1](http://arxiv.org/abs/2610.12468v1)|[link](https://github.com/brave-eai/DreamTrue)|[αX↑14](https://alphaxiv.org/abs/2610.12468)|
 |**2026-10-08**|**Control-Ready Uncertainty for Trajectory Diffusion**|Zhiwei Xue et.al.|[2610.12431v1](http://arxiv.org/abs/2610.12431v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.12431)|
 |**2026-10-08**|**Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement**|Kairui Hu et.al.|[2610.12369v1](http://arxiv.org/abs/2610.12369v1)|null|[αX↑70](https://alphaxiv.org/abs/2610.12369)|
@@ -96,7 +118,7 @@
 |**2026-10-03**|**Bi-manual Stabilization of the Cervical Spine for Safe Physical Human-Robot Interaction in Rolling Maneuvers**|Elizabeth Peiros et.al.|[2610.04220v1](http://arxiv.org/abs/2610.04220v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.04220)|
 |**2026-10-02**|**Reward-DAgger: Robot-Gated Interactive Imitation Learning with General-Purpose Progress-Based Reward Models**|Ryan Li et.al.|[2610.04054v1](http://arxiv.org/abs/2610.04054v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.04054)|
 |**2026-10-02**|**SUAVE: Unified Video-Action Models via Masked Diffusion**|Rhythm Syed et.al.|[2610.04009v1](http://arxiv.org/abs/2610.04009v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.04009)|
-|**2026-10-02**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Yulin Liu et.al.|[2610.03861v1](http://arxiv.org/abs/2610.03861v1)|null|[αX↑20](https://alphaxiv.org/abs/2610.03861)|
+|**2026-10-08**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Yulin Liu et.al.|[2610.03861v2](http://arxiv.org/abs/2610.03861v2)|null|[αX↑20](https://alphaxiv.org/abs/2610.03861)|
 |**2026-10-02**|**UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning**|Yudong Lin et.al.|[2610.03620v1](http://arxiv.org/abs/2610.03620v1)|[link](https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning}{GitHub)|[αX↑2](https://alphaxiv.org/abs/2610.03620)|
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Zhiming Liu et.al.|[2610.03607v1](http://arxiv.org/abs/2610.03607v1)|null|[🤗👍26](https://huggingface.co/papers/2610.03607) [αX↑12](https://alphaxiv.org/abs/2610.03607)|
 |**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Chenzhi Liu et.al.|[2610.03476v1](http://arxiv.org/abs/2610.03476v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.03476)|

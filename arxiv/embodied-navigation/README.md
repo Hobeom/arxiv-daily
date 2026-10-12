@@ -1,14 +1,24 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion**|Yiming Yang et.al.|[2610.13872v1](http://arxiv.org/abs/2610.13872v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13872)|
+|**2026-10-09**|**Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving**|Yuechen Luo et.al.|[2610.13453v1](http://arxiv.org/abs/2610.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13453)|
+|**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409v1](http://arxiv.org/abs/2610.13409v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13409)|
+|**2026-10-09**|**FPD-Drive: Future Policy Distillation for End-to-End Autonomous Driving**|Li-Heng Chen et.al.|[2610.13232v1](http://arxiv.org/abs/2610.13232v1)|[link](https://github.com/CountNemoChan/FPD-Drive)|[αX↑0](https://alphaxiv.org/abs/2610.13232)|
+|**2026-10-09**|**GuidedNav: Shaping Vision-Language Navigation Representations through Pre-action Attention and Spatial Guidance**|Jingyu Guo et.al.|[2610.13122v1](http://arxiv.org/abs/2610.13122v1)|[link](https://github.com/jingyu198/Guided-Nav)|[αX↑0](https://alphaxiv.org/abs/2610.13122)|
+|**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104v1](http://arxiv.org/abs/2610.13104v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13104)|
+|**2026-10-09**|**CeDR-Nav: Cross-Embodiment Mapless Navigation via Offline Demonstration Recasting**|Xianghui Wang et.al.|[2610.13007v1](http://arxiv.org/abs/2610.13007v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13007)|
+|**2026-10-09**|**MeshBind: Point-to-Mesh Binding for Non-Rigid Scene Flow Automatic Annotation**|Yinqi Chen et.al.|[2610.12895v1](http://arxiv.org/abs/2610.12895v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12895)|
+|**2026-10-08**|**Trajectory Prediction for Autonomous Driving in Road Construction Zones Using Human-in-the-Loop Driving Data**|Shuo Zhang et.al.|[2610.12747v1](http://arxiv.org/abs/2610.12747v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12747)|
+|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12734)|
 |**2026-10-08**|**DVD: Dynamic Vector Decoding for Efficient MLLM-based Perception**|Jinghua Hou et.al.|[2610.12266v1](http://arxiv.org/abs/2610.12266v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12266)|
 |**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et.al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.11583)|
 |**2026-10-08**|**CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving**|Soham Pahari et.al.|[2610.11577v1](http://arxiv.org/abs/2610.11577v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.11577)|
 |**2026-10-08**|**PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving**|Jinchang Xu et.al.|[2610.11382v1](http://arxiv.org/abs/2610.11382v1)|[link](https://github.com/jinchan9/PlanWAM)|[αX↑4](https://alphaxiv.org/abs/2610.11382)|
-|**2026-10-08**|**Higher-Order Action Supervision Makes A Strong Policy Class**|Peng Cheng et.al.|[2610.11175v1](http://arxiv.org/abs/2610.11175v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.11175)|
+|**2026-10-09**|**Higher-Order Action Supervision Makes A Strong Policy Class**|Peng Cheng et.al.|[2610.11175v2](http://arxiv.org/abs/2610.11175v2)|null|[αX↑4](https://alphaxiv.org/abs/2610.11175)|
 |**2026-10-08**|**VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving**|Zhaoyang Liu et.al.|[2610.11161v1](http://arxiv.org/abs/2610.11161v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.11161)|
 |**2026-10-08**|**AffordDrive3D: Affordance-Aware World-Action Modeling with Spatial Understanding**|Tianhui Cai et.al.|[2610.11060v1](http://arxiv.org/abs/2610.11060v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.11060)|
 |**2026-10-08**|**Refine Connections, Close the Gap: A Reliable Enhancement Framework for Driving Scene Topology**|Xiaoqi Wang et.al.|[2610.11058v1](http://arxiv.org/abs/2610.11058v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.11058)|

@@ -1,9 +1,30 @@
 ## World Models
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark**|Xudong Cai et.al.|[2610.13947v1](http://arxiv.org/abs/2610.13947v1)|[link](https://github.com/physicalvision/artisan)|[αX↑1](https://alphaxiv.org/abs/2610.13947)|
+|**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860v1](http://arxiv.org/abs/2610.13860v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13860)|
+|**2026-10-09**|**Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing**|Oktie Hassanzadeh et.al.|[2610.13823v1](http://arxiv.org/abs/2610.13823v1)|[link](https://github.com/semviews/sqp-variance-study)|[αX↑0](https://alphaxiv.org/abs/2610.13823)|
+|**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816v1](http://arxiv.org/abs/2610.13816v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13816)|
+|**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[2610.13740v1](http://arxiv.org/abs/2610.13740v1)|[link](https://github.com/iitimii/SmolWAM)|[αX↑0](https://alphaxiv.org/abs/2610.13740)|
+|**2026-10-09**|**GLIMPSE: Global-Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models**|Zhufeng Xu et.al.|[2610.13706v1](http://arxiv.org/abs/2610.13706v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13706)|
+|**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522v1](http://arxiv.org/abs/2610.13522v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13522)|
+|**2026-10-09**|**Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning**|Oriol Corcoll et.al.|[2610.13504v1](http://arxiv.org/abs/2610.13504v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13504)|
+|**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409v1](http://arxiv.org/abs/2610.13409v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13409)|
+|**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217v1](http://arxiv.org/abs/2610.13217v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13217)|
+|**2026-10-09**|**JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models**|Mengdi Liu et.al.|[2610.13194v1](http://arxiv.org/abs/2610.13194v1)|[link](https://github.com/bilemond/JANUS)|[αX↑0](https://alphaxiv.org/abs/2610.13194)|
+|**2026-10-09**|**RoleWorld: Knowledge Transfer in World Modeling with Functional Role Abstractions**|Boyuan Xiao et.al.|[2610.13172v1](http://arxiv.org/abs/2610.13172v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13172)|
+|**2026-10-09**|**Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**|Feng Jiang et.al.|[2610.13164v1](http://arxiv.org/abs/2610.13164v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13164)|
+|**2026-10-09**|**Sampling-based Kinodynamic Planning with World Models**|Yitian Gao et.al.|[2610.12910v1](http://arxiv.org/abs/2610.12910v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12910)|
+|**2026-10-09**|**LeapBot-JAC: Joint Action Chains for World Action Models**|Chenhao Zhu et.al.|[2610.12886v1](http://arxiv.org/abs/2610.12886v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12886)|
+|**2026-10-09**|**Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing**|Zheng Ren et.al.|[2610.12881v1](http://arxiv.org/abs/2610.12881v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12881)|
+|**2026-10-08**|**LeWAM: End-to-End World and Action Modeling with JEPAs**|Minghao Fu et.al.|[2610.12818v1](http://arxiv.org/abs/2610.12818v1)|[link](https://github.com/MinghaoFu/lewam)|[αX↑0](https://alphaxiv.org/abs/2610.12818)|
+|**2026-10-08**|**EvoBelief: Falsifiable World Models for Self-Improving LLM Agents**|Janet Wang et.al.|[2610.12789v1](http://arxiv.org/abs/2610.12789v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12789)|
+|**2026-10-08**|**KITE: A Knowledge-Injected Temporal Encoder for Time-Series Event Forecasting**|Jonas Petersen et.al.|[2610.12738v1](http://arxiv.org/abs/2610.12738v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12738)|
+|**2026-10-08**|**ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion**|Zekai Gu et.al.|[2610.12625v1](http://arxiv.org/abs/2610.12625v1)|[link](https://github.com/IGL-HKUST/ForcingBooster)|[αX↑0](https://alphaxiv.org/abs/2610.12625)|
+|**2026-10-08**|**Mind the Temporal Gap: Evaluating Video Models for Temporal Understanding in Driving**|Shiva Sreeram et.al.|[2610.12575v1](http://arxiv.org/abs/2610.12575v1)|[link](https://github.com/Genesis-Embodied-AI/genesis-world)|[αX↑0](https://alphaxiv.org/abs/2610.12575)|
 |**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468v1](http://arxiv.org/abs/2610.12468v1)|[link](https://github.com/brave-eai/DreamTrue)|[αX↑14](https://alphaxiv.org/abs/2610.12468)|
 |**2026-10-08**|**What 30,000 Hours of Ego-centric Video Does Not Teach**|Jiahua Dong et.al.|[2610.12464v1](http://arxiv.org/abs/2610.12464v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.12464)|
 |**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461v1](http://arxiv.org/abs/2610.12461v1)|[link](https://github.com/youzhe0305/OuroWorld)|[αX↑7](https://alphaxiv.org/abs/2610.12461)|

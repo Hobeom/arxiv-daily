@@ -1,9 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943v1](http://arxiv.org/abs/2610.13943v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13943)|
+|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578v1](http://arxiv.org/abs/2610.13578v1)|[link](https://github.com/Shua-Kang/RARA)|[αX↑0](https://alphaxiv.org/abs/2610.13578)|
+|**2026-10-09**|**Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving**|Yuechen Luo et.al.|[2610.13453v1](http://arxiv.org/abs/2610.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13453)|
+|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Min Lin et.al.|[2610.13212v1](http://arxiv.org/abs/2610.13212v1)|[link](https://github.com/AFCEProject/AFCE)|[αX↑0](https://alphaxiv.org/abs/2610.13212)|
+|**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117v1](http://arxiv.org/abs/2610.13117v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13117)|
+|**2026-10-09**|**Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision**|Zile Zhong et.al.|[2610.12936v1](http://arxiv.org/abs/2610.12936v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12936)|
+|**2026-10-09**|**OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models**|Xule Gao et.al.|[2610.12914v1](http://arxiv.org/abs/2610.12914v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12914)|
+|**2026-10-09**|**VLMs are Native Action Models: Unleashing the Manipulation Capabilities of VLMs with Explicit Action-Space Grounding**|Jingkun Yi et.al.|[2610.12832v1](http://arxiv.org/abs/2610.12832v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12832)|
+|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12734)|
+|**2026-10-08**|**Spa-Bench: A Real-Robot Benchmark for Spatial Grounding in Vision-Language-Action Models**|Justin Tien-Smith et.al.|[2610.12696v1](http://arxiv.org/abs/2610.12696v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12696)|
 |**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Boyao Han et.al.|[2610.12451v1](http://arxiv.org/abs/2610.12451v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12451)|
 |**2026-10-08**|**Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models**|Hongyu Shi et.al.|[2610.12090v1](http://arxiv.org/abs/2610.12090v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12090)|
 |**2026-10-08**|**REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models**|Houlong Xiong et.al.|[2610.12007v1](http://arxiv.org/abs/2610.12007v1)|[link](https://github.com/react-vla/react-vla.github.io)|[αX↑4](https://alphaxiv.org/abs/2610.12007)|

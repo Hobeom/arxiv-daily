@@ -1,16 +1,20 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.11
+### Updated on 2026.10.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945v1](http://arxiv.org/abs/2610.13945v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13945)|
+|**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643v1](http://arxiv.org/abs/2610.13643v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13643)|
+|**2026-10-09**|**TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation**|Lingjie Zhang et.al.|[2610.12877v1](http://arxiv.org/abs/2610.12877v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12877)|
+|**2026-10-08**|**CASTER: Formalizing Zero-Shot Manipulation from Synthetic Videos as Constrained Optimization**|Yinlong Dai et.al.|[2610.12567v1](http://arxiv.org/abs/2610.12567v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12567)|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470v1](http://arxiv.org/abs/2610.12470v1)|null|[αX↑17](https://alphaxiv.org/abs/2610.12470)|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465v1](http://arxiv.org/abs/2610.12465v1)|null|[αX↑27](https://alphaxiv.org/abs/2610.12465)|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440v1](http://arxiv.org/abs/2610.12440v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.12440)|
 |**2026-10-08**|**RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning**|Ruixiang Ouyang et.al.|[2610.12333v1](http://arxiv.org/abs/2610.12333v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12333)|
 |**2026-10-08**|**Sim-to-Real RL for ASVs using SysID**|Cody Sheltraw et.al.|[2610.12202v1](http://arxiv.org/abs/2610.12202v1)|[link](https://github.com/UMich-CURLY/ASTRA_RL/tree/df98e7fd01420163082255403f3b032e0d8d0d03)|[αX↑1](https://alphaxiv.org/abs/2610.12202)|
 |**2026-10-08**|**Leveraging Human-In-The-Loop Demonstrations in Reinforcement Learning for Digital Twin-Driven Robot Flexibility**|Yuzhu Sun et.al.|[2610.12140v1](http://arxiv.org/abs/2610.12140v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12140)|
-|**2026-10-08**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v1](http://arxiv.org/abs/2610.12069v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.12069)|
+|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.12069)|
 |**2026-10-08**|**Reliability-Aware Future Conditioning for Temporally Robust Robot Manipulation**|Mohammad Khoshnazar et.al.|[2610.11956v1](http://arxiv.org/abs/2610.11956v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.11956)|
 |**2026-10-08**|**Digital Twin for Pre-Deployment Validation of AI-Driven Safety-Critical Industrial Edge Control Loops**|Sara Cavallero et.al.|[2610.11934v1](http://arxiv.org/abs/2610.11934v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.11934)|
 |**2026-10-08**|**CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding**|Andrea Ceron et.al.|[2610.11376v1](http://arxiv.org/abs/2610.11376v1)|[link](https://github.com/andrea25512/CRISP)|[αX↑1](https://alphaxiv.org/abs/2610.11376)|
