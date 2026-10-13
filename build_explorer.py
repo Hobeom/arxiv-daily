@@ -183,7 +183,7 @@ def update_summaries(papers: list, limit: int, model: str) -> dict:
 
 # ---------------------------------------------------------------- embedding
 def embed(papers: list):
-    """Return (3D coords, cluster ids, cluster info, neighbour ids)."""
+    """Return (3D+2D coords [x,y,z,x2,y2], cluster ids, clusters, neighbours)."""
     # URLs (code links in abstracts) would otherwise form their own cluster.
     texts = [
         re.sub(r'https?://\S+|\S+\.(?:com|io|org)/\S*', ' ',
@@ -201,19 +201,24 @@ def embed(papers: list):
     dims = max(2, min(128, X.shape[1] - 1, len(papers) - 1))
     Z = normalize(TruncatedSVD(dims, random_state=0).fit_transform(X))
 
-    try:
-        import umap
-        xyz = umap.UMAP(
-            n_components=3,
-            n_neighbors=15,
-            min_dist=0.15,
-            metric='cosine',
-            random_state=42).fit_transform(Z)
-    except Exception as e:  # e.g. umap not installed
-        logging.warning('UMAP unavailable (%s); using SVD axes', e)
-        xyz = Z[:, :3]
-    xyz = (xyz - xyz.mean(0)) / (xyz.std(0) + 1e-9)
-    xyz = np.clip(xyz, -3, 3)  # keep a few outliers from shrinking the map
+    def project(dims):
+        try:
+            import umap
+            out = umap.UMAP(
+                n_components=dims,
+                n_neighbors=15,
+                min_dist=0.15,
+                metric='cosine',
+                random_state=42).fit_transform(Z)
+        except Exception as e:  # e.g. umap not installed
+            logging.warning('UMAP unavailable (%s); using SVD axes', e)
+            out = Z[:, :dims]
+        out = (out - out.mean(0)) / (out.std(0) + 1e-9)
+        return np.clip(out, -3, 3)  # keep outliers from shrinking the map
+
+    # 3D for the rotatable view, a separate 2D layout for the default view
+    # (a 2D UMAP keeps neighbourhoods better than dropping the z axis).
+    xyz = np.hstack([project(3), project(2)])
 
     k = int(np.clip(round(np.sqrt(len(papers) / 3)), 4, 40))
     km = KMeans(k, n_init=4, random_state=0).fit(Z)
@@ -329,9 +334,11 @@ def build(config, backfill_limit, summary_limit):
     clusters = []
     if len(out) >= 10:
         xyz, labels, clusters, neighbours = embed(out)
-        for p, c, (x, y, z), sim in zip(out, labels, xyz, neighbours):
+        for p, c, (x, y, z, x2, y2), sim in zip(out, labels, xyz,
+                                                neighbours):
             p.update(x=round(float(x), 3), y=round(float(y), 3),
-                     z=round(float(z), 3), c=int(c), sim=sim)
+                     z=round(float(z), 3), x2=round(float(x2), 3),
+                     y2=round(float(y2), 3), c=int(c), sim=sim)
 
     authors = collections.Counter(a for p in out for a in p['authors'])
     days = collections.Counter(p['date'] for p in out)
