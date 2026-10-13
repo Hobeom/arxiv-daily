@@ -178,6 +178,14 @@ class S2Client:
                 r = None
             if r is not None and r.status_code in (200, 404):
                 return r
+            if r is not None and r.status_code in (401, 403) and self.key:
+                # A rejected key is worse than none: fall back to the
+                # shared unauthenticated pool for the rest of the run.
+                logging.warning('S2 rejected the API key (HTTP %d); '
+                                'continuing without it', r.status_code)
+                self.key, self.interval = None, 3.5
+                headers.pop('x-api-key', None)
+                continue
             if delay is None or self.waited + delay > self.WAIT_BUDGET:
                 break
             self.waited += delay
