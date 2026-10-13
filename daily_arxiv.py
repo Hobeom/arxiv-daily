@@ -84,6 +84,16 @@ def _get_json_safe(url: str, retries: int = 4, backoff: float = 60.0):
     return None
 
 
+_GITHUB_RE = re.compile(
+    r'https?://(?:www\.)?github\.com/[\w.-]+/[\w.-]+[^\s<>"\')\],;]*')
+
+
+def find_github_url(text: str):
+    """First GitHub repository URL in text ("Code: https://github.com/a/b")."""
+    m = _GITHUB_RE.search(text or '')
+    return m.group(0).rstrip('.') if m else None
+
+
 class ArxivAuthor:
 
     def __init__(self, name: str):
@@ -115,16 +125,9 @@ class ArxivPaper:
 
     @staticmethod
     def _extract_code_url(entry: dict):
-        """Extract code URL from arxiv comment or links."""
-        comment = entry.get('arxiv_comment', '') or ''
-        # Authors often put "Code: https://github.com/..." in comment
-        m = re.search(
-            r'https?://github\.com/[^\s<>"\')\],;]+',
-            comment,
-        )
-        if m:
-            return m.group(0).rstrip('.')
-        return None
+        """Extract code URL from the arXiv comment, then the abstract."""
+        return find_github_url((entry.get('arxiv_comment', '') or '') + ' ' +
+                               (entry.get('summary', '') or ''))
 
     @staticmethod
     def _parse_date(date_str: str) -> datetime.datetime:
@@ -431,6 +434,41 @@ def strip_version(paper_id: str) -> str:
     return re.sub(r'v\d+$', '', paper_id)
 
 
+def make_paper_row(result):
+    """Return (paper_key, markdown table row) for an arXiv result.
+
+    Also records the paper's metadata (abstract, authors, ...) in meta.json.
+    """
+    paper_id = result.get_short_id()
+    paper_key = strip_version(paper_id)
+    # '|' would break the markdown table row
+    paper_title = result.title.replace('|', '\\|')
+    update_time = result.updated.date()
+    logging.info('Time=%s title=%s author=%s', update_time, paper_title,
+                 get_authors(result.authors, first_author=True))
+    load_meta()[paper_key] = result.to_meta()
+    cached = _load_hf_cache().get(paper_key)
+    # code: arxiv comment/abstract -> HF cache -> alphaxiv
+    code_url = result.code_url
+    if not code_url and cached:
+        code_url = cached.get('github_repo')
+    ax = get_alphaxiv_cached(paper_key, str(update_time))
+    if not code_url and ax and ax.get('code_url'):
+        code_url = ax['code_url']
+    code_cell = f'[link]({code_url})' if code_url else 'null'
+    stars_cell = _build_stars_cell(paper_key, cached, str(update_time))
+    row = '|**{}**|**{}**|{} et.al.|[{}]({})|{}|{}|\n'.format(
+        update_time,
+        paper_title,
+        get_authors(result.authors, first_author=True),
+        paper_id,
+        result.entry_id,
+        code_cell,
+        stars_cell,
+    )
+    return paper_key, row
+
+
 def get_daily_papers(subqueries, max_results=2, failed=None):
     """Fetch papers for each subquery; append unreachable ones to failed."""
     content = dict()
@@ -442,56 +480,14 @@ def get_daily_papers(subqueries, max_results=2, failed=None):
                 failed.append(subq)
             continue
         for result in results:
-            paper_id = result.get_short_id()
-            # '|' would break the markdown table row
-            paper_title = result.title.replace('|', '\\|')
-            paper_url = result.entry_id
-            paper_first_author = get_authors(result.authors, first_author=True)
-            update_time = result.updated.date()
-
-            logging.info(
-                'Time=%s title=%s author=%s',
-                update_time,
-                paper_title,
-                paper_first_author,
-            )
-
-            ver_pos = paper_id.find('v')
-            if ver_pos == -1:
-                paper_key = paper_id
-            else:
-                paper_key = paper_id[0:ver_pos]
-
-            if paper_key in content:
+            if strip_version(result.get_short_id()) in content:
                 continue
-            load_meta()[paper_key] = result.to_meta()
             try:
-                cache = _load_hf_cache()
-                cached = cache.get(paper_key)
-                # code: arxiv comment -> HF cache -> alphaxiv
-                code_url = result.code_url
-                if not code_url and cached:
-                    code_url = cached.get('github_repo')
-                # alphaxiv fallback for code
-                ax = get_alphaxiv_cached(paper_key, str(update_time))
-                if not code_url and ax and ax.get('code_url'):
-                    code_url = ax['code_url']
-                code_cell = (f'[link]({code_url})' if code_url else 'null')
-                # Stars: HF + AlphaXiv
-                stars_cell = _build_stars_cell(paper_key, cached,
-                                               str(update_time))
-                content[paper_key] = (
-                    '|**{}**|**{}**|{} et.al.|[{}]({})|{}|{}|\n'.format(
-                        update_time,
-                        paper_title,
-                        paper_first_author,
-                        paper_id,
-                        paper_url,
-                        code_cell,
-                        stars_cell,
-                    ))
+                key, row = make_paper_row(result)
+                content[key] = row
             except Exception as e:
-                logging.error(f'exception: {e} with id: {paper_key}')
+                logging.error(f'exception: {e} with id: '
+                              f'{result.get_short_id()}')
     _save_alphaxiv_cache()
     return content
 
@@ -750,6 +746,27 @@ def parse_paper_row(paper_id: str, row: str):
         'hf': int(hf_m.group(1)) if hf_m else None,
         'ax': int(ax_m.group(1)) if ax_m else None,
     }
+
+
+def load_topic_papers(config) -> dict:
+    """All stored papers across topics: {id: parsed row + 'topics'}."""
+    papers = {}
+    for topic, info in config['keywords'].items():
+        try:
+            with open(info['json_readme_path'], 'r') as f:
+                content = f.read()
+            data = json.loads(content) if content else {}
+        except FileNotFoundError:
+            data = {}
+        for pid, row in data.get(topic, {}).items():
+            if pid in papers:
+                papers[pid]['topics'].append(topic)
+                continue
+            paper = parse_paper_row(pid, str(row))
+            if paper:
+                paper['topics'] = [topic]
+                papers[pid] = paper
+    return papers
 
 
 def demo(**config):

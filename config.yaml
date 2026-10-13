@@ -13,6 +13,23 @@ max_qa_num: 2
 summary_per_run: 0
 summary_model: "gemini-2.5-flash"
 
+# Enrichment + related-paper graph (enrich.py, runs after the daily fetch).
+#  - Hugging Face paper API: upvotes, project page, code repo, stars, org
+#  - Semantic Scholar: references, citations and recommendations (graph)
+#  - expansion: papers that many *keyword-collected* papers point to are
+#    added to a topic. Bounded on purpose so it settles instead of drifting:
+#    only one hop from keyword-collected seeds, the candidate must match a
+#    topic's query phrases (and its categories), and at most
+#    max_new_per_run papers are added per run.
+enrich:
+  hf_per_run: 1500           # HF paper API lookups per run
+  s2_recs_per_run: 150       # Semantic Scholar recommendation lookups per run
+  graph_expansion: True
+  min_score: 5               # distinct seed papers that must link a candidate
+  max_age_days: 365          # ignore older candidates (by arXiv id month)
+  max_new_per_run: 30
+  allowed_categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG", "cs.CL", "cs.HC", "eess.SY"]
+
 publish_readme: True
 publish_gitpage: True
 

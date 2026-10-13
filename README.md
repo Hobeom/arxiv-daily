@@ -27,6 +27,7 @@ This codebase is composed of the following parts:
 - `daily_arxiv.py`: main scripts to processing given configurations
 - `config.yaml`: configuration file of papers' keywords etc. (optional `categories` per topic limits arXiv categories)
 - `build_explorer.py`: builds `docs/data.json` for the explorer page `docs/index.html` — abstracts (`arxiv/meta.json`), optional Gemini summaries (`arxiv/summaries.json`), TF-IDF + UMAP 3D similarity map, auto sub-topic clusters and similar papers
+- `enrich.py`: runs after the daily fetch — Hugging Face paper info (upvotes, project page, code, stars, organization) into `hf_cache/hf_papers.json`, Semantic Scholar references / citations / recommendations into `arxiv/graph.json`, and bounded graph expansion (papers linked from at least `min_score` keyword-collected papers that match a topic; settings under `enrich` in `config.yaml`). Set the `S2_API_KEY` secret for faster Semantic Scholar lookups
 
 ## Release plan
 
