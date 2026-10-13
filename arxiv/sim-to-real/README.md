@@ -8,7 +8,7 @@
 |**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643v1](http://arxiv.org/abs/2610.13643v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13643)|
 |**2026-10-09**|**TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation**|Lingjie Zhang et.al.|[2610.12877v1](http://arxiv.org/abs/2610.12877v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12877)|
 |**2026-10-08**|**CASTER: Formalizing Zero-Shot Manipulation from Synthetic Videos as Constrained Optimization**|Yinlong Dai et.al.|[2610.12567v1](http://arxiv.org/abs/2610.12567v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12567)|
-|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470v1](http://arxiv.org/abs/2610.12470v1)|null|[αX↑24](https://alphaxiv.org/abs/2610.12470)|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470v1](http://arxiv.org/abs/2610.12470v1)|null|[🤗👍1](https://huggingface.co/papers/2610.12470) [αX↑24](https://alphaxiv.org/abs/2610.12470)|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465v1](http://arxiv.org/abs/2610.12465v1)|null|[αX↑55](https://alphaxiv.org/abs/2610.12465)|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440v1](http://arxiv.org/abs/2610.12440v1)|null|[αX↑18](https://alphaxiv.org/abs/2610.12440)|
 |**2026-10-08**|**RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning**|Ruixiang Ouyang et.al.|[2610.12333v1](http://arxiv.org/abs/2610.12333v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12333)|
@@ -113,6 +113,7 @@
 |**2026-09-20**|**PINGU: Extending Air-Bearing Spacecraft Emulators with Open-Source Actuators and Learned Control for Contact-Rich Proximity Operations**|Ricard Marsal I Castan et.al.|[2609.23554v1](http://arxiv.org/abs/2609.23554v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23554)|
 |**2026-06-30**|**ASPIRE: Agentic /Skills Discovery for Robotics**|Runyu Lu et.al.|[2607.00272v1](http://arxiv.org/abs/2607.00272v1)|null|[🤗👍24](https://huggingface.co/papers/2607.00272) [αX↑125](https://alphaxiv.org/abs/2607.00272)|
 |**2026-07-02**|**CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation**|Letian Fu et.al.|[2603.22435v2](http://arxiv.org/abs/2603.22435v2)|null|[αX↑121](https://alphaxiv.org/abs/2603.22435)|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
 |**2026-02-24**|**World Simulation with Video Foundation Models for Physical AI**|NVIDIA et.al.|[2511.00062v2](http://arxiv.org/abs/2511.00062v2)|[link](https://github.com/nvidia-cosmos/cosmos-predict2.5)|[🤗👍45](https://huggingface.co/papers/2511.00062) [αX↑118](https://alphaxiv.org/abs/2511.00062)|
 
 <p align=right>(<a href="#">back to top</a>)</p>

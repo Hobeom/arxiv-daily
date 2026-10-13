@@ -113,6 +113,9 @@
 |**2026-09-16**|**AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation**|Quan-Dung Pham et.al.|[2609.18789v1](http://arxiv.org/abs/2609.18789v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.18789)|
 |**2026-09-22**|**GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation**|Kailing Li et.al.|[2609.18581v2](http://arxiv.org/abs/2609.18581v2)|null|[αX↑16](https://alphaxiv.org/abs/2609.18581)|
 |**2026-09-16**|**UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents**|Yonglin Tian et.al.|[2609.18326v1](http://arxiv.org/abs/2609.18326v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.18326)|
+|**2026-09-29**|**HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness**|Yang Chen et.al.|[2609.15195v3](http://arxiv.org/abs/2609.15195v3)|null|[🤗👍21](https://huggingface.co/papers/2609.15195) [αX↑38](https://alphaxiv.org/abs/2609.15195)|
+|**2026-08-31**|**Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving**|Xin Zhou et.al.|[2609.00111v1](http://arxiv.org/abs/2609.00111v1)|[link](https://github.com/QwenLM/Qwen-Drive-1.0)|[🤗👍315](https://huggingface.co/papers/2609.00111) [αX↑169](https://alphaxiv.org/abs/2609.00111)|
+|**2026-09-29**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468v5](http://arxiv.org/abs/2608.07468v5)|[link](https://github.com/H-EmbodVis/SimWAM/)|[🤗👍108](https://huggingface.co/papers/2608.07468) [αX↑61](https://alphaxiv.org/abs/2608.07468)|
 |**2026-01-07**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088v2](http://arxiv.org/abs/2511.00088v2)|[link](https://github.com/NVlabs/alpamayo)|[αX↑171](https://alphaxiv.org/abs/2511.00088)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
