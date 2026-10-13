@@ -44,3 +44,4 @@ jobs:
               print(name, 'with key ->', *call(url, data))
               time.sleep(1.2)
           print('graph paper without key ->', *call(f'{B}/graph/v1/paper/arXiv:2609.18487?fields=title', use_key=False))
+# rerun 2026-10-13T01:57:08
