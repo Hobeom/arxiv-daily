@@ -1,19 +1,19 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.12
+### Updated on 2026.10.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-09**|**Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion**|Yiming Yang et.al.|[2610.13872v1](http://arxiv.org/abs/2610.13872v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13872)|
+|**2026-10-09**|**Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion**|Yiming Yang et.al.|[2610.13872v1](http://arxiv.org/abs/2610.13872v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.13872)|
 |**2026-10-09**|**Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving**|Yuechen Luo et.al.|[2610.13453v1](http://arxiv.org/abs/2610.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13453)|
-|**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409v1](http://arxiv.org/abs/2610.13409v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13409)|
-|**2026-10-09**|**FPD-Drive: Future Policy Distillation for End-to-End Autonomous Driving**|Li-Heng Chen et.al.|[2610.13232v1](http://arxiv.org/abs/2610.13232v1)|[link](https://github.com/CountNemoChan/FPD-Drive)|[αX↑0](https://alphaxiv.org/abs/2610.13232)|
+|**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409v1](http://arxiv.org/abs/2610.13409v1)|[link](https://github.com/wyh-autonomy/maneuverflow)|[αX↑2](https://alphaxiv.org/abs/2610.13409)|
+|**2026-10-09**|**FPD-Drive: Future Policy Distillation for End-to-End Autonomous Driving**|Li-Heng Chen et.al.|[2610.13232v1](http://arxiv.org/abs/2610.13232v1)|[link](https://github.com/CountNemoChan/FPD-Drive)|[αX↑2](https://alphaxiv.org/abs/2610.13232)|
 |**2026-10-09**|**GuidedNav: Shaping Vision-Language Navigation Representations through Pre-action Attention and Spatial Guidance**|Jingyu Guo et.al.|[2610.13122v1](http://arxiv.org/abs/2610.13122v1)|[link](https://github.com/jingyu198/Guided-Nav)|[αX↑0](https://alphaxiv.org/abs/2610.13122)|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104v1](http://arxiv.org/abs/2610.13104v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13104)|
-|**2026-10-09**|**CeDR-Nav: Cross-Embodiment Mapless Navigation via Offline Demonstration Recasting**|Xianghui Wang et.al.|[2610.13007v1](http://arxiv.org/abs/2610.13007v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13007)|
+|**2026-10-09**|**CeDR-Nav: Cross-Embodiment Mapless Navigation via Offline Demonstration Recasting**|Xianghui Wang et.al.|[2610.13007v1](http://arxiv.org/abs/2610.13007v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.13007)|
 |**2026-10-09**|**MeshBind: Point-to-Mesh Binding for Non-Rigid Scene Flow Automatic Annotation**|Yinqi Chen et.al.|[2610.12895v1](http://arxiv.org/abs/2610.12895v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12895)|
 |**2026-10-08**|**Trajectory Prediction for Autonomous Driving in Road Construction Zones Using Human-in-the-Loop Driving Data**|Shuo Zhang et.al.|[2610.12747v1](http://arxiv.org/abs/2610.12747v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12747)|
-|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12734)|
+|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12734)|
 |**2026-10-08**|**DVD: Dynamic Vector Decoding for Efficient MLLM-based Perception**|Jinghua Hou et.al.|[2610.12266v1](http://arxiv.org/abs/2610.12266v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.12266)|
 |**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et.al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.11583)|
 |**2026-10-08**|**CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving**|Soham Pahari et.al.|[2610.11577v1](http://arxiv.org/abs/2610.11577v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.11577)|
@@ -106,13 +106,14 @@
 |**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408v1](http://arxiv.org/abs/2609.26408v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.26408)|
 |**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666v1](http://arxiv.org/abs/2609.25666v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.25666)|
 |**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576v1](http://arxiv.org/abs/2609.24576v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.24576)|
-|**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526v2](http://arxiv.org/abs/2609.24526v2)|null|[αX↑21](https://alphaxiv.org/abs/2609.24526)|
+|**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526v2](http://arxiv.org/abs/2609.24526v2)|[link](https://github.com/MachEmbodied/ME-VLM)|[αX↑21](https://alphaxiv.org/abs/2609.24526)|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189v1](http://arxiv.org/abs/2609.24189v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.24189)|
 |**2026-09-20**|**RiverVLN: Phase-Grounded Temporal Vision--Language Navigation for Unmanned Surface Vehicles**|Jieling Wu et.al.|[2609.23423v1](http://arxiv.org/abs/2609.23423v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23423)|
 |**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v2](http://arxiv.org/abs/2609.20388v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.20388)|
 |**2026-09-16**|**AdaGeoVLN: Selective Geometry Across Representation Depth and Navigation Time for Vision-Language Navigation**|Quan-Dung Pham et.al.|[2609.18789v1](http://arxiv.org/abs/2609.18789v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.18789)|
 |**2026-09-22**|**GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation**|Kailing Li et.al.|[2609.18581v2](http://arxiv.org/abs/2609.18581v2)|null|[αX↑16](https://alphaxiv.org/abs/2609.18581)|
 |**2026-09-16**|**UAVs Meet Embodied Intelligence: Bridging Human Intents and Flying Dynamics Via Harnessing Physical-Digital AI Agents**|Yonglin Tian et.al.|[2609.18326v1](http://arxiv.org/abs/2609.18326v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.18326)|
+|**2026-01-07**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088v2](http://arxiv.org/abs/2511.00088v2)|[link](https://github.com/NVlabs/alpamayo)|[αX↑171](https://alphaxiv.org/abs/2511.00088)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
 

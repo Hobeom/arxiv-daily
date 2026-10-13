@@ -1,19 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.12
+### Updated on 2026.10.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943v1](http://arxiv.org/abs/2610.13943v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13943)|
-|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578v1](http://arxiv.org/abs/2610.13578v1)|[link](https://github.com/Shua-Kang/RARA)|[αX↑0](https://alphaxiv.org/abs/2610.13578)|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943v1](http://arxiv.org/abs/2610.13943v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.13943)|
+|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578v1](http://arxiv.org/abs/2610.13578v1)|[link](https://github.com/Shua-Kang/RARA)|[αX↑1](https://alphaxiv.org/abs/2610.13578)|
 |**2026-10-09**|**Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving**|Yuechen Luo et.al.|[2610.13453v1](http://arxiv.org/abs/2610.13453v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13453)|
-|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Min Lin et.al.|[2610.13212v1](http://arxiv.org/abs/2610.13212v1)|[link](https://github.com/AFCEProject/AFCE)|[αX↑0](https://alphaxiv.org/abs/2610.13212)|
-|**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117v1](http://arxiv.org/abs/2610.13117v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13117)|
-|**2026-10-09**|**Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision**|Zile Zhong et.al.|[2610.12936v1](http://arxiv.org/abs/2610.12936v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12936)|
-|**2026-10-09**|**OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models**|Xule Gao et.al.|[2610.12914v1](http://arxiv.org/abs/2610.12914v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12914)|
-|**2026-10-09**|**VLMs are Native Action Models: Unleashing the Manipulation Capabilities of VLMs with Explicit Action-Space Grounding**|Jingkun Yi et.al.|[2610.12832v1](http://arxiv.org/abs/2610.12832v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12832)|
-|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12734)|
-|**2026-10-08**|**Spa-Bench: A Real-Robot Benchmark for Spatial Grounding in Vision-Language-Action Models**|Justin Tien-Smith et.al.|[2610.12696v1](http://arxiv.org/abs/2610.12696v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12696)|
+|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Min Lin et.al.|[2610.13212v1](http://arxiv.org/abs/2610.13212v1)|[link](https://github.com/AFCEProject/AFCE)|[αX↑2](https://alphaxiv.org/abs/2610.13212)|
+|**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117v1](http://arxiv.org/abs/2610.13117v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.13117)|
+|**2026-10-09**|**Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision**|Zile Zhong et.al.|[2610.12936v1](http://arxiv.org/abs/2610.12936v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12936)|
+|**2026-10-09**|**OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models**|Xule Gao et.al.|[2610.12914v1](http://arxiv.org/abs/2610.12914v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12914)|
+|**2026-10-09**|**VLMs are Native Action Models: Unleashing the Manipulation Capabilities of VLMs with Explicit Action-Space Grounding**|Jingkun Yi et.al.|[2610.12832v1](http://arxiv.org/abs/2610.12832v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12832)|
+|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734v1](http://arxiv.org/abs/2610.12734v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12734)|
+|**2026-10-08**|**Spa-Bench: A Real-Robot Benchmark for Spatial Grounding in Vision-Language-Action Models**|Justin Tien-Smith et.al.|[2610.12696v1](http://arxiv.org/abs/2610.12696v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12696)|
 |**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Boyao Han et.al.|[2610.12451v1](http://arxiv.org/abs/2610.12451v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.12451)|
 |**2026-10-08**|**Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models**|Hongyu Shi et.al.|[2610.12090v1](http://arxiv.org/abs/2610.12090v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12090)|
 |**2026-10-08**|**REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models**|Houlong Xiong et.al.|[2610.12007v1](http://arxiv.org/abs/2610.12007v1)|[link](https://github.com/react-vla/react-vla.github.io)|[αX↑6](https://alphaxiv.org/abs/2610.12007)|
@@ -35,7 +35,7 @@
 |**2026-10-06**|**CARE: Certifying Acceleration for Vision-Language-Action Inference**|Rui Liu et.al.|[2610.08917v1](http://arxiv.org/abs/2610.08917v1)|null|[🤗👍7](https://huggingface.co/papers/2610.08917) [αX↑4](https://alphaxiv.org/abs/2610.08917)|
 |**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526v1](http://arxiv.org/abs/2610.08526v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.08526)|
 |**2026-10-06**|**ViDAL: A Visual Dynamics-Grounded Action Latent Space for Vision-Language-Action Models**|Yuan Xu et.al.|[2610.08150v1](http://arxiv.org/abs/2610.08150v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.08150)|
-|**2026-10-08**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al.|[2610.08133v2](http://arxiv.org/abs/2610.08133v2)|null|[αX↑8](https://alphaxiv.org/abs/2610.08133)|
+|**2026-10-08**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al.|[2610.08133v2](http://arxiv.org/abs/2610.08133v2)|[link](https://github.com/du-owen/VLA-ACL)|[αX↑8](https://alphaxiv.org/abs/2610.08133)|
 |**2026-10-06**|**Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution**|Ahin Lee et.al.|[2610.07946v1](http://arxiv.org/abs/2610.07946v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.07946)|
 |**2026-10-07**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756v2](http://arxiv.org/abs/2610.07756v2)|null|[αX↑10](https://alphaxiv.org/abs/2610.07756)|
 |**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.07652)|
@@ -607,6 +607,7 @@
 |**2026-06-11**|**Trajectory-Level Redirection Attacks on Vision-Language-Action Models**|Gokul Puthumanaillam et.al.|[2606.12978v1](http://arxiv.org/abs/2606.12978v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.12978)|
 |**2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Sunghwan Kim et.al.|[2606.12956v1](http://arxiv.org/abs/2606.12956v1)|null|[αX↑3](https://alphaxiv.org/abs/2606.12956)|
 |**2026-06-10**|**VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving**|Thach Nguyen et.al.|[2606.12706v1](http://arxiv.org/abs/2606.12706v1)|null|[αX↑4](https://alphaxiv.org/abs/2606.12706)|
+|**2026-06-10**|**$μ$ VLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models**|Egor Cherepanov et.al.|[2606.12497v1](http://arxiv.org/abs/2606.12497v1)|[link](https://github.com/CognitiveAISystems/muVLA)|[αX↑33](https://alphaxiv.org/abs/2606.12497)|
 |**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|[link](https://github.com/ZefuLin/WorldPilot)|[🤗👍24](https://huggingface.co/papers/2606.12403) [αX↑22](https://alphaxiv.org/abs/2606.12403)|
 |**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396v1](http://arxiv.org/abs/2606.12396v1)|null|[αX↑16](https://alphaxiv.org/abs/2606.12396)|
 |**2026-06-10**|**APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies**|Kechun Xu et.al.|[2606.12366v1](http://arxiv.org/abs/2606.12366v1)|[link](https://github.com/xukechun/APT)|[αX↑10](https://alphaxiv.org/abs/2606.12366)|
@@ -1361,6 +1362,9 @@
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](https://arxiv.org/abs/2512.09864)|null|[🤗👍12](https://huggingface.co/papers/2512.09864) [αX↑54](https://alphaxiv.org/abs/2512.09864)|
 |**2025-12-10**|**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**|Minghao Guo et.al.|[2512.09619](https://arxiv.org/abs/2512.09619)|null|[αX↑24](https://alphaxiv.org/abs/2512.09619)|
 |**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](https://arxiv.org/abs/2512.08580)|null|[αX↑50](https://alphaxiv.org/abs/2512.08580)|
+|**2026-05-30**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502v3](http://arxiv.org/abs/2511.17502v3)|[link](https://github.com/alibaba-damo-academy/RynnVLA-002)|[🤗👍28](https://huggingface.co/papers/2511.17502) [αX↑99](https://alphaxiv.org/abs/2511.17502)|
+|**2025-10-30**|**Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**|Wenli Xiao et.al.|[2511.00091v1](http://arxiv.org/abs/2511.00091v1)|null|[αX↑62](https://alphaxiv.org/abs/2511.00091)|
+|**2026-01-07**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088v2](http://arxiv.org/abs/2511.00088v2)|[link](https://github.com/NVlabs/alpamayo)|[αX↑171](https://alphaxiv.org/abs/2511.00088)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
 

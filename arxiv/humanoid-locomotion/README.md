@@ -1,22 +1,22 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.12
+### Updated on 2026.10.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-09**|**BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation**|Fabio Hübel et.al.|[2610.13862v1](http://arxiv.org/abs/2610.13862v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.13862)|
-|**2026-10-09**|**ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching**|Zhihao Tian et.al.|[2610.13572v1](http://arxiv.org/abs/2610.13572v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13572)|
-|**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373v1](http://arxiv.org/abs/2610.13373v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13373)|
-|**2026-10-09**|**PATACON: GPU-Parallel Tangent-Bundle RRT-Connect for Constrained Motion Planning**|Gahyun Oh et.al.|[2610.13195v1](http://arxiv.org/abs/2610.13195v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13195)|
-|**2026-10-09**|**Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation**|Chen Yu et.al.|[2610.13087v1](http://arxiv.org/abs/2610.13087v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13087)|
-|**2026-10-09**|**VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills**|Dvij Kalaria et.al.|[2610.13079v1](http://arxiv.org/abs/2610.13079v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.13079)|
-|**2026-10-09**|**Adaptive Whole-Body MPC with Optimal Posture Planning for Humanoid Robots under Unknown Payloads**|Manh Cuong Nguyen et.al.|[2610.12972v1](http://arxiv.org/abs/2610.12972v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12972)|
-|**2026-10-09**|**JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents**|Gangyi Li et.al.|[2610.12957v1](http://arxiv.org/abs/2610.12957v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12957)|
-|**2026-10-09**|**TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation**|Lingjie Zhang et.al.|[2610.12877v1](http://arxiv.org/abs/2610.12877v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12877)|
-|**2026-10-08**|**Reflex: Visually Grounded Reactive Humanoid Control**|Taoyang Jia et.al.|[2610.12772v1](http://arxiv.org/abs/2610.12772v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12772)|
-|**2026-10-08**|**PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting**|Nicholas Ioannidis et.al.|[2610.12642v1](http://arxiv.org/abs/2610.12642v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12642)|
-|**2026-10-08**|**Graph-Based Heuristics for Minimum Constraint Removal in Cluttered Robot Motion Planning**|Antony Thomas et.al.|[2610.12609v1](http://arxiv.org/abs/2610.12609v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12609)|
-|**2026-10-08**|**PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface**|Xiaomeng Xu et.al.|[2610.12558v1](http://arxiv.org/abs/2610.12558v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.12558)|
+|**2026-10-09**|**BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation**|Fabio Hübel et.al.|[2610.13862v1](http://arxiv.org/abs/2610.13862v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13862)|
+|**2026-10-09**|**ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching**|Zhihao Tian et.al.|[2610.13572v1](http://arxiv.org/abs/2610.13572v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13572)|
+|**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373v1](http://arxiv.org/abs/2610.13373v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13373)|
+|**2026-10-09**|**PATACON: GPU-Parallel Tangent-Bundle RRT-Connect for Constrained Motion Planning**|Gahyun Oh et.al.|[2610.13195v1](http://arxiv.org/abs/2610.13195v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.13195)|
+|**2026-10-09**|**Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation**|Chen Yu et.al.|[2610.13087v1](http://arxiv.org/abs/2610.13087v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13087)|
+|**2026-10-09**|**VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills**|Dvij Kalaria et.al.|[2610.13079v1](http://arxiv.org/abs/2610.13079v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13079)|
+|**2026-10-09**|**Adaptive Whole-Body MPC with Optimal Posture Planning for Humanoid Robots under Unknown Payloads**|Manh Cuong Nguyen et.al.|[2610.12972v1](http://arxiv.org/abs/2610.12972v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12972)|
+|**2026-10-09**|**JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents**|Gangyi Li et.al.|[2610.12957v1](http://arxiv.org/abs/2610.12957v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12957)|
+|**2026-10-09**|**TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation**|Lingjie Zhang et.al.|[2610.12877v1](http://arxiv.org/abs/2610.12877v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12877)|
+|**2026-10-08**|**Reflex: Visually Grounded Reactive Humanoid Control**|Taoyang Jia et.al.|[2610.12772v1](http://arxiv.org/abs/2610.12772v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12772)|
+|**2026-10-08**|**PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting**|Nicholas Ioannidis et.al.|[2610.12642v1](http://arxiv.org/abs/2610.12642v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.12642)|
+|**2026-10-08**|**Graph-Based Heuristics for Minimum Constraint Removal in Cluttered Robot Motion Planning**|Antony Thomas et.al.|[2610.12609v1](http://arxiv.org/abs/2610.12609v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12609)|
+|**2026-10-08**|**PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface**|Xiaomeng Xu et.al.|[2610.12558v1](http://arxiv.org/abs/2610.12558v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12558)|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465v1](http://arxiv.org/abs/2610.12465v1)|null|[αX↑55](https://alphaxiv.org/abs/2610.12465)|
 |**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Mert Albaba et.al.|[2610.12435v1](http://arxiv.org/abs/2610.12435v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.12435)|
 |**2026-10-08**|**FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems**|Songyuan Zhang et.al.|[2610.12432v1](http://arxiv.org/abs/2610.12432v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12432)|
@@ -30,7 +30,7 @@
 |**2026-10-07**|**TAPNAV: Humanoid Navigation through Tactile Active Perception**|Huaze Liu et.al.|[2610.10748v1](http://arxiv.org/abs/2610.10748v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.10748)|
 |**2026-10-06**|**Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection**|Lemon Foxmere et.al.|[2610.10601v1](http://arxiv.org/abs/2610.10601v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.10601)|
 |**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Mike Zhang et.al.|[2610.10489v1](http://arxiv.org/abs/2610.10489v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.10489)|
-|**2026-10-07**|**CMP-IRRT*: A Perception-Assisted Height-Adaptive Planner for Quadruped Robots**|Mingfan Zhao et.al.|[2610.10470v1](http://arxiv.org/abs/2610.10470v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.10470)|
+|**2026-10-07**|**CMP-IRRT*: A Perception-Assisted Height-Adaptive Planner for Quadruped Robots**|Mingfan Zhao et.al.|[2610.10470v1](http://arxiv.org/abs/2610.10470v1)|[link](https://github.com/MingfanZhao/height-adaptive-planner)|[αX↑3](https://alphaxiv.org/abs/2610.10470)|
 |**2026-10-07**|**LLA-MPPI: Rapidly Adaptive Whole-body Control of Legged Robots with GPU-Accelerated Parallel Simulations**|Sebin Jung et.al.|[2610.10465v1](http://arxiv.org/abs/2610.10465v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.10465)|
 |**2026-10-07**|**Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains**|Ammar Issa et.al.|[2610.10297v1](http://arxiv.org/abs/2610.10297v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.10297)|
 |**2026-10-07**|**Benchmarking Behavioral Steerability in Behavior Foundation Models**|Minghe Gao et.al.|[2610.10198v1](http://arxiv.org/abs/2610.10198v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.10198)|
@@ -79,7 +79,7 @@
 |**2026-10-03**|**Continual Humanoid Motion Learning**|Zhewen He et.al.|[2610.04231v1](http://arxiv.org/abs/2610.04231v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.04231)|
 |**2026-10-02**|**TACET: Context-Appropriate Acoustic-Social Navigation for Quadrupeds**|Sungsan Park et.al.|[2610.03828v1](http://arxiv.org/abs/2610.03828v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.03828)|
 |**2026-10-02**|**KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery**|Zhongxiang Lei et.al.|[2610.03388v1](http://arxiv.org/abs/2610.03388v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.03388)|
-|**2026-10-02**|**EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation**|Pujun Guo et.al.|[2610.03248v1](http://arxiv.org/abs/2610.03248v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.03248)|
+|**2026-10-02**|**EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation**|Pujun Guo et.al.|[2610.03248v1](http://arxiv.org/abs/2610.03248v1)|[link](https://github.com/guopj1/EmbPASS)|[αX↑4](https://alphaxiv.org/abs/2610.03248)|
 |**2026-10-02**|**Beyond Reward Hacking: Proxy Divergence Across Four Layers of a Staged Humanoid Learning Pipeline**|Arunabh Bora et.al.|[2610.03196v1](http://arxiv.org/abs/2610.03196v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.03196)|
 |**2026-10-02**|**CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments**|Feiyang Chen et.al.|[2610.03031v1](http://arxiv.org/abs/2610.03031v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.03031)|
 |**2026-10-02**|**Around the World: Unified Learned Locomotion on a 270 g Continuous-Rotation Quadruped**|Arturo Flores Alvarez et.al.|[2610.02728v1](http://arxiv.org/abs/2610.02728v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.02728)|
@@ -162,9 +162,11 @@
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340v1](http://arxiv.org/abs/2609.19340v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.19340)|
 |**2026-09-16**|**Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator**|Zhongyu Chen et.al.|[2609.18930v1](http://arxiv.org/abs/2609.18930v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.18930)|
 |**2026-09-16**|**KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation**|Sitong Chen et.al.|[2609.18869v1](http://arxiv.org/abs/2609.18869v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.18869)|
+|**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372v1](http://arxiv.org/abs/2609.17372v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.17372)|
 |**2026-09-15**|**WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination**|Zhuo Li et.al.|[2609.16644v1](http://arxiv.org/abs/2609.16644v1)|null|[αX↑37](https://alphaxiv.org/abs/2609.16644)|
 |**2026-09-30**|**Collision-Aware Humanoid Whole-Body Control under Imperfect Tracking Targets**|Mohitvishnu S. Gadde et.al.|[2609.16405v2](http://arxiv.org/abs/2609.16405v2)|null|[αX↑6](https://alphaxiv.org/abs/2609.16405)|
 |**2026-09-14**|**JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion**|Qihao Yuan et.al.|[2609.15770v1](http://arxiv.org/abs/2609.15770v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.15770)|
+|**2026-08-13**|**SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control**|Zhengyi Luo et.al.|[2511.07820v4](http://arxiv.org/abs/2511.07820v4)|[link](https://github.com/NVlabs/GR00T-WholeBodyControl)|[αX↑141](https://alphaxiv.org/abs/2511.07820)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
 
