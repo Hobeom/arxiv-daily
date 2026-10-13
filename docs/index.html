@@ -15,6 +15,10 @@
   // Fallback CDN if cdn.plot.ly is unreachable.
   window.Plotly || document.write('<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.35.2/plotly.min.js"><\/script>');
 </script>
+<script src="https://cdn.jsdelivr.net/npm/force-graph@1.52.0/dist/force-graph.min.js"></script>
+<script>
+  window.ForceGraph || document.write('<script src="https://unpkg.com/force-graph@1.52.0/dist/force-graph.min.js"><\/script>');
+</script>
 <style>
   :root {
     --bg:#0c0e12; --panel:#13161d; --panel2:#1a1e27; --panel3:#222734;
@@ -209,6 +213,7 @@
   <div class="count" id="count"></div>
   <div class="tabs">
     <button class="tab active" data-view="map" title="3D paper similarity map">Similarity</button>
+    <button class="tab" data-view="graph" title="Force-directed graph of citations and similar papers">Graph</button>
     <button class="tab" data-view="list" title="Browse papers">List</button>
     <button class="tab" data-view="stats" title="Statistics">Stats</button>
     <button class="tab" id="rand" title="Random paper">🎲</button>
@@ -244,14 +249,26 @@
       <div id="map"></div>
       <div class="mapbar">
         <div class="glass seg2" id="colorby"><button data-c="topic" class="on">Color: topic</button><button data-c="cluster">sub-topic</button><button data-c="date">recency</button></div>
+        <div class="glass seg2" id="dim"><button data-d="2d">2D</button><button data-d="3d">3D</button></div>
+        <div class="glass seg2"><button id="fit" title="Fit the view to the current filters">⤢ Fit</button></div>
       </div>
       <div class="legend glass" id="legend"></div>
-      <div class="hint glass">drag = rotate · scroll = zoom · click = details · <span style="color:#ffd166">━</span> similar <span style="color:#4fd6e0">━</span> cites / recommended</div>
+      <div class="hint glass">drag = pan (2D) / rotate (3D) · scroll = zoom · click = details · <span style="color:#ffd166">━</span> similar <span style="color:#4fd6e0">━</span> cites / recommended</div>
+    </div>
+    <div id="view-graph" style="position:absolute;inset:0" hidden>
+      <div id="fg" style="position:absolute;inset:0"></div>
+      <div class="mapbar">
+        <div class="glass seg2" id="g-color"><button data-c="topic" class="on">Color: topic</button><button data-c="cluster">sub-topic</button></div>
+        <div class="glass seg2" id="g-edges"><button data-e="cite" class="on">Citations</button><button data-e="sim" class="on">Similar</button></div>
+        <div class="glass seg2"><button id="g-fit" title="Fit the view to the current filters">⤢ Fit</button></div>
+      </div>
+      <div class="legend glass" id="g-legend"></div>
+      <div class="hint glass">drag nodes · scroll = zoom · hover = neighbours · click = details · <span style="color:#4fd6e0">━</span> cites <span style="color:var(--mut)">━</span> similar</div>
     </div>
     <div id="view-list" hidden></div>
     <div id="view-stats" hidden></div>
   </main>
-  <aside class="col r detail" id="detail"><div class="empty">👆 Click a paper to see details.<br>🌌 <b>Similarity</b>: nearby dots = related papers<br>🔎 Search dims everything that does not match</div></aside>
+  <aside class="col r detail" id="detail"><div class="empty">👆 Click a paper to see details.<br>🌌 <b>Similarity</b>: nearby dots = related papers<br>🕸 <b>Graph</b>: linked papers pull together<br>🔎 Search dims everything that does not match</div></aside>
 </div>
 
 <div class="modal" id="modal"><div class="modalbox">
@@ -346,9 +363,10 @@
     $('count').textContent = (anyFilter() ? fs.length + ' / ' : '') + PAPERS.length + ' papers';
     renderSubheader();
     $('layout').classList.toggle('nomenu', VIEW !== 'list');
-    $('main').classList.toggle('pad', VIEW !== 'map');
-    ['map', 'list', 'stats'].forEach(function (v) { $('view-' + v).hidden = VIEW !== v; });
+    $('main').classList.toggle('pad', VIEW !== 'map' && VIEW !== 'graph');
+    ['map', 'graph', 'list', 'stats'].forEach(function (v) { $('view-' + v).hidden = VIEW !== v; });
     if (VIEW === 'map') renderMap(fs);
+    else if (VIEW === 'graph') renderGraph(fs);
     else if (VIEW === 'list') { renderSidebar(); renderList(fs); }
     else renderStats(fs);
   }
@@ -375,6 +393,27 @@
     }).join('') + (list.length > 12 ? '<div class="meta" style="padding-left:25px">+ ' + (list.length - 12) + ' more</div>' : '');
   }
 
+  // 2D (fast WebGL) by default; 3D on request. Each view uses its own layout.
+  var MAPDIM = read('px_dim', '2d') === '3d' ? '3d' : '2d', FIT = 0;
+  function pos(p) {
+    if (MAPDIM === '3d') return [p.x, p.y, p.z];
+    return p.x2 != null ? [p.x2, p.y2] : [p.x, p.y];
+  }
+  // View is re-fitted whenever this changes (filters, 2D/3D, Fit button),
+  // but not when a paper is selected or the colouring changes.
+  function fitKey() {
+    return JSON.stringify([F.q, F.topic, F.range, F.code, F.project, F.graph, F.summary, F.saved, F.author, F.cluster, MAPDIM, FIT]);
+  }
+  function fitRange(list) {
+    var dims = MAPDIM === '3d' ? 3 : 2, out = [];
+    for (var d = 0; d < dims; d++) {
+      var lo = Infinity, hi = -Infinity;
+      list.forEach(function (p) { var v = pos(p)[d]; if (v < lo) lo = v; if (v > hi) hi = v; });
+      var mid = (lo + hi) / 2, half = Math.max((hi - lo) / 2 * 1.12, 0.45);
+      out.push([mid - half, mid + half]);
+    }
+    return out;
+  }
   function renderMap(fs) {
     if (typeof Plotly === 'undefined') { $('map').innerHTML = '<div class="empty">Plotly failed to load.</div>'; return; }
     var pts = PAPERS.filter(function (p) { return p.x != null; });
@@ -382,55 +421,72 @@
     var inSet = new Set(fs.map(function (p) { return p.id; }));
     var on = pts.filter(function (p) { return inSet.has(p.id); });
     var off = pts.filter(function (p) { return !inSet.has(p.id); });
+    var is3 = MAPDIM === '3d', type = is3 ? 'scatter3d' : 'scattergl';
     var tc = themeColors();
+    function xyz(list) {
+      var o = { x: [], y: [] };
+      if (is3) o.z = [];
+      list.forEach(function (p) { var c = pos(p); o.x.push(c[0]); o.y.push(c[1]); if (is3) o.z.push(c[2]); });
+      return o;
+    }
+    function lines(src, list, color, width) {
+      var o = { type: type, mode: 'lines', hoverinfo: 'skip', showlegend: false, line: { color: color, width: width }, x: [], y: [] };
+      if (is3) o.z = [];
+      var a = pos(src);
+      list.forEach(function (p) {
+        var b = pos(p);
+        o.x.push(a[0], b[0], null); o.y.push(a[1], b[1], null);
+        if (is3) o.z.push(a[2], b[2], null);
+      });
+      return o;
+    }
+    // Two point traces in total (dimmed + highlighted) keep WebGL drawing and
+    // hover picking cheap; colours are per point instead of one trace per group.
     var traces = [];
-    function tr(list, name, color, extra) {
-      return Object.assign({
-        type: 'scatter3d', mode: 'markers', name: name,
-        x: list.map(function (p) { return p.x; }), y: list.map(function (p) { return p.y; }), z: list.map(function (p) { return p.z; }),
-        customdata: list.map(function (p) { return p.id; }),
-        text: list.map(function (p) { return p.title; }),
-        hovertemplate: '%{text}<extra></extra>',
-        marker: { size: list.map(function (p) { return 3 + Math.min(7, Math.sqrt(votes(p))); }), color: color, opacity: 0.9, line: { width: 0 } }
-      }, extra || {});
-    }
-    if (off.length) traces.push(tr(off, 'other', tc.faint, { hoverinfo: 'skip', hovertemplate: null, marker: { size: 2.2, color: tc.faint, opacity: 0.35 } }));
-    if (COLORBY === 'topic') {
-      TOPICS.forEach(function (t) {
-        var l = on.filter(function (p) { return p.topics[0] === t; });
-        if (l.length) traces.push(tr(l, t, TCOLOR[t]));
-      });
-    } else if (COLORBY === 'cluster') {
-      CLUSTERS.forEach(function (c) {
-        var l = on.filter(function (p) { return p.c === c.id; });
-        if (l.length) traces.push(tr(l, c.label, clusterColor(c.id)));
-      });
-    } else {
-      var t = tr(on, 'papers', null);
+    if (off.length) traces.push(Object.assign(xyz(off), { type: type, mode: 'markers', hoverinfo: 'skip', showlegend: false,
+      marker: { size: is3 ? 2 : 3, color: tc.faint, opacity: 0.35 } }));
+    var main = Object.assign(xyz(on), {
+      type: type, mode: 'markers', showlegend: false,
+      customdata: on.map(function (p) { return p.id; }),
+      text: on.map(function (p) { return p.title; }),
+      hovertemplate: '%{text}<extra></extra>',
+      marker: { size: on.map(function (p) { return (is3 ? 3 : 5) + Math.min(7, Math.sqrt(votes(p))); }), opacity: 0.9, line: { width: 0 } }
+    });
+    if (COLORBY === 'date') {
       var t0 = new Date(daysAgo(365)).getTime();
-      t.marker.color = on.map(function (p) { return Math.max(t0, new Date(p.date).getTime()) / 864e5; });
-      t.marker.colorscale = 'Viridis';
-      traces.push(t);
+      main.marker.color = on.map(function (p) { return Math.max(t0, new Date(p.date).getTime()) / 864e5; });
+      main.marker.colorscale = 'Viridis';
+    } else {
+      main.marker.color = on.map(function (p) { return COLORBY === 'cluster' ? clusterColor(p.c) : TCOLOR[p.topics[0]]; });
     }
+    traces.push(main);
     if (SEL && BY_ID[SEL] && BY_ID[SEL].x != null) {
-      var s = BY_ID[SEL], sims = (s.sim || []).map(function (id) { return BY_ID[id]; }).filter(function (p) { return p && p.x != null; });
-      var lx = [], ly = [], lz = [];
-      sims.forEach(function (p) { lx.push(s.x, p.x, null); ly.push(s.y, p.y, null); lz.push(s.z, p.z, null); });
-      traces.push({ type: 'scatter3d', mode: 'lines', x: lx, y: ly, z: lz, hoverinfo: 'skip', line: { color: '#ffd166', width: 3 }, showlegend: false });
+      var s = BY_ID[SEL];
+      var sims = (s.sim || []).map(function (id) { return BY_ID[id]; }).filter(function (p) { return p && p.x != null; });
+      traces.push(lines(s, sims, '#ffd166', 3));
       // citation / recommendation links (Semantic Scholar) in cyan
       var rel = related(s).filter(function (p) { return p.x != null; });
-      var gx = [], gy = [], gz = [];
-      rel.forEach(function (p) { gx.push(s.x, p.x, null); gy.push(s.y, p.y, null); gz.push(s.z, p.z, null); });
-      if (rel.length) traces.push({ type: 'scatter3d', mode: 'lines', x: gx, y: gy, z: gz, hoverinfo: 'skip', line: { color: '#4fd6e0', width: 2 }, showlegend: false });
-      traces.push(tr([s], 'selected', '#ffd166', { marker: { size: 12, color: '#ffd166', line: { color: '#fff', width: 2 } }, showlegend: false }));
+      if (rel.length) traces.push(lines(s, rel, '#4fd6e0', 2));
+      traces.push(Object.assign(xyz([s]), { type: type, mode: 'markers', hoverinfo: 'skip', showlegend: false,
+        marker: { size: is3 ? 12 : 16, color: '#ffd166', line: { color: '#fff', width: 2 } } }));
     }
-    var axis = { showgrid: false, zeroline: false, showticklabels: false, title: '', showspikes: false, showbackground: false };
+    // Auto-zoom to the papers that match the current filters.
+    var range = fitRange(on.length && on.length < pts.length ? on : pts);
     var layout = {
       paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)', margin: { l: 0, r: 0, t: 0, b: 0 },
-      showlegend: false, uirevision: 'keep', hoverlabel: { font: { size: 12 } },
-      scene: { xaxis: axis, yaxis: axis, zaxis: axis, aspectmode: 'cube', camera: { eye: { x: 1.05, y: 1.05, z: 0.7 } } }
+      showlegend: false, uirevision: fitKey(), hovermode: 'closest', hoverlabel: { font: { size: 12 } }
     };
-    Plotly.react('map', traces, layout, { displaylogo: false, responsive: true, modeBarButtonsToRemove: ['toImage', 'resetCameraLastSave3d'] });
+    if (is3) {
+      var axis = function (r) { return { range: r, showgrid: false, zeroline: false, showticklabels: false, title: '', showspikes: false, showbackground: false }; };
+      layout.scene = { xaxis: axis(range[0]), yaxis: axis(range[1]), zaxis: axis(range[2]), aspectmode: 'cube', camera: { eye: { x: 1.05, y: 1.05, z: 0.7 } } };
+    } else {
+      var ax = function (r) { return { range: r, visible: false, fixedrange: false }; };
+      layout.xaxis = ax(range[0]);
+      layout.yaxis = Object.assign(ax(range[1]), { scaleanchor: 'x', scaleratio: 1 });
+      layout.dragmode = 'pan';
+    }
+    Plotly.react('map', traces, layout, { displaylogo: false, responsive: true, scrollZoom: true,
+      modeBarButtonsToRemove: ['toImage', 'resetCameraLastSave3d', 'select2d', 'lasso2d', 'autoScale2d'] });
     if (!mapReady) {
       mapReady = true;
       $('map').on('plotly_click', function (ev) { var id = ev.points[0].customdata; if (id) select(id); });
@@ -442,6 +498,142 @@
         ? CLUSTERS.map(function (c) { return [clusterColor(c.id), c.label, 'data-cluster="' + c.id + '"']; })
         : [['#fde725', 'newer'], ['#440154', 'older (≥ 1 year)']];
     $('legend').innerHTML = items.map(function (i) { return '<div class="li" ' + (i[2] || '') + '><span class="dot" style="background:' + i[0] + '"></span>' + esc(i[1]) + '</div>'; }).join('');
+  }
+
+  // ---------- graph (force-directed, Obsidian-style) ----------
+  // Papers are nodes; citations inside the collection and each paper's top-2
+  // most similar papers are links. Connected papers pull together, node size
+  // grows with degree, hover highlights a node's neighbourhood.
+  var G = null, GSTATE = { color: 'topic', cite: true, sim: true, key: '', fitPending: false, hover: null, nbrs: null, nodes: {} };
+  function graphData(fs) {
+    var ids = new Set(fs.map(function (p) { return p.id; })), links = [], seen = {};
+    function add(a, b, kind) {
+      if (a === b || !ids.has(b)) return;
+      var k = a < b ? a + '|' + b : b + '|' + a;
+      if (seen[k]) { if (kind === 'cite') seen[k].kind = 'cite'; return; }
+      seen[k] = { source: a, target: b, kind: kind };
+      links.push(seen[k]);
+    }
+    fs.forEach(function (p) {
+      if (GSTATE.cite) (p.refs || []).forEach(function (r) { add(p.id, r, 'cite'); });
+      // top-2 similar papers *within the current filter*, so filtered views
+      // stay connected instead of turning into isolated dots
+      if (GSTATE.sim) (p.sim || []).filter(function (r) { return ids.has(r); }).slice(0, 2).forEach(function (r) { add(p.id, r, 'sim'); });
+    });
+    var deg = {};
+    links.forEach(function (l) { deg[l.source] = (deg[l.source] || 0) + 1; deg[l.target] = (deg[l.target] || 0) + 1; });
+    // Reuse node objects so positions survive re-renders (filters, selection).
+    var nodes = fs.map(function (p) {
+      var n = GSTATE.nodes[p.id] || (GSTATE.nodes[p.id] = { id: p.id, p: p });
+      n.deg = deg[p.id] || 0;
+      n.r = 2.2 + Math.sqrt(n.deg) * 1.1 + Math.min(3, Math.sqrt(votes(p)) / 2);
+      return n;
+    });
+    return { nodes: nodes, links: links };
+  }
+  function nodeColor(n) {
+    return GSTATE.color === 'cluster' ? clusterColor(n.p.c) : TCOLOR[n.p.topics[0]];
+  }
+  function lid(x) { return typeof x === 'object' ? x.id : x; }
+  // Re-setting an accessor makes force-graph repaint even after the layout
+  // has settled (it pauses redraws when idle).
+  function redraw() { if (G) G.linkColor(G.linkColor()); }
+  function setFocus(id) {
+    GSTATE.hover = id;
+    GSTATE.nbrs = null;
+    if (!id || !G) { redraw(); return; }
+    var nb = new Set([id]);
+    G.graphData().links.forEach(function (l) {
+      var a = lid(l.source), b = lid(l.target);
+      if (a === id) nb.add(b); else if (b === id) nb.add(a);
+    });
+    GSTATE.nbrs = nb;
+    redraw();
+  }
+  function initGraph() {
+    var el = $('fg');
+    G = ForceGraph()(el)
+      .backgroundColor('rgba(0,0,0,0)')
+      .nodeId('id')
+      .nodeVal(function (n) { return n.r * n.r; })
+      .nodeRelSize(1)
+      .nodeLabel(function (n) { return esc(n.p.title); })
+      .linkColor(function (l) {
+        var hot = GSTATE.nbrs && GSTATE.nbrs.has(lid(l.source)) && GSTATE.nbrs.has(lid(l.target)) && (lid(l.source) === GSTATE.hover || lid(l.target) === GSTATE.hover);
+        if (GSTATE.nbrs && !hot) return 'rgba(128,128,128,0.05)';
+        return l.kind === 'cite' ? (hot ? 'rgba(79,214,224,0.95)' : 'rgba(79,214,224,0.35)') : (hot ? 'rgba(180,180,190,0.8)' : 'rgba(140,140,150,0.18)');
+      })
+      .linkWidth(function (l) { return GSTATE.nbrs && (lid(l.source) === GSTATE.hover || lid(l.target) === GSTATE.hover) ? 1.6 : 0.6; })
+      .nodeCanvasObject(function (n, ctx, scale) {
+        var dim = GSTATE.nbrs && !GSTATE.nbrs.has(n.id);
+        ctx.globalAlpha = dim ? 0.12 : 1;
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r, 0, 2 * Math.PI);
+        ctx.fillStyle = nodeColor(n);
+        ctx.fill();
+        if (n.id === SEL) { ctx.lineWidth = 2 / scale; ctx.strokeStyle = '#ffd166'; ctx.stroke(); }
+        // labels: big nodes when zoomed in, plus the hovered neighbourhood
+        var show = (GSTATE.nbrs && GSTATE.nbrs.has(n.id)) || n.id === SEL || (scale > 2.2 && n.deg >= 3) || scale > 5;
+        if (show && !dim) {
+          var t = n.p.title.length > 48 ? n.p.title.slice(0, 46) + '…' : n.p.title;
+          var fs = Math.max(10 / scale, 1.5);
+          ctx.font = fs + 'px -apple-system, Segoe UI, sans-serif';
+          ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+          ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue('--ink');
+          ctx.fillText(t, n.x, n.y + n.r + 1.5);
+        }
+        ctx.globalAlpha = 1;
+      })
+      .nodePointerAreaPaint(function (n, color, ctx) {
+        ctx.fillStyle = color; ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 1, 0, 2 * Math.PI); ctx.fill();
+      })
+      .onNodeHover(function (n) { el.style.cursor = n ? 'pointer' : null; setFocus(n ? n.id : (SEL && GSTATE.nodes[SEL] ? SEL : null)); })
+      .onNodeClick(function (n) { select(n.id); })
+      .onBackgroundClick(function () { setFocus(null); })
+      .onEngineStop(function () {
+        if (GSTATE.fitPending) { GSTATE.fitPending = false; G.zoomToFit(600, 40); }
+      })
+      .d3VelocityDecay(0.3)
+      .warmupTicks(40)
+      .cooldownTime(6000);
+    G.d3Force('charge').strength(-18).distanceMax(250);
+    G.d3Force('link').distance(function (l) { return l.kind === 'cite' ? 18 : 26; }).strength(function (l) { return l.kind === 'cite' ? 0.9 : 0.6; });
+    // weak pull to the centre (like Obsidian) so unlinked papers stay nearby
+    // instead of being pushed far out by the repulsion
+    var gNodes = [];
+    var gravity = function (alpha) {
+      gNodes.forEach(function (n) { n.vx -= n.x * 0.04 * alpha; n.vy -= n.y * 0.04 * alpha; });
+    };
+    gravity.initialize = function (ns) { gNodes = ns; };
+    G.d3Force('gravity', gravity);
+    window.addEventListener('resize', function () { if (VIEW === 'graph') G.width(el.clientWidth).height(el.clientHeight); });
+  }
+  function renderGraph(fs) {
+    if (typeof ForceGraph === 'undefined') { $('fg').innerHTML = '<div class="empty">Graph library failed to load.</div>'; return; }
+    if (!G) initGraph();
+    var el = $('fg');
+    G.width(el.clientWidth).height(el.clientHeight);
+    var key = JSON.stringify([fitKey(), GSTATE.cite, GSTATE.sim]);
+    if (key !== GSTATE.key) {
+      GSTATE.key = key;
+      GSTATE.fitPending = true;  // auto-zoom once the layout settles
+      var data = graphData(fs);
+      setFocus(null);
+      G.graphData(data);
+      if (SEL && GSTATE.nodes[SEL]) setFocus(SEL);
+    }
+    $('g-legend').innerHTML = (GSTATE.color === 'cluster'
+      ? CLUSTERS.map(function (c) { return [clusterColor(c.id), c.label, 'data-cluster="' + c.id + '"']; })
+      : TOPICS.map(function (t) { return [TCOLOR[t], t, 'data-topic="' + esc(t) + '"']; })
+    ).map(function (i) { return '<div class="li" ' + i[2] + '><span class="dot" style="background:' + i[0] + '"></span>' + esc(i[1]) + '</div>'; }).join('') +
+      '<div class="li" style="cursor:default;margin-top:4px">' + G.graphData().nodes.length + ' papers · ' + G.graphData().links.length + ' links</div>';
+    redraw();
+  }
+  function focusGraph(id) {
+    if (!G) return;
+    var n = GSTATE.nodes[id];
+    setFocus(n && n.x != null ? id : null);
+    if (n && n.x != null) G.centerAt(n.x, n.y, 600);
   }
 
   // ---------- list ----------
@@ -527,6 +719,7 @@
     renderDetail(p);
     $('detail').classList.add('open');
     if (VIEW === 'map') renderMap(filtered());
+    else if (VIEW === 'graph') focusGraph(id);
     else if (VIEW === 'list') {
       document.querySelectorAll('.lcard').forEach(function (el) { el.classList.toggle('sel', el.dataset.id === id); });
       renderSidebar();
@@ -629,9 +822,35 @@
       var next = cur === 'dark' ? 'light' : 'dark';
       root.setAttribute('data-theme', next);
       try { localStorage.setItem('theme', next); } catch (e) {}
-      if (VIEW === 'map') render();
+      if (VIEW === 'map' || VIEW === 'graph') render();
     };
     $('brand').onclick = function () { $('reset').click(); setView('map'); };
+    function syncDim() {
+      $('dim').querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x.dataset.d === MAPDIM); });
+    }
+    syncDim();
+    $('dim').onclick = function (e) {
+      var b = e.target.closest('button'); if (!b || b.dataset.d === MAPDIM) return;
+      MAPDIM = b.dataset.d;
+      write('px_dim', MAPDIM);
+      syncDim();
+      Plotly.purge('map'); mapReady = false;  // 2D and 3D need a fresh plot
+      render();
+    };
+    $('fit').onclick = function () { FIT++; render(); };
+    $('g-fit').onclick = function () { if (G) G.zoomToFit(600, 40); };
+    $('g-color').onclick = function (e) {
+      var b = e.target.closest('button'); if (!b) return;
+      GSTATE.color = b.dataset.c;
+      this.querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x === b); });
+      render();
+    };
+    $('g-edges').onclick = function (e) {
+      var b = e.target.closest('button'); if (!b) return;
+      GSTATE[b.dataset.e] = !GSTATE[b.dataset.e];
+      b.classList.toggle('on', GSTATE[b.dataset.e]);
+      render();
+    };
     $('colorby').onclick = function (e) {
       var b = e.target.closest('button'); if (!b) return;
       COLORBY = b.dataset.c;
@@ -703,7 +922,7 @@
     bind();
     var params = new URLSearchParams(location.search);
     var v = params.get('view') || read('px_view', 'map');
-    if (v === 'list' || v === 'stats') VIEW = v;
+    if (v === 'list' || v === 'stats' || v === 'graph') VIEW = v;
     setView(VIEW);
     var pid = params.get('p');
     if (pid && BY_ID[pid]) select(pid);
