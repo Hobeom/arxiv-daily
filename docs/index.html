@@ -179,6 +179,7 @@
   /* pdf modal */
   .modal { position:fixed; inset:0; background:rgba(5,7,10,.8); backdrop-filter:blur(4px); display:none; z-index:50; align-items:center; justify-content:center }
   .modal.on { display:flex }
+  #modal { z-index:60 }  /* the PDF viewer opens on top of a paper page */
   .modalbox { position:relative; width:94vw; max-width:1200px; height:92vh; background:var(--panel); border:1px solid var(--line2); border-radius:14px; overflow:hidden; display:flex; flex-direction:column }
   .modalbar { display:flex; align-items:center; gap:10px; padding:9px 14px; border-bottom:1px solid var(--line); font-size:13px; color:var(--mut) }
   .modalbar b { color:var(--ink); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:1 }
