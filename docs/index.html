@@ -283,6 +283,8 @@
         <label>Node size <input type="range" data-k="size" min="0.4" max="3" step="0.1"></label>
         <label>Link thickness <input type="range" data-k="width" min="0.2" max="4" step="0.1"></label>
         <label>Text fade threshold <input type="range" data-k="label" min="0.5" max="8" step="0.1"></label>
+        <label>Link opacity <input type="range" data-k="linkAlpha" min="0.05" max="1" step="0.05"></label>
+        <label>Dimmed node opacity <span style="color:var(--faint)">(non-neighbours of the hovered / selected paper)</span><input type="range" data-k="dimAlpha" min="0" max="1" step="0.05"></label>
         <button class="linkish" id="g-reset">↺ Restore defaults</button>
       </div>
       <div class="hint glass">drag nodes · scroll = zoom · hover = neighbours · click = open page · <span style="color:#4fd6e0">━</span> cites <span style="color:var(--mut)">━</span> similar</div>
@@ -535,7 +537,7 @@
   // grows with degree, hover highlights a node's neighbourhood.
   var G = null, GSTATE = { color: 'topic', cite: true, sim: true, key: '', fitPending: false, hover: null, nbrs: null, nodes: {} };
   // Obsidian-like graph settings, remembered per browser.
-  var FORCE_DEFAULTS = { center: 0.04, repel: 18, link: 0.7, dist: 25, size: 1, width: 1, label: 2.2 };
+  var FORCE_DEFAULTS = { center: 0.04, repel: 18, link: 0.7, dist: 25, size: 1, width: 1, label: 2.2, linkAlpha: 0.55, dimAlpha: 0.4 };
   var FORCE = Object.assign({}, FORCE_DEFAULTS, read('px_forces', {}));
   function applyForces(reheat) {
     if (!G) return;
@@ -601,13 +603,14 @@
       .nodeLabel(function (n) { return esc(n.p.title); })
       .linkColor(function (l) {
         var hot = GSTATE.nbrs && GSTATE.nbrs.has(lid(l.source)) && GSTATE.nbrs.has(lid(l.target)) && (lid(l.source) === GSTATE.hover || lid(l.target) === GSTATE.hover);
-        if (GSTATE.nbrs && !hot) return 'rgba(128,128,128,0.05)';
-        return l.kind === 'cite' ? (hot ? 'rgba(79,214,224,0.95)' : 'rgba(79,214,224,0.35)') : (hot ? 'rgba(180,180,190,0.8)' : 'rgba(140,140,150,0.18)');
+        if (GSTATE.nbrs && !hot) return 'rgba(128,128,128,' + (FORCE.linkAlpha * FORCE.dimAlpha * 0.6) + ')';
+        if (hot) return l.kind === 'cite' ? 'rgba(79,214,224,0.95)' : 'rgba(190,190,200,0.85)';
+        return l.kind === 'cite' ? 'rgba(79,214,224,' + FORCE.linkAlpha + ')' : 'rgba(150,150,160,' + (FORCE.linkAlpha * 0.65) + ')';
       })
       .linkWidth(function (l) { return (GSTATE.nbrs && (lid(l.source) === GSTATE.hover || lid(l.target) === GSTATE.hover) ? 1.6 : 0.6) * FORCE.width; })
       .nodeCanvasObject(function (n, ctx, scale) {
         var dim = GSTATE.nbrs && !GSTATE.nbrs.has(n.id);
-        ctx.globalAlpha = dim ? 0.12 : 1;
+        ctx.globalAlpha = dim ? FORCE.dimAlpha : 1;
         ctx.beginPath();
         var r = n.r * FORCE.size;
         ctx.arc(n.x, n.y, r, 0, 2 * Math.PI);
@@ -629,7 +632,9 @@
       .nodePointerAreaPaint(function (n, color, ctx) {
         ctx.fillStyle = color; ctx.beginPath(); ctx.arc(n.x, n.y, n.r * FORCE.size + 1, 0, 2 * Math.PI); ctx.fill();
       })
-      .onNodeHover(function (n) { el.style.cursor = n ? 'pointer' : null; setFocus(n ? n.id : (SEL && GSTATE.nodes[SEL] ? SEL : null)); })
+      // neighbourhood highlight only while hovering (like Obsidian), so a
+      // selected paper doesn't leave the whole graph dimmed
+      .onNodeHover(function (n) { el.style.cursor = n ? 'pointer' : null; setFocus(n ? n.id : null); })
       .onNodeClick(function (n) { openPage(n.id); })
       // release the node after dragging so it springs back into the layout
       .onNodeDragEnd(function (n) { n.fx = undefined; n.fy = undefined; })
@@ -664,7 +669,6 @@
       var data = graphData(fs);
       setFocus(null);
       G.graphData(data);
-      if (SEL && GSTATE.nodes[SEL]) setFocus(SEL);
     }
     $('g-legend').innerHTML = (GSTATE.color === 'cluster'
       ? CLUSTERS.map(function (c) { return [clusterColor(c.id), c.label, 'data-cluster="' + c.id + '"']; })
@@ -676,8 +680,8 @@
   function focusGraph(id) {
     if (!G) return;
     var n = GSTATE.nodes[id];
-    setFocus(n && n.x != null ? id : null);
     if (n && n.x != null) G.centerAt(n.x, n.y, 600);
+    redraw();  // yellow ring on the selected paper
   }
 
   // ---------- paper page (opened by clicking a graph node) ----------
