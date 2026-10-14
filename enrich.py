@@ -157,7 +157,8 @@ class S2Client:
 
     def __init__(self, key):
         self.key = key
-        self.interval = 1.1 if key else 3.5
+        # keyed limit is 1 request/s; 1.1 s still hit occasional 429s
+        self.interval = 1.5 if key else 3.5
         self.last = 0.0
         self.waited = 0
 
@@ -394,7 +395,7 @@ def main():
     config = load_config(args.config_path)
     opts = {
         'hf_per_run': 1500,
-        's2_recs_per_run': 150,
+        's2_recs_per_run': 600,
         'graph_expansion': True,
         'min_score': 5,
         'max_age_days': 365,

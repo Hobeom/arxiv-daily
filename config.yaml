@@ -23,7 +23,9 @@ summary_model: "gemini-2.5-flash"
 #    max_new_per_run papers are added per run.
 enrich:
   hf_per_run: 1500           # HF paper API lookups per run
-  s2_recs_per_run: 150       # Semantic Scholar recommendation lookups per run
+  s2_recs_per_run: 600       # Semantic Scholar recommendation lookups per run
+                             # (~15 min with S2_API_KEY; keyless runs are
+                             # throttled and stop at the back-off budget)
   graph_expansion: True
   min_score: 5               # distinct seed papers that must link a candidate
   max_age_days: 365          # ignore older candidates (by arXiv id month)
