@@ -268,7 +268,7 @@
     <div id="view-graph" style="position:absolute;inset:0" hidden>
       <div id="fg" style="position:absolute;inset:0"></div>
       <div class="mapbar">
-        <div class="glass seg2" id="g-color"><button data-c="topic" class="on">Color: topic</button><button data-c="cluster">sub-topic</button></div>
+        <div class="glass seg2" id="g-color"><button data-c="cluster" class="on">Color: sub-topic</button><button data-c="topic">topic</button></div>
         <div class="glass seg2" id="g-edges"><button data-e="cite" class="on">Citations</button><button data-e="sim" class="on">Similar</button></div>
         <div class="glass seg2"><button id="g-fit" title="Fit the view to the current filters">⤢ Fit</button><button id="g-anim" title="Shake the layout again">↻ Animate</button><button id="g-set" title="Graph settings">⚙</button></div>
       </div>
@@ -535,13 +535,17 @@
   // Papers are nodes; citations inside the collection and each paper's top-2
   // most similar papers are links. Connected papers pull together, node size
   // grows with degree, hover highlights a node's neighbourhood.
-  var G = null, GSTATE = { color: 'topic', cite: true, sim: true, key: '', fitPending: false, hover: null, nbrs: null, nodes: {} };
+  var G = null, GSTATE = { color: 'cluster', cite: true, sim: true, key: '', fitPending: false, hover: null, nbrs: null, nodes: {} };
   // Obsidian-like graph settings, remembered per browser.
-  var FORCE_DEFAULTS = { center: 0.04, repel: 18, link: 0.7, dist: 25, size: 1, width: 1, label: 2.2, linkAlpha: 0.55, dimAlpha: 0.4 };
+  // Defaults picked by comparing layouts on the real collection: short-range
+  // repulsion + strong links + weak gravity give Obsidian-like clumps.
+  var FORCE_DEFAULTS = { center: 0.015, repel: 35, link: 1, dist: 12, size: 1, width: 1, label: 2.2, linkAlpha: 0.6, dimAlpha: 0.4 };
   var FORCE = Object.assign({}, FORCE_DEFAULTS, read('px_forces', {}));
   function applyForces(reheat) {
     if (!G) return;
-    G.d3Force('charge').strength(-FORCE.repel);
+    // repulsion only reaches nearby nodes, so linked groups can gather into
+    // clumps instead of the whole graph spreading into one even disc
+    G.d3Force('charge').strength(-FORCE.repel).distanceMax(FORCE.dist * 4);
     G.d3Force('link')
       .distance(function (l) { return l.kind === 'cite' ? FORCE.dist * 0.75 : FORCE.dist; })
       .strength(function (l) { return Math.min(1, FORCE.link * (l.kind === 'cite' ? 1.3 : 0.85)); });
@@ -569,9 +573,13 @@
     var nodes = fs.map(function (p) {
       var n = GSTATE.nodes[p.id] || (GSTATE.nodes[p.id] = { id: p.id, p: p });
       n.deg = deg[p.id] || 0;
-      n.r = 2.2 + Math.sqrt(n.deg) * 1.1 + Math.min(3, Math.sqrt(votes(p)) / 2);
+      // log scale: hubs with 100+ links stand out without covering the graph
+      n.r = 1.8 + Math.log2(1 + n.deg) * 0.9 + Math.min(2, Math.sqrt(votes(p)) / 3);
       return n;
     });
+    // rank by degree: labels go to the best-connected papers first
+    GSTATE.byRank = nodes.slice().sort(function (a, b) { return b.deg - a.deg; });
+    GSTATE.byRank.forEach(function (n, i) { n.rank = i; });
     return { nodes: nodes, links: links };
   }
   function nodeColor(n) {
@@ -584,6 +592,7 @@
   function setFocus(id) {
     GSTATE.hover = id;
     GSTATE.nbrs = null;
+    GSTATE.labels = null;
     if (!id || !G) { redraw(); return; }
     var nb = new Set([id]);
     G.graphData().links.forEach(function (l) {
@@ -591,7 +600,44 @@
       if (a === id) nb.add(b); else if (b === id) nb.add(a);
     });
     GSTATE.nbrs = nb;
+    // a hub can have hundreds of neighbours; label only the 8 best-connected,
+    // and only once zoomed in (zoomed out they would pile up on each other).
+    // The hovered paper's own title is already in the tooltip.
+    var k = G.zoom() < FORCE.label ? 0 : 8;
+    var top = Array.from(nb).filter(function (x) { return x !== id && GSTATE.nodes[x]; })
+      .sort(function (a, b) { return GSTATE.nodes[b].deg - GSTATE.nodes[a].deg; }).slice(0, k);
+    GSTATE.labels = new Set(top);
     redraw();
+  }
+  function drawLabels(ctx, scale) {
+    var cand;
+    if (GSTATE.labels) cand = Array.from(GSTATE.labels).map(function (id) { return GSTATE.nodes[id]; });
+    else {
+      // more labels the further you zoom in (bounded for speed)
+      var budget = scale < FORCE.label ? 0 : Math.min(300, Math.round(12 * Math.pow(scale / FORCE.label, 2)));
+      cand = (GSTATE.byRank || []).slice(0, budget);
+    }
+    if (SEL && GSTATE.nodes[SEL]) cand = [GSTATE.nodes[SEL]].concat(cand);
+    if (!cand.length) return;
+    var css = getComputedStyle(document.documentElement), ink = css.getPropertyValue('--ink'), bg = css.getPropertyValue('--bg');
+    var fs = 11 / scale, placed = [], seen = {};
+    ctx.font = fs + 'px -apple-system, Segoe UI, sans-serif';
+    ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+    ctx.lineWidth = 3 / scale; ctx.lineJoin = 'round';
+    cand.forEach(function (n) {
+      if (!n || n.x == null || seen[n.id] || (GSTATE.nbrs && !GSTATE.nbrs.has(n.id))) return;
+      seen[n.id] = 1;
+      var t = n.p.title.length > 48 ? n.p.title.slice(0, 46) + '…' : n.p.title;
+      var w = ctx.measureText(t).width, y = n.y + n.r * FORCE.size + 1.5;
+      var box = [n.x - w / 2, y, n.x + w / 2, y + fs * 1.2];
+      for (var i = 0; i < placed.length; i++) {
+        var b = placed[i];
+        if (box[0] < b[2] && box[2] > b[0] && box[1] < b[3] && box[3] > b[1]) return;
+      }
+      placed.push(box);
+      ctx.strokeStyle = bg; ctx.strokeText(t, n.x, y);
+      ctx.fillStyle = ink; ctx.fillText(t, n.x, y);
+    });
   }
   function initGraph() {
     var el = $('fg');
@@ -617,21 +663,14 @@
         ctx.fillStyle = nodeColor(n);
         ctx.fill();
         if (n.id === SEL) { ctx.lineWidth = 2 / scale; ctx.strokeStyle = '#ffd166'; ctx.stroke(); }
-        // labels: big nodes when zoomed in, plus the hovered neighbourhood
-        var show = (GSTATE.nbrs && GSTATE.nbrs.has(n.id)) || n.id === SEL || (scale > FORCE.label && n.deg >= 3) || scale > FORCE.label * 2.3;
-        if (show && !dim) {
-          var t = n.p.title.length > 48 ? n.p.title.slice(0, 46) + '…' : n.p.title;
-          var fs = Math.max(10 / scale, 1.5);
-          ctx.font = fs + 'px -apple-system, Segoe UI, sans-serif';
-          ctx.textAlign = 'center'; ctx.textBaseline = 'top';
-          ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue('--ink');
-          ctx.fillText(t, n.x, n.y + r + 1.5);
-        }
         ctx.globalAlpha = 1;
       })
       .nodePointerAreaPaint(function (n, color, ctx) {
         ctx.fillStyle = color; ctx.beginPath(); ctx.arc(n.x, n.y, n.r * FORCE.size + 1, 0, 2 * Math.PI); ctx.fill();
       })
+      // labels are drawn after all nodes, best-connected first, skipping any
+      // that would overlap a label already placed
+      .onRenderFramePost(drawLabels)
       // neighbourhood highlight only while hovering (like Obsidian), so a
       // selected paper doesn't leave the whole graph dimmed
       .onNodeHover(function (n) { el.style.cursor = n ? 'pointer' : null; setFocus(n ? n.id : null); })
@@ -645,7 +684,7 @@
       .d3VelocityDecay(0.25)
       .warmupTicks(30)
       .cooldownTime(15000);
-    G.d3Force('charge').distanceMax(300);
+
     // weak pull to the centre (like Obsidian) so unlinked papers stay nearby
     // instead of being pushed far out by the repulsion
     var gNodes = [];
@@ -656,6 +695,8 @@
     G.d3Force('gravity', gravity);
     applyForces(false);
     window.addEventListener('resize', function () { if (VIEW === 'graph') G.width(el.clientWidth).height(el.clientHeight); });
+    // leaving the canvas onto an overlay (legend, toolbar) must clear the highlight
+    el.addEventListener('mouseleave', function () { if (GSTATE.hover) setFocus(null); });
   }
   function renderGraph(fs) {
     if (typeof ForceGraph === 'undefined') { $('fg').innerHTML = '<div class="empty">Graph library failed to load.</div>'; return; }
