@@ -143,7 +143,13 @@
   .tag.gr { color:var(--acc); border-color:color-mix(in srgb,var(--acc) 45%,transparent) }
   .simrow .d { width:8px; height:8px; border-radius:50%; margin-top:6px; flex:none }
   .empty { color:var(--faint); padding:50px 16px; text-align:center; font-size:14px; line-height:1.8 }
-  .closer { display:none }
+  .closer { float:right; margin-left:8px }
+  /* closing the detail panel gives its column back to the map / graph */
+  @media (min-width:1101px) {
+    .layout.nodetail { grid-template-columns:260px 1fr }
+    .layout.nomenu.nodetail { grid-template-columns:1fr }
+    .layout.nodetail .col.r { display:none }
+  }
 
   /* map */
   #map { position:absolute; inset:0 }
@@ -201,7 +207,6 @@
     .col.l { display:none }
     .col.r { position:fixed; right:0; top:0; bottom:0; width:min(440px,92vw); z-index:30; transform:translateX(100%); transition:transform .25s; box-shadow:var(--shadow) }
     .col.r.open { transform:none }
-    .closer { display:inline-block; float:right }
     .twocol { grid-template-columns:1fr }
     .bars .lb { width:150px }
   }
@@ -870,6 +875,7 @@
     try { history.replaceState(null, '', '?p=' + encodeURIComponent(id)); } catch (e) {}
     renderDetail(p);
     $('detail').classList.add('open');
+    if ($('layout').classList.contains('nodetail')) { $('layout').classList.remove('nodetail'); resizeViews(); }
     if (VIEW === 'map') renderMap(filtered());
     else if (VIEW === 'graph') focusGraph(id);
     else if (VIEW === 'list') {
@@ -877,13 +883,31 @@
       renderSidebar();
     }
   }
+  // ✕ / Esc: deselect the paper and hide the panel (on wide screens the
+  // map or graph takes over its column)
+  function closeDetail() {
+    SEL = null;
+    try { history.replaceState(null, '', location.pathname); } catch (e) {}
+    $('detail').classList.remove('open');
+    $('layout').classList.add('nodetail');
+    resizeViews();
+    if (VIEW === 'map') renderMap(filtered());
+    else if (VIEW === 'graph') redraw();
+    else if (VIEW === 'list') document.querySelectorAll('.lcard.sel').forEach(function (el) { el.classList.remove('sel'); });
+  }
+  function resizeViews() {
+    setTimeout(function () {
+      if (VIEW === 'graph' && G) G.width($('fg').clientWidth).height($('fg').clientHeight);
+      else if (VIEW === 'map' && typeof Plotly !== 'undefined') Plotly.Plots.resize('map');
+    }, 30);
+  }
   function renderDetail(p) {
     $('detail').innerHTML = detailHtml(p, false);
     $('detail').scrollTop = 0;
   }
   function detailHtml(p, asPage) {
     var s = p.summary;
-    var h = asPage ? '' : '<button class="x closer" id="detail-x" aria-label="Close">✕</button>';
+    var h = asPage ? '' : '<button class="x closer" id="detail-x" aria-label="Close" title="Close (Esc)">✕</button>';
     h += '<h2>' + esc(p.title) + '</h2>';
     h += '<div class="au">' + p.authors.map(function (a) { return '<span data-author="' + esc(a) + '">' + esc(a) + '</span>'; }).join(', ') + '</div>';
     h += '<div class="meta">' + esc(p.date) + ' · arXiv ' + esc(p.id) + (p.cats.length ? ' · ' + esc(p.cats.slice(0, 4).join(', ')) : '') +
@@ -1053,7 +1077,7 @@
       var t = e.target.closest('[data-topic],[data-range],[data-flag],[data-clear],[data-cluster],[data-author],[data-id],[data-page],[data-open],[data-save],[data-pdf],#detail-x');
       if (!t) return;
       var ds = t.dataset;
-      if (t.id === 'detail-x') { $('detail').classList.remove('open'); return; }
+      if (t.id === 'detail-x') { closeDetail(); return; }
       if (ds.pdf) { openPDF(ds.pdf); return; }
       if (ds.save) { toggleSave(ds.save); return; }
       if (ds.page) { F.page += +ds.page; render(); $('main').scrollTop = 0; return; }
@@ -1078,7 +1102,7 @@
       else if (e.key === 'Escape') {
         if ($('modal').classList.contains('on')) closePDF();
         else if (pageOpen()) closePage();
-        else $('detail').classList.remove('open');
+        else if (SEL) closeDetail();
       }
       else if (e.key === 's' && SEL) toggleSave(SEL);
       else if (VIEW === 'list' && (e.key === 'j' || e.key === 'k')) {
