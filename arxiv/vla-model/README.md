@@ -4,6 +4,10 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-13**|**EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence**|Wenyi Li et.al.|[2610.18867v1](http://arxiv.org/abs/2610.18867v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18867)|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855v1](http://arxiv.org/abs/2610.18855v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18855)|
+|**2026-10-13**|**LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models**|Andrea Yaoyun Cui et.al.|[2610.18843v1](http://arxiv.org/abs/2610.18843v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18843)|
+|**2026-10-13**|**SEAR: Self-Evolving Agentic Robotics**|Xinyi Wang et.al.|[2610.18792v1](http://arxiv.org/abs/2610.18792v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18792)|
 |**2026-10-13**|**Breaking the Average: Overcoming Convergent Defaults in Robotic Manipulation via Diagnostic Chain-of-Thought and Structured Guidance**|Mohammed Daba et.al.|[2610.17983v1](http://arxiv.org/abs/2610.17983v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.17983)|
 |**2026-10-13**|**WoVR+: World Model as Reliable Simulator for Versatile VLA Policy Optimization with RL**|Shangqing Zhou et.al.|[2610.17922v1](http://arxiv.org/abs/2610.17922v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.17922)|
 |**2026-10-13**|**TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency**|Jack Lu et.al.|[2610.17540v1](http://arxiv.org/abs/2610.17540v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.17540)|
@@ -1390,8 +1394,11 @@
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](https://arxiv.org/abs/2512.09864)|null|[🤗👍12](https://huggingface.co/papers/2512.09864) [αX↑54](https://alphaxiv.org/abs/2512.09864)|
 |**2025-12-10**|**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**|Minghao Guo et.al.|[2512.09619](https://arxiv.org/abs/2512.09619)|null|[αX↑24](https://alphaxiv.org/abs/2512.09619)|
 |**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](https://arxiv.org/abs/2512.08580)|null|[αX↑50](https://alphaxiv.org/abs/2512.08580)|
+|**2025-12-08**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952v2](http://arxiv.org/abs/2512.04952v2)|null|[αX↑62](https://alphaxiv.org/abs/2512.04952)|
+|**2025-11-30**|**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**|GigaWorld Team et.al.|[2511.19861v2](http://arxiv.org/abs/2511.19861v2)|[link](https://github.com/open-gigaai/giga-world-0)|[🤗👍30](https://huggingface.co/papers/2511.19861) [αX↑108](https://alphaxiv.org/abs/2511.19861)|
 |**2026-05-30**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502v3](http://arxiv.org/abs/2511.17502v3)|[link](https://github.com/alibaba-damo-academy/RynnVLA-002)|[🤗👍28](https://huggingface.co/papers/2511.17502) [αX↑99](https://alphaxiv.org/abs/2511.17502)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
+|**2025-12-11**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yuping Yan et.al.|[2511.16203v3](http://arxiv.org/abs/2511.16203v3)|null|[αX↑23](https://alphaxiv.org/abs/2511.16203)|
 |**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659v1](http://arxiv.org/abs/2511.14659v1)|[link](https://github.com/declare-lab/nora-1.5)|[🤗👍13](https://huggingface.co/papers/2511.14659) [αX↑78](https://alphaxiv.org/abs/2511.14659)|
 |**2025-12-05**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555v2](http://arxiv.org/abs/2511.04555v2)|[link](https://github.com/MINT-SJTU/Evo-1)|[αX↑55](https://alphaxiv.org/abs/2511.04555)|
 |**2026-03-25**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718v2](http://arxiv.org/abs/2511.01718v2)|[link](https://github.com/OpenHelix-Team/UD-VLA)|[🤗👍7](https://huggingface.co/papers/2511.01718) [αX↑40](https://alphaxiv.org/abs/2511.01718)|

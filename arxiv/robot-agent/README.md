@@ -4,6 +4,14 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-13**|**LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts**|Wenxuan Guo et.al.|[2610.18873v1](http://arxiv.org/abs/2610.18873v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18873)|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855v1](http://arxiv.org/abs/2610.18855v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18855)|
+|**2026-10-13**|**Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration**|Xian Nie et.al.|[2610.18848v1](http://arxiv.org/abs/2610.18848v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18848)|
+|**2026-10-13**|**LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models**|Andrea Yaoyun Cui et.al.|[2610.18843v1](http://arxiv.org/abs/2610.18843v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18843)|
+|**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Haodong Yang et.al.|[2610.18790v1](http://arxiv.org/abs/2610.18790v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18790)|
+|**2026-10-13**|**Steertuning Policies from a Few Human Videos**|Billy Yan et.al.|[2610.18711v1](http://arxiv.org/abs/2610.18711v1)|[link](https://github.com/steertune-robot/steertune-robot.github.io)|[αX↑0](https://alphaxiv.org/abs/2610.18711)|
+|**2026-10-13**|**RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories**|Yunfu Deng et.al.|[2610.18699v1](http://arxiv.org/abs/2610.18699v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18699)|
+|**2026-10-13**|**Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference**|St John Grimbly et.al.|[2610.18617v1](http://arxiv.org/abs/2610.18617v1)|[link](https://github.com/sgrimbly/interoceptive-prioritisation-iwai2026-snapshot)|[αX↑0](https://alphaxiv.org/abs/2610.18617)|
 |**2026-10-13**|**CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation**|Shuqi Wang et.al.|[2610.18321v1](http://arxiv.org/abs/2610.18321v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18321)|
 |**2026-10-13**|**Cross-Embodiment Affordance Transfer for Robotic Manipulation**|Sawera Yaseen et.al.|[2610.18194v1](http://arxiv.org/abs/2610.18194v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18194)|
 |**2026-10-13**|**OneDemo: Unified Policy Learning and Data Generation from a Single Demonstration**|Ying Qian et.al.|[2610.18188v1](http://arxiv.org/abs/2610.18188v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18188)|
@@ -1596,6 +1604,8 @@
 |**2025-12-15**|**Motus: A Unified Latent Action World Model**|Hongzhe Bi et.al.|[2512.13030](https://arxiv.org/abs/2512.13030)|[link](https://huggingface.co/models/motus-robotics/Motus_robotwin2)|[αX↑195](https://alphaxiv.org/abs/2512.13030)|
 |**2025-12-14**|**D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation**|Zihan Wang et.al.|[2512.12622](https://arxiv.org/abs/2512.12622)|[link](https://github.com/MrZihan/D3D-VLP)|[αX↑8](https://alphaxiv.org/abs/2512.12622)|
 |**2025-12-07**|**VideoVLA: Video Generators Can Be Generalizable Robot Manipulators**|Yichao Shen et.al.|[2512.06963v1](http://arxiv.org/abs/2512.06963v1)|[link](https://github.com/zai-org/CogVideo)|[🤗👍4](https://huggingface.co/papers/2512.06963) [αX↑88](https://alphaxiv.org/abs/2512.06963)|
+|**2025-12-08**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952v2](http://arxiv.org/abs/2512.04952v2)|null|[αX↑62](https://alphaxiv.org/abs/2512.04952)|
+|**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
 |**2026-03-25**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718v2](http://arxiv.org/abs/2511.01718v2)|[link](https://github.com/OpenHelix-Team/UD-VLA)|[🤗👍7](https://huggingface.co/papers/2511.01718) [αX↑40](https://alphaxiv.org/abs/2511.01718)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
