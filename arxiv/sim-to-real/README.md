@@ -13,7 +13,7 @@
 |**2026-10-14**|**Probabilistic Physics Digital Twin for Human-Robot Interaction**|Yushen Hu et.al.|[2610.19336v1](http://arxiv.org/abs/2610.19336v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.19336)|
 |**2026-10-13**|**Collective Learning for Unified Robotic Manipulation via Predictive Dynamics Adaptation**|Shaocheng Liu et.al.|[2610.19141v1](http://arxiv.org/abs/2610.19141v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.19141)|
 |**2026-10-13**|**Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control**|Nolan Fey et.al.|[2610.18991v1](http://arxiv.org/abs/2610.18991v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.18991)|
-|**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.18846)|
+|**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|[link](https://github.com/kszpxxzmc/WorldRecon)|[🤗👍10](https://huggingface.co/papers/2610.18846) [αX↑6](https://alphaxiv.org/abs/2610.18846)|
 |**2026-10-13**|**FlowSim: Rendering-Free Closed-Loop Simulation for Evaluating End-to-End Driving Systems**|Hanfeng Wu et.al.|[2610.18030v1](http://arxiv.org/abs/2610.18030v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.18030)|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750v1](http://arxiv.org/abs/2610.17750v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.17750)|
 |**2026-10-13**|**YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation**|Hiroki Nishizawa et.al.|[2610.17521v1](http://arxiv.org/abs/2610.17521v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.17521)|
@@ -151,6 +151,7 @@
 |**2026-10-06**|**SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation**|Kushal Kedia et.al.|[2602.16863v3](http://arxiv.org/abs/2602.16863v3)|[link](https://github.com/tylerlum/simtoolreal)|[🤗👍18](https://huggingface.co/papers/2602.16863) [αX↑49](https://alphaxiv.org/abs/2602.16863)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
 |**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
+|**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li et.al.|[2511.04131v1](http://arxiv.org/abs/2511.04131v1)|[link](https://github.com/LeCAR-Lab/BFM-Zero)|[αX↑72](https://alphaxiv.org/abs/2511.04131)|
 |**2026-02-24**|**World Simulation with Video Foundation Models for Physical AI**|NVIDIA et.al.|[2511.00062v2](http://arxiv.org/abs/2511.00062v2)|[link](https://github.com/nvidia-cosmos/cosmos-predict2.5)|[🤗👍45](https://huggingface.co/papers/2511.00062) [αX↑118](https://alphaxiv.org/abs/2511.00062)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
