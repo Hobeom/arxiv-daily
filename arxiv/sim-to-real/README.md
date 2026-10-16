@@ -1,9 +1,16 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.15
+### Updated on 2026.10.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-15**|**Dexterity from Supervised Play**|Botao He et.al.|[2610.22340v1](http://arxiv.org/abs/2610.22340v1)|[link](https://github.com/irmakguzey/tactile-dexterity)|[αX↑0](https://alphaxiv.org/abs/2610.22340)|
+|**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[2610.22337v1](http://arxiv.org/abs/2610.22337v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22337)|
+|**2026-10-15**|**Whole-Body Dexterity**|Conor Mc Gartoll et.al.|[2610.22184v1](http://arxiv.org/abs/2610.22184v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22184)|
+|**2026-10-15**|**De-Risking Robotic Welding for In-Space Metal Joining Through Physics-Grounded Digital Twins**|Zhou Daniel Hao et.al.|[2610.21939v1](http://arxiv.org/abs/2610.21939v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.21939)|
+|**2026-10-15**|**GRASE: Geometry-native Real-to-sim Agentic Scene Modeling from Video**|Zhaorui Lin et.al.|[2610.21498v1](http://arxiv.org/abs/2610.21498v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.21498)|
+|**2026-10-14**|**SOMA: Stack-of-Objects Manipulation using a Quadruped Robot**|Stergios E. Bachoumas et.al.|[2610.20968v1](http://arxiv.org/abs/2610.20968v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.20968)|
+|**2026-10-14**|**SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**|Samuele Cornell et.al.|[2610.20863v1](http://arxiv.org/abs/2610.20863v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.20863)|
 |**2026-10-14**|**AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning**|Jiawei Zhang et.al.|[2610.20336v1](http://arxiv.org/abs/2610.20336v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.20336)|
 |**2026-10-14**|**Atomic-WAM: Execution-Grounded Atomic-Motion Reasoning for World Action Models**|Shijun Shi et.al.|[2610.20157v1](http://arxiv.org/abs/2610.20157v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.20157)|
 |**2026-10-14**|**Feasibility of a Patient-Specific Digital Twin for Ventriculoperitoneal Shunt Trajectory Planning**|Kritsanavis Chongsrid et.al.|[2610.20074v1](http://arxiv.org/abs/2610.20074v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.20074)|
@@ -34,7 +41,7 @@
 |**2026-10-09**|**Refine Where It Matters: Contact-Adaptive Meshing for Deformable Object Manipulation**|Gabriel Johnson et.al.|[2610.14142v1](http://arxiv.org/abs/2610.14142v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14142)|
 |**2026-10-08**|**Embodied Zero-Shot Task Planning via Hardware-Aware LLM-VLM Integration for Grounded Robotic Manipulation**|Lonnie Tankersley et.al.|[2610.14106v1](http://arxiv.org/abs/2610.14106v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14106)|
 |**2026-10-07**|**Do My Samples Help? Compute Budget Allocation for Real-World Sampling-Based MPC in Contact-Rich Manipulation**|Magnus Dierking et.al.|[2610.14064v1](http://arxiv.org/abs/2610.14064v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14064)|
-|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945v1](http://arxiv.org/abs/2610.13945v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.13945)|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945v1](http://arxiv.org/abs/2610.13945v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.13945)|
 |**2026-10-14**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643v3](http://arxiv.org/abs/2610.13643v3)|null|[αX↑2](https://alphaxiv.org/abs/2610.13643)|
 |**2026-10-09**|**TAME-Nav: Temporal Asymmetric Mixture-of-Experts Distillation for Agile and Versatile Robot Navigation**|Lingjie Zhang et.al.|[2610.12877v1](http://arxiv.org/abs/2610.12877v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.12877)|
 |**2026-10-08**|**CASTER: Formalizing Zero-Shot Manipulation from Synthetic Videos as Constrained Optimization**|Yinlong Dai et.al.|[2610.12567v1](http://arxiv.org/abs/2610.12567v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.12567)|
@@ -134,6 +141,7 @@
 |**2026-09-23**|**A Modular Dual-Arm Robotic Cell for Disassembly and Repair of Industrial Control Electronics**|Maximilian Ruhe et.al.|[2609.27466v1](http://arxiv.org/abs/2609.27466v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.27466)|
 |**2026-09-22**|**From greenhouse climate to individual leaves: an organ-resolved model of lettuce growth**|Md Hasibur Rahman et.al.|[2609.27118v1](http://arxiv.org/abs/2609.27118v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.27118)|
 |**2026-09-22**|**Skill Sequence Planning for Collaborative Multi-Robot Construction**|Xi Wang et.al.|[2609.25649v1](http://arxiv.org/abs/2609.25649v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25649)|
+|**2026-09-22**|**DynaForge: Planning-Guided Residual Learning for Dynamic Manipulation Demonstration Generation**|Yiyang Jin et.al.|[2609.25631v1](http://arxiv.org/abs/2609.25631v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.25631)|
 |**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578v1](http://arxiv.org/abs/2609.25578v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25578)|
 |**2026-09-22**|**Digital Twin-Driven VR Teleoperation with Multi-View Spatial Perception for Surgical Robots**|Chang Liu et.al.|[2609.25527v1](http://arxiv.org/abs/2609.25527v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25527)|
 |**2026-09-22**|**H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer**|Chuyang Xiao et.al.|[2609.24778v2](http://arxiv.org/abs/2609.24778v2)|null|[αX↑15](https://alphaxiv.org/abs/2609.24778)|
@@ -142,12 +150,15 @@
 |**2026-09-20**|**ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation**|Xinyi Wang et.al.|[2609.23910v1](http://arxiv.org/abs/2609.23910v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23910)|
 |**2026-09-20**|**PINGU: Extending Air-Bearing Spacecraft Emulators with Open-Source Actuators and Learned Control for Contact-Rich Proximity Operations**|Ricard Marsal I Castan et.al.|[2609.23554v1](http://arxiv.org/abs/2609.23554v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23554)|
 |**2026-10-05**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[2609.21045v2](http://arxiv.org/abs/2609.21045v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.21045)|
+|**2026-09-16**|**TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation**|Jie Yin et.al.|[2609.18174v1](http://arxiv.org/abs/2609.18174v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.18174)|
 |**2026-09-03**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Satvik Sharma et.al.|[2609.01938v2](http://arxiv.org/abs/2609.01938v2)|null|[αX↑140](https://alphaxiv.org/abs/2609.01938)|
 |**2026-09-25**|**SUN: Agentic Robot Policy Learning with Persistent Task Programs**|Weiqi Wang et.al.|[2608.31167v2](http://arxiv.org/abs/2608.31167v2)|null|[αX↑3](https://alphaxiv.org/abs/2608.31167)|
 |**2026-08-29**|**FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences**|Omar Rayyan et.al.|[2608.17027v2](http://arxiv.org/abs/2608.17027v2)|null|[αX↑50](https://alphaxiv.org/abs/2608.17027)|
+|**2026-10-11**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Guanxiong Chen et.al.|[2607.19190v5](http://arxiv.org/abs/2607.19190v5)|null|[αX↑76](https://alphaxiv.org/abs/2607.19190)|
 |**2026-06-30**|**ASPIRE: Agentic /Skills Discovery for Robotics**|Runyu Lu et.al.|[2607.00272v1](http://arxiv.org/abs/2607.00272v1)|null|[🤗👍24](https://huggingface.co/papers/2607.00272) [αX↑125](https://alphaxiv.org/abs/2607.00272)|
 |**2026-04-10**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544v2](http://arxiv.org/abs/2604.08544v2)|[link](https://github.com/InternRobotics/SIM1)|[🤗👍16](https://huggingface.co/papers/2604.08544) [αX↑27](https://alphaxiv.org/abs/2604.08544)|
 |**2026-07-02**|**CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation**|Letian Fu et.al.|[2603.22435v2](http://arxiv.org/abs/2603.22435v2)|null|[αX↑121](https://alphaxiv.org/abs/2603.22435)|
+|**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843v1](http://arxiv.org/abs/2602.23843v1)|[link](https://github.com/Perkins729/OmniXtreme)|[αX↑89](https://alphaxiv.org/abs/2602.23843)|
 |**2026-10-06**|**SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation**|Kushal Kedia et.al.|[2602.16863v3](http://arxiv.org/abs/2602.16863v3)|[link](https://github.com/tylerlum/simtoolreal)|[🤗👍18](https://huggingface.co/papers/2602.16863) [αX↑49](https://alphaxiv.org/abs/2602.16863)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
 |**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
