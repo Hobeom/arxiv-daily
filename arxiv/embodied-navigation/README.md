@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 |**2026-09-25**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861v2](http://arxiv.org/abs/2609.29861v2)|null|[αX↑28](https://alphaxiv.org/abs/2609.29861)|
 |**2026-09-30**|**NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation**|Chuanlin Lan et.al.|[2609.27218v2](http://arxiv.org/abs/2609.27218v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.27218)|
 |**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408v1](http://arxiv.org/abs/2609.26408v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.26408)|
+|**2026-09-23**|**ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model**|Sinuo Wang et.al.|[2609.26299v2](http://arxiv.org/abs/2609.26299v2)|null|[αX↑25](https://alphaxiv.org/abs/2609.26299)|
 |**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666v1](http://arxiv.org/abs/2609.25666v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.25666)|
 |**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576v1](http://arxiv.org/abs/2609.24576v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.24576)|
 |**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526v2](http://arxiv.org/abs/2609.24526v2)|[link](https://github.com/MachEmbodied/ME-VLM)|[αX↑21](https://alphaxiv.org/abs/2609.24526)|
@@ -170,9 +171,11 @@
 |**2026-06-15**|**DriveJudge: Rethinking Autonomous Driving Evaluation with Vision-Language Models**|Xinglong Sun et.al.|[2606.17362v1](http://arxiv.org/abs/2606.17362v1)|null|[αX↑31](https://alphaxiv.org/abs/2606.17362)|
 |**2026-06-09**|**Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning**|Ziyang Yao et.al.|[2606.05645v2](http://arxiv.org/abs/2606.05645v2)|null|[🤗👍2](https://huggingface.co/papers/2606.05645) [αX↑31](https://alphaxiv.org/abs/2606.05645)|
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
+|**2026-10-06**|**StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement**|Junwon Seo et.al.|[2606.00267v2](http://arxiv.org/abs/2606.00267v2)|[link](https://github.com/CMU-IntentLab/StressDream)|[🤗👍2](https://huggingface.co/papers/2606.00267) [αX↑16](https://alphaxiv.org/abs/2606.00267)|
 |**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572v1](http://arxiv.org/abs/2605.31572v1)|null|[αX↑38](https://alphaxiv.org/abs/2605.31572)|
 |**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544v1](http://arxiv.org/abs/2605.28544v1)|null|[αX↑42](https://alphaxiv.org/abs/2605.28544)|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑18](https://alphaxiv.org/abs/2605.15964)|
+|**2026-05-10**|**DriveFuture: Future-Aware Latent World Models for Autonomous Driving**|Yufeng Hong et.al.|[2605.09701v1](http://arxiv.org/abs/2605.09701v1)|null|[αX↑27](https://alphaxiv.org/abs/2605.09701)|
 |**2026-05-06**|**CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies**|Keyu Chen et.al.|[2605.04470v1](http://arxiv.org/abs/2605.04470v1)|[link](https://github.com/CurryChen77/CraftPolicy)|[αX↑15](https://alphaxiv.org/abs/2605.04470)|
 |**2026-05-08**|**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486v3](http://arxiv.org/abs/2604.18486v3)|[link](https://github.com/xiaomi-research/onevl)|[🤗👍94](https://huggingface.co/papers/2604.18486) [αX↑131](https://alphaxiv.org/abs/2604.18486)|
 |**2026-07-01**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198v2](http://arxiv.org/abs/2604.04198v2)|null|[αX↑34](https://alphaxiv.org/abs/2604.04198)|

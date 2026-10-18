@@ -1,6 +1,6 @@
 ## Physical AI
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -11,18 +11,18 @@
 |**2026-10-14**|**Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models**|Aiden Swann et.al.|[2610.20767v1](http://arxiv.org/abs/2610.20767v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.20767)|
 |**2026-10-14**|**Causal Analysis of Robot Foundation Models Enables Efficiency Gains**|Aiden Swann et.al.|[2610.20750v1](http://arxiv.org/abs/2610.20750v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.20750)|
 |**2026-10-14**|**When Do Discrete Actions Make Good Continuous Controllers?**|Zeji Yi et.al.|[2610.20429v1](http://arxiv.org/abs/2610.20429v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.20429)|
-|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Kiyanoush Nazari et.al.|[2610.20134v1](http://arxiv.org/abs/2610.20134v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.20134)|
+|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Kiyanoush Nazari et.al.|[2610.20134v1](http://arxiv.org/abs/2610.20134v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.20134)|
 |**2026-10-14**|**One-Step Prediction Fidelity Is a Poor Proxy for Planning Performance in JEPA World Models**|Joshua Cheung et.al.|[2610.19375v1](http://arxiv.org/abs/2610.19375v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.19375)|
 |**2026-10-13**|**FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity**|Zhi Cao et.al.|[2610.19155v1](http://arxiv.org/abs/2610.19155v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.19155)|
 |**2026-10-15**|**LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts**|Wenxuan Guo et.al.|[2610.18873v2](http://arxiv.org/abs/2610.18873v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.18873)|
 |**2026-10-14**|**Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds?**|Juntong Feng et.al.|[2610.18836v2](http://arxiv.org/abs/2610.18836v2)|[link](https://github.com/MinneFeng/Plan-Bench)|[αX↑2](https://alphaxiv.org/abs/2610.18836)|
 |**2026-10-13**|**ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models**|Changyeon Kim et.al.|[2610.18596v1](http://arxiv.org/abs/2610.18596v1)|[link](https://github.com/accrue-rl/accrue-rl.github.io)|[🤗👍18](https://huggingface.co/papers/2610.18596) [αX↑9](https://alphaxiv.org/abs/2610.18596)|
 |**2026-10-13**|**WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction**|Haomin Wang et.al.|[2610.18568v1](http://arxiv.org/abs/2610.18568v1)|[link](https://github.com/AutoLab-SAI-SJTU/WAVE-0)|[🤗👍31](https://huggingface.co/papers/2610.18568) [αX↑6](https://alphaxiv.org/abs/2610.18568)|
-|**2026-10-14**|**Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence**|Thinker Team et.al.|[2610.18447v2](http://arxiv.org/abs/2610.18447v2)|null|[αX↑20](https://alphaxiv.org/abs/2610.18447)|
-|**2026-10-13**|**Benchmarking Interaction-Oriented Aerial Mobility across Heterogeneous Environments**|Zhibo Duan et.al.|[2610.18381v1](http://arxiv.org/abs/2610.18381v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.18381)|
-|**2026-10-14**|**ABot-ER: Unified Embodied Reasoning through Agentic Data-Model Co-Evolution**|Qiuyu Ding et.al.|[2610.18355v2](http://arxiv.org/abs/2610.18355v2)|null|[αX↑5](https://alphaxiv.org/abs/2610.18355)|
+|**2026-10-14**|**Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence**|Thinker Team et.al.|[2610.18447v2](http://arxiv.org/abs/2610.18447v2)|null|[αX↑22](https://alphaxiv.org/abs/2610.18447)|
+|**2026-10-13**|**Benchmarking Interaction-Oriented Aerial Mobility across Heterogeneous Environments**|Zhibo Duan et.al.|[2610.18381v1](http://arxiv.org/abs/2610.18381v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.18381)|
+|**2026-10-14**|**ABot-ER: Unified Embodied Reasoning through Agentic Data-Model Co-Evolution**|Qiuyu Ding et.al.|[2610.18355v2](http://arxiv.org/abs/2610.18355v2)|null|[αX↑8](https://alphaxiv.org/abs/2610.18355)|
 |**2026-10-13**|**HelpMeOut: A Neuropsychology-Grounded Benchmark for Error-Aware Monitoring of Household Task Execution**|Haoran Wang et.al.|[2610.17694v1](http://arxiv.org/abs/2610.17694v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.17694)|
-|**2026-10-12**|**MARS: Systematic Multi-Level Acceleration for World Action Models**|Zengyuan Zuo et.al.|[2610.17141v1](http://arxiv.org/abs/2610.17141v1)|[link](https://github.com/PKU-VaLuE-Lab/MARS)|[αX↑2](https://alphaxiv.org/abs/2610.17141)|
+|**2026-10-12**|**MARS: Systematic Multi-Level Acceleration for World Action Models**|Zengyuan Zuo et.al.|[2610.17141v1](http://arxiv.org/abs/2610.17141v1)|[link](https://github.com/PKU-VaLuE-Lab/MARS)|[αX↑3](https://alphaxiv.org/abs/2610.17141)|
 |**2026-10-12**|**Proactive Physical AI through Continuous Observation and Timely Intervention**|Zhenhua Yang et.al.|[2610.16967v1](http://arxiv.org/abs/2610.16967v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.16967)|
 |**2026-10-15**|**LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints**|Ming Shin Cindy Sung et.al.|[2610.16782v2](http://arxiv.org/abs/2610.16782v2)|null|[αX↑1](https://alphaxiv.org/abs/2610.16782)|
 |**2026-10-12**|**PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation**|Xinyu Guo et.al.|[2610.16355v1](http://arxiv.org/abs/2610.16355v1)|null|[αX↑18](https://alphaxiv.org/abs/2610.16355)|
@@ -40,13 +40,13 @@
 |**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522v1](http://arxiv.org/abs/2610.13522v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.13522)|
 |**2026-10-08**|**RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments**|Zimo Wen et.al.|[2610.12424v1](http://arxiv.org/abs/2610.12424v1)|[link](https://github.com/nssmd/RoboRSI)|[αX↑46](https://alphaxiv.org/abs/2610.12424)|
 |**2026-10-08**|**ARC: A Reasoning Recipe for Robot Foundation Models**|Gokul Puthumanaillam et.al.|[2610.12386v1](http://arxiv.org/abs/2610.12386v1)|null|[αX↑26](https://alphaxiv.org/abs/2610.12386)|
-|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.12069)|
+|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑14](https://alphaxiv.org/abs/2610.12069)|
 |**2026-10-08**|**WAM-Cache: Staleness-Bounded KV Reuse for Efficient World Action Models**|Kai Ding et.al.|[2610.11401v1](http://arxiv.org/abs/2610.11401v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.11401)|
-|**2026-10-08**|**FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs**|Kyeong-Rae Kim et.al.|[2610.11310v1](http://arxiv.org/abs/2610.11310v1)|[link](https://github.com/byulharang/FloorSAV)|[αX↑9](https://alphaxiv.org/abs/2610.11310)|
+|**2026-10-08**|**FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs**|Kyeong-Rae Kim et.al.|[2610.11310v1](http://arxiv.org/abs/2610.11310v1)|[link](https://github.com/byulharang/FloorSAV)|[αX↑10](https://alphaxiv.org/abs/2610.11310)|
 |**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Naiyu Fang et.al.|[2610.11194v1](http://arxiv.org/abs/2610.11194v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.11194)|
 |**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Python Song et.al.|[2610.10498v1](http://arxiv.org/abs/2610.10498v1)|null|[αX↑72](https://alphaxiv.org/abs/2610.10498)|
 |**2026-10-13**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270v3](http://arxiv.org/abs/2610.10270v3)|[link](https://github.com/Haodong-Yan/VPP2-project)|[αX↑116](https://alphaxiv.org/abs/2610.10270)|
-|**2026-10-11**|**Benchmarking Behavioral Steerability in Behavior Foundation Models**|Minghe Gao et.al.|[2610.10198v2](http://arxiv.org/abs/2610.10198v2)|null|[αX↑12](https://alphaxiv.org/abs/2610.10198)|
+|**2026-10-11**|**Benchmarking Behavioral Steerability in Behavior Foundation Models**|Minghe Gao et.al.|[2610.10198v2](http://arxiv.org/abs/2610.10198v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.10198)|
 |**2026-10-07**|**Artificial intelligence pathways from weather to climate**|Tom Beucler et.al.|[2610.09770v1](http://arxiv.org/abs/2610.09770v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.09770)|
 |**2026-10-07**|**Kuration SDK: Addressing the Virtual2Real Gap via Data Curation**|Nirmit Desai et.al.|[2610.09305v1](http://arxiv.org/abs/2610.09305v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.09305)|
 |**2026-10-07**|**LeCuration: A Tiny World Model as a Data Curation Multi-Tool**|Mayank Sengupta et.al.|[2610.09285v1](http://arxiv.org/abs/2610.09285v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.09285)|
@@ -56,7 +56,7 @@
 |**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068v1](http://arxiv.org/abs/2610.08068v1)|[link](https://github.com/VDIGPKU/PhysTacGen)|[αX↑5](https://alphaxiv.org/abs/2610.08068)|
 |**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982v1](http://arxiv.org/abs/2610.07982v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.07982)|
 |**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Yikai Qin et.al.|[2610.07969v1](http://arxiv.org/abs/2610.07969v1)|null|[🤗👍22](https://huggingface.co/papers/2610.07969) [αX↑38](https://alphaxiv.org/abs/2610.07969)|
-|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.07652)|
+|**2026-10-06**|**SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining**|Jicong Ao et.al.|[2610.07652v1](http://arxiv.org/abs/2610.07652v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.07652)|
 |**2026-10-08**|**PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation**|Yu Zhang et.al.|[2610.07609v2](http://arxiv.org/abs/2610.07609v2)|null|[αX↑9](https://alphaxiv.org/abs/2610.07609)|
 |**2026-10-05**|**Toward Trustworthy Physical AI for Human Interaction**|Niccolò Pagliarani et.al.|[2610.07382v1](http://arxiv.org/abs/2610.07382v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.07382)|
 |**2026-10-05**|**Is this machine playing?**|Nathan Cloos et.al.|[2610.07130v1](http://arxiv.org/abs/2610.07130v1)|null|[αX↑26](https://alphaxiv.org/abs/2610.07130)|
@@ -179,9 +179,14 @@
 |**2026-06-04**|**AEGIS: A Backup Reflex for Physical AI**|Josef Chen et.al.|[2606.06660v1](http://arxiv.org/abs/2606.06660v1)|null|[αX↑2](https://alphaxiv.org/abs/2606.06660)|
 |**2026-06-09**|**Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning**|Ziyang Yao et.al.|[2606.05645v2](http://arxiv.org/abs/2606.05645v2)|null|[🤗👍2](https://huggingface.co/papers/2606.05645) [αX↑31](https://alphaxiv.org/abs/2606.05645)|
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
+|**2026-05-31**|**Position: Good Embodied Reward Models Need Bad Behavior Data**|Ran Tian et.al.|[2606.01036v1](http://arxiv.org/abs/2606.01036v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.01036)|
 |**2026-05-23**|**Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems**|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|null|[🤗👍6](https://huggingface.co/papers/2606.00090) [αX↑3](https://alphaxiv.org/abs/2606.00090)|
+|**2026-05-19**|**PhyWorld: Physics-Faithful World Model for Video Generation**|Pu Zhao et.al.|[2605.19242v1](http://arxiv.org/abs/2605.19242v1)|null|[αX↑30](https://alphaxiv.org/abs/2605.19242)|
 |**2026-05-18**|**WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform**|Yu Shang et.al.|[2605.17912v1](http://arxiv.org/abs/2605.17912v1)|null|[αX↑32](https://alphaxiv.org/abs/2605.17912)|
+|**2026-05-21**|**Pelican-Unify 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action**|Yi Zhang et.al.|[2605.15153v2](http://arxiv.org/abs/2605.15153v2)|null|[αX↑55](https://alphaxiv.org/abs/2605.15153)|
+|**2026-05-13**|**What Limits Vision-and-Language Navigation ?**|Yunheng Wang et.al.|[2605.13328v1](http://arxiv.org/abs/2605.13328v1)|[link](https://github.com/Yunheng-Wang/StereoNav)|[αX↑13](https://alphaxiv.org/abs/2605.13328)|
 |**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083v1](http://arxiv.org/abs/2605.13083v1)|[link](https://github.com/Jianyi2004/TouchAnything)|[αX↑18](https://alphaxiv.org/abs/2605.13083)|
+|**2026-05-07**|**HumanNet: Scaling Human-centric Video Learning to One Million Hours**|Yufan Deng et.al.|[2605.06747v1](http://arxiv.org/abs/2605.06747v1)|[link](https://github.com/DAGroup-PKU/HumanNet)|[🤗👍52](https://huggingface.co/papers/2605.06747) [αX↑58](https://alphaxiv.org/abs/2605.06747)|
 |**2026-04-30**|**Being-H0.7: A Latent World-Action Model from Egocentric Videos**|Hao Luo et.al.|[2605.00078v1](http://arxiv.org/abs/2605.00078v1)|null|[αX↑76](https://alphaxiv.org/abs/2605.00078)|
 |**2026-06-03**|**DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors**|Pengcheng Wang et.al.|[2604.25050v3](http://arxiv.org/abs/2604.25050v3)|[link](https://github.com/outsider86/DiscreteRTC-Kinetix)|[αX↑15](https://alphaxiv.org/abs/2604.25050)|
 |**2026-04-23**|**JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy**|Tianle Zhang et.al.|[2604.20100v2](http://arxiv.org/abs/2604.20100v2)|null|[αX↑48](https://alphaxiv.org/abs/2604.20100)|

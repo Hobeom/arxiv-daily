@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -24,12 +24,12 @@
 |**2026-10-14**|**Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance**|Zhefei Gong et.al.|[2610.20607v1](http://arxiv.org/abs/2610.20607v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.20607)|
 |**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Huixuan Cheng et.al.|[2610.20606v1](http://arxiv.org/abs/2610.20606v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.20606)|
 |**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Yushen Liang et.al.|[2610.20524v1](http://arxiv.org/abs/2610.20524v1)|null|[🤗👍6](https://huggingface.co/papers/2610.20524) [αX↑4](https://alphaxiv.org/abs/2610.20524)|
-|**2026-10-14**|**AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents**|Peidong Wang et.al.|[2610.20474v1](http://arxiv.org/abs/2610.20474v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.20474)|
-|**2026-10-14**|**Towards Agentic Robots: Model, Data, Environment, and Harness**|Chonghan Qin et.al.|[2610.20442v1](http://arxiv.org/abs/2610.20442v1)|[link](https://github.com/chonghanqin/Awesome-Agentic-Robots)|[🤗👍32](https://huggingface.co/papers/2610.20442) [αX↑44](https://alphaxiv.org/abs/2610.20442)|
+|**2026-10-14**|**AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents**|Peidong Wang et.al.|[2610.20474v1](http://arxiv.org/abs/2610.20474v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.20474)|
+|**2026-10-14**|**Towards Agentic Robots: Model, Data, Environment, and Harness**|Chonghan Qin et.al.|[2610.20442v1](http://arxiv.org/abs/2610.20442v1)|[link](https://github.com/chonghanqin/Awesome-Agentic-Robots)|[🤗👍32](https://huggingface.co/papers/2610.20442) [αX↑58](https://alphaxiv.org/abs/2610.20442)|
 |**2026-10-14**|**AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning**|Jiawei Zhang et.al.|[2610.20336v1](http://arxiv.org/abs/2610.20336v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.20336)|
 |**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Fucai Zhu et.al.|[2610.20320v1](http://arxiv.org/abs/2610.20320v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.20320)|
 |**2026-10-14**|**Efficient Test-Time Adaptation For Robot Policies**|Motasem Alfarra et.al.|[2610.20318v1](http://arxiv.org/abs/2610.20318v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.20318)|
-|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Kiyanoush Nazari et.al.|[2610.20134v1](http://arxiv.org/abs/2610.20134v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.20134)|
+|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Kiyanoush Nazari et.al.|[2610.20134v1](http://arxiv.org/abs/2610.20134v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.20134)|
 |**2026-10-14**|**MorphAct: Robot Policies Morphing with the Worlds They Act In**|Ziyan Liu et.al.|[2610.20019v1](http://arxiv.org/abs/2610.20019v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.20019)|
 |**2026-10-14**|**Active Perception of Upper-Limb Functional Mobility through Human-Robot Handovers**|Francesco Semeraro et.al.|[2610.19896v1](http://arxiv.org/abs/2610.19896v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.19896)|
 |**2026-10-14**|**Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE**|Yuhang Hu et.al.|[2610.19635v1](http://arxiv.org/abs/2610.19635v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.19635)|
@@ -43,7 +43,7 @@
 |**2026-10-13**|**Towards a Data-Centric Understanding of Spatial Reasoning in Multimodal Large Language Models**|Mahdieh Mallahnezhad et.al.|[2610.19108v1](http://arxiv.org/abs/2610.19108v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.19108)|
 |**2026-10-15**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Zhexi Luo et.al.|[2610.19089v2](http://arxiv.org/abs/2610.19089v2)|null|[αX↑3](https://alphaxiv.org/abs/2610.19089)|
 |**2026-10-15**|**LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts**|Wenxuan Guo et.al.|[2610.18873v2](http://arxiv.org/abs/2610.18873v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.18873)|
-|**2026-10-14**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855v2](http://arxiv.org/abs/2610.18855v2)|null|[αX↑7](https://alphaxiv.org/abs/2610.18855)|
+|**2026-10-14**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855v2](http://arxiv.org/abs/2610.18855v2)|null|[αX↑9](https://alphaxiv.org/abs/2610.18855)|
 |**2026-10-13**|**Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration**|Xian Nie et.al.|[2610.18848v1](http://arxiv.org/abs/2610.18848v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.18848)|
 |**2026-10-13**|**LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models**|Andrea Yaoyun Cui et.al.|[2610.18843v1](http://arxiv.org/abs/2610.18843v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.18843)|
 |**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Haodong Yang et.al.|[2610.18790v1](http://arxiv.org/abs/2610.18790v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.18790)|

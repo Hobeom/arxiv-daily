@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340v1](http://arxiv.org/abs/2609.19340v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.19340)|
 |**2026-09-16**|**Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator**|Zhongyu Chen et.al.|[2609.18930v1](http://arxiv.org/abs/2609.18930v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.18930)|
 |**2026-09-16**|**KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation**|Sitong Chen et.al.|[2609.18869v1](http://arxiv.org/abs/2609.18869v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.18869)|
+|**2026-09-16**|**Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation**|Ruiming Wu et.al.|[2609.18763v1](http://arxiv.org/abs/2609.18763v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.18763)|
 |**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Yuxuan Ma et.al.|[2609.18732v1](http://arxiv.org/abs/2609.18732v1)|null|[αX↑35](https://alphaxiv.org/abs/2609.18732)|
 |**2026-10-01**|**WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors**|Bowei Zhang et.al.|[2609.18197v2](http://arxiv.org/abs/2609.18197v2)|null|[αX↑33](https://alphaxiv.org/abs/2609.18197)|
 |**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372v1](http://arxiv.org/abs/2609.17372v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.17372)|
@@ -229,7 +230,11 @@
 |**2026-09-30**|**Collision-Aware Humanoid Whole-Body Control under Imperfect Tracking Targets**|Mohitvishnu S. Gadde et.al.|[2609.16405v2](http://arxiv.org/abs/2609.16405v2)|null|[αX↑6](https://alphaxiv.org/abs/2609.16405)|
 |**2026-09-14**|**JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion**|Qihao Yuan et.al.|[2609.15770v1](http://arxiv.org/abs/2609.15770v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.15770)|
 |**2026-09-29**|**HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness**|Yang Chen et.al.|[2609.15195v3](http://arxiv.org/abs/2609.15195v3)|null|[🤗👍21](https://huggingface.co/papers/2609.15195) [αX↑38](https://alphaxiv.org/abs/2609.15195)|
+|**2026-09-09**|**Extending the Speed Limit of Quadrupedal Locomotion via Refined Actuator Modeling and Adaptive Command Scheduling**|Yucheng Tao et.al.|[2609.13289v1](http://arxiv.org/abs/2609.13289v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.13289)|
 |**2026-09-02**|**Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement**|Loc X. Nguyen et.al.|[2609.13236v1](http://arxiv.org/abs/2609.13236v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.13236)|
+|**2026-09-13**|**SwingBot: Learning Whole-Body Brachiation for Humanoid Robots**|Yujie Xiong et.al.|[2609.10283v3](http://arxiv.org/abs/2609.10283v3)|null|[αX↑11](https://alphaxiv.org/abs/2609.10283)|
+|**2026-09-09**|**ViBe: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control**|Lokesh Krishna et.al.|[2609.09918v1](http://arxiv.org/abs/2609.09918v1)|null|[αX↑31](https://alphaxiv.org/abs/2609.09918)|
+|**2026-08-26**|**LAC: Linear and Angular Compliance for Humanoid Whole-body Control**|Yang Liu et.al.|[2608.25405v1](http://arxiv.org/abs/2608.25405v1)|null|[αX↑20](https://alphaxiv.org/abs/2608.25405)|
 |**2026-08-20**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453v3](http://arxiv.org/abs/2608.17453v3)|null|[αX↑5](https://alphaxiv.org/abs/2608.17453)|
 |**2026-08-29**|**FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences**|Omar Rayyan et.al.|[2608.17027v2](http://arxiv.org/abs/2608.17027v2)|null|[αX↑50](https://alphaxiv.org/abs/2608.17027)|
 |**2026-08-17**|**HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL**|Langzhe Gu et.al.|[2608.16837v1](http://arxiv.org/abs/2608.16837v1)|null|[αX↑36](https://alphaxiv.org/abs/2608.16837)|
@@ -245,6 +250,7 @@
 |**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843v1](http://arxiv.org/abs/2602.23843v1)|[link](https://github.com/Perkins729/OmniXtreme)|[αX↑89](https://alphaxiv.org/abs/2602.23843)|
 |**2026-06-04**|**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**|Modi Shi et.al.|[2602.10106v2](http://arxiv.org/abs/2602.10106v2)|null|[🤗👍21](https://huggingface.co/papers/2602.10106) [αX↑55](https://alphaxiv.org/abs/2602.10106)|
 |**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782v1](http://arxiv.org/abs/2601.03782v1)|[link](https://github.com/huangwl18/PointWorld)|[αX↑181](https://alphaxiv.org/abs/2601.03782)|
+|**2025-11-27**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200v2](http://arxiv.org/abs/2511.15200v2)|[link](https://github.com/NVlabs/GR00T-VisualSim2Real)|[αX↑78](https://alphaxiv.org/abs/2511.15200)|
 |**2026-09-26**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Chaoyi Pan et.al.|[2511.09484v3](http://arxiv.org/abs/2511.09484v3)|[link](https://github.com/jc-bao/spider-project)|[αX↑54](https://alphaxiv.org/abs/2511.09484)|
 |**2026-08-13**|**SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control**|Zhengyi Luo et.al.|[2511.07820v4](http://arxiv.org/abs/2511.07820v4)|[link](https://github.com/NVlabs/GR00T-WholeBodyControl)|[αX↑141](https://alphaxiv.org/abs/2511.07820)|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li et.al.|[2511.04131v1](http://arxiv.org/abs/2511.04131v1)|[link](https://github.com/LeCAR-Lab/BFM-Zero)|[αX↑72](https://alphaxiv.org/abs/2511.04131)|
