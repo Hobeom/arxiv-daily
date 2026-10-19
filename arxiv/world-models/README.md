@@ -1,9 +1,24 @@
 ## World Models
 
-### Updated on 2026.10.18
+### Updated on 2026.10.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-16**|**Persistent Planar Memory for Video World Models**|Yuze He et.al.|[2610.23795v1](http://arxiv.org/abs/2610.23795v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23795)|
+|**2026-10-16**|**Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability**|Qingshi Wang et.al.|[2610.23722v1](http://arxiv.org/abs/2610.23722v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23722)|
+|**2026-10-16**|**Beyond Action Prediction: Learning Search-Free Planning in Latent Space**|Guanchen Du et.al.|[2610.23615v1](http://arxiv.org/abs/2610.23615v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23615)|
+|**2026-10-16**|**Execution Before Memory: Diagnosing Memory Failures in Video World Models**|Weiyang Jin et.al.|[2610.23542v1](http://arxiv.org/abs/2610.23542v1)|[link](https://github.com/HKU-MMLab/MIST)|[αX↑1](https://alphaxiv.org/abs/2610.23542)|
+|**2026-10-16**|**Momentum: Persistent Dynamics for Video World Models**|Nedko Savov et.al.|[2610.23423v1](http://arxiv.org/abs/2610.23423v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23423)|
+|**2026-10-16**|**LithoWorld: An Endpoint World Model for Lithography Process-Window Recovery**|Botong Zhao et.al.|[2610.23408v1](http://arxiv.org/abs/2610.23408v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23408)|
+|**2026-10-16**|**AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation**|Jiawei Geng et.al.|[2610.23396v1](http://arxiv.org/abs/2610.23396v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23396)|
+|**2026-10-16**|**Language Models Learn to Improve Language Models**|Minhua Lin et.al.|[2610.23344v1](http://arxiv.org/abs/2610.23344v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23344)|
+|**2026-10-16**|**LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence**|Jiajun Cao et.al.|[2610.23334v1](http://arxiv.org/abs/2610.23334v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23334)|
+|**2026-10-16**|**ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation**|Yueyang Weng et.al.|[2610.23156v1](http://arxiv.org/abs/2610.23156v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23156)|
+|**2026-10-16**|**BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL**|Liyun Yan et.al.|[2610.23127v1](http://arxiv.org/abs/2610.23127v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23127)|
+|**2026-10-16**|**World Action Critic (WAC) Model: Joint Foresight and Criticism for Policy Learning**|Xiangteng Zhang et.al.|[2610.22825v1](http://arxiv.org/abs/2610.22825v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22825)|
+|**2026-10-15**|**GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations**|Nicholas Saban et.al.|[2610.22708v1](http://arxiv.org/abs/2610.22708v1)|[link](https://github.com/patronus-ai/globebench)|[αX↑0](https://alphaxiv.org/abs/2610.22708)|
+|**2026-10-15**|**Is a Linear Probe Evidence of a Linear Representation?**|Nadir Kutluozen et.al.|[2610.22655v1](http://arxiv.org/abs/2610.22655v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22655)|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450v1](http://arxiv.org/abs/2610.22450v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22450)|
 |**2026-10-15**|**T2-z: Test-Time Optimization of Environment Latents for Robotic World Models**|Chenyuan Zhou et.al.|[2610.22364v1](http://arxiv.org/abs/2610.22364v1)|[link](https://github.com/T2-z-latent-optimization/T2-z-latent-optimization.github.io)|[αX↑37](https://alphaxiv.org/abs/2610.22364)|
 |**2026-10-15**|**GeoState: Learning View-Decoupled Geometry States for 3D World Modeling**|Hongchang Liu et.al.|[2610.22343v1](http://arxiv.org/abs/2610.22343v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.22343)|
 |**2026-10-15**|**Dexterity from Supervised Play**|Botao He et.al.|[2610.22340v1](http://arxiv.org/abs/2610.22340v1)|[link](https://github.com/irmakguzey/tactile-dexterity)|[αX↑12](https://alphaxiv.org/abs/2610.22340)|
@@ -13,7 +28,7 @@
 |**2026-10-15**|**VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models**|Xueli Sun et.al.|[2610.21985v1](http://arxiv.org/abs/2610.21985v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.21985)|
 |**2026-10-15**|**TS-WAM: Temporal Latent Actions and World-Action Coupling for Vision-Language Robot Control**|Menghao Yin et.al.|[2610.21922v1](http://arxiv.org/abs/2610.21922v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.21922)|
 |**2026-10-15**|**CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness**|Dongjie Cheng et.al.|[2610.21910v1](http://arxiv.org/abs/2610.21910v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.21910)|
-|**2026-10-15**|**MAIA: Anticipating Interaction Anomalies in Contact-Rich Manipulation via Multimodal World Models**|Yi Qiao et.al.|[2610.21686v1](http://arxiv.org/abs/2610.21686v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.21686)|
+|**2026-10-16**|**MAIA: Anticipating Interaction Anomalies in Contact-Rich Manipulation via Multimodal World Models**|Yi Qiao et.al.|[2610.21686v2](http://arxiv.org/abs/2610.21686v2)|null|[αX↑4](https://alphaxiv.org/abs/2610.21686)|
 |**2026-10-15**|**Learning Intrinsic Dynamics in Latent World Models**|Jiamin Shi et.al.|[2610.21612v1](http://arxiv.org/abs/2610.21612v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.21612)|
 |**2026-10-15**|**From Optical Flow to Safety: Visual Safety Certification via Scale-Free Relative Motion**|Bazeela Banday et.al.|[2610.21374v1](http://arxiv.org/abs/2610.21374v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.21374)|
 |**2026-10-15**|**Constrained Multi-Agent Reinforcement Learning in Imagination**|Raz Shmueli et.al.|[2610.21319v1](http://arxiv.org/abs/2610.21319v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.21319)|
@@ -92,7 +107,7 @@
 |**2026-10-12**|**World Models Need a Physical Registry: Learning Internal Predictive States for Physically Plausible World Models**|Shinseong Kim et.al.|[2610.16365v1](http://arxiv.org/abs/2610.16365v1)|[link](https://github.com/GrainSack/physical-registry)|[αX↑11](https://alphaxiv.org/abs/2610.16365)|
 |**2026-10-12**|**PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation**|Xinyu Guo et.al.|[2610.16355v1](http://arxiv.org/abs/2610.16355v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.16355)|
 |**2026-10-11**|**Inverse Garment Design with Visual Agents**|Nanxiang Jiang et.al.|[2610.15582v1](http://arxiv.org/abs/2610.15582v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.15582)|
-|**2026-10-10**|**AnyRank: Reliable Anytime Policy Ranking via Sequential Testing**|Apurva Badithela et.al.|[2610.14603v1](http://arxiv.org/abs/2610.14603v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.14603)|
+|**2026-10-16**|**AnyRank: Reliable Anytime Policy Ranking via Sequential Testing**|Apurva Badithela et.al.|[2610.14603v2](http://arxiv.org/abs/2610.14603v2)|null|[αX↑11](https://alphaxiv.org/abs/2610.14603)|
 |**2026-10-10**|**Remembering What Matters for Long-Horizon Robotic World Models**|Hao Wu et.al.|[2610.14583v1](http://arxiv.org/abs/2610.14583v1)|[link](https://github.com/Alexander-wu/ReCAP)|[αX↑3](https://alphaxiv.org/abs/2610.14583)|
 |**2026-10-07**|**Do My Samples Help? Compute Budget Allocation for Real-World Sampling-Based MPC in Contact-Rich Manipulation**|Magnus Dierking et.al.|[2610.14064v1](http://arxiv.org/abs/2610.14064v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14064)|
 |**2026-10-12**|**Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark**|Xudong Cai et.al.|[2610.13947v2](http://arxiv.org/abs/2610.13947v2)|[link](https://github.com/physicalvision/Artisan)|[🤗👍23](https://huggingface.co/papers/2610.13947) [αX↑48](https://alphaxiv.org/abs/2610.13947)|
@@ -327,15 +342,24 @@
 |**2026-09-27**|**ReDrive: Shaping Representations with World Modeling for End-to-End Driving**|Yueting Zhu et.al.|[2609.33854v1](http://arxiv.org/abs/2609.33854v1)|null|[αX↑19](https://alphaxiv.org/abs/2609.33854)|
 |**2026-10-08**|**MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning**|Brandon Gary Kaplowitz et.al.|[2609.33563v2](http://arxiv.org/abs/2609.33563v2)|null|[αX↑3](https://alphaxiv.org/abs/2609.33563)|
 |**2026-09-27**|**VehDyn: A Driving World Model Benchmark for Vehicle Dynamics**|Tianyi Wang et.al.|[2609.33264v1](http://arxiv.org/abs/2609.33264v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.33264)|
+|**2026-09-27**|**Scope-WM: Scoped Computation for Efficient Visual World Models**|Chunzheng Li et.al.|[2609.33218v1](http://arxiv.org/abs/2609.33218v1)|[link](https://github.com/ChunZheng2022/Scope-WM)|[αX↑3](https://alphaxiv.org/abs/2609.33218)|
 |**2026-09-27**|**DeltaWAM: Change-Centric Visual Foresight via Delta Tokens for an Efficient World-Action Model**|Tianyun Jiang et.al.|[2609.33177v1](http://arxiv.org/abs/2609.33177v1)|[link](https://github.com/deltawam/DeltaWAM)|[αX↑2](https://alphaxiv.org/abs/2609.33177)|
+|**2026-10-06**|**Adaptive Latent Capacity for World Models**|Idan Achituve et.al.|[2609.32921v2](http://arxiv.org/abs/2609.32921v2)|null|[🤗👍24](https://huggingface.co/papers/2609.32921) [αX↑2](https://alphaxiv.org/abs/2609.32921)|
 |**2026-09-26**|**FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation**|Khang H. Nguyen et.al.|[2609.32855v1](http://arxiv.org/abs/2609.32855v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.32855)|
+|**2026-09-30**|**Think Fast, Plan Selectively: Adaptive Deliberation for Efficient Data-Driven MPC**|Yi Xian Goh et.al.|[2609.32591v2](http://arxiv.org/abs/2609.32591v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.32591)|
 |**2026-09-25**|**HapticWorld: an Interactive World Simulator with Real-time Torque Feedback**|Shaoting Peng et.al.|[2609.31924v1](http://arxiv.org/abs/2609.31924v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.31924)|
 |**2026-09-21**|**Fysiverse-3D-SimReady Technical Report: Agentic Physical Simulation for Pragmatic 3D World Reconstruction**|Lintao Wang et.al.|[2609.31715v1](http://arxiv.org/abs/2609.31715v1)|[link](https://github.com/Fysics-AI/Fysiverse-3D-SimReady)|[αX↑1](https://alphaxiv.org/abs/2609.31715)|
 |**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349v1](http://arxiv.org/abs/2609.31349v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.31349)|
+|**2026-08-30**|**Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence**|Gaytri Jena et.al.|[2609.29669v1](http://arxiv.org/abs/2609.29669v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.29669)|
 |**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393v1](http://arxiv.org/abs/2609.28393v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.28393)|
+|**2026-08-15**|**AWM-VLA: AlignedWorld Modeling for Efficient and Explainable Vision-Language-Action Policies**|An Lanji et.al.|[2609.27753v1](http://arxiv.org/abs/2609.27753v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27753)|
+|**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458v1](http://arxiv.org/abs/2609.26458v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.26458)|
 |**2026-09-23**|**ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model**|Sinuo Wang et.al.|[2609.26299v2](http://arxiv.org/abs/2609.26299v2)|null|[αX↑25](https://alphaxiv.org/abs/2609.26299)|
+|**2026-09-22**|**Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning**|Dingkang Yang et.al.|[2609.25741v1](http://arxiv.org/abs/2609.25741v1)|[link](https://github.com/Fysics-AI/Fysiverse-3D-Vision)|[αX↑2](https://alphaxiv.org/abs/2609.25741)|
 |**2026-09-21**|**WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory**|Wangbo Yu et.al.|[2609.24984v1](http://arxiv.org/abs/2609.24984v1)|[link](https://github.com/TencentARC/WorldCrafter)|[🤗👍160](https://huggingface.co/papers/2609.24984) [αX↑91](https://alphaxiv.org/abs/2609.24984)|
 |**2026-09-22**|**CausalWM: Causal Chain-of-Thought Reasoning for Embodied World Model**|Ziming Xu et.al.|[2609.23184v2](http://arxiv.org/abs/2609.23184v2)|null|[αX↑14](https://alphaxiv.org/abs/2609.23184)|
+|**2026-10-08**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[2609.19142v3](http://arxiv.org/abs/2609.19142v3)|null|[αX↑35](https://alphaxiv.org/abs/2609.19142)|
+|**2026-09-16**|**WAVE-Go: World-Model Navigation with Adaptive Execution for Wheel-Legged Robots**|Mingyi Li et.al.|[2609.18193v1](http://arxiv.org/abs/2609.18193v1)|[link](https://github.com/vigorlee/wave-go)|[αX↑4](https://alphaxiv.org/abs/2609.18193)|
 |**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372v1](http://arxiv.org/abs/2609.17372v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.17372)|
 |**2026-09-02**|**Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement**|Loc X. Nguyen et.al.|[2609.13236v1](http://arxiv.org/abs/2609.13236v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.13236)|
 |**2026-09-10**|**World in World: Explore the World with World Models**|Chenxi Song et.al.|[2609.11548v1](http://arxiv.org/abs/2609.11548v1)|[link](https://github.com/Westlake-AGI-Lab/WorldinWorld)|[🤗👍32](https://huggingface.co/papers/2609.11548) [αX↑100](https://alphaxiv.org/abs/2609.11548)|
@@ -456,7 +480,9 @@
 |**2026-05-30**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502v3](http://arxiv.org/abs/2511.17502v3)|[link](https://github.com/alibaba-damo-academy/RynnVLA-002)|[🤗👍28](https://huggingface.co/papers/2511.17502) [αX↑99](https://alphaxiv.org/abs/2511.17502)|
 |**2025-11-30**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605v2](http://arxiv.org/abs/2511.15605v2)|[link](https://github.com/sii-research/siiRL)|[🤗👍25](https://huggingface.co/papers/2511.15605) [αX↑75](https://alphaxiv.org/abs/2511.15605)|
 |**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659v1](http://arxiv.org/abs/2511.14659v1)|[link](https://github.com/declare-lab/nora-1.5)|[🤗👍13](https://huggingface.co/papers/2511.14659) [αX↑78](https://alphaxiv.org/abs/2511.14659)|
+|**2025-12-04**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520v3](http://arxiv.org/abs/2511.11520v3)|[link](https://github.com/jettbrains/-L-)|[αX↑25](https://alphaxiv.org/abs/2511.11520)|
 |**2025-11-12**|**WMPO: World Model-based Policy Optimization for Vision-Language-Action Models**|Fangqi Zhu et.al.|[2511.09515v1](http://arxiv.org/abs/2511.09515v1)|[link](https://github.com/WM-PO/WMPO)|[🤗👍20](https://huggingface.co/papers/2511.09515) [αX↑115](https://alphaxiv.org/abs/2511.09515)|
+|**2026-07-21**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Zihao He et.al.|[2511.01177v3](http://arxiv.org/abs/2511.01177v3)|null|[αX↑12](https://alphaxiv.org/abs/2511.01177)|
 
 <p align=right>(<a href="#">back to top</a>)</p>
 

@@ -1,9 +1,16 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.18
+### Updated on 2026.10.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23849)|
+|**2026-10-16**|**Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?**|Anis Bekri et.al.|[2610.23827v1](http://arxiv.org/abs/2610.23827v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23827)|
+|**2026-10-16**|**Self-Building Labs**|Jiaru Bai et.al.|[2610.23826v1](http://arxiv.org/abs/2610.23826v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23826)|
+|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Ayush Deshmukh et.al.|[2610.23438v1](http://arxiv.org/abs/2610.23438v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23438)|
+|**2026-10-16**|**PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development**|Lang Zhu et.al.|[2610.23019v1](http://arxiv.org/abs/2610.23019v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23019)|
+|**2026-10-15**|**Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations**|Devin Han et.al.|[2610.22576v1](http://arxiv.org/abs/2610.22576v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22576)|
+|**2026-10-15**|**Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft**|Alvaro Peiro et.al.|[2610.22436v1](http://arxiv.org/abs/2610.22436v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22436)|
 |**2026-10-15**|**Dexterity from Supervised Play**|Botao He et.al.|[2610.22340v1](http://arxiv.org/abs/2610.22340v1)|[link](https://github.com/irmakguzey/tactile-dexterity)|[αX↑12](https://alphaxiv.org/abs/2610.22340)|
 |**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[2610.22337v1](http://arxiv.org/abs/2610.22337v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.22337)|
 |**2026-10-15**|**Whole-Body Dexterity**|Conor Mc Gartoll et.al.|[2610.22184v1](http://arxiv.org/abs/2610.22184v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.22184)|
@@ -51,7 +58,7 @@
 |**2026-10-08**|**RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning**|Ruixiang Ouyang et.al.|[2610.12333v1](http://arxiv.org/abs/2610.12333v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.12333)|
 |**2026-10-08**|**Sim-to-Real RL for ASVs using SysID**|Cody Sheltraw et.al.|[2610.12202v1](http://arxiv.org/abs/2610.12202v1)|[link](https://github.com/UMich-CURLY/ASTRA_RL/tree/df98e7fd01420163082255403f3b032e0d8d0d03)|[αX↑1](https://alphaxiv.org/abs/2610.12202)|
 |**2026-10-08**|**Leveraging Human-In-The-Loop Demonstrations in Reinforcement Learning for Digital Twin-Driven Robot Flexibility**|Yuzhu Sun et.al.|[2610.12140v1](http://arxiv.org/abs/2610.12140v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.12140)|
-|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑14](https://alphaxiv.org/abs/2610.12069)|
+|**2026-10-09**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069v2](http://arxiv.org/abs/2610.12069v2)|null|[αX↑16](https://alphaxiv.org/abs/2610.12069)|
 |**2026-10-08**|**Reliability-Aware Future Conditioning for Temporally Robust Robot Manipulation**|Mohammad Khoshnazar et.al.|[2610.11956v1](http://arxiv.org/abs/2610.11956v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.11956)|
 |**2026-10-08**|**Digital Twin for Pre-Deployment Validation of AI-Driven Safety-Critical Industrial Edge Control Loops**|Sara Cavallero et.al.|[2610.11934v1](http://arxiv.org/abs/2610.11934v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.11934)|
 |**2026-10-08**|**CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding**|Andrea Ceron et.al.|[2610.11376v1](http://arxiv.org/abs/2610.11376v1)|[link](https://github.com/andrea25512/CRISP)|[αX↑3](https://alphaxiv.org/abs/2610.11376)|
@@ -144,12 +151,14 @@
 |**2026-09-22**|**DynaForge: Planning-Guided Residual Learning for Dynamic Manipulation Demonstration Generation**|Yiyang Jin et.al.|[2609.25631v1](http://arxiv.org/abs/2609.25631v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.25631)|
 |**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578v1](http://arxiv.org/abs/2609.25578v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25578)|
 |**2026-09-22**|**Digital Twin-Driven VR Teleoperation with Multi-View Spatial Perception for Surgical Robots**|Chang Liu et.al.|[2609.25527v1](http://arxiv.org/abs/2609.25527v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.25527)|
+|**2026-09-21**|**HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments**|Toan Nguyen et.al.|[2609.25363v1](http://arxiv.org/abs/2609.25363v1)|null|[αX↑21](https://alphaxiv.org/abs/2609.25363)|
 |**2026-09-22**|**H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer**|Chuyang Xiao et.al.|[2609.24778v2](http://arxiv.org/abs/2609.24778v2)|null|[αX↑15](https://alphaxiv.org/abs/2609.24778)|
 |**2026-09-21**|**Reinforcement Learning in Operational Research: A Technical Review and Practical Roadmap**|Yahan Lu et.al.|[2609.24750v1](http://arxiv.org/abs/2609.24750v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.24750)|
 |**2026-09-21**|**MGRD: Compact morphology-gated residual diffusion for variance-aware cross-domain neurite forecasting**|Tsung Yeh Hsieh et.al.|[2609.23990v1](http://arxiv.org/abs/2609.23990v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23990)|
 |**2026-09-20**|**ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation**|Xinyi Wang et.al.|[2609.23910v1](http://arxiv.org/abs/2609.23910v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23910)|
 |**2026-09-20**|**PINGU: Extending Air-Bearing Spacecraft Emulators with Open-Source Actuators and Learned Control for Contact-Rich Proximity Operations**|Ricard Marsal I Castan et.al.|[2609.23554v1](http://arxiv.org/abs/2609.23554v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23554)|
 |**2026-09-19**|**"Dear LLaVA, Please Drive": A Depth-Aware Vision-Language Agent for Closed-Loop Robotic Control**|Sebastian Berger et.al.|[2609.22925v1](http://arxiv.org/abs/2609.22925v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.22925)|
+|**2026-09-18**|**KnowDemo: Knowledge-Guided Robot Demonstration Generation from Human Videos**|Zhiyuan Gao et.al.|[2609.21229v1](http://arxiv.org/abs/2609.21229v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21229)|
 |**2026-10-05**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[2609.21045v2](http://arxiv.org/abs/2609.21045v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.21045)|
 |**2026-09-16**|**TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation**|Jie Yin et.al.|[2609.18174v1](http://arxiv.org/abs/2609.18174v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.18174)|
 |**2026-09-12**|**Learning In-Hand Object Reaching to General 6D Poses**|Junxiao Lin et.al.|[2609.13761v1](http://arxiv.org/abs/2609.13761v1)|null|[αX↑11](https://alphaxiv.org/abs/2609.13761)|
@@ -173,6 +182,7 @@
 |**2026-07-06**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797v2](http://arxiv.org/abs/2512.11797v2)|null|[αX↑17](https://alphaxiv.org/abs/2512.11797)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
 |**2025-11-27**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200v2](http://arxiv.org/abs/2511.15200v2)|[link](https://github.com/NVlabs/GR00T-VisualSim2Real)|[αX↑78](https://alphaxiv.org/abs/2511.15200)|
+|**2025-12-04**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520v3](http://arxiv.org/abs/2511.11520v3)|[link](https://github.com/jettbrains/-L-)|[αX↑25](https://alphaxiv.org/abs/2511.11520)|
 |**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li et.al.|[2511.04131v1](http://arxiv.org/abs/2511.04131v1)|[link](https://github.com/LeCAR-Lab/BFM-Zero)|[αX↑72](https://alphaxiv.org/abs/2511.04131)|
 |**2026-02-24**|**World Simulation with Video Foundation Models for Physical AI**|NVIDIA et.al.|[2511.00062v2](http://arxiv.org/abs/2511.00062v2)|[link](https://github.com/nvidia-cosmos/cosmos-predict2.5)|[🤗👍45](https://huggingface.co/papers/2511.00062) [αX↑118](https://alphaxiv.org/abs/2511.00062)|

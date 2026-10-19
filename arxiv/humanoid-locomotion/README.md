@@ -1,9 +1,16 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.18
+### Updated on 2026.10.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23849)|
+|**2026-10-16**|**Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator**|Yanzhou Jin et.al.|[2610.23548v1](http://arxiv.org/abs/2610.23548v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23548)|
+|**2026-10-16**|**CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots**|Zicheng Liu et.al.|[2610.23288v1](http://arxiv.org/abs/2610.23288v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23288)|
+|**2026-10-16**|**BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL**|Liyun Yan et.al.|[2610.23127v1](http://arxiv.org/abs/2610.23127v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23127)|
+|**2026-10-15**|**FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour**|Narayanan Palghat Parameswaran et.al.|[2610.22619v1](http://arxiv.org/abs/2610.22619v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22619)|
+|**2026-10-15**|**Scaling Online Exploration for Robot Agents**|Runhan Huang et.al.|[2610.22496v1](http://arxiv.org/abs/2610.22496v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22496)|
+|**2026-10-15**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|SenseNova et.al.|[2610.22471v1](http://arxiv.org/abs/2610.22471v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.22471)|
 |**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Tianxing Chen et.al.|[2610.22342v1](http://arxiv.org/abs/2610.22342v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.22342)|
 |**2026-10-15**|**Whole-Body Dexterity**|Conor Mc Gartoll et.al.|[2610.22184v1](http://arxiv.org/abs/2610.22184v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.22184)|
 |**2026-10-15**|**Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation**|James Foster et.al.|[2610.22176v1](http://arxiv.org/abs/2610.22176v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.22176)|
@@ -42,7 +49,7 @@
 |**2026-10-12**|**Human-Like Redundancy Resolution for Real-Time Bimanual Humanoid Teleoperation**|Chao Tan et.al.|[2610.16855v1](http://arxiv.org/abs/2610.16855v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.16855)|
 |**2026-10-12**|**Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs**|Rohit Kumar et.al.|[2610.16604v1](http://arxiv.org/abs/2610.16604v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.16604)|
 |**2026-10-11**|**P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning**|Xue Wang et.al.|[2610.15833v1](http://arxiv.org/abs/2610.15833v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.15833)|
-|**2026-10-11**|**Analytic Robot Self-Model: Learning Screw-Axis Kinematics for Rendering and Model-Based Control**|Chen Xu et.al.|[2610.15558v1](http://arxiv.org/abs/2610.15558v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.15558)|
+|**2026-10-16**|**Analytic Robot Self-Model: Learning Screw-Axis Kinematics for Rendering and Model-Based Control**|Xu Chen et.al.|[2610.15558v2](http://arxiv.org/abs/2610.15558v2)|null|[αX↑2](https://alphaxiv.org/abs/2610.15558)|
 |**2026-10-11**|**PointWalker: Mapless Quadruped Locomotion Directly From Raw LiDAR Point Clouds**|Sicen Li et.al.|[2610.15548v1](http://arxiv.org/abs/2610.15548v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.15548)|
 |**2026-10-11**|**Have You Seen It Clearly? Uncertainty-Guided Belief Refinement for Zero-Shot Object Navigation**|Jingzhi Huang et.al.|[2610.15375v1](http://arxiv.org/abs/2610.15375v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.15375)|
 |**2026-10-11**|**Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting**|Yongpeng Cao et.al.|[2610.15274v1](http://arxiv.org/abs/2610.15274v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.15274)|
@@ -189,6 +196,7 @@
 |**2026-10-02**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Chuan Qin et.al.|[2609.34199v3](http://arxiv.org/abs/2609.34199v3)|null|[αX↑12](https://alphaxiv.org/abs/2609.34199)|
 |**2026-09-27**|**InfraVLA: Extending Vision-Language-Action Navigation with Infrastructure Cameras**|Lukas Vierling et.al.|[2609.33647v1](http://arxiv.org/abs/2609.33647v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.33647)|
 |**2026-09-27**|**SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation**|Chengqun Yang et.al.|[2609.33311v1](http://arxiv.org/abs/2609.33311v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.33311)|
+|**2026-09-27**|**Q-WAM: 4-Bit Quantization of World Action Models with Action-Subspace Protection**|Arash Akbari et.al.|[2609.33269v1](http://arxiv.org/abs/2609.33269v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.33269)|
 |**2026-09-26**|**RECAST: Recasting Vision-Language Semantics into an Actionable Cost Map for Robot Navigation**|Incheol Cho et.al.|[2609.32595v1](http://arxiv.org/abs/2609.32595v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.32595)|
 |**2026-09-26**|**FutureRay: Control-Aligned Future Range for Agile Quadruped Navigation**|Tianhao Zang et.al.|[2609.32158v1](http://arxiv.org/abs/2609.32158v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.32158)|
 |**2026-09-26**|**GAUGE: Planner-Conditioned Active Calibration of Opaque Quadruped Velocity Interfaces**|Tianhao Zang et.al.|[2609.32154v1](http://arxiv.org/abs/2609.32154v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.32154)|
@@ -201,12 +209,14 @@
 |**2026-09-24**|**Contact as a Decision Variable: Capability-Tradeoff Contact Selection for Legged Loco-Manipulation**|Al Jaber Mahmud et.al.|[2609.30140v1](http://arxiv.org/abs/2609.30140v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.30140)|
 |**2026-09-24**|**DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models**|Yohan Choi et.al.|[2609.29092v1](http://arxiv.org/abs/2609.29092v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.29092)|
 |**2026-09-23**|**An Analysis of Streaming Deep Reinforcement Learning for Adaptive Continual Learning in Robotics**|Teeratham Vitchutripop et.al.|[2609.28807v1](http://arxiv.org/abs/2609.28807v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.28807)|
+|**2026-09-23**|**ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control**|Xukun Luan et.al.|[2609.28378v1](http://arxiv.org/abs/2609.28378v1)|[link](https://github.com/Zili1000/ForgetMimic)|[αX↑4](https://alphaxiv.org/abs/2609.28378)|
 |**2026-09-23**|**LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials**|Oswin So et.al.|[2609.28364v1](http://arxiv.org/abs/2609.28364v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.28364)|
 |**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Zerui Li et.al.|[2609.28296v1](http://arxiv.org/abs/2609.28296v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.28296)|
 |**2026-09-23**|**RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement**|Kailin Wang et.al.|[2609.27612v1](http://arxiv.org/abs/2609.27612v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.27612)|
 |**2026-09-22**|**Spiderbot: An Open-Source Energy-Efficient Hexapod with Passive Gravity Compensation**|Ritwik Sharma et.al.|[2609.26989v1](http://arxiv.org/abs/2609.26989v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.26989)|
 |**2026-09-22**|**MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection**|Yichuan Yu et.al.|[2609.26520v1](http://arxiv.org/abs/2609.26520v1)|null|[αX↑8](https://alphaxiv.org/abs/2609.26520)|
 |**2026-09-22**|**SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation**|Quanhua Chen et.al.|[2609.26408v1](http://arxiv.org/abs/2609.26408v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.26408)|
+|**2026-09-21**|**HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments**|Toan Nguyen et.al.|[2609.25363v1](http://arxiv.org/abs/2609.25363v1)|null|[αX↑21](https://alphaxiv.org/abs/2609.25363)|
 |**2026-09-21**|**Learning from Humans for Proactive Assistance in Human-Robot Collaborative Transport**|Elvin Yang et.al.|[2609.25351v1](http://arxiv.org/abs/2609.25351v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.25351)|
 |**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552v1](http://arxiv.org/abs/2609.24552v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.24552)|
 |**2026-09-21**|**Opt2VLA: Force-Aware Vision-Language-Action for Contact-Rich Humanoid Whole-Body Manipulation**|Fukang Liu et.al.|[2609.23968v1](http://arxiv.org/abs/2609.23968v1)|null|[αX↑16](https://alphaxiv.org/abs/2609.23968)|
