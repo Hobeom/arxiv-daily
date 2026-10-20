@@ -1,9 +1,21 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.19
+### Updated on 2026.10.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[2610.26816v1](http://arxiv.org/abs/2610.26816v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26816)|
+|**2026-10-19**|**Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving**|Jie Wang et.al.|[2610.25734v1](http://arxiv.org/abs/2610.25734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25734)|
+|**2026-10-19**|**Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation**|Gang He et.al.|[2610.25687v1](http://arxiv.org/abs/2610.25687v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25687)|
+|**2026-10-18**|**UBD-Bench: Benchmarking and Analyzing Unimodal Branch Degradation in Multimodal Perception for Autonomous Driving**|Ang Liu et.al.|[2610.25448v1](http://arxiv.org/abs/2610.25448v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25448)|
+|**2026-10-18**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v1](http://arxiv.org/abs/2610.25284v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25284)|
+|**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245v1](http://arxiv.org/abs/2610.25245v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25245)|
+|**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25223)|
+|**2026-10-18**|**Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model**|Zeqi Li et.al.|[2610.25130v1](http://arxiv.org/abs/2610.25130v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25130)|
+|**2026-10-17**|**Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing**|Yujia Yang et.al.|[2610.24590v1](http://arxiv.org/abs/2610.24590v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24590)|
+|**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24436)|
+|**2026-10-16**|**HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation**|Dongzhihan Wang et.al.|[2610.24122v1](http://arxiv.org/abs/2610.24122v1)|[link](https://github.com/Anastasiawd/HAVANA)|[αX↑0](https://alphaxiv.org/abs/2610.24122)|
+|**2026-10-14**|**Time-JEPA: Grounding Video World Models with Physical Time Series**|Shenyi Li et.al.|[2610.23982v1](http://arxiv.org/abs/2610.23982v1)|[link](https://github.com/Lishenyi2004/Time-JEPA)|[αX↑0](https://alphaxiv.org/abs/2610.23982)|
 |**2026-10-16**|**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**|Yi Feng et.al.|[2610.23537v1](http://arxiv.org/abs/2610.23537v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23537)|
 |**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356v1](http://arxiv.org/abs/2610.23356v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23356)|
 |**2026-10-16**|**Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving**|Fabian Schmidt et.al.|[2610.23262v1](http://arxiv.org/abs/2610.23262v1)|[link](https://github.com/iis-esslingen/Expand-and-Prune)|[αX↑0](https://alphaxiv.org/abs/2610.23262)|
@@ -179,10 +191,13 @@
 |**2026-08-20**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Yuehao Huang et.al.|[2608.07267v2](http://arxiv.org/abs/2608.07267v2)|null|[αX↑18](https://alphaxiv.org/abs/2608.07267)|
 |**2026-07-23**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Lingfeng Zhang et.al.|[2607.18042v2](http://arxiv.org/abs/2607.18042v2)|null|[αX↑17](https://alphaxiv.org/abs/2607.18042)|
 |**2026-07-18**|**Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation**|Tianshuai Hu et.al.|[2607.16806v1](http://arxiv.org/abs/2607.16806v1)|null|[αX↑3](https://alphaxiv.org/abs/2607.16806)|
+|**2026-07-09**|**FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation**|Xueke Zhu et.al.|[2607.08359v1](http://arxiv.org/abs/2607.08359v1)|null|[αX↑18](https://alphaxiv.org/abs/2607.08359)|
 |**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Mengmeng Liu et.al.|[2607.05133v1](http://arxiv.org/abs/2607.05133v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.05133)|
 |**2026-10-13**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Boyang Sun et.al.|[2607.02417v2](http://arxiv.org/abs/2607.02417v2)|null|[αX↑17](https://alphaxiv.org/abs/2607.02417)|
 |**2026-06-29**|**Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System**|Jiazhao Zhang et.al.|[2606.18112v3](http://arxiv.org/abs/2606.18112v3)|[link](https://github.com/QwenLM/Qwen-RobotNav)|[🤗👍27](https://huggingface.co/papers/2606.18112) [αX↑118](https://alphaxiv.org/abs/2606.18112)|
 |**2026-06-15**|**DriveJudge: Rethinking Autonomous Driving Evaluation with Vision-Language Models**|Xinglong Sun et.al.|[2606.17362v1](http://arxiv.org/abs/2606.17362v1)|null|[αX↑31](https://alphaxiv.org/abs/2606.17362)|
+|**2026-06-17**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030v3](http://arxiv.org/abs/2606.17030v3)|null|[🤗👍47](https://huggingface.co/papers/2606.17030) [αX↑301](https://alphaxiv.org/abs/2606.17030)|
+|**2026-06-05**|**Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation**|Xiangyi Zheng et.al.|[2606.06836v1](http://arxiv.org/abs/2606.06836v1)|[link](https://github.com/buaa-colalab/FLIGHT)|[αX↑12](https://alphaxiv.org/abs/2606.06836)|
 |**2026-06-09**|**Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning**|Ziyang Yao et.al.|[2606.05645v2](http://arxiv.org/abs/2606.05645v2)|null|[🤗👍2](https://huggingface.co/papers/2606.05645) [αX↑31](https://alphaxiv.org/abs/2606.05645)|
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
 |**2026-10-06**|**StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement**|Junwon Seo et.al.|[2606.00267v2](http://arxiv.org/abs/2606.00267v2)|[link](https://github.com/CMU-IntentLab/StressDream)|[🤗👍2](https://huggingface.co/papers/2606.00267) [αX↑16](https://alphaxiv.org/abs/2606.00267)|

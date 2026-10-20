@@ -1,9 +1,20 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.19
+### Updated on 2026.10.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Tianwei Luo et.al.|[2610.26765v1](http://arxiv.org/abs/2610.26765v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26765)|
+|**2026-10-19**|**RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models**|Shengbang Liu et.al.|[2610.26663v1](http://arxiv.org/abs/2610.26663v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26663)|
+|**2026-10-19**|**Holi-World: Building Holistic World Intelligence from Human-Ego Experience**|Hao Li et.al.|[2610.26549v1](http://arxiv.org/abs/2610.26549v1)|[link](https://github.com/Ropedia/holi-world)|[αX↑0](https://alphaxiv.org/abs/2610.26549)|
+|**2026-10-19**|**RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion**|Till Hielscher et.al.|[2610.26414v1](http://arxiv.org/abs/2610.26414v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26414)|
+|**2026-10-19**|**K-AoI: A Spatio-Temporal Synchronization Metric for Digital Twin-based Teleoperation in Dynamic Network Environments**|Lu Tian et.al.|[2610.26201v1](http://arxiv.org/abs/2610.26201v1)|[link](https://github.com/luziyaotian/kaoi-testbed)|[αX↑0](https://alphaxiv.org/abs/2610.26201)|
+|**2026-10-19**|**ReDOA: Real-World Distillation via Observation Alignment for Image-Based Manipulation Policy Learning**|Kotaro Kajitsuka et.al.|[2610.25691v1](http://arxiv.org/abs/2610.25691v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25691)|
+|**2026-10-19**|**ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation**|Yihui Yang et.al.|[2610.25690v1](http://arxiv.org/abs/2610.25690v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25690)|
+|**2026-10-17**|**Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation**|Yutang Lin et.al.|[2610.24675v1](http://arxiv.org/abs/2610.24675v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24675)|
+|**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24436)|
+|**2026-10-16**|**Data-Driven Resource Aggregation for Scalable Digital Twin and Simulation Model Generation**|Yucheng Wu et.al.|[2610.24126v1](http://arxiv.org/abs/2610.24126v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24126)|
+|**2026-10-16**|**CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents**|Sungsu Kim et.al.|[2610.24016v1](http://arxiv.org/abs/2610.24016v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24016)|
 |**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23849)|
 |**2026-10-16**|**Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?**|Anis Bekri et.al.|[2610.23827v1](http://arxiv.org/abs/2610.23827v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23827)|
 |**2026-10-16**|**Self-Building Labs**|Jiaru Bai et.al.|[2610.23826v1](http://arxiv.org/abs/2610.23826v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23826)|
@@ -24,7 +35,7 @@
 |**2026-10-14**|**Mixed-Reality Feedback Control: Towards Blending of Control and Digital Twinning**|Melisa Soydan et.al.|[2610.19759v1](http://arxiv.org/abs/2610.19759v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.19759)|
 |**2026-10-14**|**E2DRL: End-to-End Differentiable Reinforcement Learning for 3D Obstacle Avoidance in Quadruped Robots**|Cheng Fan et.al.|[2610.19627v1](http://arxiv.org/abs/2610.19627v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.19627)|
 |**2026-10-14**|**Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training**|Liqian Ma et.al.|[2610.19479v1](http://arxiv.org/abs/2610.19479v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.19479)|
-|**2026-10-14**|**Probabilistic Physics Digital Twin for Human-Robot Interaction**|Yushen Hu et.al.|[2610.19336v1](http://arxiv.org/abs/2610.19336v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.19336)|
+|**2026-10-17**|**Probabilistic Physics Digital Twin for Human-Robot Interaction**|Yushen Hu et.al.|[2610.19336v2](http://arxiv.org/abs/2610.19336v2)|null|[αX↑2](https://alphaxiv.org/abs/2610.19336)|
 |**2026-10-13**|**Collective Learning for Unified Robotic Manipulation via Predictive Dynamics Adaptation**|Shaocheng Liu et.al.|[2610.19141v1](http://arxiv.org/abs/2610.19141v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.19141)|
 |**2026-10-13**|**Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control**|Nolan Fey et.al.|[2610.18991v1](http://arxiv.org/abs/2610.18991v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.18991)|
 |**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|[link](https://github.com/kszpxxzmc/WorldRecon)|[🤗👍10](https://huggingface.co/papers/2610.18846) [αX↑12](https://alphaxiv.org/abs/2610.18846)|
@@ -179,6 +190,7 @@
 |**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874v1](http://arxiv.org/abs/2607.11874v1)|null|[αX↑33](https://alphaxiv.org/abs/2607.11874)|
 |**2026-06-30**|**ASPIRE: Agentic /Skills Discovery for Robotics**|Runyu Lu et.al.|[2607.00272v1](http://arxiv.org/abs/2607.00272v1)|null|[🤗👍24](https://huggingface.co/papers/2607.00272) [αX↑125](https://alphaxiv.org/abs/2607.00272)|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160v1](http://arxiv.org/abs/2606.05160v1)|[link](https://github.com/NVlabs/GRAIL)|[🤗👍8](https://huggingface.co/papers/2606.05160) [αX↑64](https://alphaxiv.org/abs/2606.05160)|
+|**2026-06-13**|**WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation**|Ning Yang et.al.|[2606.04907v2](http://arxiv.org/abs/2606.04907v2)|null|[αX↑27](https://alphaxiv.org/abs/2606.04907)|
 |**2026-04-10**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544v2](http://arxiv.org/abs/2604.08544v2)|[link](https://github.com/InternRobotics/SIM1)|[🤗👍16](https://huggingface.co/papers/2604.08544) [αX↑27](https://alphaxiv.org/abs/2604.08544)|
 |**2026-07-02**|**CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation**|Letian Fu et.al.|[2603.22435v2](http://arxiv.org/abs/2603.22435v2)|null|[αX↑121](https://alphaxiv.org/abs/2603.22435)|
 |**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843v1](http://arxiv.org/abs/2602.23843v1)|[link](https://github.com/Perkins729/OmniXtreme)|[αX↑89](https://alphaxiv.org/abs/2602.23843)|

@@ -1,14 +1,26 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.19
+### Updated on 2026.10.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v1](http://arxiv.org/abs/2610.26717v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26717)|
+|**2026-10-19**|**SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models**|Shenli Zheng et.al.|[2610.26487v1](http://arxiv.org/abs/2610.26487v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26487)|
+|**2026-10-19**|**Robotic Photography System based on Vision-Language-Action Model**|Song-Li Wu et.al.|[2610.26287v1](http://arxiv.org/abs/2610.26287v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.26287)|
+|**2026-10-19**|**FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation**|Jiaju He et.al.|[2610.25981v1](http://arxiv.org/abs/2610.25981v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25981)|
+|**2026-10-19**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Hojin Jeon et.al.|[2610.25961v1](http://arxiv.org/abs/2610.25961v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25961)|
+|**2026-10-19**|**Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving**|Jie Wang et.al.|[2610.25734v1](http://arxiv.org/abs/2610.25734v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25734)|
+|**2026-10-18**|**AQUAACT: A Joystick-Level Underwater Teleoperation Dataset and Closed-Loop Benchmark**|Zhenqi Wu et.al.|[2610.25534v1](http://arxiv.org/abs/2610.25534v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25534)|
+|**2026-10-18**|**BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks**|Yong Wang et.al.|[2610.25459v1](http://arxiv.org/abs/2610.25459v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.25459)|
+|**2026-10-18**|**VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse**|Sicheng He et.al.|[2610.25043v1](http://arxiv.org/abs/2610.25043v1)|[link](https://github.com/ZJU-OmniAI/VLA-Rolling)|[αX↑0](https://alphaxiv.org/abs/2610.25043)|
+|**2026-10-17**|**Relational Spatial Alignment for Vision-Language-Action Models**|Chaoran Zhu et.al.|[2610.24705v1](http://arxiv.org/abs/2610.24705v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24705)|
+|**2026-10-17**|**Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing**|Yujia Yang et.al.|[2610.24590v1](http://arxiv.org/abs/2610.24590v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24590)|
+|**2026-10-17**|**LIBERO-Pro2.0: A Benchmark for Evaluating the Robustness of Embodied Foundation Models**|Xueyang Zhou et.al.|[2610.24587v1](http://arxiv.org/abs/2610.24587v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.24587)|
 |**2026-10-16**|**Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization**|Chunjin Ye et.al.|[2610.23566v1](http://arxiv.org/abs/2610.23566v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23566)|
 |**2026-10-16**|**Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation**|Jiawei Geng et.al.|[2610.23378v1](http://arxiv.org/abs/2610.23378v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23378)|
 |**2026-10-16**|**From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models**|Yong Wang et.al.|[2610.23319v1](http://arxiv.org/abs/2610.23319v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23319)|
-|**2026-10-16**|**CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots**|Zicheng Liu et.al.|[2610.23288v1](http://arxiv.org/abs/2610.23288v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23288)|
-|**2026-10-16**|**NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models**|Guodong Du et.al.|[2610.23271v1](http://arxiv.org/abs/2610.23271v1)|[link](https://github.com/WanyuGroup/NeurIPS2026-NestedVLA)|[αX↑0](https://alphaxiv.org/abs/2610.23271)|
+|**2026-10-19**|**CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots**|Zicheng Liu et.al.|[2610.23288v2](http://arxiv.org/abs/2610.23288v2)|null|[αX↑1](https://alphaxiv.org/abs/2610.23288)|
+|**2026-10-19**|**NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models**|Guodong Du et.al.|[2610.23271v2](http://arxiv.org/abs/2610.23271v2)|[link](https://github.com/WanyuGroup/NeurIPS2026-NestedVLA)|[αX↑0](https://alphaxiv.org/abs/2610.23271)|
 |**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Zeyuan Ren et.al.|[2610.23123v1](http://arxiv.org/abs/2610.23123v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23123)|
 |**2026-10-16**|**Unifying Embodied Foundation Models via a Model-to-Policy Formulation**|Xinyi Hong et.al.|[2610.23053v1](http://arxiv.org/abs/2610.23053v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23053)|
 |**2026-10-16**|**VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents**|Chenglong Zhang et.al.|[2610.23018v1](http://arxiv.org/abs/2610.23018v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23018)|
@@ -23,7 +35,7 @@
 |**2026-10-15**|**VLA- $Δ$ : Learning Physical State Transition for Vision-Language-Action Models**|Qi Lu et.al.|[2610.21306v1](http://arxiv.org/abs/2610.21306v1)|[link](https://github.com/ZJU-OmniAI/VLA-Delta)|[🤗👍58](https://huggingface.co/papers/2610.21306) [αX↑92](https://alphaxiv.org/abs/2610.21306)|
 |**2026-10-15**|**Do VLAs Really Follow Instructions? Diagnosing How-Level Instruction Following in Vision-Language-Action Models**|Sangwu Park et.al.|[2610.21251v1](http://arxiv.org/abs/2610.21251v1)|[link](https://github.com/sangwu99/how-level-vla-Arxiv)|[αX↑4](https://alphaxiv.org/abs/2610.21251)|
 |**2026-10-15**|**When to Ask for Help: A Decision-Theoretic Account and Measurement Standard for Slow-Module Scheduling in Dual-System Vision-Language-Action Models**|Shilin Zhang et.al.|[2610.21160v1](http://arxiv.org/abs/2610.21160v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.21160)|
-|**2026-10-14**|**A Phenomenology of Neural Geometry in Vision-Language-Action Models**|Mozes Jacobs et.al.|[2610.20840v1](http://arxiv.org/abs/2610.20840v1)|[link](https://github.com/goodfire-ai/vla-geometry)|[αX↑12](https://alphaxiv.org/abs/2610.20840)|
+|**2026-10-17**|**A Phenomenology of Neural Geometry in Vision-Language-Action Models**|Mozes Jacobs et.al.|[2610.20840v2](http://arxiv.org/abs/2610.20840v2)|[link](https://github.com/goodfire-ai/vla-geometry)|[αX↑12](https://alphaxiv.org/abs/2610.20840)|
 |**2026-10-14**|**Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models**|Aiden Swann et.al.|[2610.20767v1](http://arxiv.org/abs/2610.20767v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.20767)|
 |**2026-10-14**|**Causal Analysis of Robot Foundation Models Enables Efficiency Gains**|Aiden Swann et.al.|[2610.20750v1](http://arxiv.org/abs/2610.20750v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.20750)|
 |**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609v1](http://arxiv.org/abs/2610.20609v1)|[link](https://github.com/ASGuard-UCI/safedrive-vla)|[🤗👍14](https://huggingface.co/papers/2610.20609) [αX↑15](https://alphaxiv.org/abs/2610.20609)|
