@@ -1,9 +1,14 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.22
+### Updated on 2026.10.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186v1](http://arxiv.org/abs/2610.31186v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31186)|
+|**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737v1](http://arxiv.org/abs/2610.30737v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30737)|
+|**2026-10-22**|**KinoUAV: A Benchmark for Safe and Stable UAV Vision-Language Navigation with Kinodynamic Modeling**|Chenyao Yang et.al.|[2610.30609v1](http://arxiv.org/abs/2610.30609v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30609)|
+|**2026-10-21**|**Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles**|Aashish Shaju et.al.|[2610.30437v1](http://arxiv.org/abs/2610.30437v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30437)|
+|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319v1](http://arxiv.org/abs/2610.30319v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30319)|
 |**2026-10-21**|**DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving**|Alessandro Canevaro et.al.|[2610.29676v1](http://arxiv.org/abs/2610.29676v1)|[link](https://github.com/alessandro-canevaro/DriveMLP)|[αX↑0](https://alphaxiv.org/abs/2610.29676)|
 |**2026-10-21**|**FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather**|Ali Abedi et.al.|[2610.29618v1](http://arxiv.org/abs/2610.29618v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29618)|
 |**2026-10-21**|**NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering**|Yipeng Lu et.al.|[2610.29200v1](http://arxiv.org/abs/2610.29200v1)|[link](https://github.com/WHU-USI3DV/NeuralSRender)|[αX↑0](https://alphaxiv.org/abs/2610.29200)|
@@ -12,24 +17,24 @@
 |**2026-10-20**|**Deep Learning-Based Road Lane Quality Assessment from Egocentric Dashcam Video**|Shaif Chowdhury et.al.|[2610.28508v1](http://arxiv.org/abs/2610.28508v1)|[link](https://github.com/Shaif95/Road_Quality)|[αX↑0](https://alphaxiv.org/abs/2610.28508)|
 |**2026-10-20**|**CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation**|Pengying Wu et.al.|[2610.28476v1](http://arxiv.org/abs/2610.28476v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.28476)|
 |**2026-10-20**|**Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving**|Tingxu Han et.al.|[2610.27617v1](http://arxiv.org/abs/2610.27617v1)|[link](https://github.com/drunklibai/robust-efficient-lidar-perception)|[αX↑1](https://alphaxiv.org/abs/2610.27617)|
-|**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[2610.26816v1](http://arxiv.org/abs/2610.26816v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.26816)|
+|**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[2610.26816v1](http://arxiv.org/abs/2610.26816v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.26816)|
 |**2026-10-19**|**Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving**|Jie Wang et.al.|[2610.25734v1](http://arxiv.org/abs/2610.25734v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.25734)|
-|**2026-10-19**|**Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation**|Gang He et.al.|[2610.25687v1](http://arxiv.org/abs/2610.25687v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.25687)|
-|**2026-10-18**|**UBD-Bench: Benchmarking and Analyzing Unimodal Branch Degradation in Multimodal Perception for Autonomous Driving**|Ang Liu et.al.|[2610.25448v1](http://arxiv.org/abs/2610.25448v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.25448)|
-|**2026-10-18**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v1](http://arxiv.org/abs/2610.25284v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25284)|
-|**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245v1](http://arxiv.org/abs/2610.25245v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.25245)|
-|**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25223)|
+|**2026-10-19**|**Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation**|Gang He et.al.|[2610.25687v1](http://arxiv.org/abs/2610.25687v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25687)|
+|**2026-10-18**|**UBD-Bench: Benchmarking and Analyzing Unimodal Branch Degradation in Multimodal Perception for Autonomous Driving**|Ang Liu et.al.|[2610.25448v1](http://arxiv.org/abs/2610.25448v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.25448)|
+|**2026-10-18**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v1](http://arxiv.org/abs/2610.25284v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.25284)|
+|**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245v1](http://arxiv.org/abs/2610.25245v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.25245)|
+|**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.25223)|
 |**2026-10-18**|**Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model**|Zeqi Li et.al.|[2610.25130v1](http://arxiv.org/abs/2610.25130v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.25130)|
 |**2026-10-17**|**Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing**|Yujia Yang et.al.|[2610.24590v1](http://arxiv.org/abs/2610.24590v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.24590)|
 |**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.24436)|
 |**2026-10-16**|**HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation**|Dongzhihan Wang et.al.|[2610.24122v1](http://arxiv.org/abs/2610.24122v1)|[link](https://github.com/Anastasiawd/HAVANA)|[αX↑2](https://alphaxiv.org/abs/2610.24122)|
 |**2026-10-14**|**Time-JEPA: Grounding Video World Models with Physical Time Series**|Shenyi Li et.al.|[2610.23982v1](http://arxiv.org/abs/2610.23982v1)|[link](https://github.com/Lishenyi2004/Time-JEPA)|[αX↑0](https://alphaxiv.org/abs/2610.23982)|
 |**2026-10-16**|**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**|Yi Feng et.al.|[2610.23537v1](http://arxiv.org/abs/2610.23537v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.23537)|
-|**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356v1](http://arxiv.org/abs/2610.23356v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.23356)|
-|**2026-10-16**|**Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving**|Fabian Schmidt et.al.|[2610.23262v1](http://arxiv.org/abs/2610.23262v1)|[link](https://github.com/iis-esslingen/Expand-and-Prune)|[αX↑6](https://alphaxiv.org/abs/2610.23262)|
-|**2026-10-16**|**SimpleVLN: Towards Simple and Frontier Vision-Language Navigation**|Lingyi Hong et.al.|[2610.23203v1](http://arxiv.org/abs/2610.23203v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.23203)|
-|**2026-10-16**|**STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases**|Lieqi Liu et.al.|[2610.22795v1](http://arxiv.org/abs/2610.22795v1)|[link](https://github.com/PlusLabNLP/STRIDE)|[αX↑4](https://alphaxiv.org/abs/2610.22795)|
-|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450v1](http://arxiv.org/abs/2610.22450v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.22450)|
+|**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356v1](http://arxiv.org/abs/2610.23356v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.23356)|
+|**2026-10-16**|**Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving**|Fabian Schmidt et.al.|[2610.23262v1](http://arxiv.org/abs/2610.23262v1)|[link](https://github.com/iis-esslingen/Expand-and-Prune)|[αX↑7](https://alphaxiv.org/abs/2610.23262)|
+|**2026-10-16**|**SimpleVLN: Towards Simple and Frontier Vision-Language Navigation**|Lingyi Hong et.al.|[2610.23203v1](http://arxiv.org/abs/2610.23203v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.23203)|
+|**2026-10-16**|**STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases**|Lieqi Liu et.al.|[2610.22795v1](http://arxiv.org/abs/2610.22795v1)|[link](https://github.com/PlusLabNLP/STRIDE)|[αX↑5](https://alphaxiv.org/abs/2610.22795)|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450v1](http://arxiv.org/abs/2610.22450v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.22450)|
 |**2026-10-15**|**FutureLift: Lifting Trajectory Proposals into Bidirectional Future Graphs for Motion Forecasting**|Daniel Grimm et.al.|[2610.22215v1](http://arxiv.org/abs/2610.22215v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.22215)|
 |**2026-10-16**|**FALCON: FPGA-Accelerated Latency-Certifiable Occupancy Networks for Camera-Based Autonomous Driving**|Haohua Que et.al.|[2610.22143v2](http://arxiv.org/abs/2610.22143v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.22143)|
 |**2026-10-15**|**GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning**|Zhao Yang et.al.|[2610.21984v1](http://arxiv.org/abs/2610.21984v1)|[link](https://github.com/yangzhaojason/GRID-Planner)|[αX↑9](https://alphaxiv.org/abs/2610.21984)|
