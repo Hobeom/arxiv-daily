@@ -1,6 +1,6 @@
 ## Robot Manipulation
 
-### Updated on 2026.10.23
+### Updated on 2026.10.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
