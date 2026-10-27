@@ -1,12 +1,27 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.26
+### Updated on 2026.10.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-26**|**Learning Force-Reactive Humanoid Loco-Manipulation**|Sihang Li et.al.|[2610.35862v1](http://arxiv.org/abs/2610.35862v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35862)|
+|**2026-10-26**|**Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization**|Gijeong Kim et.al.|[2610.35852v1](http://arxiv.org/abs/2610.35852v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35852)|
+|**2026-10-26**|**Continuous-Time Safe Planning and Control for Agile Quadrupeds**|Gage MacLin et.al.|[2610.35670v1](http://arxiv.org/abs/2610.35670v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35670)|
+|**2026-10-26**|**DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection**|Jooyoung Hong et.al.|[2610.35462v1](http://arxiv.org/abs/2610.35462v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35462)|
+|**2026-10-26**|**Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data**|Dianyi Yang et.al.|[2610.35075v1](http://arxiv.org/abs/2610.35075v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35075)|
+|**2026-10-26**|**Networked Humanoid Intelligence: Communication, Coordination, Collaboration, and Social Interaction**|Loc X. Nguyen et.al.|[2610.34740v1](http://arxiv.org/abs/2610.34740v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34740)|
+|**2026-10-25**|**TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning**|Sooyoung Kwon et.al.|[2610.34519v1](http://arxiv.org/abs/2610.34519v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34519)|
+|**2026-10-25**|**ThinkLocoManip: A Whole-Body Control Agentic Harness for Legged Loco-Manipulation**|Nuo Chen et.al.|[2610.34370v1](http://arxiv.org/abs/2610.34370v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34370)|
+|**2026-10-25**|**HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience**|Yang Liu et.al.|[2610.34186v1](http://arxiv.org/abs/2610.34186v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34186)|
+|**2026-10-25**|**HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model**|Chao Chen et.al.|[2610.34126v1](http://arxiv.org/abs/2610.34126v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34126)|
+|**2026-10-24**|**RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models**|Doanh Le Thien et.al.|[2610.33807v1](http://arxiv.org/abs/2610.33807v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33807)|
+|**2026-10-24**|**WorldFailBench: Do World Models Understand Policy Failures?**|Zheng Zhang et.al.|[2610.33565v1](http://arxiv.org/abs/2610.33565v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33565)|
+|**2026-10-24**|**MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking**|Jia Li et.al.|[2610.33508v1](http://arxiv.org/abs/2610.33508v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33508)|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI et.al.|[2610.33446v1](http://arxiv.org/abs/2610.33446v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33446)|
+|**2026-10-23**|**Active Reachability Learning for Humanoid Recoverability Monitoring**|Zeyuan Feng et.al.|[2610.33317v1](http://arxiv.org/abs/2610.33317v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33317)|
 |**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971v1](http://arxiv.org/abs/2610.32971v1)|[link](https://github.com/robustrl-lib/robustrllib)|[αX↑0](https://alphaxiv.org/abs/2610.32971)|
 |**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966v1](http://arxiv.org/abs/2610.32966v1)|[link](https://github.com/awfuact/vit-h)|[αX↑0](https://alphaxiv.org/abs/2610.32966)|
-|**2026-10-23**|**HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training**|Xihan Ma et.al.|[2610.32909v1](http://arxiv.org/abs/2610.32909v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32909)|
+|**2026-10-26**|**HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training**|Xihan Ma et.al.|[2610.32909v2](http://arxiv.org/abs/2610.32909v2)|null|[αX↑0](https://alphaxiv.org/abs/2610.32909)|
 |**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460v1](http://arxiv.org/abs/2610.32460v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32460)|
 |**2026-10-23**|**Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers**|Shaoqin Li et.al.|[2610.32277v1](http://arxiv.org/abs/2610.32277v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32277)|
 |**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32271)|
@@ -14,10 +29,10 @@
 |**2026-10-22**|**Move, don't think: sample-efficient collision avoidance with lossy proximity sensors**|Carson Kohlbrenner et.al.|[2610.31891v1](http://arxiv.org/abs/2610.31891v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31891)|
 |**2026-10-22**|**Humanoid Mobility via Attention-based Contacts**|Junzhe He et.al.|[2610.31608v1](http://arxiv.org/abs/2610.31608v1)|null|[αX↑31](https://alphaxiv.org/abs/2610.31608)|
 |**2026-10-22**|**Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation**|Chenyuan Chen et.al.|[2610.31166v1](http://arxiv.org/abs/2610.31166v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.31166)|
-|**2026-10-23**|**LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation**|Dewei Wang et.al.|[2610.30876v2](http://arxiv.org/abs/2610.30876v2)|null|[αX↑10](https://alphaxiv.org/abs/2610.30876)|
+|**2026-10-26**|**LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation**|Dewei Wang et.al.|[2610.30876v3](http://arxiv.org/abs/2610.30876v3)|null|[αX↑10](https://alphaxiv.org/abs/2610.30876)|
 |**2026-10-23**|**Robot Motion Transition with a Human Motion Prior**|Taehyun Byun et.al.|[2610.30817v2](http://arxiv.org/abs/2610.30817v2)|null|[αX↑5](https://alphaxiv.org/abs/2610.30817)|
 |**2026-10-22**|**Continuous-Time Motion Planning and Steering with Global Convergence**|Mohsen Amiri et.al.|[2610.30607v1](http://arxiv.org/abs/2610.30607v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30607)|
-|**2026-10-21**|**Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation**|Xiongbo Shi et.al.|[2610.30540v1](http://arxiv.org/abs/2610.30540v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.30540)|
+|**2026-10-24**|**Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation**|Xiongbo Shi et.al.|[2610.30540v2](http://arxiv.org/abs/2610.30540v2)|null|[αX↑14](https://alphaxiv.org/abs/2610.30540)|
 |**2026-10-21**|**PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization**|Maximilian Stölzle et.al.|[2610.30500v1](http://arxiv.org/abs/2610.30500v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30500)|
 |**2026-10-21**|**MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion**|Van Chung Nguyen et.al.|[2610.30334v1](http://arxiv.org/abs/2610.30334v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.30334)|
 |**2026-10-21**|**Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer**|Guillem Casadesus Vila et.al.|[2610.30080v1](http://arxiv.org/abs/2610.30080v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30080)|

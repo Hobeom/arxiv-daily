@@ -1,9 +1,17 @@
 ## Physical AI
 
-### Updated on 2026.10.26
+### Updated on 2026.10.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-26**|**RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies**|Heyang Yu et.al.|[2610.35604v1](http://arxiv.org/abs/2610.35604v1)|[link](https://github.com/THUSI-Lab/RoboDoctor)|[αX↑0](https://alphaxiv.org/abs/2610.35604)|
+|**2026-10-26**|**Labference: Benchmarking the Reasoning-Action Connection in Robotic Laboratories**|Shitong Liu et.al.|[2610.35252v1](http://arxiv.org/abs/2610.35252v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35252)|
+|**2026-10-26**|**VISTA: Active Exploration for Self-Improvement in Embodied Agents**|Zhang Zhang et.al.|[2610.35051v1](http://arxiv.org/abs/2610.35051v1)|[link](https://github.com/AgenticEI/VISTA)|[αX↑0](https://alphaxiv.org/abs/2610.35051)|
+|**2026-10-26**|**Beyond Behaviour: A Stimulus-Response Safety Evaluation of Vision-Language-Action Models**|Vy Vo et.al.|[2610.34837v1](http://arxiv.org/abs/2610.34837v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34837)|
+|**2026-10-25**|**EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins**|Yuhao Tian et.al.|[2610.34358v1](http://arxiv.org/abs/2610.34358v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34358)|
+|**2026-10-24**|**Securing Edge & Physical AI: Post-Quantum IoT Blockchain for Mission-Critical Cyber-Physical Agents**|Kürşat Çakal et.al.|[2610.33862v1](http://arxiv.org/abs/2610.33862v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33862)|
+|**2026-10-24**|**POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI**|Xiaodi Huang et.al.|[2610.33745v1](http://arxiv.org/abs/2610.33745v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33745)|
+|**2026-10-23**|**Real Time Motion Detection in Video Inspired by Photonic Time Stretch**|Callen MacPhee et.al.|[2610.33351v1](http://arxiv.org/abs/2610.33351v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33351)|
 |**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32312)|
 |**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208v1](http://arxiv.org/abs/2610.32208v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32208)|
 |**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983v1](http://arxiv.org/abs/2610.31983v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31983)|
@@ -18,12 +26,12 @@
 |**2026-10-23**|**Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation**|Chun Gu et.al.|[2610.29264v2](http://arxiv.org/abs/2610.29264v2)|null|[αX↑7](https://alphaxiv.org/abs/2610.29264)|
 |**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.29244)|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Neel Adwani et.al.|[2610.29030v1](http://arxiv.org/abs/2610.29030v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.29030)|
-|**2026-10-21**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v2](http://arxiv.org/abs/2610.28432v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.28432)|
+|**2026-10-24**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v3](http://arxiv.org/abs/2610.28432v3)|null|[αX↑6](https://alphaxiv.org/abs/2610.28432)|
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725v1](http://arxiv.org/abs/2610.27725v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.27725)|
 |**2026-10-19**|**Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops**|Arnav Grover et.al.|[2610.27350v1](http://arxiv.org/abs/2610.27350v1)|[link](https://github.com/Arnav-Gr0ver/Refuses-When-Asked-Complies-When-Acting)|[αX↑5](https://alphaxiv.org/abs/2610.27350)|
 |**2026-10-19**|**Physical AI: Concepts, Techniques, and Challenges**|Weinan Zhang et.al.|[2610.27045v1](http://arxiv.org/abs/2610.27045v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.27045)|
 |**2026-10-21**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Jiaming Liu et.al.|[2610.26854v3](http://arxiv.org/abs/2610.26854v3)|null|[αX↑35](https://alphaxiv.org/abs/2610.26854)|
-|**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v1](http://arxiv.org/abs/2610.26717v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.26717)|
+|**2026-10-25**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v2](http://arxiv.org/abs/2610.26717v2)|null|[αX↑10](https://alphaxiv.org/abs/2610.26717)|
 |**2026-10-19**|**ForagerSim: Evaluating Embodied Map-Based Reasoning in Large-Scale Dynamic Worlds**|Tomáš Musil et.al.|[2610.26395v1](http://arxiv.org/abs/2610.26395v1)|[link](https://github.com/MrTomzor/foragersim)|[αX↑3](https://alphaxiv.org/abs/2610.26395)|
 |**2026-10-21**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Hojin Jeon et.al.|[2610.25961v2](http://arxiv.org/abs/2610.25961v2)|null|[αX↑7](https://alphaxiv.org/abs/2610.25961)|
 |**2026-10-19**|**Motor compound fault diagnosis using an attention-based cross-talk architecture**|Wonjun Yi et.al.|[2610.25893v1](http://arxiv.org/abs/2610.25893v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25893)|
@@ -230,6 +238,7 @@
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
 |**2026-05-31**|**Position: Good Embodied Reward Models Need Bad Behavior Data**|Ran Tian et.al.|[2606.01036v1](http://arxiv.org/abs/2606.01036v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.01036)|
 |**2026-05-23**|**Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems**|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|null|[🤗👍6](https://huggingface.co/papers/2606.00090) [αX↑3](https://alphaxiv.org/abs/2606.00090)|
+|**2026-08-03**|**ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models**|Arash Akbari et.al.|[2605.24011v3](http://arxiv.org/abs/2605.24011v3)|[link](https://github.com/arashakb/ActQuant)|[αX↑15](https://alphaxiv.org/abs/2605.24011)|
 |**2026-05-19**|**PhyWorld: Physics-Faithful World Model for Video Generation**|Pu Zhao et.al.|[2605.19242v1](http://arxiv.org/abs/2605.19242v1)|null|[αX↑30](https://alphaxiv.org/abs/2605.19242)|
 |**2026-05-18**|**WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform**|Yu Shang et.al.|[2605.17912v1](http://arxiv.org/abs/2605.17912v1)|null|[αX↑32](https://alphaxiv.org/abs/2605.17912)|
 |**2026-05-13**|**SCAR: Self-Supervised Continuous Action Representation Learning**|Hongjia Liu et.al.|[2605.16412v1](http://arxiv.org/abs/2605.16412v1)|null|[αX↑7](https://alphaxiv.org/abs/2605.16412)|

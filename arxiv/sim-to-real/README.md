@@ -1,9 +1,24 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.26
+### Updated on 2026.10.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-26**|**Provably Efficient Q-learning for Robust Reinforcement Learning**|Yuchen Jiao et.al.|[2610.35656v1](http://arxiv.org/abs/2610.35656v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35656)|
+|**2026-10-26**|**Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies**|Zuoxu Wang et.al.|[2610.35626v1](http://arxiv.org/abs/2610.35626v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35626)|
+|**2026-10-26**|**Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena**|Prajol Shrestha et.al.|[2610.35582v1](http://arxiv.org/abs/2610.35582v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35582)|
+|**2026-10-26**|**Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data**|Dianyi Yang et.al.|[2610.35075v1](http://arxiv.org/abs/2610.35075v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35075)|
+|**2026-10-26**|**Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control**|Jonathan DeCastro et.al.|[2610.34650v1](http://arxiv.org/abs/2610.34650v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34650)|
+|**2026-10-26**|**RobotAgentBench: Towards Open-world Robot Autonomy**|Lingjun Mao et.al.|[2610.34649v1](http://arxiv.org/abs/2610.34649v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34649)|
+|**2026-10-25**|**Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila**|Declan Kutscher et.al.|[2610.34638v1](http://arxiv.org/abs/2610.34638v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34638)|
+|**2026-10-25**|**AuRA: From Atoms to Bits through Autonomous Robot Interaction**|Xinchen Yu et.al.|[2610.34452v1](http://arxiv.org/abs/2610.34452v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34452)|
+|**2026-10-25**|**From Human Intent to In-Orbit Action: A Self-Learning Large Language Model Agent for 6G Satellite Networks**|Zhengqian Xu et.al.|[2610.34387v1](http://arxiv.org/abs/2610.34387v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34387)|
+|**2026-10-25**|**EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins**|Yuhao Tian et.al.|[2610.34358v1](http://arxiv.org/abs/2610.34358v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34358)|
+|**2026-10-25**|**Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots**|Yilong Chen et.al.|[2610.34060v1](http://arxiv.org/abs/2610.34060v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34060)|
+|**2026-10-24**|**WMEval: Evaluating Interactive World Models Grounded on Physical Simulations**|Lanxiang Hu et.al.|[2610.33894v1](http://arxiv.org/abs/2610.33894v1)|[link](https://github.com/hao-ai-lab/WMEval)|[αX↑0](https://alphaxiv.org/abs/2610.33894)|
+|**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Jianibieke Adalibieke et.al.|[2610.33852v1](http://arxiv.org/abs/2610.33852v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33852)|
+|**2026-10-23**|**Flow Mesh: A Velocity-Regularized Flow Matching Framework for Stable Distributional Modeling of Physical Fields on Unstructured Meshes**|Siddharth Verma et.al.|[2610.33204v1](http://arxiv.org/abs/2610.33204v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33204)|
+|**2026-10-20**|**DuoPIC: Uncertainty-Aware Voxel-Level Digital Twins of Cerebral Perfusion with Transport PDEs in Acute Stroke**|Anh Duong Tran et.al.|[2610.33071v1](http://arxiv.org/abs/2610.33071v1)|[link](https://github.com/detinatran/duopic)|[αX↑0](https://alphaxiv.org/abs/2610.33071)|
 |**2026-10-23**|**Regularised RL improves sim-to-real transfer**|Danilo Vucetic et.al.|[2610.32855v1](http://arxiv.org/abs/2610.32855v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32855)|
 |**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755v1](http://arxiv.org/abs/2610.32755v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.32755)|
 |**2026-10-23**|**SKG in Practice: OOD Generalization Cases Across FourDomains**|Jian An et.al.|[2610.32314v1](http://arxiv.org/abs/2610.32314v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32314)|
@@ -20,7 +35,7 @@
 |**2026-10-20**|**Complexity-Aware Surgical Video Reasoning Segmentation with Digital Twin and Context Memory**|Yiqing Shen et.al.|[2610.28776v1](http://arxiv.org/abs/2610.28776v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.28776)|
 |**2026-10-20**|**PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents**|Masoud Jamshidiyan Tehrani et.al.|[2610.28696v1](http://arxiv.org/abs/2610.28696v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.28696)|
 |**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470v1](http://arxiv.org/abs/2610.28470v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.28470)|
-|**2026-10-21**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v2](http://arxiv.org/abs/2610.28432v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.28432)|
+|**2026-10-24**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v3](http://arxiv.org/abs/2610.28432v3)|null|[αX↑6](https://alphaxiv.org/abs/2610.28432)|
 |**2026-10-20**|**SPAR: Search-trained Push Action Ranker for Efficient Navigation Among Movable Obstacles**|Dhruv Metha Ramesh et.al.|[2610.28362v1](http://arxiv.org/abs/2610.28362v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.28362)|
 |**2026-10-20**|**A Process-Informed, Photorealistic Digital Twin for Vision-Based Inline Inspection of C-SMC Strip Deposition**|Patrick Flore et.al.|[2610.28050v1](http://arxiv.org/abs/2610.28050v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.28050)|
 |**2026-10-20**|**CityPaint: A Free Lunch from 2D Diffusion for City-Scale 3D Texturing**|Yuchen Zou et.al.|[2610.27564v1](http://arxiv.org/abs/2610.27564v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.27564)|

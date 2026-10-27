@@ -1,9 +1,21 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.26
+### Updated on 2026.10.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-26**|**Beyond Behaviour: A Stimulus-Response Safety Evaluation of Vision-Language-Action Models**|Vy Vo et.al.|[2610.34837v1](http://arxiv.org/abs/2610.34837v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34837)|
+|**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717v1](http://arxiv.org/abs/2610.34717v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34717)|
+|**2026-10-25**|**TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning**|Sooyoung Kwon et.al.|[2610.34519v1](http://arxiv.org/abs/2610.34519v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34519)|
+|**2026-10-25**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Haoyu Zhao et.al.|[2610.34356v1](http://arxiv.org/abs/2610.34356v1)|[link](https://github.com/alibaba-damo-academy/RynnVLA-Latent)|[αX↑0](https://alphaxiv.org/abs/2610.34356)|
+|**2026-10-25**|**Variational Cognitive Memory Abstraction for Long-Horizon Vision-Language-Action Models**|Xinyu Liu et.al.|[2610.34251v1](http://arxiv.org/abs/2610.34251v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34251)|
+|**2026-10-25**|**HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience**|Yang Liu et.al.|[2610.34186v1](http://arxiv.org/abs/2610.34186v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34186)|
+|**2026-10-25**|**RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models**|Jie Wang et.al.|[2610.34108v1](http://arxiv.org/abs/2610.34108v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34108)|
+|**2026-10-24**|**Late Breaking Results: Audio-Language-Action Models with Direct Speech Conditioning for Robotic Manipulation**|Enfu Nan et.al.|[2610.33866v1](http://arxiv.org/abs/2610.33866v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33866)|
+|**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Qingyuan Cai et.al.|[2610.33685v1](http://arxiv.org/abs/2610.33685v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33685)|
+|**2026-10-24**|**Power-of-Two Leaky Integrate-and-Fire Neurons for Event-Driven Vision-Language-Action Inference**|Rui Liu et.al.|[2610.33658v1](http://arxiv.org/abs/2610.33658v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33658)|
+|**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen et.al.|[2610.33486v1](http://arxiv.org/abs/2610.33486v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33486)|
+|**2026-10-21**|**AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models**|Xuhong Qiu et.al.|[2610.33074v1](http://arxiv.org/abs/2610.33074v1)|[link](https://github.com/Qiuxu00/AGQ)|[αX↑2](https://alphaxiv.org/abs/2610.33074)|
 |**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941v1](http://arxiv.org/abs/2610.32941v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32941)|
 |**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32271)|
 |**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208v1](http://arxiv.org/abs/2610.32208v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32208)|
@@ -22,14 +34,14 @@
 |**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044v1](http://arxiv.org/abs/2610.30044v1)|null|[αX↑21](https://alphaxiv.org/abs/2610.30044)|
 |**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866v1](http://arxiv.org/abs/2610.29866v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.29866)|
 |**2026-10-21**|**From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation**|Tingwen Du et.al.|[2610.29560v1](http://arxiv.org/abs/2610.29560v1)|[link](https://github.com/StevenKKXS/SERA)|[🤗👍32](https://huggingface.co/papers/2610.29560) [αX↑16](https://alphaxiv.org/abs/2610.29560)|
-|**2026-10-20**|**Reasoning as a Distribution: Generative Plan Latents for Vision-Language-Action Models**|Matteo Cercola et.al.|[2610.28166v1](http://arxiv.org/abs/2610.28166v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.28166)|
+|**2026-10-26**|**Reasoning as a Distribution: Generative Plan Latents for Vision-Language-Action Models**|Matteo Cercola et.al.|[2610.28166v2](http://arxiv.org/abs/2610.28166v2)|null|[αX↑6](https://alphaxiv.org/abs/2610.28166)|
 |**2026-10-20**|**FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models**|Jiatong Li et.al.|[2610.28109v1](http://arxiv.org/abs/2610.28109v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.28109)|
 |**2026-10-20**|**EventSync: Event-Driven Memory Updates for History-Dependent Manipulation**|Jingjiao Zhao et.al.|[2610.27917v1](http://arxiv.org/abs/2610.27917v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.27917)|
 |**2026-10-20**|**VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs**|Borui Xu et.al.|[2610.27698v1](http://arxiv.org/abs/2610.27698v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.27698)|
 |**2026-10-20**|**PLaCA: Learning Patch-Level Future Latent Change for Action Generation**|Zhan Yi et.al.|[2610.27657v1](http://arxiv.org/abs/2610.27657v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.27657)|
 |**2026-10-20**|**KPHarness: Co-Evolving Knowledge and Probing for Long-Horizon Gaming Harnesses**|Zhikang Chen et.al.|[2610.27417v1](http://arxiv.org/abs/2610.27417v1)|[link](https://github.com/chenzk202212/adaptive-gaming-harnesses)|[αX↑4](https://alphaxiv.org/abs/2610.27417)|
 |**2026-10-19**|**What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models**|Carson Sobolewski et.al.|[2610.27277v1](http://arxiv.org/abs/2610.27277v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.27277)|
-|**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v1](http://arxiv.org/abs/2610.26717v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.26717)|
+|**2026-10-25**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v2](http://arxiv.org/abs/2610.26717v2)|null|[αX↑10](https://alphaxiv.org/abs/2610.26717)|
 |**2026-10-19**|**SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models**|Shenli Zheng et.al.|[2610.26487v1](http://arxiv.org/abs/2610.26487v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.26487)|
 |**2026-10-19**|**Robotic Photography System based on Vision-Language-Action Model**|Song-Li Wu et.al.|[2610.26287v1](http://arxiv.org/abs/2610.26287v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.26287)|
 |**2026-10-19**|**FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation**|Jiaju He et.al.|[2610.25981v1](http://arxiv.org/abs/2610.25981v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.25981)|

@@ -1,9 +1,26 @@
 ## World Models
 
-### Updated on 2026.10.26
+### Updated on 2026.10.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-26**|**Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation**|Akshay Mete et.al.|[2610.35636v1](http://arxiv.org/abs/2610.35636v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35636)|
+|**2026-10-26**|**WorldPager: Zero-Stall Tiered Memory for Long-Horizon World Models on a Single Consumer GPU**|Bingnan Liu et.al.|[2610.35529v1](http://arxiv.org/abs/2610.35529v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35529)|
+|**2026-10-26**|**DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models**|Jingbo Xu et.al.|[2610.35044v1](http://arxiv.org/abs/2610.35044v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35044)|
+|**2026-10-26**|**TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting**|Hang Ni et.al.|[2610.34797v1](http://arxiv.org/abs/2610.34797v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34797)|
+|**2026-10-26**|**Video World Models Need Predictable Latents**|Mattia Scardecchia et.al.|[2610.34663v1](http://arxiv.org/abs/2610.34663v1)|[link](https://github.com/mattia-scardecchia/predictable-latents)|[αX↑0](https://alphaxiv.org/abs/2610.34663)|
+|**2026-10-26**|**Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control**|Jonathan DeCastro et.al.|[2610.34650v1](http://arxiv.org/abs/2610.34650v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34650)|
+|**2026-10-25**|**What Does World Modeling Actually Improve in Robot Action Learning?**|Hanwen Cui et.al.|[2610.34593v1](http://arxiv.org/abs/2610.34593v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34593)|
+|**2026-10-25**|**FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation**|Meryem Koksal et.al.|[2610.34564v1](http://arxiv.org/abs/2610.34564v1)|[link](https://github.com/wangyz1999/flockworld)|[αX↑0](https://alphaxiv.org/abs/2610.34564)|
+|**2026-10-25**|**How Humans Learn Unfamiliar Worlds: A Think-Aloud Dataset on ARC-AGI-3**|Shuzhi Liu et.al.|[2610.34523v1](http://arxiv.org/abs/2610.34523v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34523)|
+|**2026-10-25**|**Performance of Neural Operator Baselines on 'The Well' Dataset**|Yash Pincha et.al.|[2610.33967v1](http://arxiv.org/abs/2610.33967v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33967)|
+|**2026-10-24**|**TurboWAM: Learning What Matters for Fast World Action Models**|Guile Wu et.al.|[2610.33941v1](http://arxiv.org/abs/2610.33941v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33941)|
+|**2026-10-24**|**WMEval: Evaluating Interactive World Models Grounded on Physical Simulations**|Lanxiang Hu et.al.|[2610.33894v1](http://arxiv.org/abs/2610.33894v1)|[link](https://github.com/hao-ai-lab/WMEval)|[αX↑0](https://alphaxiv.org/abs/2610.33894)|
+|**2026-10-24**|**RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models**|Doanh Le Thien et.al.|[2610.33807v1](http://arxiv.org/abs/2610.33807v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33807)|
+|**2026-10-24**|**Mix Forcing: Causal Pre-Training via Mixture Attention for Interactive World Models**|Zelin Gao et.al.|[2610.33589v1](http://arxiv.org/abs/2610.33589v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33589)|
+|**2026-10-24**|**Distilling Dense Trajectory Teachers For Large-Motion Video World Models**|Shuofeng Sun et.al.|[2610.33566v1](http://arxiv.org/abs/2610.33566v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33566)|
+|**2026-10-24**|**WorldFailBench: Do World Models Understand Policy Failures?**|Zheng Zhang et.al.|[2610.33565v1](http://arxiv.org/abs/2610.33565v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33565)|
+|**2026-10-23**|**World-in-Context: Interactive Video World Modeling with In-Context Conditioning**|Harold Haodong Chen et.al.|[2610.33169v1](http://arxiv.org/abs/2610.33169v1)|[link](https://github.com/aigc3d/World-in-Context)|[αX↑0](https://alphaxiv.org/abs/2610.33169)|
 |**2026-10-23**|**UniAction: Unified Action Conditioning for World Models**|Bowen Xue et.al.|[2610.32977v1](http://arxiv.org/abs/2610.32977v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32977)|
 |**2026-10-23**|**Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection**|Luke Beddow et.al.|[2610.32742v1](http://arxiv.org/abs/2610.32742v1)|[link](https://github.com/adaptive-intelligent-robotics/aware)|[αX↑0](https://alphaxiv.org/abs/2610.32742)|
 |**2026-10-23**|**Conditional Neural Processes for Self-Supervised Goal Discovery in Action Imitation**|Marco Gabriele Fedozzi et.al.|[2610.32688v1](http://arxiv.org/abs/2610.32688v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32688)|
@@ -11,7 +28,7 @@
 |**2026-10-23**|**HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching**|I-tak Ieong et.al.|[2610.32554v1](http://arxiv.org/abs/2610.32554v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32554)|
 |**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460v1](http://arxiv.org/abs/2610.32460v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32460)|
 |**2026-10-23**|**When Does Dynamics Randomization Test Context Inference?**|Oleg Smirnov et.al.|[2610.32414v1](http://arxiv.org/abs/2610.32414v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32414)|
-|**2026-10-23**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381v1](http://arxiv.org/abs/2610.32381v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32381)|
+|**2026-10-26**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381v2](http://arxiv.org/abs/2610.32381v2)|null|[αX↑0](https://alphaxiv.org/abs/2610.32381)|
 |**2026-10-23**|**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**|Shibo Hong et.al.|[2610.32222v1](http://arxiv.org/abs/2610.32222v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.32222)|
 |**2026-10-23**|**$Ψ$ -0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model**|Khai Loong Aw et.al.|[2610.32177v1](http://arxiv.org/abs/2610.32177v1)|[link](https://github.com/awwkl/psi-0.6)|[αX↑0](https://alphaxiv.org/abs/2610.32177)|
 |**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983v1](http://arxiv.org/abs/2610.31983v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31983)|
