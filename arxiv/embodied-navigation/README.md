@@ -1,30 +1,33 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.27
+### Updated on 2026.10.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Guowen Zhang et.al.|[2610.35850v1](http://arxiv.org/abs/2610.35850v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35850)|
-|**2026-10-26**|**Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View**|Stanisław Kuczma et.al.|[2610.35630v1](http://arxiv.org/abs/2610.35630v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35630)|
-|**2026-10-26**|**Preemptive Instruction Following with Resumption**|Zerun Liu et.al.|[2610.35576v1](http://arxiv.org/abs/2610.35576v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.35576)|
-|**2026-10-26**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Yan Wang et.al.|[2610.35066v1](http://arxiv.org/abs/2610.35066v1)|[link](https://github.com/MemVLN/MemVLN.github.io)|[αX↑0](https://alphaxiv.org/abs/2610.35066)|
-|**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976v1](http://arxiv.org/abs/2610.34976v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34976)|
-|**2026-10-26**|**RSKD: Grounding Semantic Consistency in Driving VLMs via Distillation**|Chuchu Xie et.al.|[2610.34689v1](http://arxiv.org/abs/2610.34689v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34689)|
-|**2026-10-25**|**IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework for Cooperative Autonomous Driving**|Leandro Parada et.al.|[2610.34466v1](http://arxiv.org/abs/2610.34466v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34466)|
-|**2026-10-25**|**ScheNav: Schematic-Guided Object Goal Navigation**|Guichen Huang et.al.|[2610.34286v1](http://arxiv.org/abs/2610.34286v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34286)|
-|**2026-10-25**|**Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation**|Yiyuan Yao et.al.|[2610.34028v1](http://arxiv.org/abs/2610.34028v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.34028)|
-|**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760v1](http://arxiv.org/abs/2610.33760v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33760)|
-|**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758v1](http://arxiv.org/abs/2610.33758v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33758)|
-|**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504v1](http://arxiv.org/abs/2610.33504v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.33504)|
+|**2026-10-27**|**FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS**|Tom Sanitz et.al.|[2610.37153v1](http://arxiv.org/abs/2610.37153v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.37153)|
+|**2026-10-26**|**Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security**|Leo Benaharon et.al.|[2610.36143v1](http://arxiv.org/abs/2610.36143v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.36143)|
+|**2026-10-26**|**Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving**|Emad Aghajanzadeh et.al.|[2610.36079v1](http://arxiv.org/abs/2610.36079v1)|[link](https://github.com/clap-ad/clap-ad)|[αX↑0](https://alphaxiv.org/abs/2610.36079)|
+|**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Guowen Zhang et.al.|[2610.35850v1](http://arxiv.org/abs/2610.35850v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.35850)|
+|**2026-10-26**|**Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View**|Stanisław Kuczma et.al.|[2610.35630v1](http://arxiv.org/abs/2610.35630v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.35630)|
+|**2026-10-26**|**Preemptive Instruction Following with Resumption**|Zerun Liu et.al.|[2610.35576v1](http://arxiv.org/abs/2610.35576v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.35576)|
+|**2026-10-27**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Yan Wang et.al.|[2610.35066v2](http://arxiv.org/abs/2610.35066v2)|[link](https://github.com/MemVLN/MemVLN.github.io)|[αX↑2](https://alphaxiv.org/abs/2610.35066)|
+|**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976v1](http://arxiv.org/abs/2610.34976v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.34976)|
+|**2026-10-26**|**RSKD: Grounding Semantic Consistency in Driving VLMs via Distillation**|Chuchu Xie et.al.|[2610.34689v1](http://arxiv.org/abs/2610.34689v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.34689)|
+|**2026-10-25**|**IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework for Cooperative Autonomous Driving**|Leandro Parada et.al.|[2610.34466v1](http://arxiv.org/abs/2610.34466v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.34466)|
+|**2026-10-25**|**ScheNav: Schematic-Guided Object Goal Navigation**|Guichen Huang et.al.|[2610.34286v1](http://arxiv.org/abs/2610.34286v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.34286)|
+|**2026-10-25**|**Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation**|Yiyuan Yao et.al.|[2610.34028v1](http://arxiv.org/abs/2610.34028v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.34028)|
+|**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760v1](http://arxiv.org/abs/2610.33760v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.33760)|
+|**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758v1](http://arxiv.org/abs/2610.33758v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.33758)|
+|**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504v1](http://arxiv.org/abs/2610.33504v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.33504)|
 |**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.32697)|
 |**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.32666)|
 |**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑2](https://alphaxiv.org/abs/2610.32612)|
 |**2026-10-23**|**Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving**|Linye Lyu et.al.|[2610.32230v1](http://arxiv.org/abs/2610.32230v1)|[link](https://github.com/WAVE-AT-IDEA/BEVCA)|[αX↑3](https://alphaxiv.org/abs/2610.32230)|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186v1](http://arxiv.org/abs/2610.31186v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.31186)|
-|**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737v1](http://arxiv.org/abs/2610.30737v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.30737)|
+|**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737v1](http://arxiv.org/abs/2610.30737v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.30737)|
 |**2026-10-22**|**KinoUAV: A Benchmark for Safe and Stable UAV Vision-Language Navigation with Kinodynamic Modeling**|Chenyao Yang et.al.|[2610.30609v1](http://arxiv.org/abs/2610.30609v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30609)|
-|**2026-10-21**|**Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles**|Aashish Shaju et.al.|[2610.30437v1](http://arxiv.org/abs/2610.30437v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.30437)|
-|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319v1](http://arxiv.org/abs/2610.30319v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.30319)|
+|**2026-10-21**|**Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles**|Aashish Shaju et.al.|[2610.30437v1](http://arxiv.org/abs/2610.30437v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.30437)|
+|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319v1](http://arxiv.org/abs/2610.30319v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.30319)|
 |**2026-10-21**|**DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving**|Alessandro Canevaro et.al.|[2610.29676v1](http://arxiv.org/abs/2610.29676v1)|[link](https://github.com/alessandro-canevaro/DriveMLP)|[αX↑11](https://alphaxiv.org/abs/2610.29676)|
 |**2026-10-21**|**FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather**|Ali Abedi et.al.|[2610.29618v1](http://arxiv.org/abs/2610.29618v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.29618)|
 |**2026-10-21**|**NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering**|Yipeng Lu et.al.|[2610.29200v1](http://arxiv.org/abs/2610.29200v1)|[link](https://github.com/WHU-USI3DV/NeuralSRender)|[αX↑5](https://alphaxiv.org/abs/2610.29200)|
@@ -39,7 +42,7 @@
 |**2026-10-18**|**UBD-Bench: Benchmarking and Analyzing Unimodal Branch Degradation in Multimodal Perception for Autonomous Driving**|Ang Liu et.al.|[2610.25448v1](http://arxiv.org/abs/2610.25448v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.25448)|
 |**2026-10-18**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v1](http://arxiv.org/abs/2610.25284v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.25284)|
 |**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245v1](http://arxiv.org/abs/2610.25245v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.25245)|
-|**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.25223)|
+|**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.25223)|
 |**2026-10-18**|**Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model**|Zeqi Li et.al.|[2610.25130v1](http://arxiv.org/abs/2610.25130v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.25130)|
 |**2026-10-17**|**Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing**|Yujia Yang et.al.|[2610.24590v1](http://arxiv.org/abs/2610.24590v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.24590)|
 |**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.24436)|
