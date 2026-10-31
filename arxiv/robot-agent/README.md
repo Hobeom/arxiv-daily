@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.10.30
+### Updated on 2026.10.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 |**2026-10-20**|**Flexible Language-Guided Representation Editing for Adaptive Robot Behavior**|Audrey Lee et.al.|[2610.28893v1](http://arxiv.org/abs/2610.28893v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.28893)|
 |**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880v1](http://arxiv.org/abs/2610.28880v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.28880)|
 |**2026-10-20**|**Learning-Enhanced Observer for Sensorless Task-Null-Space Compliant Control**|Nuo Chen et.al.|[2610.28769v1](http://arxiv.org/abs/2610.28769v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.28769)|
-|**2026-10-20**|**Human-Robot Interaction via Meta-Learning Based Mode Recognition and Adaptive Control**|Nuo Chen et.al.|[2610.28761v1](http://arxiv.org/abs/2610.28761v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.28761)|
+|**2026-10-20**|**Human-Robot Interaction via Meta-Learning Based Mode Recognition and Adaptive Control**|Nuo Chen et.al.|[2610.28761v1](http://arxiv.org/abs/2610.28761v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.28761)|
 |**2026-10-20**|**Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds**|Kuan Zhang et.al.|[2610.28698v1](http://arxiv.org/abs/2610.28698v1)|[link](https://github.com/THUSI-Lab/GameScaling)|[🤗👍56](https://huggingface.co/papers/2610.28698) [αX↑22](https://alphaxiv.org/abs/2610.28698)|
 |**2026-10-20**|**Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning**|Zebin Xing et.al.|[2610.28613v1](http://arxiv.org/abs/2610.28613v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.28613)|
 |**2026-10-20**|**SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images**|Rundong Luo et.al.|[2610.28585v1](http://arxiv.org/abs/2610.28585v1)|[link](https://github.com/Red-Fairy/SceneRig)|[αX↑17](https://alphaxiv.org/abs/2610.28585)|

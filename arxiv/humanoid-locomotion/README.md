@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.30
+### Updated on 2026.10.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 |**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971v1](http://arxiv.org/abs/2610.32971v1)|[link](https://github.com/robustrl-lib/robustrllib)|[αX↑9](https://alphaxiv.org/abs/2610.32971)|
 |**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966v1](http://arxiv.org/abs/2610.32966v1)|[link](https://github.com/awfuact/vit-h)|[αX↑13](https://alphaxiv.org/abs/2610.32966)|
 |**2026-10-26**|**HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training**|Xihan Ma et.al.|[2610.32909v2](http://arxiv.org/abs/2610.32909v2)|null|[🤗👍9](https://huggingface.co/papers/2610.32909) [αX↑7](https://alphaxiv.org/abs/2610.32909)|
-|**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460v1](http://arxiv.org/abs/2610.32460v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.32460)|
+|**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460v1](http://arxiv.org/abs/2610.32460v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.32460)|
 |**2026-10-23**|**Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers**|Shaoqin Li et.al.|[2610.32277v1](http://arxiv.org/abs/2610.32277v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32277)|
 |**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32271)|
 |**2026-10-22**|**Not an Accident: Exploiting Safety Filter Inadequacy in Humanoid Robots**|Tiffany Bao et.al.|[2610.31923v1](http://arxiv.org/abs/2610.31923v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.31923)|
@@ -63,18 +63,18 @@
 |**2026-10-21**|**MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion**|Van Chung Nguyen et.al.|[2610.30334v1](http://arxiv.org/abs/2610.30334v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.30334)|
 |**2026-10-21**|**Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer**|Guillem Casadesus Vila et.al.|[2610.30080v1](http://arxiv.org/abs/2610.30080v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30080)|
 |**2026-10-21**|**Test-Time Motion Steering for Perceptive Humanoid Fall Recovery**|Osher Azulay et.al.|[2610.30061v1](http://arxiv.org/abs/2610.30061v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.30061)|
-|**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044v1](http://arxiv.org/abs/2610.30044v1)|null|[αX↑28](https://alphaxiv.org/abs/2610.30044)|
+|**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044v1](http://arxiv.org/abs/2610.30044v1)|null|[αX↑29](https://alphaxiv.org/abs/2610.30044)|
 |**2026-10-21**|**HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking**|Liu Cao et.al.|[2610.29903v1](http://arxiv.org/abs/2610.29903v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.29903)|
-|**2026-10-22**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845v2](http://arxiv.org/abs/2610.29845v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.29845)|
+|**2026-10-22**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845v2](http://arxiv.org/abs/2610.29845v2)|null|[αX↑14](https://alphaxiv.org/abs/2610.29845)|
 |**2026-10-21**|**Watch Your Step: Anticipated Perception for Humanoid Locomotion**|Matthias Heyrman et.al.|[2610.29612v1](http://arxiv.org/abs/2610.29612v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.29612)|
 |**2026-10-21**|**A2I-Calib++: A Kinematics-Driven Anti-noise Active Calibration Framework for Whole-Body Multi-IMU Systems on Legged Robots**|Fangyu Jiang et.al.|[2610.29438v1](http://arxiv.org/abs/2610.29438v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.29438)|
-|**2026-10-23**|**SMR: Learning streaming motion retargeting for humanoids from human semantic**|Chun Gu et.al.|[2610.29169v2](http://arxiv.org/abs/2610.29169v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.29169)|
+|**2026-10-23**|**SMR: Learning streaming motion retargeting for humanoids from human semantic**|Chun Gu et.al.|[2610.29169v2](http://arxiv.org/abs/2610.29169v2)|null|[αX↑15](https://alphaxiv.org/abs/2610.29169)|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Neel Adwani et.al.|[2610.29030v1](http://arxiv.org/abs/2610.29030v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.29030)|
 |**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Jiahui Yang et.al.|[2610.28948v1](http://arxiv.org/abs/2610.28948v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.28948)|
 |**2026-10-20**|**One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control?**|Ziqian Huang et.al.|[2610.28925v1](http://arxiv.org/abs/2610.28925v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.28925)|
 |**2026-10-20**|**Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation**|Keigo Minamida et.al.|[2610.28712v1](http://arxiv.org/abs/2610.28712v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.28712)|
 |**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523v1](http://arxiv.org/abs/2610.28523v1)|[link](https://github.com/YutoShibata07/REACT-HHI)|[αX↑13](https://alphaxiv.org/abs/2610.28523)|
-|**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480v1](http://arxiv.org/abs/2610.28480v1)|null|[αX↑417](https://alphaxiv.org/abs/2610.28480)|
+|**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480v1](http://arxiv.org/abs/2610.28480v1)|null|[αX↑447](https://alphaxiv.org/abs/2610.28480)|
 |**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470v1](http://arxiv.org/abs/2610.28470v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.28470)|
 |**2026-10-21**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v2](http://arxiv.org/abs/2610.28432v2)|null|[αX↑4](https://alphaxiv.org/abs/2610.28432)|
 |**2026-10-20**|**Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future**|Zhuohao Li et.al.|[2610.28431v1](http://arxiv.org/abs/2610.28431v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.28431)|
@@ -139,7 +139,7 @@
 |**2026-10-14**|**Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control**|Lingfan Bao et.al.|[2610.19393v1](http://arxiv.org/abs/2610.19393v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.19393)|
 |**2026-10-13**|**Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control**|Nolan Fey et.al.|[2610.18991v1](http://arxiv.org/abs/2610.18991v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.18991)|
 |**2026-10-13**|**$λ_0$ : Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation**|Lambda-humanoid Team et.al.|[2610.18950v1](http://arxiv.org/abs/2610.18950v1)|[link](https://github.com/LambdaHumanoid/openlambda)|[αX↑11](https://alphaxiv.org/abs/2610.18950)|
-|**2026-10-13**|**EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ**|Yunsong Zhou et.al.|[2610.18872v1](http://arxiv.org/abs/2610.18872v1)|[link](https://github.com/InternRobotics/EgoExplorer)|[🤗👍27](https://huggingface.co/papers/2610.18872) [αX↑31](https://alphaxiv.org/abs/2610.18872)|
+|**2026-10-13**|**EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ**|Yunsong Zhou et.al.|[2610.18872v1](http://arxiv.org/abs/2610.18872v1)|[link](https://github.com/InternRobotics/EgoExplorer)|[🤗👍27](https://huggingface.co/papers/2610.18872) [αX↑32](https://alphaxiv.org/abs/2610.18872)|
 |**2026-10-13**|**GreenWAM: A World Foundation Model for Robotics**|Gennady Sidorov et.al.|[2610.18774v1](http://arxiv.org/abs/2610.18774v1)|[link](https://github.com/greenvla/GreenWAM)|[🤗👍110](https://huggingface.co/papers/2610.18774) [αX↑16](https://alphaxiv.org/abs/2610.18774)|
 |**2026-10-13**|**DR-VLA: Learning Human-Like Quadruped Navigation from Egocentric Web Videos via Domain-Invariant Scene Representations**|Jun Tian et.al.|[2610.18373v1](http://arxiv.org/abs/2610.18373v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.18373)|
 |**2026-10-13**|**CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation**|Shuqi Wang et.al.|[2610.18321v1](http://arxiv.org/abs/2610.18321v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.18321)|
@@ -309,6 +309,7 @@
 |**2026-09-25**|**CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation**|Timofei Kozlov et.al.|[2609.31418v1](http://arxiv.org/abs/2609.31418v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.31418)|
 |**2026-09-25**|**Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors**|Giammarco Caroleo et.al.|[2609.31008v1](http://arxiv.org/abs/2609.31008v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.31008)|
 |**2026-09-25**|**TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking**|Peder Borge Hellesylt et.al.|[2609.31005v1](http://arxiv.org/abs/2609.31005v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.31005)|
+|**2026-09-25**|**Praxis: Distilling Physical Interaction Priors from Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2609.30735v1](http://arxiv.org/abs/2609.30735v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.30735)|
 |**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521v1](http://arxiv.org/abs/2609.30521v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.30521)|
 |**2026-09-24**|**Learning-Based Pressure Predictive Control of a Vertebraic Soft Robotic Tail**|Wenjian Yang et.al.|[2609.30479v1](http://arxiv.org/abs/2609.30479v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.30479)|
 |**2026-10-05**|**Rolling-WAM: World Action Models with Rolling Imagination**|Yinghua Zhou et.al.|[2609.30247v2](http://arxiv.org/abs/2609.30247v2)|[link](https://github.com/zyinghua/Rolling-WAM)|[🤗👍3](https://huggingface.co/papers/2609.30247) [αX↑50](https://alphaxiv.org/abs/2609.30247)|

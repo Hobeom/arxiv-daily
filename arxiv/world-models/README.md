@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.10.30
+### Updated on 2026.10.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 |**2026-09-29**|**World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving**|Jieyuan Pei et.al.|[2609.36438v1](http://arxiv.org/abs/2609.36438v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.36438)|
 |**2026-10-01**|**One from Infinity: Actualizing Futures from Pretrained World Models into Robot Actions**|Bang Du et.al.|[2609.36413v2](http://arxiv.org/abs/2609.36413v2)|null|[αX↑9](https://alphaxiv.org/abs/2609.36413)|
 |**2026-09-28**|**PyroStack: A Multi-Band Spatio-Temporal Sub-Daily Dataset for Wildfires in the United States**|Arya Kondur et.al.|[2609.36315v1](http://arxiv.org/abs/2609.36315v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.36315)|
+|**2026-10-27**|**Bilinear World Models: Learning Representations with Structured Dynamics for Efficient Control**|Antonio Pariente et.al.|[2609.36305v2](http://arxiv.org/abs/2609.36305v2)|null|[αX↑6](https://alphaxiv.org/abs/2609.36305)|
 |**2026-09-28**|**MM-ABC: Towards Generalist Mobile Manipulation via Seeing, Coordinating and Imagining**|Qiwei Liang et.al.|[2609.35652v1](http://arxiv.org/abs/2609.35652v1)|null|[🤗👍7](https://huggingface.co/papers/2609.35652) [αX↑14](https://alphaxiv.org/abs/2609.35652)|
 |**2026-09-28**|**GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation**|Yuchen Sun et.al.|[2609.35639v1](http://arxiv.org/abs/2609.35639v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.35639)|
 |**2026-09-28**|**RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts**|Jin Hyun Kim et.al.|[2609.35311v1](http://arxiv.org/abs/2609.35311v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.35311)|

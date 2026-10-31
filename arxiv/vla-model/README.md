@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.30
+### Updated on 2026.10.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -31,11 +31,11 @@
 |**2026-10-24**|**Power-of-Two Leaky Integrate-and-Fire Neurons for Event-Driven Vision-Language-Action Inference**|Rui Liu et.al.|[2610.33658v1](http://arxiv.org/abs/2610.33658v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.33658)|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen et.al.|[2610.33486v1](http://arxiv.org/abs/2610.33486v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.33486)|
 |**2026-10-21**|**AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models**|Xuhong Qiu et.al.|[2610.33074v1](http://arxiv.org/abs/2610.33074v1)|[link](https://github.com/Qiuxu00/AGQ)|[αX↑9](https://alphaxiv.org/abs/2610.33074)|
-|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941v1](http://arxiv.org/abs/2610.32941v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32941)|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941v1](http://arxiv.org/abs/2610.32941v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.32941)|
 |**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32271)|
 |**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208v1](http://arxiv.org/abs/2610.32208v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32208)|
-|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102v1](http://arxiv.org/abs/2610.32102v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32102)|
-|**2026-10-23**|**TTT in VLA Models: Exploring Training with Human Demonstrations**|Qiangong Zhou et.al.|[2610.32094v1](http://arxiv.org/abs/2610.32094v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32094)|
+|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102v1](http://arxiv.org/abs/2610.32102v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.32102)|
+|**2026-10-23**|**TTT in VLA Models: Exploring Training with Human Demonstrations**|Qiangong Zhou et.al.|[2610.32094v1](http://arxiv.org/abs/2610.32094v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32094)|
 |**2026-10-22**|**Full-Weight VLA Fine-Tuning Without an fp32 Master Copy Silently Erases Most Updates**|Shubham Singh et.al.|[2610.31859v1](http://arxiv.org/abs/2610.31859v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.31859)|
 |**2026-10-23**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670v2](http://arxiv.org/abs/2610.31670v2)|[link](https://github.com/yunfeixie233/sensorimotor-alignment)|[🤗👍21](https://huggingface.co/papers/2610.31670) [αX↑35](https://alphaxiv.org/abs/2610.31670)|
 |**2026-10-22**|**Progress Probes $P^2$ : Lightweight Runtime Monitoring for Vision-Language-Action Models**|Atiksh Bhardwaj et.al.|[2610.31613v1](http://arxiv.org/abs/2610.31613v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.31613)|
@@ -46,8 +46,8 @@
 |**2026-10-22**|**Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration**|Yi Loo et.al.|[2610.30671v1](http://arxiv.org/abs/2610.30671v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.30671)|
 |**2026-10-21**|**Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives**|Jingyi Xiang et.al.|[2610.30438v1](http://arxiv.org/abs/2610.30438v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.30438)|
 |**2026-10-21**|**AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation**|Likui Zhang et.al.|[2610.30097v1](http://arxiv.org/abs/2610.30097v1)|null|[αX↑17](https://alphaxiv.org/abs/2610.30097)|
-|**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044v1](http://arxiv.org/abs/2610.30044v1)|null|[αX↑28](https://alphaxiv.org/abs/2610.30044)|
-|**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866v1](http://arxiv.org/abs/2610.29866v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.29866)|
+|**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044v1](http://arxiv.org/abs/2610.30044v1)|null|[αX↑29](https://alphaxiv.org/abs/2610.30044)|
+|**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866v1](http://arxiv.org/abs/2610.29866v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.29866)|
 |**2026-10-21**|**From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation**|Tingwen Du et.al.|[2610.29560v1](http://arxiv.org/abs/2610.29560v1)|[link](https://github.com/StevenKKXS/SERA)|[🤗👍33](https://huggingface.co/papers/2610.29560) [αX↑23](https://alphaxiv.org/abs/2610.29560)|
 |**2026-10-26**|**Reasoning as a Distribution: Generative Plan Latents for Vision-Language-Action Models**|Matteo Cercola et.al.|[2610.28166v2](http://arxiv.org/abs/2610.28166v2)|null|[αX↑12](https://alphaxiv.org/abs/2610.28166)|
 |**2026-10-20**|**FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models**|Jiatong Li et.al.|[2610.28109v1](http://arxiv.org/abs/2610.28109v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.28109)|
