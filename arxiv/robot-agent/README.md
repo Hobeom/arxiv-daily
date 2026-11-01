@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 |**2026-10-19**|**Learning to Be Different: Component Specialization for Compositional Diffusion Policies**|Alec Laprevotte et.al.|[2610.27194v1](http://arxiv.org/abs/2610.27194v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.27194)|
 |**2026-10-19**|**LVMem: Image-Augmented Memory for Long-Horizon Question Answering**|Victoria Khoruzhaya et.al.|[2610.27104v1](http://arxiv.org/abs/2610.27104v1)|[link](https://github.com/comprock15/LVMem)|[αX↑1](https://alphaxiv.org/abs/2610.27104)|
 |**2026-10-18**|**DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation**|Bin Zhou et.al.|[2610.26962v1](http://arxiv.org/abs/2610.26962v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.26962)|
-|**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Tianqi Liu et.al.|[2610.26855v1](http://arxiv.org/abs/2610.26855v1)|[link](https://github.com/Ropedia/ropedia-w0)|[🤗👍151](https://huggingface.co/papers/2610.26855) [αX↑48](https://alphaxiv.org/abs/2610.26855)|
+|**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Tianqi Liu et.al.|[2610.26855v1](http://arxiv.org/abs/2610.26855v1)|[link](https://github.com/Ropedia/ropedia-w0)|[🤗👍151](https://huggingface.co/papers/2610.26855) [αX↑49](https://alphaxiv.org/abs/2610.26855)|
 |**2026-10-19**|**CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting**|Zehao Wang et.al.|[2610.26852v1](http://arxiv.org/abs/2610.26852v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.26852)|
 |**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780v1](http://arxiv.org/abs/2610.26780v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.26780)|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Tianwei Luo et.al.|[2610.26765v1](http://arxiv.org/abs/2610.26765v1)|[link](https://github.com/TsinghuaC3I/HandsOn)|[🤗👍11](https://huggingface.co/papers/2610.26765) [αX↑39](https://alphaxiv.org/abs/2610.26765)|

@@ -1,6 +1,6 @@
 ## Physical AI
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -27,16 +27,16 @@
 |**2026-10-24**|**Securing Edge & Physical AI: Post-Quantum IoT Blockchain for Mission-Critical Cyber-Physical Agents**|Kürşat Çakal et.al.|[2610.33862v1](http://arxiv.org/abs/2610.33862v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.33862)|
 |**2026-10-28**|**POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI**|Xiaodi Huang et.al.|[2610.33745v2](http://arxiv.org/abs/2610.33745v2)|null|[αX↑3](https://alphaxiv.org/abs/2610.33745)|
 |**2026-10-23**|**Real Time Motion Detection in Video Inspired by Photonic Time Stretch**|Callen MacPhee et.al.|[2610.33351v1](http://arxiv.org/abs/2610.33351v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.33351)|
-|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32312)|
+|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.32312)|
 |**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208v1](http://arxiv.org/abs/2610.32208v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32208)|
-|**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983v1](http://arxiv.org/abs/2610.31983v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.31983)|
-|**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Sicong Leng et.al.|[2610.31779v1](http://arxiv.org/abs/2610.31779v1)|[link](https://github.com/NVIDIA/Flora)|[🤗👍2](https://huggingface.co/papers/2610.31779) [αX↑28](https://alphaxiv.org/abs/2610.31779)|
+|**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983v1](http://arxiv.org/abs/2610.31983v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.31983)|
+|**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Sicong Leng et.al.|[2610.31779v1](http://arxiv.org/abs/2610.31779v1)|[link](https://github.com/NVIDIA/Flora)|[🤗👍2](https://huggingface.co/papers/2610.31779) [αX↑31](https://alphaxiv.org/abs/2610.31779)|
 |**2026-10-23**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670v2](http://arxiv.org/abs/2610.31670v2)|[link](https://github.com/yunfeixie233/sensorimotor-alignment)|[🤗👍21](https://huggingface.co/papers/2610.31670) [αX↑41](https://alphaxiv.org/abs/2610.31670)|
 |**2026-10-22**|**Learning Robot Behavior Priors from Non-Robotic Synthetic Data**|Mateusz Odrowaz-Sypniewski et.al.|[2610.31275v1](http://arxiv.org/abs/2610.31275v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.31275)|
 |**2026-10-22**|**Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration**|Yi Loo et.al.|[2610.30671v1](http://arxiv.org/abs/2610.30671v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.30671)|
 |**2026-10-22**|**OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments**|Kaiyao Liao et.al.|[2610.30589v1](http://arxiv.org/abs/2610.30589v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30589)|
 |**2026-10-21**|**Self-Distilling Future Video Representations for World Action Models**|Huiwon Jang et.al.|[2610.30320v1](http://arxiv.org/abs/2610.30320v1)|[link](https://github.com/suhyeok-jang/FRED)|[🤗👍51](https://huggingface.co/papers/2610.30320) [αX↑33](https://alphaxiv.org/abs/2610.30320)|
-|**2026-10-22**|**Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities**|Rafael Felix et.al.|[2610.29829v2](http://arxiv.org/abs/2610.29829v2)|null|[αX↑11](https://alphaxiv.org/abs/2610.29829)|
+|**2026-10-22**|**Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities**|Rafael Felix et.al.|[2610.29829v2](http://arxiv.org/abs/2610.29829v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.29829)|
 |**2026-10-21**|**Toward Recursive Self-Improvement in Physical AI**|Meng Luo et.al.|[2610.29677v1](http://arxiv.org/abs/2610.29677v1)|[link](https://github.com/Physical2RSI/Awesome-Physical2RSI)|[🤗👍64](https://huggingface.co/papers/2610.29677) [αX↑48](https://alphaxiv.org/abs/2610.29677)|
 |**2026-10-23**|**Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation**|Chun Gu et.al.|[2610.29264v2](http://arxiv.org/abs/2610.29264v2)|null|[αX↑16](https://alphaxiv.org/abs/2610.29264)|
 |**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.29244)|
@@ -238,6 +238,7 @@
 |**2026-09-10**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602v3](http://arxiv.org/abs/2607.16602v3)|[link](https://github.com/Social-AI-Studio/PAVXploreRL)|[αX↑11](https://alphaxiv.org/abs/2607.16602)|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643v1](http://arxiv.org/abs/2607.11643v1)|null|[🤗👍45](https://huggingface.co/papers/2607.11643) [αX↑155](https://alphaxiv.org/abs/2607.11643)|
 |**2026-08-18**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Xinjie Wang et.al.|[2607.07459v3](http://arxiv.org/abs/2607.07459v3)|null|[αX↑102](https://alphaxiv.org/abs/2607.07459)|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|AlayaWorld Team et.al.|[2607.06291v1](http://arxiv.org/abs/2607.06291v1)|null|[🤗👍91](https://huggingface.co/papers/2607.06291) [αX↑54](https://alphaxiv.org/abs/2607.06291)|
 |**2026-07-08**|**RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies**|Tianxing Chen et.al.|[2607.04434v3](http://arxiv.org/abs/2607.04434v3)|[link](https://github.com/RoboDojo-Benchmark/RoboDojo)|[🤗👍15](https://huggingface.co/papers/2607.04434) [αX↑290](https://alphaxiv.org/abs/2607.04434)|
 |**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426v1](http://arxiv.org/abs/2607.04426v1)|null|[αX↑29](https://alphaxiv.org/abs/2607.04426)|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941v1](http://arxiv.org/abs/2607.03941v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.03941)|

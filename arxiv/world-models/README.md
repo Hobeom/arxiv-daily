@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 |**2026-08-24**|**LpWM: A Case for Sparse Representations in World Models**|Yilun Kuang et.al.|[2608.22764v1](http://arxiv.org/abs/2608.22764v1)|null|[αX↑90](https://alphaxiv.org/abs/2608.22764)|
 |**2026-08-23**|**DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model**|Jie Yin et.al.|[2608.22278v1](http://arxiv.org/abs/2608.22278v1)|[link](https://github.com/DreamMimic/DreamMimic}{DreamMimic})|[αX↑23](https://alphaxiv.org/abs/2608.22278)|
 |**2026-08-31**|**DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067v4](http://arxiv.org/abs/2608.22067v4)|null|[αX↑17](https://alphaxiv.org/abs/2608.22067)|
+|**2026-08-18**|**WorldMind: Decoupled Game World Model for State-Aware NPC Behavior**|Zhiyang Deng et.al.|[2608.21439v1](http://arxiv.org/abs/2608.21439v1)|[link](https://github.com/TeaWhiteBro/WorldMind)|[🤗👍15](https://huggingface.co/papers/2608.21439) [αX↑7](https://alphaxiv.org/abs/2608.21439)|
 |**2026-08-19**|**Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning**|Jiawei Wang et.al.|[2608.18746v1](http://arxiv.org/abs/2608.18746v1)|null|[🤗👍18](https://huggingface.co/papers/2608.18746) [αX↑11](https://alphaxiv.org/abs/2608.18746)|
 |**2026-09-27**|**Reinforced Planning with Latent World Models**|Armin Sommer et.al.|[2608.18669v2](http://arxiv.org/abs/2608.18669v2)|null|[αX↑17](https://alphaxiv.org/abs/2608.18669)|
 |**2026-09-17**|**GigaBrain-WBC-0.5: A Behavior World Model for Robust Humanoid Whole-Body Tracking with Environment Interaction**|Ziyang Cheng et.al.|[2608.18234v4](http://arxiv.org/abs/2608.18234v4)|null|[αX↑58](https://alphaxiv.org/abs/2608.18234)|
@@ -601,6 +602,7 @@
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643v1](http://arxiv.org/abs/2607.11643v1)|null|[🤗👍45](https://huggingface.co/papers/2607.11643) [αX↑155](https://alphaxiv.org/abs/2607.11643)|
 |**2026-09-26**|**Causally Debiased Latent Action Model for Embodied Action-Conditioned World Models**|Yufan Wei et.al.|[2607.09185v2](http://arxiv.org/abs/2607.09185v2)|null|[αX↑25](https://alphaxiv.org/abs/2607.09185)|
 |**2026-09-29**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559v2](http://arxiv.org/abs/2607.06559v2)|[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)|[🤗👍95](https://huggingface.co/papers/2607.06559) [αX↑59](https://alphaxiv.org/abs/2607.06559)|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|AlayaWorld Team et.al.|[2607.06291v1](http://arxiv.org/abs/2607.06291v1)|null|[🤗👍91](https://huggingface.co/papers/2607.06291) [αX↑54](https://alphaxiv.org/abs/2607.06291)|
 |**2026-08-03**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216v2](http://arxiv.org/abs/2607.06216v2)|null|[αX↑28](https://alphaxiv.org/abs/2607.06216)|
 |**2026-07-07**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352v2](http://arxiv.org/abs/2607.05352v2)|[link](https://github.com/mira-wm/mira)|[🤗👍28](https://huggingface.co/papers/2607.05352) [αX↑65](https://alphaxiv.org/abs/2607.05352)|
 |**2026-07-03**|**Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems**|Junwu Xiong et.al.|[2607.03283v1](http://arxiv.org/abs/2607.03283v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.03283)|
@@ -635,6 +637,7 @@
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Lu Qiu et.al.|[2606.12217v1](http://arxiv.org/abs/2606.12217v1)|null|[αX↑56](https://alphaxiv.org/abs/2606.12217)|
 |**2026-06-09**|**TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation**|Yujie Zang et.al.|[2606.11184v1](http://arxiv.org/abs/2606.11184v1)|null|[αX↑37](https://alphaxiv.org/abs/2606.11184)|
 |**2026-08-27**|**Latent Spatial Memory for Video World Models**|Weijie Wang et.al.|[2606.09828v2](http://arxiv.org/abs/2606.09828v2)|[link](https://github.com/microsoft/LatentSpatialMemory)|[🤗👍71](https://huggingface.co/papers/2606.09828) [αX↑273](https://alphaxiv.org/abs/2606.09828)|
+|**2026-06-08**|**Echo-Memory: A Controlled Study of Memory in Action World Models**|Wayne King et.al.|[2606.09803v1](http://arxiv.org/abs/2606.09803v1)|[link](https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory}{this)|[🤗👍32](https://huggingface.co/papers/2606.09803) [αX↑68](https://alphaxiv.org/abs/2606.09803)|
 |**2026-06-08**|**Prisma-World: Camera-Controllable Multi-Agent Video World Model**|Huiqiang Sun et.al.|[2606.09507v1](http://arxiv.org/abs/2606.09507v1)|[link](https://github.com/huiqiang-sun/Prisma-World)|[αX↑28](https://alphaxiv.org/abs/2606.09507)|
 |**2026-06-24**|**$ω$ -EVA: Envision, Verify, and Act with Latent Interactive World Models**|Zhenguo Sun et.al.|[2606.09457v2](http://arxiv.org/abs/2606.09457v2)|null|[αX↑17](https://alphaxiv.org/abs/2606.09457)|
 |**2026-06-08**|**MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation**|Jia Zheng et.al.|[2606.09215v1](http://arxiv.org/abs/2606.09215v1)|null|[αX↑62](https://alphaxiv.org/abs/2606.09215)|
@@ -647,7 +650,9 @@
 |**2026-05-23**|**Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems**|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|null|[🤗👍6](https://huggingface.co/papers/2606.00090) [αX↑3](https://alphaxiv.org/abs/2606.00090)|
 |**2026-05-18**|**From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data**|Zhiyuan Feng et.al.|[2606.00054v1](http://arxiv.org/abs/2606.00054v1)|[link](https://github.com/AaronFengZY/HumanCentricToVLA-Survey)|[αX↑11](https://alphaxiv.org/abs/2606.00054)|
 |**2026-05-25**|**WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation**|Kaining Ying et.al.|[2605.25874v1](http://arxiv.org/abs/2605.25874v1)|[link](https://github.com/meituan-longcat/WBench)|[🤗👍103](https://huggingface.co/papers/2605.25874) [αX↑73](https://alphaxiv.org/abs/2605.25874)|
+|**2026-05-28**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345v2](http://arxiv.org/abs/2605.23345v2)|[link](https://github.com/z2tong/SCOPE)|[🤗👍17](https://huggingface.co/papers/2605.23345) [αX↑26](https://alphaxiv.org/abs/2605.23345)|
 |**2026-08-03**|**GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation**|Kaichen Zhou et.al.|[2605.22882v4](http://arxiv.org/abs/2605.22882v4)|null|[αX↑48](https://alphaxiv.org/abs/2605.22882)|
+|**2026-05-21**|**ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data**|Jiangyuan Wang et.al.|[2605.21963v1](http://arxiv.org/abs/2605.21963v1)|null|[αX↑4](https://alphaxiv.org/abs/2605.21963)|
 |**2026-05-20**|**stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation**|Lucas Maes et.al.|[2605.21800v1](http://arxiv.org/abs/2605.21800v1)|[link](https://github.com/galilai-group/stable-worldmodel)|[αX↑50](https://alphaxiv.org/abs/2605.21800)|
 |**2026-05-28**|**GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation**|Zijian Zhang et.al.|[2605.20752v2](http://arxiv.org/abs/2605.20752v2)|[link](https://github.com/TuojingAI/GaussianDream)|[αX↑41](https://alphaxiv.org/abs/2605.20752)|
 |**2026-10-08**|**World-Ego Modeling for Embodied Video Generation in Long-Horizon Navigation-Manipulation Tasks**|Zuyao Lin et.al.|[2605.19957v2](http://arxiv.org/abs/2605.19957v2)|[link](https://github.com/ZGCA-HMI-Lab/WEM)|[αX↑34](https://alphaxiv.org/abs/2605.19957)|
@@ -721,6 +726,7 @@
 |**2026-07-02**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032v2](http://arxiv.org/abs/2601.22032v2)|[link](https://github.com/linhanwang/Drive-JEPA)|[🤗👍3](https://huggingface.co/papers/2601.22032) [αX↑81](https://alphaxiv.org/abs/2601.22032)|
 |**2026-01-20**|**Learning Latent Action World Models In The Wild**|Quentin Garrido et.al.|[2601.05230v2](http://arxiv.org/abs/2601.05230v2)|null|[αX↑293](https://alphaxiv.org/abs/2601.05230)|
 |**2026-07-01**|**UniDrive-WM: Unified Understanding, Planning and Generation World Model for Autonomous Driving**|Zhexiao Xiong et.al.|[2601.04453v4](http://arxiv.org/abs/2601.04453v4)|[link](https://github.com/UniDrive-WM/UniDrive-WM)|[αX↑34](https://alphaxiv.org/abs/2601.04453)|
+|**2026-01-08**|**Current Agents Fail to Leverage World Model as Tool for Foresight**|Cheng Qian et.al.|[2601.03905v2](http://arxiv.org/abs/2601.03905v2)|null|[αX↑44](https://alphaxiv.org/abs/2601.03905)|
 |**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782v1](http://arxiv.org/abs/2601.03782v1)|[link](https://github.com/huangwl18/PointWorld)|[αX↑181](https://alphaxiv.org/abs/2601.03782)|
 |**2026-03-26**|**NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos**|Yuxue Yang et.al.|[2601.00393v2](http://arxiv.org/abs/2601.00393v2)|[link](https://github.com/IamCreateAI/NeoVerse)|[🤗👍133](https://huggingface.co/papers/2601.00393) [αX↑78](https://alphaxiv.org/abs/2601.00393)|
 |**2026-09-02**|**What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?**|Basile Terver et.al.|[2512.24497v4](http://arxiv.org/abs/2512.24497v4)|[link](https://github.com/facebookresearch/jepa-wms)|[αX↑121](https://alphaxiv.org/abs/2512.24497)|

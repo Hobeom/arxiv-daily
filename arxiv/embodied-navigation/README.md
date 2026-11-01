@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -24,9 +24,9 @@
 |**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760v1](http://arxiv.org/abs/2610.33760v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.33760)|
 |**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758v1](http://arxiv.org/abs/2610.33758v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.33758)|
 |**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504v1](http://arxiv.org/abs/2610.33504v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.33504)|
-|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32697)|
-|**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32666)|
-|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑6](https://alphaxiv.org/abs/2610.32612)|
+|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32697)|
+|**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32666)|
+|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑7](https://alphaxiv.org/abs/2610.32612)|
 |**2026-10-23**|**Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving**|Linye Lyu et.al.|[2610.32230v1](http://arxiv.org/abs/2610.32230v1)|[link](https://github.com/WAVE-AT-IDEA/BEVCA)|[αX↑3](https://alphaxiv.org/abs/2610.32230)|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186v1](http://arxiv.org/abs/2610.31186v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.31186)|
 |**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737v1](http://arxiv.org/abs/2610.30737v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.30737)|
@@ -246,6 +246,7 @@
 |**2026-10-06**|**StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement**|Junwon Seo et.al.|[2606.00267v2](http://arxiv.org/abs/2606.00267v2)|[link](https://github.com/CMU-IntentLab/StressDream)|[🤗👍2](https://huggingface.co/papers/2606.00267) [αX↑16](https://alphaxiv.org/abs/2606.00267)|
 |**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572v1](http://arxiv.org/abs/2605.31572v1)|null|[αX↑38](https://alphaxiv.org/abs/2605.31572)|
 |**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544v1](http://arxiv.org/abs/2605.28544v1)|null|[αX↑42](https://alphaxiv.org/abs/2605.28544)|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816v1](http://arxiv.org/abs/2605.22816v1)|[link](https://github.com/GWxuan/AwareVLN)|[αX↑41](https://alphaxiv.org/abs/2605.22816)|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑18](https://alphaxiv.org/abs/2605.15964)|
 |**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696v1](http://arxiv.org/abs/2605.14696v1)|[link](https://github.com/JiaweiXu8/EponaV2)|[αX↑36](https://alphaxiv.org/abs/2605.14696)|
 |**2026-05-12**|**The DAWN of World-Action Interactive Models**|Hongbo Lu et.al.|[2605.11550v1](http://arxiv.org/abs/2605.11550v1)|[link](https://github.com/COOWAI/DAWN)|[🤗👍27](https://huggingface.co/papers/2605.11550) [αX↑36](https://alphaxiv.org/abs/2605.11550)|

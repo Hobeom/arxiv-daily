@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -32,11 +32,11 @@
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Jianibieke Adalibieke et.al.|[2610.33852v1](http://arxiv.org/abs/2610.33852v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.33852)|
 |**2026-10-23**|**Flow Mesh: A Velocity-Regularized Flow Matching Framework for Stable Distributional Modeling of Physical Fields on Unstructured Meshes**|Siddharth Verma et.al.|[2610.33204v1](http://arxiv.org/abs/2610.33204v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.33204)|
 |**2026-10-20**|**DuoPIC: Uncertainty-Aware Voxel-Level Digital Twins of Cerebral Perfusion with Transport PDEs in Acute Stroke**|Anh Duong Tran et.al.|[2610.33071v1](http://arxiv.org/abs/2610.33071v1)|[link](https://github.com/detinatran/duopic)|[αX↑1](https://alphaxiv.org/abs/2610.33071)|
-|**2026-10-23**|**Regularised RL improves sim-to-real transfer**|Danilo Vucetic et.al.|[2610.32855v1](http://arxiv.org/abs/2610.32855v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32855)|
-|**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755v1](http://arxiv.org/abs/2610.32755v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32755)|
+|**2026-10-23**|**Regularised RL improves sim-to-real transfer**|Danilo Vucetic et.al.|[2610.32855v1](http://arxiv.org/abs/2610.32855v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.32855)|
+|**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755v1](http://arxiv.org/abs/2610.32755v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.32755)|
 |**2026-10-23**|**SKG in Practice: OOD Generalization Cases Across FourDomains**|Jian An et.al.|[2610.32314v1](http://arxiv.org/abs/2610.32314v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32314)|
-|**2026-10-22**|**Real-to-Sim Calibration of Bosch Etching Simulators with Few-Shot XSEM Data and Hybrid Search**|Xinyu Jia et.al.|[2610.31904v1](http://arxiv.org/abs/2610.31904v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31904)|
-|**2026-10-22**|**WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations**|Tianling Xu et.al.|[2610.31834v1](http://arxiv.org/abs/2610.31834v1)|null|[αX↑33](https://alphaxiv.org/abs/2610.31834)|
+|**2026-10-22**|**Real-to-Sim Calibration of Bosch Etching Simulators with Few-Shot XSEM Data and Hybrid Search**|Xinyu Jia et.al.|[2610.31904v1](http://arxiv.org/abs/2610.31904v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.31904)|
+|**2026-10-22**|**WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations**|Tianling Xu et.al.|[2610.31834v1](http://arxiv.org/abs/2610.31834v1)|null|[αX↑36](https://alphaxiv.org/abs/2610.31834)|
 |**2026-10-21**|**The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection**|Ashiqur Rahmana et.al.|[2610.31704v1](http://arxiv.org/abs/2610.31704v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.31704)|
 |**2026-10-28**|**In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations**|Hengyi Sim et.al.|[2610.30988v2](http://arxiv.org/abs/2610.30988v2)|null|[αX↑12](https://alphaxiv.org/abs/2610.30988)|
 |**2026-10-22**|**Evaluating Type-1 Diabetes Digital Twins by Decision Quality**|Victor Li et.al.|[2610.30577v1](http://arxiv.org/abs/2610.30577v1)|[link](https://github.com/Veeeeeee7/T1D-Digital-Twin-Benchmark)|[αX↑3](https://alphaxiv.org/abs/2610.30577)|
