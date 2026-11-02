@@ -1,14 +1,16 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.01
+### Updated on 2026.11.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190v1](http://arxiv.org/abs/2610.41190v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41190)|
+|**2026-10-29**|**Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation**|Haaris Mian et.al.|[2610.40857v1](http://arxiv.org/abs/2610.40857v1)|[link](https://github.com/haarisamian/walrus-forgetting-paper)|[αX↑0](https://alphaxiv.org/abs/2610.40857)|
 |**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi et.al.|[2610.40370v1](http://arxiv.org/abs/2610.40370v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.40370)|
 |**2026-10-29**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v1](http://arxiv.org/abs/2610.39429v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.39429)|
 |**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Arth Shukla et.al.|[2610.39044v1](http://arxiv.org/abs/2610.39044v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.39044)|
 |**2026-10-28**|**Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation**|Jacob Levy et.al.|[2610.38657v1](http://arxiv.org/abs/2610.38657v1)|[link](https://github.com/CLeARoboticsLab/terra)|[αX↑3](https://alphaxiv.org/abs/2610.38657)|
-|**2026-10-28**|**SimRetract: Zero-Shot Sim-to-Real Robotic Assistance for Retractor Take-Over in Open Surgery**|Xucheng Wang et.al.|[2610.38234v1](http://arxiv.org/abs/2610.38234v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.38234)|
+|**2026-10-30**|**SimRetract: Zero-Shot Sim-to-Real Robotic Assistance for Retractor Take-Over in Open Surgery**|Xucheng Wang et.al.|[2610.38234v2](http://arxiv.org/abs/2610.38234v2)|null|[αX↑3](https://alphaxiv.org/abs/2610.38234)|
 |**2026-10-28**|**Floor It, Then Fill It: Simulating Creator Ecosystems for Fair Video-Content Recommendation Systems at Billion User Scale**|Sohini Roychowdhury et.al.|[2610.38155v1](http://arxiv.org/abs/2610.38155v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.38155)|
 |**2026-10-27**|**GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction**|Allen Tu et.al.|[2610.37818v1](http://arxiv.org/abs/2610.37818v1)|[link](https://github.com/tuallen/GOFish)|[αX↑6](https://alphaxiv.org/abs/2610.37818)|
 |**2026-10-27**|**AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios**|Zhaoze Wang et.al.|[2610.37403v1](http://arxiv.org/abs/2610.37403v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.37403)|
@@ -33,18 +35,18 @@
 |**2026-10-23**|**Flow Mesh: A Velocity-Regularized Flow Matching Framework for Stable Distributional Modeling of Physical Fields on Unstructured Meshes**|Siddharth Verma et.al.|[2610.33204v1](http://arxiv.org/abs/2610.33204v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.33204)|
 |**2026-10-20**|**DuoPIC: Uncertainty-Aware Voxel-Level Digital Twins of Cerebral Perfusion with Transport PDEs in Acute Stroke**|Anh Duong Tran et.al.|[2610.33071v1](http://arxiv.org/abs/2610.33071v1)|[link](https://github.com/detinatran/duopic)|[αX↑2](https://alphaxiv.org/abs/2610.33071)|
 |**2026-10-23**|**Regularised RL improves sim-to-real transfer**|Danilo Vucetic et.al.|[2610.32855v1](http://arxiv.org/abs/2610.32855v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.32855)|
-|**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755v1](http://arxiv.org/abs/2610.32755v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.32755)|
-|**2026-10-23**|**SKG in Practice: OOD Generalization Cases Across FourDomains**|Jian An et.al.|[2610.32314v1](http://arxiv.org/abs/2610.32314v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32314)|
-|**2026-10-22**|**Real-to-Sim Calibration of Bosch Etching Simulators with Few-Shot XSEM Data and Hybrid Search**|Xinyu Jia et.al.|[2610.31904v1](http://arxiv.org/abs/2610.31904v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.31904)|
-|**2026-10-22**|**WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations**|Tianling Xu et.al.|[2610.31834v1](http://arxiv.org/abs/2610.31834v1)|null|[αX↑36](https://alphaxiv.org/abs/2610.31834)|
-|**2026-10-21**|**The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection**|Ashiqur Rahmana et.al.|[2610.31704v1](http://arxiv.org/abs/2610.31704v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.31704)|
+|**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755v1](http://arxiv.org/abs/2610.32755v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.32755)|
+|**2026-10-23**|**SKG in Practice: OOD Generalization Cases Across FourDomains**|Jian An et.al.|[2610.32314v1](http://arxiv.org/abs/2610.32314v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32314)|
+|**2026-10-22**|**Real-to-Sim Calibration of Bosch Etching Simulators with Few-Shot XSEM Data and Hybrid Search**|Xinyu Jia et.al.|[2610.31904v1](http://arxiv.org/abs/2610.31904v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.31904)|
+|**2026-10-22**|**WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations**|Tianling Xu et.al.|[2610.31834v1](http://arxiv.org/abs/2610.31834v1)|null|[αX↑38](https://alphaxiv.org/abs/2610.31834)|
+|**2026-10-21**|**The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection**|Ashiqur Rahmana et.al.|[2610.31704v1](http://arxiv.org/abs/2610.31704v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.31704)|
 |**2026-10-28**|**In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations**|Hengyi Sim et.al.|[2610.30988v2](http://arxiv.org/abs/2610.30988v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.30988)|
 |**2026-10-22**|**Evaluating Type-1 Diabetes Digital Twins by Decision Quality**|Victor Li et.al.|[2610.30577v1](http://arxiv.org/abs/2610.30577v1)|[link](https://github.com/Veeeeeee7/T1D-Digital-Twin-Benchmark)|[αX↑4](https://alphaxiv.org/abs/2610.30577)|
 |**2026-10-21**|**When Reconstruction Is Not Enough: Doubly Robust Counterfactual and Interventional Mediation Analysis with Learned Multimodal Representations**|Cong Cao et.al.|[2610.30220v1](http://arxiv.org/abs/2610.30220v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.30220)|
-|**2026-10-21**|**Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance**|Taiga Ikeshima et.al.|[2610.29452v1](http://arxiv.org/abs/2610.29452v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.29452)|
-|**2026-10-21**|**PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration**|Xiujian Liang et.al.|[2610.29432v1](http://arxiv.org/abs/2610.29432v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.29432)|
-|**2026-10-21**|**NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering**|Yipeng Lu et.al.|[2610.29200v1](http://arxiv.org/abs/2610.29200v1)|[link](https://github.com/WHU-USI3DV/NeuralSRender)|[αX↑7](https://alphaxiv.org/abs/2610.29200)|
-|**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Jiahui Yang et.al.|[2610.28948v1](http://arxiv.org/abs/2610.28948v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.28948)|
+|**2026-10-21**|**Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance**|Taiga Ikeshima et.al.|[2610.29452v1](http://arxiv.org/abs/2610.29452v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.29452)|
+|**2026-10-21**|**PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration**|Xiujian Liang et.al.|[2610.29432v1](http://arxiv.org/abs/2610.29432v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.29432)|
+|**2026-10-21**|**NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering**|Yipeng Lu et.al.|[2610.29200v1](http://arxiv.org/abs/2610.29200v1)|[link](https://github.com/WHU-USI3DV/NeuralSRender)|[αX↑8](https://alphaxiv.org/abs/2610.29200)|
+|**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Jiahui Yang et.al.|[2610.28948v1](http://arxiv.org/abs/2610.28948v1)|null|[αX↑23](https://alphaxiv.org/abs/2610.28948)|
 |**2026-10-20**|**Complexity-Aware Surgical Video Reasoning Segmentation with Digital Twin and Context Memory**|Yiqing Shen et.al.|[2610.28776v1](http://arxiv.org/abs/2610.28776v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.28776)|
 |**2026-10-20**|**PCLA-Bridge: A Framework for Cross-Domain Deployment of CARLA Agents**|Masoud Jamshidiyan Tehrani et.al.|[2610.28696v1](http://arxiv.org/abs/2610.28696v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.28696)|
 |**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470v1](http://arxiv.org/abs/2610.28470v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.28470)|

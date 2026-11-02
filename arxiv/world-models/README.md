@@ -1,14 +1,29 @@
 ## World Models
 
-### Updated on 2026.11.01
+### Updated on 2026.11.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-30**|**Hierarchical World Models with Implicit Dynamics**|Gaoyue Zhou et.al.|[2610.42146v1](http://arxiv.org/abs/2610.42146v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.42146)|
+|**2026-10-30**|**CausalWAM: Learning the Causes of Actions in World Action Models**|Juntao Cheng et.al.|[2610.42096v1](http://arxiv.org/abs/2610.42096v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42096)|
+|**2026-10-30**|**GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002v1](http://arxiv.org/abs/2610.42002v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42002)|
+|**2026-10-30**|**$\nabla$ Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation**|Weyl Lu et.al.|[2610.41654v1](http://arxiv.org/abs/2610.41654v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41654)|
+|**2026-10-30**|**DiffWBC: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control**|Yifei Huang et.al.|[2610.41354v1](http://arxiv.org/abs/2610.41354v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41354)|
+|**2026-10-30**|**Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics**|Zhidong Wang et.al.|[2610.41330v1](http://arxiv.org/abs/2610.41330v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41330)|
+|**2026-10-30**|**SPT-Flow: One Integration, Many Futures in Continuous-Time World Models**|Mingyang Lyu et.al.|[2610.41273v1](http://arxiv.org/abs/2610.41273v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41273)|
+|**2026-10-30**|**One Verdict Is Not Enough: Regression Testing Learned World Models and Their Test Harnesses**|Junyu Huo et.al.|[2610.41130v1](http://arxiv.org/abs/2610.41130v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41130)|
+|**2026-10-29**|**Before We Adapt: The Zero-Shot Generalization Bottleneck in Continual World Models**|Amir Mesbah et.al.|[2610.41041v1](http://arxiv.org/abs/2610.41041v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41041)|
+|**2026-10-29**|**Dreams Are Cheaper Than Flights: Curated World-Model Data Improves Aerial Detection**|Rugved Katole et.al.|[2610.41030v1](http://arxiv.org/abs/2610.41030v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41030)|
+|**2026-10-29**|**Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning**|Shashank Gupta et.al.|[2610.41022v1](http://arxiv.org/abs/2610.41022v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41022)|
+|**2026-10-29**|**UFMF: Radar-Guided Kinematic Priors for Real-Time 4D Occupancy Forecasting**|Zeping Zhang et.al.|[2610.40947v1](http://arxiv.org/abs/2610.40947v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40947)|
+|**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935v1](http://arxiv.org/abs/2610.40935v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40935)|
+|**2026-10-29**|**Agentic World Modeling for Agent Test-time Scaling without Environment Replica**|Wendi Li et.al.|[2610.40927v1](http://arxiv.org/abs/2610.40927v1)|[link](https://github.com/WindyLee0822/Agentic_World_Model)|[αX↑0](https://alphaxiv.org/abs/2610.40927)|
+|**2026-10-29**|**Beyond Plausible Prediction: Safety Sufficiency in Web World Models**|Zhifei Hu et.al.|[2610.40798v1](http://arxiv.org/abs/2610.40798v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40798)|
 |**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637v1](http://arxiv.org/abs/2610.40637v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.40637)|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614v1](http://arxiv.org/abs/2610.40614v1)|[link](https://github.com/cvlab-kaist/L3G-World)|[αX↑23](https://alphaxiv.org/abs/2610.40614)|
 |**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607v1](http://arxiv.org/abs/2610.40607v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.40607)|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565v1](http://arxiv.org/abs/2610.40565v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.40565)|
-|**2026-10-29**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[2610.40503v1](http://arxiv.org/abs/2610.40503v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.40503)|
+|**2026-10-30**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[2610.40503v2](http://arxiv.org/abs/2610.40503v2)|null|[αX↑16](https://alphaxiv.org/abs/2610.40503)|
 |**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401v1](http://arxiv.org/abs/2610.40401v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40401)|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373v1](http://arxiv.org/abs/2610.40373v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.40373)|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349v1](http://arxiv.org/abs/2610.40349v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.40349)|
@@ -16,7 +31,7 @@
 |**2026-10-29**|**RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories**|Yuanbo Lyu et.al.|[2610.40333v1](http://arxiv.org/abs/2610.40333v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.40333)|
 |**2026-10-29**|**Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement**|Liaoyuan Fan et.al.|[2610.40191v1](http://arxiv.org/abs/2610.40191v1)|[link](https://github.com/agentic-videogen/awesome-agentic-videogen)|[αX↑15](https://alphaxiv.org/abs/2610.40191)|
 |**2026-10-29**|**Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information**|Daniel Strauss et.al.|[2610.40030v1](http://arxiv.org/abs/2610.40030v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.40030)|
-|**2026-10-29**|**GROME: GROunding Factorized MEmory into Video World Models**|Fang Yu et.al.|[2610.39812v1](http://arxiv.org/abs/2610.39812v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.39812)|
+|**2026-10-30**|**GROME: GROunding Factorized MEmory into Video World Models**|Fang Yu et.al.|[2610.39812v2](http://arxiv.org/abs/2610.39812v2)|null|[αX↑4](https://alphaxiv.org/abs/2610.39812)|
 |**2026-10-29**|**WorldProbe: When Video World Models Fall Apart under Long-Horizon Spatial Exploration**|Minqi Wang et.al.|[2610.39721v1](http://arxiv.org/abs/2610.39721v1)|[link](https://github.com/Untitled-W/WorldProbe)|[αX↑4](https://alphaxiv.org/abs/2610.39721)|
 |**2026-10-29**|**FutureWorld: A Plug-and-Play Causal Next-State Predictor for Interactive Video World Exploration**|Guangyuan Li et.al.|[2610.39619v1](http://arxiv.org/abs/2610.39619v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.39619)|
 |**2026-10-29**|**Assuring Learning-Enabled Cyber-Physical Systems with Foundation Models: A Neuro-Symbolic Agenda for Testing, Verification, and Runtime Assurance**|Xi Zheng et.al.|[2610.39547v1](http://arxiv.org/abs/2610.39547v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.39547)|
@@ -37,7 +52,7 @@
 |**2026-10-27**|**Understanding the limits of latent world models**|Rodrigo Gonzalez Laiz et.al.|[2610.37588v1](http://arxiv.org/abs/2610.37588v1)|[link](https://github.com/dynamical-inference/faithful-world-models)|[αX↑2](https://alphaxiv.org/abs/2610.37588)|
 |**2026-10-27**|**Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning**|Zengqi Zhao et.al.|[2610.37437v1](http://arxiv.org/abs/2610.37437v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.37437)|
 |**2026-10-27**|**JEPA-Inspired Latent Field Prediction for Sparse-Pilot MIMO-OFDM Channel Reconstruction**|Yuzhi Yang et.al.|[2610.37391v1](http://arxiv.org/abs/2610.37391v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.37391)|
-|**2026-10-27**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Hanqing Wang et.al.|[2610.37381v1](http://arxiv.org/abs/2610.37381v1)|null|[🤗👍147](https://huggingface.co/papers/2610.37381) [αX↑28](https://alphaxiv.org/abs/2610.37381)|
+|**2026-10-29**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Hanqing Wang et.al.|[2610.37381v2](http://arxiv.org/abs/2610.37381v2)|null|[🤗👍147](https://huggingface.co/papers/2610.37381) [αX↑28](https://alphaxiv.org/abs/2610.37381)|
 |**2026-10-27**|**ScIntBench: Physical Interaction Plausibility in 3D Scene Generation**|Wendi Ying et.al.|[2610.37326v1](http://arxiv.org/abs/2610.37326v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.37326)|
 |**2026-10-27**|**GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling**|Kang He et.al.|[2610.37257v1](http://arxiv.org/abs/2610.37257v1)|[link](https://github.com/kangverse/GameVerse)|[αX↑3](https://alphaxiv.org/abs/2610.37257)|
 |**2026-10-27**|**MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model**|Brian Ko et.al.|[2610.37175v1](http://arxiv.org/abs/2610.37175v1)|[link](https://github.com/ko120/MLE_World)|[🤗👍5](https://huggingface.co/papers/2610.37175) [αX↑1](https://alphaxiv.org/abs/2610.37175)|

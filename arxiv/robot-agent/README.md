@@ -1,9 +1,22 @@
 ## Robot & Agent
 
-### Updated on 2026.11.01
+### Updated on 2026.11.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-30**|**Hierarchical World Models with Implicit Dynamics**|Gaoyue Zhou et.al.|[2610.42146v1](http://arxiv.org/abs/2610.42146v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.42146)|
+|**2026-10-30**|**RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory**|Shengguang Wu et.al.|[2610.42141v1](http://arxiv.org/abs/2610.42141v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42141)|
+|**2026-10-30**|**REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control**|Pengfei Zhou et.al.|[2610.42053v1](http://arxiv.org/abs/2610.42053v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42053)|
+|**2026-10-30**|**Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space**|Biaoliang Guan et.al.|[2610.42021v1](http://arxiv.org/abs/2610.42021v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42021)|
+|**2026-10-30**|**When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks**|Alex Zhou et.al.|[2610.41857v1](http://arxiv.org/abs/2610.41857v1)|[link](https://github.com/ALEXander22568/simuguard)|[αX↑0](https://alphaxiv.org/abs/2610.41857)|
+|**2026-10-30**|**When Architectural Spaces Start to Act**|Alex Binh Vinh Duc Nguyen et.al.|[2610.41724v1](http://arxiv.org/abs/2610.41724v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41724)|
+|**2026-10-30**|**ResMerge: Residual Policy Learning and Merging for Continual Adaptation of Pre-trained Robot Policies**|Kefei Zhu et.al.|[2610.41663v1](http://arxiv.org/abs/2610.41663v1)|[link](https://github.com/ResMerge/resmerge-official)|[αX↑0](https://alphaxiv.org/abs/2610.41663)|
+|**2026-10-30**|**$\nabla$ Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation**|Weyl Lu et.al.|[2610.41654v1](http://arxiv.org/abs/2610.41654v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41654)|
+|**2026-10-30**|**BioAgent: Self-Directed Skill Acquisition and Capability Growth for Long-Horizon Laboratory Protocols**|Gaojing Zhang et.al.|[2610.41383v1](http://arxiv.org/abs/2610.41383v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41383)|
+|**2026-10-30**|**Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics**|Zhidong Wang et.al.|[2610.41330v1](http://arxiv.org/abs/2610.41330v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41330)|
+|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185v1](http://arxiv.org/abs/2610.41185v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41185)|
+|**2026-10-29**|**CuPIQP: A Batched and Differentiable QP Solver on GPUs for Robot Learning and Control**|Fenglong Song et.al.|[2610.41021v1](http://arxiv.org/abs/2610.41021v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41021)|
+|**2026-10-29**|**WorldBridge: Bridging Video and Action for Task Generalization in World Action Models**|Jun Cen et.al.|[2610.40748v1](http://arxiv.org/abs/2610.40748v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.40748)|
 |**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Jingxu Gu et.al.|[2610.40430v1](http://arxiv.org/abs/2610.40430v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.40430)|
 |**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401v1](http://arxiv.org/abs/2610.40401v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40401)|
 |**2026-10-29**|**JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning**|Jiazhao Liang et.al.|[2610.40356v1](http://arxiv.org/abs/2610.40356v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40356)|
@@ -86,24 +99,24 @@
 |**2026-10-21**|**Post-hoc Epistemic Uncertainty for Vision-Language-Action Policies**|Johannes Keller et.al.|[2610.29730v1](http://arxiv.org/abs/2610.29730v1)|[link](https://github.com/post-hoc-vla-uncertainty/post-hoc-vla-uncertainty)|[αX↑5](https://alphaxiv.org/abs/2610.29730)|
 |**2026-10-21**|**Toward Recursive Self-Improvement in Physical AI**|Meng Luo et.al.|[2610.29677v1](http://arxiv.org/abs/2610.29677v1)|[link](https://github.com/Physical2RSI/Awesome-Physical2RSI)|[🤗👍69](https://huggingface.co/papers/2610.29677) [αX↑29](https://alphaxiv.org/abs/2610.29677)|
 |**2026-10-21**|**DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving**|Alessandro Canevaro et.al.|[2610.29676v1](http://arxiv.org/abs/2610.29676v1)|[link](https://github.com/alessandro-canevaro/DriveMLP)|[αX↑8](https://alphaxiv.org/abs/2610.29676)|
-|**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.29244)|
+|**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.29244)|
 |**2026-10-20**|**GGraph: A GPU-Accelerated Library for Graph-Based Robot Deployment and Learning**|Yash Rampuria et.al.|[2610.28953v1](http://arxiv.org/abs/2610.28953v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.28953)|
 |**2026-10-20**|**HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second**|Jonas Eschmann et.al.|[2610.28950v1](http://arxiv.org/abs/2610.28950v1)|null|[🤗👍10](https://huggingface.co/papers/2610.28950) [αX↑10](https://alphaxiv.org/abs/2610.28950)|
 |**2026-10-20**|**Flexible Language-Guided Representation Editing for Adaptive Robot Behavior**|Audrey Lee et.al.|[2610.28893v1](http://arxiv.org/abs/2610.28893v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.28893)|
 |**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880v1](http://arxiv.org/abs/2610.28880v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.28880)|
-|**2026-10-20**|**Learning-Enhanced Observer for Sensorless Task-Null-Space Compliant Control**|Nuo Chen et.al.|[2610.28769v1](http://arxiv.org/abs/2610.28769v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.28769)|
-|**2026-10-20**|**Human-Robot Interaction via Meta-Learning Based Mode Recognition and Adaptive Control**|Nuo Chen et.al.|[2610.28761v1](http://arxiv.org/abs/2610.28761v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.28761)|
+|**2026-10-20**|**Learning-Enhanced Observer for Sensorless Task-Null-Space Compliant Control**|Nuo Chen et.al.|[2610.28769v1](http://arxiv.org/abs/2610.28769v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.28769)|
+|**2026-10-20**|**Human-Robot Interaction via Meta-Learning Based Mode Recognition and Adaptive Control**|Nuo Chen et.al.|[2610.28761v1](http://arxiv.org/abs/2610.28761v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.28761)|
 |**2026-10-20**|**Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds**|Kuan Zhang et.al.|[2610.28698v1](http://arxiv.org/abs/2610.28698v1)|[link](https://github.com/THUSI-Lab/GameScaling)|[🤗👍56](https://huggingface.co/papers/2610.28698) [αX↑22](https://alphaxiv.org/abs/2610.28698)|
 |**2026-10-20**|**Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning**|Zebin Xing et.al.|[2610.28613v1](http://arxiv.org/abs/2610.28613v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.28613)|
 |**2026-10-20**|**SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images**|Rundong Luo et.al.|[2610.28585v1](http://arxiv.org/abs/2610.28585v1)|[link](https://github.com/Red-Fairy/SceneRig)|[αX↑17](https://alphaxiv.org/abs/2610.28585)|
 |**2026-10-20**|**CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation**|Pengying Wu et.al.|[2610.28476v1](http://arxiv.org/abs/2610.28476v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.28476)|
 |**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470v1](http://arxiv.org/abs/2610.28470v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.28470)|
 |**2026-10-20**|**CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents**|Youmna Farag et.al.|[2610.28381v1](http://arxiv.org/abs/2610.28381v1)|[link](https://github.com/Youmna-H/CAPSafe)|[αX↑4](https://alphaxiv.org/abs/2610.28381)|
-|**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Oliver Hausdörfer et.al.|[2610.27794v1](http://arxiv.org/abs/2610.27794v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.27794)|
+|**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Oliver Hausdörfer et.al.|[2610.27794v1](http://arxiv.org/abs/2610.27794v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.27794)|
 |**2026-10-20**|**CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation**|Pengying Wu et.al.|[2610.27677v1](http://arxiv.org/abs/2610.27677v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.27677)|
 |**2026-10-20**|**JARVIS: From Visual Manuals to Autonomous Robotic Assembly**|Fan Ding et.al.|[2610.27618v1](http://arxiv.org/abs/2610.27618v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.27618)|
-|**2026-10-20**|**Evaluating Social Reasoning in Embodied Vision-Language Models**|Daniel Weiner et.al.|[2610.27496v1](http://arxiv.org/abs/2610.27496v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.27496)|
-|**2026-10-19**|**Determination of the Human-Robot Interaction Workspace for Robot Assisted Head Stabilization Control**|Xinmin Liu et.al.|[2610.27336v1](http://arxiv.org/abs/2610.27336v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.27336)|
+|**2026-10-20**|**Evaluating Social Reasoning in Embodied Vision-Language Models**|Daniel Weiner et.al.|[2610.27496v1](http://arxiv.org/abs/2610.27496v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.27496)|
+|**2026-10-19**|**Determination of the Human-Robot Interaction Workspace for Robot Assisted Head Stabilization Control**|Xinmin Liu et.al.|[2610.27336v1](http://arxiv.org/abs/2610.27336v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.27336)|
 |**2026-10-19**|**Learning to Be Different: Component Specialization for Compositional Diffusion Policies**|Alec Laprevotte et.al.|[2610.27194v1](http://arxiv.org/abs/2610.27194v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.27194)|
 |**2026-10-19**|**LVMem: Image-Augmented Memory for Long-Horizon Question Answering**|Victoria Khoruzhaya et.al.|[2610.27104v1](http://arxiv.org/abs/2610.27104v1)|[link](https://github.com/comprock15/LVMem)|[αX↑1](https://alphaxiv.org/abs/2610.27104)|
 |**2026-10-18**|**DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation**|Bin Zhou et.al.|[2610.26962v1](http://arxiv.org/abs/2610.26962v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.26962)|
