@@ -1,13 +1,28 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.02
+### Updated on 2026.11.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-30**|**When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks**|Alex Zhou et.al.|[2610.41857v1](http://arxiv.org/abs/2610.41857v1)|[link](https://github.com/ALEXander22568/simuguard)|[αX↑0](https://alphaxiv.org/abs/2610.41857)|
-|**2026-10-30**|**SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models**|Haesung Lee et.al.|[2610.41408v1](http://arxiv.org/abs/2610.41408v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41408)|
-|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Guangyu Zhao et.al.|[2610.41009v1](http://arxiv.org/abs/2610.41009v1)|[link](https://github.com/PKU-VaLuE-Lab/STAR)|[αX↑0](https://alphaxiv.org/abs/2610.41009)|
-|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Yijia Fan et.al.|[2610.40799v1](http://arxiv.org/abs/2610.40799v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40799)|
+|**2026-11-02**|**FineCraft: Enhancing VLA Models for Fine-Grained Manipulation**|Shuaike Zhang et.al.|[2611.03163v1](http://arxiv.org/abs/2611.03163v1)|[link](https://github.com/eqcy/FineCraft)|[αX↑0](https://alphaxiv.org/abs/2611.03163)|
+|**2026-11-02**|**VLALagBench: Understanding When and Why VLA Inference Latency Matters**|Qi Wen et.al.|[2611.03103v1](http://arxiv.org/abs/2611.03103v1)|[link](https://github.com/codestrongestx/VLALagBench)|[αX↑0](https://alphaxiv.org/abs/2611.03103)|
+|**2026-11-02**|**HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation**|Gyeonghun Kim et.al.|[2611.02660v1](http://arxiv.org/abs/2611.02660v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02660)|
+|**2026-11-01**|**SVD-Prune: Spectral Vision Token Pruning under Extreme Compression**|Yvon Apedo et.al.|[2611.02284v1](http://arxiv.org/abs/2611.02284v1)|[link](https://github.com/anoncvlab/svdPrune)|[αX↑0](https://alphaxiv.org/abs/2611.02284)|
+|**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Liangkai Liu et.al.|[2611.02101v1](http://arxiv.org/abs/2611.02101v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02101)|
+|**2026-11-01**|**Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs**|Seungjun Yu et.al.|[2611.02076v1](http://arxiv.org/abs/2611.02076v1)|[link](https://github.com/sjyu001/SARD)|[αX↑0](https://alphaxiv.org/abs/2611.02076)|
+|**2026-11-01**|**Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models**|Chan Park et.al.|[2611.01713v1](http://arxiv.org/abs/2611.01713v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01713)|
+|**2026-11-01**|**Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency**|Fuyi Chen et.al.|[2611.01390v1](http://arxiv.org/abs/2611.01390v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01390)|
+|**2026-10-31**|**Vision-Language Models Are Joint Denoisers in Robotic Action Generation**|Xicheng Gong et.al.|[2611.01215v1](http://arxiv.org/abs/2611.01215v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01215)|
+|**2026-10-31**|**ClothDojo: Learned Data Generation and Benchmarking for Bimanual Garment Flattening and Folding**|Zilong Huang et.al.|[2611.01190v1](http://arxiv.org/abs/2611.01190v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01190)|
+|**2026-10-31**|**Leap-VLA: High-Rate Robot Control from a Low-Rate VLM Backbone**|Lin Yang et.al.|[2611.01011v1](http://arxiv.org/abs/2611.01011v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01011)|
+|**2026-10-31**|**Verifying Test-State Identity in Paired Evaluation of Vision-Language-Action Models**|Rafiqul Islam et.al.|[2611.00896v1](http://arxiv.org/abs/2611.00896v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.00896)|
+|**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718v1](http://arxiv.org/abs/2611.00718v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.00718)|
+|**2026-10-31**|**Learning from an Imitable Teacher: Competition Solution for the MetaFine Challenge**|Yanze Zhang et.al.|[2611.00615v1](http://arxiv.org/abs/2611.00615v1)|[link](https://github.com/YanzeZhang97/MetaFine)|[αX↑0](https://alphaxiv.org/abs/2611.00615)|
+|**2026-10-31**|**Behavioral Steering of Vision-Language-Action Models in the Low-Parameter Regime**|James Tcheng et.al.|[2611.00522v1](http://arxiv.org/abs/2611.00522v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.00522)|
+|**2026-10-30**|**When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks**|Alex Zhou et.al.|[2610.41857v1](http://arxiv.org/abs/2610.41857v1)|[link](https://github.com/ALEXander22568/simuguard)|[αX↑2](https://alphaxiv.org/abs/2610.41857)|
+|**2026-10-30**|**SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models**|Haesung Lee et.al.|[2610.41408v1](http://arxiv.org/abs/2610.41408v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.41408)|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Guangyu Zhao et.al.|[2610.41009v1](http://arxiv.org/abs/2610.41009v1)|[link](https://github.com/PKU-VaLuE-Lab/STAR)|[αX↑1](https://alphaxiv.org/abs/2610.41009)|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Yijia Fan et.al.|[2610.40799v1](http://arxiv.org/abs/2610.40799v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.40799)|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565v1](http://arxiv.org/abs/2610.40565v1)|null|[αX↑28](https://alphaxiv.org/abs/2610.40565)|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532v1](http://arxiv.org/abs/2610.40532v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.40532)|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373v1](http://arxiv.org/abs/2610.40373v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.40373)|

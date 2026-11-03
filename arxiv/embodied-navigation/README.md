@@ -1,12 +1,21 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.02
+### Updated on 2026.11.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834v1](http://arxiv.org/abs/2610.41834v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41834)|
-|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185v1](http://arxiv.org/abs/2610.41185v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41185)|
-|**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935v1](http://arxiv.org/abs/2610.40935v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40935)|
+|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465v1](http://arxiv.org/abs/2611.03465v1)|[link](https://github.com/caixinw4-afk/hive-diff)|[αX↑0](https://alphaxiv.org/abs/2611.03465)|
+|**2026-11-02**|**CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2611.03229v1](http://arxiv.org/abs/2611.03229v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.03229)|
+|**2026-11-02**|**Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving**|Xingtai Gui et.al.|[2611.02853v1](http://arxiv.org/abs/2611.02853v1)|[link](https://github.com/TabGuigui/ScaleDrive)|[αX↑0](https://alphaxiv.org/abs/2611.02853)|
+|**2026-11-02**|**ReinSeg: Retrieval-Guided Bounded Multimodal Refinement for 3-D Road Anomaly Segmentation**|Haifa Zhang et.al.|[2611.02648v1](http://arxiv.org/abs/2611.02648v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02648)|
+|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Zhan Chen et.al.|[2611.02526v1](http://arxiv.org/abs/2611.02526v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02526)|
+|**2026-11-02**|**Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics**|Runhe Yang et.al.|[2611.02499v1](http://arxiv.org/abs/2611.02499v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02499)|
+|**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682v1](http://arxiv.org/abs/2611.01682v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01682)|
+|**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283v1](http://arxiv.org/abs/2611.01283v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01283)|
+|**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718v1](http://arxiv.org/abs/2611.00718v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.00718)|
+|**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834v1](http://arxiv.org/abs/2610.41834v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.41834)|
+|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185v1](http://arxiv.org/abs/2610.41185v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.41185)|
+|**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935v1](http://arxiv.org/abs/2610.40935v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.40935)|
 |**2026-10-29**|**A Unified Benchmark for Aerial-Enhanced Autonomous Driving: The KITScenes Aerial Dataset**|Daniel Lengerer et.al.|[2610.40455v1](http://arxiv.org/abs/2610.40455v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40455)|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848v1](http://arxiv.org/abs/2610.39848v1)|[link](https://github.com/alexandrosgk/LiDAR-shield)|[αX↑6](https://alphaxiv.org/abs/2610.39848)|
 |**2026-10-29**|**Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory**|Kai Sheng et.al.|[2610.39446v1](http://arxiv.org/abs/2610.39446v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.39446)|
@@ -27,7 +36,7 @@
 |**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760v1](http://arxiv.org/abs/2610.33760v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.33760)|
 |**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758v1](http://arxiv.org/abs/2610.33758v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.33758)|
 |**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504v1](http://arxiv.org/abs/2610.33504v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.33504)|
-|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32697)|
+|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.32697)|
 |**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32666)|
 |**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑8](https://alphaxiv.org/abs/2610.32612)|
 |**2026-10-23**|**Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving**|Linye Lyu et.al.|[2610.32230v1](http://arxiv.org/abs/2610.32230v1)|[link](https://github.com/WAVE-AT-IDEA/BEVCA)|[αX↑4](https://alphaxiv.org/abs/2610.32230)|
