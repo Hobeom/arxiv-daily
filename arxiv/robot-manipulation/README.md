@@ -1,9 +1,28 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.03
+### Updated on 2026.11.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-03**|**GUILD: Guided Iterative Data Collection for Imitation Learning**|Shivin Dass et.al.|[2611.05368v1](http://arxiv.org/abs/2611.05368v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05368)|
+|**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Charles Xu et.al.|[2611.05295v1](http://arxiv.org/abs/2611.05295v1)|[link](https://github.com/charlesxu0124/gsbr)|[αX↑0](https://alphaxiv.org/abs/2611.05295)|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Asher James Hancock et.al.|[2611.05249v1](http://arxiv.org/abs/2611.05249v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05249)|
+|**2026-11-03**|**RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163v1](http://arxiv.org/abs/2611.05163v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05163)|
+|**2026-11-03**|**Asynchronous Robot Policies**|Sombit Dey et.al.|[2611.05155v1](http://arxiv.org/abs/2611.05155v1)|[link](https://github.com/yxBeginner/RL-and-Robot)|[αX↑0](https://alphaxiv.org/abs/2611.05155)|
+|**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Zhewei Gui et.al.|[2611.05119v1](http://arxiv.org/abs/2611.05119v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05119)|
+|**2026-11-03**|**CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation**|Po-Yi Wu et.al.|[2611.05080v1](http://arxiv.org/abs/2611.05080v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05080)|
+|**2026-11-03**|**HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models**|Xingyu Wang et.al.|[2611.05023v1](http://arxiv.org/abs/2611.05023v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05023)|
+|**2026-11-03**|**CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests**|Dimitrios Bekris et.al.|[2611.04708v1](http://arxiv.org/abs/2611.04708v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04708)|
+|**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Zhiqian Xia et.al.|[2611.04522v1](http://arxiv.org/abs/2611.04522v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04522)|
+|**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Can Wang et.al.|[2611.04493v1](http://arxiv.org/abs/2611.04493v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04493)|
+|**2026-11-03**|**All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy**|Byungkun Lee et.al.|[2611.04485v1](http://arxiv.org/abs/2611.04485v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04485)|
+|**2026-11-03**|**Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation**|Mingcong Li et.al.|[2611.04477v1](http://arxiv.org/abs/2611.04477v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04477)|
+|**2026-11-03**|**ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms**|Han Zhang et.al.|[2611.04255v1](http://arxiv.org/abs/2611.04255v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04255)|
+|**2026-11-03**|**DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution**|Renkai Yi et.al.|[2611.04226v1](http://arxiv.org/abs/2611.04226v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04226)|
+|**2026-11-03**|**Grasping and Stabilizing Tumbling Objects with Rotating-Base Multi-Arm Space Manipulators**|Farhad Aghili et.al.|[2611.04176v1](http://arxiv.org/abs/2611.04176v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04176)|
+|**2026-11-02**|**MABEL: An Open Anthropomorphic Mobile Bimanual Platform for Teleoperation and Learning**|Qilong Cheng et.al.|[2611.04083v1](http://arxiv.org/abs/2611.04083v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04083)|
+|**2026-11-02**|**FEIJOA: Task-Driven Grounding and Execution for Mobile Manipulation**|Aditya Agarwal et.al.|[2611.04080v1](http://arxiv.org/abs/2611.04080v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04080)|
+|**2026-11-02**|**AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data**|Yueh-Hua Wu et.al.|[2611.03815v1](http://arxiv.org/abs/2611.03815v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.03815)|
 |**2026-11-02**|**PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation**|Binglin et.al.|[2611.03520v1](http://arxiv.org/abs/2611.03520v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.03520)|
 |**2026-11-02**|**When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning**|Younghyo Park et.al.|[2611.03501v1](http://arxiv.org/abs/2611.03501v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.03501)|
 |**2026-11-02**|**Exploring Proximity and Tactile Sensing for Robotic Manipulation**|Eric T. Chang et.al.|[2611.03489v1](http://arxiv.org/abs/2611.03489v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.03489)|
@@ -17,7 +36,7 @@
 |**2026-11-02**|**ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction**|Hao Zhu et.al.|[2611.02871v1](http://arxiv.org/abs/2611.02871v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02871)|
 |**2026-11-02**|**SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping**|Haoyuan Wang et.al.|[2611.02794v1](http://arxiv.org/abs/2611.02794v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02794)|
 |**2026-11-02**|**Visuo-tactile Diffusion Policy for Robotic Manipulation with Auxiliary Tactile Dynamics Prediction**|Kaihong Ouyang et.al.|[2611.02677v1](http://arxiv.org/abs/2611.02677v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02677)|
-|**2026-11-02**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Haonan Ping et.al.|[2611.02629v1](http://arxiv.org/abs/2611.02629v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02629)|
+|**2026-11-03**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Haonan Ping et.al.|[2611.02629v2](http://arxiv.org/abs/2611.02629v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.02629)|
 |**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Xiaopeng Zhang et.al.|[2611.02600v1](http://arxiv.org/abs/2611.02600v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.02600)|
 |**2026-11-01**|**Control Barrier Functions for Safety-Aware Latent-Space Motion Planning**|Chandrakiran Ravula et.al.|[2611.01814v1](http://arxiv.org/abs/2611.01814v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01814)|
 |**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729v1](http://arxiv.org/abs/2611.01729v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.01729)|
@@ -67,7 +86,7 @@
 |**2026-10-29**|**Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning**|Shota Nomura et.al.|[2610.39451v1](http://arxiv.org/abs/2610.39451v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.39451)|
 |**2026-10-29**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v1](http://arxiv.org/abs/2610.39429v1)|null|[αX↑18](https://alphaxiv.org/abs/2610.39429)|
 |**2026-10-29**|**Decoding Geometry, Not Tokens: Efficient VLMs for Robot Affordance and Trajectory Prediction**|Akila Ayanthi et.al.|[2610.39416v1](http://arxiv.org/abs/2610.39416v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.39416)|
-|**2026-10-29**|**Utility-WAM: Correcting Future-Induced Action Changes**|Feihong Zhang et.al.|[2610.39367v1](http://arxiv.org/abs/2610.39367v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.39367)|
+|**2026-10-29**|**Utility-WAM: Correcting Future-Induced Action Changes**|Feihong Zhang et.al.|[2610.39367v1](http://arxiv.org/abs/2610.39367v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.39367)|
 |**2026-10-29**|**Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception**|Kazuki Takahashi et.al.|[2610.39314v1](http://arxiv.org/abs/2610.39314v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.39314)|
 |**2026-10-29**|**EgoContact: Evaluating Physical Intelligence with Egocentric Video**|Adam Deryło et.al.|[2610.39167v1](http://arxiv.org/abs/2610.39167v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.39167)|
 |**2026-10-29**|**CAPTURER: A Dexterous Aerial Manipulator for Dynamic and Precise Grasping across Diverse Environments**|Meng Wang et.al.|[2610.39119v1](http://arxiv.org/abs/2610.39119v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.39119)|
@@ -674,6 +693,7 @@
 |**2026-10-16**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Yuecheng Xu et.al.|[2607.11427v2](http://arxiv.org/abs/2607.11427v2)|null|[αX↑17](https://alphaxiv.org/abs/2607.11427)|
 |**2026-07-10**|**Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning**|Wenke Xia et.al.|[2607.09866v1](http://arxiv.org/abs/2607.09866v1)|[link](https://github.com/Open-X-Humanoid/Robo-ValueRL)|[αX↑23](https://alphaxiv.org/abs/2607.09866)|
 |**2026-10-05**|**EgoSteer: An Open-Source Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos**|Yifan Zhong et.al.|[2607.09701v2](http://arxiv.org/abs/2607.09701v2)|null|[🤗👍17](https://huggingface.co/papers/2607.09701) [αX↑15](https://alphaxiv.org/abs/2607.09701)|
+|**2026-07-10**|**TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation**|Suting Ni et.al.|[2607.09190v1](http://arxiv.org/abs/2607.09190v1)|null|[αX↑10](https://alphaxiv.org/abs/2607.09190)|
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Yunchao Yao et.al.|[2607.08751v1](http://arxiv.org/abs/2607.08751v1)|null|[αX↑49](https://alphaxiv.org/abs/2607.08751)|
 |**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287v2](http://arxiv.org/abs/2607.07287v2)|null|[αX↑44](https://alphaxiv.org/abs/2607.07287)|
 |**2026-09-29**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559v2](http://arxiv.org/abs/2607.06559v2)|[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)|[🤗👍95](https://huggingface.co/papers/2607.06559) [αX↑59](https://alphaxiv.org/abs/2607.06559)|
@@ -746,6 +766,7 @@
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860v1](http://arxiv.org/abs/2603.16860v1)|null|[αX↑30](https://alphaxiv.org/abs/2603.16860)|
 |**2026-04-06**|**PlayWorld: Learning Robot World Models from Autonomous Play**|Tenny Yin et.al.|[2603.09030v3](http://arxiv.org/abs/2603.09030v3)|[link](https://github.com/polaris-evals/polaris-evals.github.io)|[αX↑60](https://alphaxiv.org/abs/2603.09030)|
 |**2026-07-17**|**ICLR: In-Context Imitation Learning with Visual Reasoning**|Toan Nguyen et.al.|[2603.07530v2](http://arxiv.org/abs/2603.07530v2)|null|[αX↑23](https://alphaxiv.org/abs/2603.07530)|
+|**2026-05-08**|**Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding**|Zhengtong Xu et.al.|[2603.05687v3](http://arxiv.org/abs/2603.05687v3)|null|[αX↑19](https://alphaxiv.org/abs/2603.05687)|
 |**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363v1](http://arxiv.org/abs/2603.04363v1)|null|[αX↑19](https://alphaxiv.org/abs/2603.04363)|
 |**2026-07-30**|**RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design**|Tianxing Chen et.al.|[2603.01229v3](http://arxiv.org/abs/2603.01229v3)|[link](https://github.com/RoboTwin-Platform/RMBench)|[αX↑71](https://alphaxiv.org/abs/2603.01229)|
 |**2026-03-01**|**D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping**|Haozhe Lou et.al.|[2603.01151v1](http://arxiv.org/abs/2603.01151v1)|[link](https://github.com/louhz/D-rex)|[αX↑12](https://alphaxiv.org/abs/2603.01151)|
