@@ -396,6 +396,7 @@
 |**2026-10-02**|**SABER: Learning Attention-based Semantic Affordance for Legged Locomotion**|Hari Prasanth Palanivelu et.al.|[2609.21572v2](http://arxiv.org/abs/2609.21572v2)|null|[αX↑1](https://alphaxiv.org/abs/2609.21572)|
 |**2026-09-17**|**Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks**|Ruize Geng et.al.|[2609.21100v1](http://arxiv.org/abs/2609.21100v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21100)|
 |**2026-09-17**|**DR-MPC: Fast and Feasible Dynamics-Relaxed Model-Predictive Control for Legged Locomotion**|Run Wang et.al.|[2609.20035v1](http://arxiv.org/abs/2609.20035v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.20035)|
+|**2026-09-18**|**OmniCalib: Target-Free, Task-Structured Self-Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.19582v2](http://arxiv.org/abs/2609.19582v2)|null|[αX↑9](https://alphaxiv.org/abs/2609.19582)|
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340v1](http://arxiv.org/abs/2609.19340v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.19340)|
 |**2026-09-16**|**Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator**|Zhongyu Chen et.al.|[2609.18930v1](http://arxiv.org/abs/2609.18930v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.18930)|
 |**2026-09-16**|**KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation**|Sitong Chen et.al.|[2609.18869v1](http://arxiv.org/abs/2609.18869v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.18869)|
