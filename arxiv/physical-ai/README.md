@@ -1,6 +1,6 @@
 ## Physical AI
 
-### Updated on 2026.11.06
+### Updated on 2026.11.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -23,20 +23,20 @@
 |**2026-11-03**|**Active Learning with Generative AI in Introductory Physics: A Multi-Institutional Study of the P-A.I.R. Framework**|Bilas Paul et.al.|[2611.04148v1](http://arxiv.org/abs/2611.04148v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.04148)|
 |**2026-11-02**|**Self-Consistent Neural Control: Learning Trajectories for Implicit Equilibrium**|Hengyi Zhou et.al.|[2611.03885v1](http://arxiv.org/abs/2611.03885v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.03885)|
 |**2026-11-02**|**RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation**|Deng-Ke Wu et.al.|[2611.03850v1](http://arxiv.org/abs/2611.03850v1)|[link](https://github.com/MINT-SJTU/RoboScope-Kit)|[αX↑9](https://alphaxiv.org/abs/2611.03850)|
-|**2026-11-02**|**EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos**|Yujiao Shen et.al.|[2611.03646v1](http://arxiv.org/abs/2611.03646v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.03646)|
-|**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Liangkai Liu et.al.|[2611.02101v1](http://arxiv.org/abs/2611.02101v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.02101)|
-|**2026-11-01**|**When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?**|Anton Hristov et.al.|[2611.01815v1](http://arxiv.org/abs/2611.01815v1)|[link](https://github.com/3-ml/jepa-surprise)|[🤗👍24](https://huggingface.co/papers/2611.01815) [αX↑8](https://alphaxiv.org/abs/2611.01815)|
-|**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Zhenxin Zhu et.al.|[2611.01677v1](http://arxiv.org/abs/2611.01677v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.01677)|
-|**2026-11-01**|**GatedVLA with Camera-Based Emergency Braking: AlpaSim E2E Closed Loop Challenge Technical Report**|Kaneyoshi Hiratsuka et.al.|[2611.01663v1](http://arxiv.org/abs/2611.01663v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.01663)|
-|**2026-10-31**|**World Models Need Not Be Right to Rank Policies Right: Relative Bounds and Audit Limits**|Ahanaf Hasan Ariq et.al.|[2611.01139v1](http://arxiv.org/abs/2611.01139v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01139)|
+|**2026-11-02**|**EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos**|Yujiao Shen et.al.|[2611.03646v1](http://arxiv.org/abs/2611.03646v1)|null|[αX↑12](https://alphaxiv.org/abs/2611.03646)|
+|**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Liangkai Liu et.al.|[2611.02101v1](http://arxiv.org/abs/2611.02101v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.02101)|
+|**2026-11-01**|**When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?**|Anton Hristov et.al.|[2611.01815v1](http://arxiv.org/abs/2611.01815v1)|[link](https://github.com/3-ml/jepa-surprise)|[🤗👍24](https://huggingface.co/papers/2611.01815) [αX↑11](https://alphaxiv.org/abs/2611.01815)|
+|**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Zhenxin Zhu et.al.|[2611.01677v1](http://arxiv.org/abs/2611.01677v1)|null|[αX↑16](https://alphaxiv.org/abs/2611.01677)|
+|**2026-11-01**|**GatedVLA with Camera-Based Emergency Braking: AlpaSim E2E Closed Loop Challenge Technical Report**|Kaneyoshi Hiratsuka et.al.|[2611.01663v1](http://arxiv.org/abs/2611.01663v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.01663)|
+|**2026-10-31**|**World Models Need Not Be Right to Rank Policies Right: Relative Bounds and Audit Limits**|Ahanaf Hasan Ariq et.al.|[2611.01139v1](http://arxiv.org/abs/2611.01139v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.01139)|
 |**2026-10-31**|**Embodied AI for Radio Mapping: From Solo to Swarm**|Shangjie Zhuang et.al.|[2611.00770v1](http://arxiv.org/abs/2611.00770v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.00770)|
-|**2026-10-31**|**Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$**|Rocio Perales Valdes et.al.|[2611.00602v1](http://arxiv.org/abs/2611.00602v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.00602)|
+|**2026-10-31**|**Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$**|Rocio Perales Valdes et.al.|[2611.00602v1](http://arxiv.org/abs/2611.00602v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.00602)|
 |**2026-10-30**|**CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision**|Boniface Chukwuemeka Godwin et.al.|[2611.00394v1](http://arxiv.org/abs/2611.00394v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.00394)|
 |**2026-11-04**|**Learning to Live: A Step Toward Lifelong Embodied Intelligence**|Lirong Che et.al.|[2611.00180v2](http://arxiv.org/abs/2611.00180v2)|[link](https://github.com/AgibotGeneral/LIFE)|[αX↑6](https://alphaxiv.org/abs/2611.00180)|
-|**2026-10-30**|**From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models**|Gihyuk Ko et.al.|[2611.00155v1](http://arxiv.org/abs/2611.00155v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.00155)|
-|**2026-10-30**|**When the Past Shapes Action: Understanding Embodied Memory**|Siqi Li et.al.|[2610.41688v1](http://arxiv.org/abs/2610.41688v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.41688)|
+|**2026-10-30**|**From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models**|Gihyuk Ko et.al.|[2611.00155v1](http://arxiv.org/abs/2611.00155v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.00155)|
+|**2026-10-30**|**When the Past Shapes Action: Understanding Embodied Memory**|Siqi Li et.al.|[2610.41688v1](http://arxiv.org/abs/2610.41688v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.41688)|
 |**2026-10-30**|**FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D**|Feng Chen et.al.|[2610.41162v1](http://arxiv.org/abs/2610.41162v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.41162)|
-|**2026-10-29**|**Confidence-Modulated Safety Filtering for End-to-End Policies**|Javier Borquez et.al.|[2610.40922v1](http://arxiv.org/abs/2610.40922v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.40922)|
+|**2026-10-29**|**Confidence-Modulated Safety Filtering for End-to-End Policies**|Javier Borquez et.al.|[2610.40922v1](http://arxiv.org/abs/2610.40922v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.40922)|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565v1](http://arxiv.org/abs/2610.40565v1)|null|[αX↑46](https://alphaxiv.org/abs/2610.40565)|
 |**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[2610.40495v1](http://arxiv.org/abs/2610.40495v1)|null|[αX↑33](https://alphaxiv.org/abs/2610.40495)|
 |**2026-10-29**|**Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles**|Jianming Ma et.al.|[2610.40075v1](http://arxiv.org/abs/2610.40075v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40075)|
@@ -63,7 +63,7 @@
 |**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32312)|
 |**2026-10-23**|**Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems**|Christian A. Rogers et.al.|[2610.32208v1](http://arxiv.org/abs/2610.32208v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32208)|
 |**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983v1](http://arxiv.org/abs/2610.31983v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.31983)|
-|**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Sicong Leng et.al.|[2610.31779v1](http://arxiv.org/abs/2610.31779v1)|[link](https://github.com/NVIDIA/Flora)|[🤗👍1](https://huggingface.co/papers/2610.31779) [αX↑35](https://alphaxiv.org/abs/2610.31779)|
+|**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Sicong Leng et.al.|[2610.31779v1](http://arxiv.org/abs/2610.31779v1)|[link](https://github.com/NVIDIA/Flora)|[🤗👍1](https://huggingface.co/papers/2610.31779) [αX↑36](https://alphaxiv.org/abs/2610.31779)|
 |**2026-10-23**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670v2](http://arxiv.org/abs/2610.31670v2)|[link](https://github.com/yunfeixie233/sensorimotor-alignment)|[🤗👍7](https://huggingface.co/papers/2610.31670) [αX↑44](https://alphaxiv.org/abs/2610.31670)|
 |**2026-10-22**|**Learning Robot Behavior Priors from Non-Robotic Synthetic Data**|Mateusz Odrowaz-Sypniewski et.al.|[2610.31275v1](http://arxiv.org/abs/2610.31275v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.31275)|
 |**2026-10-22**|**Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration**|Yi Loo et.al.|[2610.30671v1](http://arxiv.org/abs/2610.30671v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.30671)|
@@ -78,7 +78,7 @@
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725v1](http://arxiv.org/abs/2610.27725v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.27725)|
 |**2026-10-19**|**Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops**|Arnav Grover et.al.|[2610.27350v1](http://arxiv.org/abs/2610.27350v1)|[link](https://github.com/Arnav-Gr0ver/Refuses-When-Asked-Complies-When-Acting)|[αX↑12](https://alphaxiv.org/abs/2610.27350)|
 |**2026-10-19**|**Physical AI: Concepts, Techniques, and Challenges**|Weinan Zhang et.al.|[2610.27045v1](http://arxiv.org/abs/2610.27045v1)|null|[αX↑33](https://alphaxiv.org/abs/2610.27045)|
-|**2026-10-21**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Jiaming Liu et.al.|[2610.26854v3](http://arxiv.org/abs/2610.26854v3)|null|[αX↑61](https://alphaxiv.org/abs/2610.26854)|
+|**2026-10-21**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Jiaming Liu et.al.|[2610.26854v3](http://arxiv.org/abs/2610.26854v3)|null|[αX↑62](https://alphaxiv.org/abs/2610.26854)|
 |**2026-10-25**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Hamid Hafezi et.al.|[2610.26717v2](http://arxiv.org/abs/2610.26717v2)|null|[αX↑17](https://alphaxiv.org/abs/2610.26717)|
 |**2026-10-19**|**ForagerSim: Evaluating Embodied Map-Based Reasoning in Large-Scale Dynamic Worlds**|Tomáš Musil et.al.|[2610.26395v1](http://arxiv.org/abs/2610.26395v1)|[link](https://github.com/MrTomzor/foragersim)|[αX↑6](https://alphaxiv.org/abs/2610.26395)|
 |**2026-10-21**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Hojin Jeon et.al.|[2610.25961v2](http://arxiv.org/abs/2610.25961v2)|null|[αX↑16](https://alphaxiv.org/abs/2610.25961)|
