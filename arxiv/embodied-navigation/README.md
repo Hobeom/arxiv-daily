@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.07
+### Updated on 2026.11.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -23,15 +23,15 @@
 |**2026-11-03**|**IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting**|Zhongquan Wang et.al.|[2611.04374v1](http://arxiv.org/abs/2611.04374v1)|[link](https://github.com/Akaxi6/IGSW_IntrinsicGSWeather)|[αX↑2](https://alphaxiv.org/abs/2611.04374)|
 |**2026-11-03**|**Weather Adaptive Autonomous Driving**|Nicholas Taylor et.al.|[2611.04305v1](http://arxiv.org/abs/2611.04305v1)|[link](https://github.com/jinlong17/DA-Detect)|[αX↑4](https://alphaxiv.org/abs/2611.04305)|
 |**2026-11-02**|**Do Pretrained Backbones Transfer to Physical Sensors? A Systematic Study of Multimodal Initialization Across the Sensor Stack**|Fabio Montello et.al.|[2611.04034v1](http://arxiv.org/abs/2611.04034v1)|[link](https://github.com/DTU-PAS/sensormae)|[αX↑4](https://alphaxiv.org/abs/2611.04034)|
-|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465v1](http://arxiv.org/abs/2611.03465v1)|[link](https://github.com/caixinw4-afk/hive-diff)|[αX↑3](https://alphaxiv.org/abs/2611.03465)|
-|**2026-11-02**|**CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2611.03229v1](http://arxiv.org/abs/2611.03229v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.03229)|
-|**2026-11-02**|**Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving**|Xingtai Gui et.al.|[2611.02853v1](http://arxiv.org/abs/2611.02853v1)|[link](https://github.com/TabGuigui/ScaleDrive)|[αX↑11](https://alphaxiv.org/abs/2611.02853)|
-|**2026-11-02**|**ReinSeg: Retrieval-Guided Bounded Multimodal Refinement for 3-D Road Anomaly Segmentation**|Haifa Zhang et.al.|[2611.02648v1](http://arxiv.org/abs/2611.02648v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.02648)|
-|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Zhan Chen et.al.|[2611.02526v1](http://arxiv.org/abs/2611.02526v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.02526)|
+|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465v1](http://arxiv.org/abs/2611.03465v1)|[link](https://github.com/caixinw4-afk/hive-diff)|[αX↑4](https://alphaxiv.org/abs/2611.03465)|
+|**2026-11-02**|**CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2611.03229v1](http://arxiv.org/abs/2611.03229v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.03229)|
+|**2026-11-02**|**Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving**|Xingtai Gui et.al.|[2611.02853v1](http://arxiv.org/abs/2611.02853v1)|[link](https://github.com/TabGuigui/ScaleDrive)|[αX↑12](https://alphaxiv.org/abs/2611.02853)|
+|**2026-11-02**|**ReinSeg: Retrieval-Guided Bounded Multimodal Refinement for 3-D Road Anomaly Segmentation**|Haifa Zhang et.al.|[2611.02648v1](http://arxiv.org/abs/2611.02648v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.02648)|
+|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Zhan Chen et.al.|[2611.02526v1](http://arxiv.org/abs/2611.02526v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.02526)|
 |**2026-11-02**|**Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics**|Runhe Yang et.al.|[2611.02499v1](http://arxiv.org/abs/2611.02499v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.02499)|
 |**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682v1](http://arxiv.org/abs/2611.01682v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.01682)|
-|**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283v1](http://arxiv.org/abs/2611.01283v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.01283)|
-|**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718v1](http://arxiv.org/abs/2611.00718v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.00718)|
+|**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283v1](http://arxiv.org/abs/2611.01283v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01283)|
+|**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718v1](http://arxiv.org/abs/2611.00718v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.00718)|
 |**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834v1](http://arxiv.org/abs/2610.41834v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.41834)|
 |**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185v1](http://arxiv.org/abs/2610.41185v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.41185)|
 |**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935v1](http://arxiv.org/abs/2610.40935v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40935)|
