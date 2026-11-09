@@ -117,7 +117,7 @@
 |**2026-10-22**|**Not an Accident: Exploiting Safety Filter Inadequacy in Humanoid Robots**|Tiffany Bao et.al.|[2610.31923v1](http://arxiv.org/abs/2610.31923v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.31923)|
 |**2026-10-22**|**Move, don't think: sample-efficient collision avoidance with lossy proximity sensors**|Carson Kohlbrenner et.al.|[2610.31891v1](http://arxiv.org/abs/2610.31891v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.31891)|
 |**2026-10-22**|**Humanoid Mobility via Attention-based Contacts**|Junzhe He et.al.|[2610.31608v1](http://arxiv.org/abs/2610.31608v1)|null|[αX↑31](https://alphaxiv.org/abs/2610.31608)|
-|**2026-10-22**|**Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation**|Chenyuan Chen et.al.|[2610.31166v1](http://arxiv.org/abs/2610.31166v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.31166)|
+|**2026-10-22**|**Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation**|Chenyuan Chen et.al.|[2610.31166v1](http://arxiv.org/abs/2610.31166v1)|[link](https://github.com/crystalccy1/MemoryBeforeGoal)|[αX↑16](https://alphaxiv.org/abs/2610.31166)|
 |**2026-10-26**|**LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation**|Dewei Wang et.al.|[2610.30876v3](http://arxiv.org/abs/2610.30876v3)|null|[αX↑10](https://alphaxiv.org/abs/2610.30876)|
 |**2026-10-23**|**Robot Motion Transition with a Human Motion Prior**|Taehyun Byun et.al.|[2610.30817v2](http://arxiv.org/abs/2610.30817v2)|null|[αX↑5](https://alphaxiv.org/abs/2610.30817)|
 |**2026-10-22**|**Continuous-Time Motion Planning and Steering with Global Convergence**|Mohsen Amiri et.al.|[2610.30607v1](http://arxiv.org/abs/2610.30607v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.30607)|
