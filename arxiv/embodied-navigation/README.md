@@ -1,11 +1,22 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.09
+### Updated on 2026.11.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-06**|**Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving**|Frieda Rong et.al.|[2611.09888v1](http://arxiv.org/abs/2611.09888v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.09888)|
-|**2026-11-05**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631v1](http://arxiv.org/abs/2611.08631v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08631)|
+|**2026-11-09**|**AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA**|Yuguang Yang et.al.|[2611.12382v1](http://arxiv.org/abs/2611.12382v1)|[link](https://github.com/ShivaTeam/AutoVLA-D)|[αX↑0](https://alphaxiv.org/abs/2611.12382)|
+|**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319v1](http://arxiv.org/abs/2611.12319v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12319)|
+|**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12087)|
+|**2026-11-09**|**DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving**|Bingzhang Wang et.al.|[2611.11856v1](http://arxiv.org/abs/2611.11856v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11856)|
+|**2026-11-08**|**Breaking survivorship bias in driving world models**|Zihao Sheng et.al.|[2611.11516v1](http://arxiv.org/abs/2611.11516v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11516)|
+|**2026-11-08**|**Reaching Is Not Finding: Map-Anchored Visual Prompting for the Last Mile of Aerial Vision-Language Navigation**|Ningbo Li et.al.|[2611.11510v1](http://arxiv.org/abs/2611.11510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11510)|
+|**2026-11-08**|**MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues**|Shijia Zhao et.al.|[2611.11334v1](http://arxiv.org/abs/2611.11334v1)|[link](https://github.com/Harry710887048/MoT3DVG)|[αX↑0](https://alphaxiv.org/abs/2611.11334)|
+|**2026-11-08**|**CrossLiDAR: Controllable Multi-Sensor LiDAR Sequence Generation**|Khanh Nguyen et.al.|[2611.11131v1](http://arxiv.org/abs/2611.11131v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11131)|
+|**2026-11-07**|**Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving**|Yichen Zhang et.al.|[2611.10632v1](http://arxiv.org/abs/2611.10632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10632)|
+|**2026-11-07**|**SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction**|Jaewoo Jeong et.al.|[2611.10506v1](http://arxiv.org/abs/2611.10506v1)|[link](https://github.com/Jaewoo97/SRA)|[αX↑0](https://alphaxiv.org/abs/2611.10506)|
+|**2026-11-07**|**CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments**|Qizhao Chen et.al.|[2611.10366v1](http://arxiv.org/abs/2611.10366v1)|[link](https://github.com/practice-lab-ucla/CPnav)|[αX↑0](https://alphaxiv.org/abs/2611.10366)|
+|**2026-11-06**|**Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving**|Frieda Rong et.al.|[2611.09888v1](http://arxiv.org/abs/2611.09888v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.09888)|
+|**2026-11-05**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631v1](http://arxiv.org/abs/2611.08631v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.08631)|
 |**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍109](https://huggingface.co/papers/2611.08449) [αX↑92](https://alphaxiv.org/abs/2611.08449)|
 |**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|[link](https://github.com/Zizizi-hao/NegWAM)|[αX↑5](https://alphaxiv.org/abs/2611.08111)|
 |**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07912)|

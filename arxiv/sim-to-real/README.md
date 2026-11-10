@@ -1,16 +1,24 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.09
+### Updated on 2026.11.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-06**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.09712)|
+|**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12557)|
+|**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11640)|
+|**2026-11-08**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v1](http://arxiv.org/abs/2611.11127v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11127)|
+|**2026-11-07**|**Differentiable Agent-Based Modeling for Multi-Echelon Supply Chains: Gradient-Based Optimization of Heterogeneous Policies at Scale**|Bulent Soykan et.al.|[2611.10999v1](http://arxiv.org/abs/2611.10999v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10999)|
+|**2026-11-07**|**Zero-Shot VLA Adaptation with Retrieved Guidance**|Subin Kim et.al.|[2611.10894v1](http://arxiv.org/abs/2611.10894v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10894)|
+|**2026-11-07**|**GUARD: Anomaly-Informed Q-Steering for Generative Robot Policies in Dexterous Manipulation**|Aryaman Gupta et.al.|[2611.10343v1](http://arxiv.org/abs/2611.10343v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10343)|
+|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241v1](http://arxiv.org/abs/2611.10241v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10241)|
+|**2026-11-04**|**From Video to Digital Twin: An Exploratory Study of World Models and Gaussian Splatting on In-the-Wild Video**|Somesh Mohapatra et.al.|[2611.10013v1](http://arxiv.org/abs/2611.10013v1)|[link](https://github.com/pikulsomesh/foodbank-spatial-twin)|[αX↑0](https://alphaxiv.org/abs/2611.10013)|
+|**2026-11-06**|**ICare-DT: a digital twin for continuous forecasting of intensive care patients**|Yanke Li et.al.|[2611.09712v1](http://arxiv.org/abs/2611.09712v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.09712)|
 |**2026-11-06**|**Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning**|Chang Rajani et.al.|[2611.09679v1](http://arxiv.org/abs/2611.09679v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.09679)|
-|**2026-11-06**|**Probably Safe Sim-to-Real Transfer with Lifetime Validity**|Rohan Tangri et.al.|[2611.09344v1](http://arxiv.org/abs/2611.09344v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.09344)|
-|**2026-11-06**|**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**|Tianshu Wu et.al.|[2611.09266v1](http://arxiv.org/abs/2611.09266v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.09266)|
-|**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Ke Zhang et.al.|[2611.08939v1](http://arxiv.org/abs/2611.08939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08939)|
-|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08857)|
-|**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645v1](http://arxiv.org/abs/2611.08645v1)|[link](https://github.com/jijup/hfx3d-benchmark)|[αX↑0](https://alphaxiv.org/abs/2611.08645)|
+|**2026-11-06**|**Probably Safe Sim-to-Real Transfer with Lifetime Validity**|Rohan Tangri et.al.|[2611.09344v1](http://arxiv.org/abs/2611.09344v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.09344)|
+|**2026-11-06**|**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**|Tianshu Wu et.al.|[2611.09266v1](http://arxiv.org/abs/2611.09266v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.09266)|
+|**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Ke Zhang et.al.|[2611.08939v1](http://arxiv.org/abs/2611.08939v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08939)|
+|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08857)|
+|**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645v1](http://arxiv.org/abs/2611.08645v1)|[link](https://github.com/jijup/hfx3d-benchmark)|[αX↑2](https://alphaxiv.org/abs/2611.08645)|
 |**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.08342)|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.07881)|
 |**2026-11-05**|**An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects**|Vinay Rodrigues et.al.|[2611.07261v1](http://arxiv.org/abs/2611.07261v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.07261)|
@@ -25,11 +33,11 @@
 |**2026-11-02**|**FlowBench: Counterfactual Imagination Training for Spatial Intelligence**|Yifan Liu et.al.|[2611.03937v1](http://arxiv.org/abs/2611.03937v1)|[link](https://github.com/liuyifan22/FlowBench)|[αX↑12](https://alphaxiv.org/abs/2611.03937)|
 |**2026-11-02**|**Geometric Refinement and Distributional Alignment for Sim2Real Roadside LiDAR Detection**|Aman Upganlawar et.al.|[2611.03936v1](http://arxiv.org/abs/2611.03936v1)|[link](https://github.com/amanupg/urbantwin-sim2real-lumpi)|[αX↑5](https://alphaxiv.org/abs/2611.03936)|
 |**2026-11-03**|**Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum**|Nikola Fischer et.al.|[2611.03446v2](http://arxiv.org/abs/2611.03446v2)|null|[αX↑7](https://alphaxiv.org/abs/2611.03446)|
-|**2026-11-02**|**KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL**|Aswin Ramachandran et.al.|[2611.03138v1](http://arxiv.org/abs/2611.03138v1)|[link](https://github.com/IDSCETHZurich/klask_software)|[αX↑8](https://alphaxiv.org/abs/2611.03138)|
+|**2026-11-02**|**KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL**|Aswin Ramachandran et.al.|[2611.03138v1](http://arxiv.org/abs/2611.03138v1)|[link](https://github.com/IDSCETHZurich/klask_software)|[αX↑10](https://alphaxiv.org/abs/2611.03138)|
 |**2026-11-02**|**KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge**|Nicklas Sohm et.al.|[2611.03091v1](http://arxiv.org/abs/2611.03091v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.03091)|
-|**2026-11-02**|**Training-Time Domain Transfer for Generator-Free Diagnostics on Novel Modalities in Computational Pathology**|Julia A. Mielcarz et.al.|[2611.02931v1](http://arxiv.org/abs/2611.02931v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.02931)|
-|**2026-11-02**|**Energy-Based Policy Orchestration**|Weirui Ye et.al.|[2611.02546v1](http://arxiv.org/abs/2611.02546v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.02546)|
-|**2026-11-01**|**GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation**|Arjun Bhardwaj et.al.|[2611.02171v1](http://arxiv.org/abs/2611.02171v1)|null|[αX↑14](https://alphaxiv.org/abs/2611.02171)|
+|**2026-11-02**|**Training-Time Domain Transfer for Generator-Free Diagnostics on Novel Modalities in Computational Pathology**|Julia A. Mielcarz et.al.|[2611.02931v1](http://arxiv.org/abs/2611.02931v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.02931)|
+|**2026-11-02**|**Energy-Based Policy Orchestration**|Weirui Ye et.al.|[2611.02546v1](http://arxiv.org/abs/2611.02546v1)|null|[αX↑20](https://alphaxiv.org/abs/2611.02546)|
+|**2026-11-01**|**GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation**|Arjun Bhardwaj et.al.|[2611.02171v1](http://arxiv.org/abs/2611.02171v1)|null|[αX↑15](https://alphaxiv.org/abs/2611.02171)|
 |**2026-11-01**|**Reinforcement Learning in High-Energy Physics: A Survey from Accelerator Control to Theory Exploration**|Luca Anzalone et.al.|[2611.02049v1](http://arxiv.org/abs/2611.02049v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.02049)|
 |**2026-10-31**|**Digital Twin-Assisted Fast Beam Alignment for mmWave MIMO Networks**|Muhammad Kamran Saeed et.al.|[2611.01107v1](http://arxiv.org/abs/2611.01107v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.01107)|
 |**2026-10-31**|**A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins**|Antar Mazumder et.al.|[2611.00870v1](http://arxiv.org/abs/2611.00870v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00870)|
