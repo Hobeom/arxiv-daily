@@ -1,9 +1,25 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**Inner Product Regularization for Imitation Learning**|Benjamin A. Christie et.al.|[2611.17159v1](http://arxiv.org/abs/2611.17159v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17159)|
+|**2026-11-12**|**STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models**|Zhuo Han et.al.|[2611.16589v1](http://arxiv.org/abs/2611.16589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16589)|
+|**2026-11-12**|**Input-output characterization of robotic grasping: Connecting design parameters to grasp behavior through the admittance**|Julien Vanderheyden et.al.|[2611.16507v1](http://arxiv.org/abs/2611.16507v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16507)|
+|**2026-11-12**|**HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation**|Shuai Yang et.al.|[2611.16439v1](http://arxiv.org/abs/2611.16439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16439)|
+|**2026-11-12**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v1](http://arxiv.org/abs/2611.16423v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16423)|
+|**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374v1](http://arxiv.org/abs/2611.16374v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16374)|
+|**2026-11-11**|**Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators**|Cheng Pan et.al.|[2611.16020v1](http://arxiv.org/abs/2611.16020v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16020)|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937v1](http://arxiv.org/abs/2611.15937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15937)|
+|**2026-11-11**|**GraSLA: A Lightweight Spatial-Language-Action Model with Grasp Hypotheses as Geometric Priors**|Jibao Yuan et.al.|[2611.15659v1](http://arxiv.org/abs/2611.15659v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15659)|
+|**2026-11-11**|**Single-View RGB-D Force--Deformation Estimation for Robotic Manipulation of Elasto-Plastic Materials**|Dezhi Sun et.al.|[2611.15650v1](http://arxiv.org/abs/2611.15650v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15650)|
+|**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Sven Schreiber et.al.|[2611.15381v1](http://arxiv.org/abs/2611.15381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15381)|
+|**2026-11-11**|**BiPOP: Partial-Order Planning for Long-Horizon Bimanual Robotic Manipulation**|Kun Chu et.al.|[2611.15317v1](http://arxiv.org/abs/2611.15317v1)|[link](https://github.com/Kchu/BiPOP)|[αX↑0](https://alphaxiv.org/abs/2611.15317)|
+|**2026-11-11**|**AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention**|Haoyi Zhang et.al.|[2611.15215v1](http://arxiv.org/abs/2611.15215v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15215)|
+|**2026-11-11**|**CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning**|Yilong Song et.al.|[2611.15078v1](http://arxiv.org/abs/2611.15078v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15078)|
+|**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Yue Zhang et.al.|[2611.14969v1](http://arxiv.org/abs/2611.14969v1)|[link](https://github.com/X-Square-Robot/xinfer)|[αX↑0](https://alphaxiv.org/abs/2611.14969)|
+|**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Wen-Han Hsieh et.al.|[2611.14834v1](http://arxiv.org/abs/2611.14834v1)|[link](https://github.com/Wen-HanHsieh/hdh)|[αX↑0](https://alphaxiv.org/abs/2611.14834)|
 |**2026-11-10**|**From Prediction to Action: Learning Physical Context for Deformable Linear Object Manipulation**|Chengxiao Dong et.al.|[2611.14274v1](http://arxiv.org/abs/2611.14274v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.14274)|
 |**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Dimitris Panagopoulos et.al.|[2611.14111v1](http://arxiv.org/abs/2611.14111v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.14111)|
 |**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Huaijin Pi et.al.|[2611.14092v1](http://arxiv.org/abs/2611.14092v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.14092)|

@@ -1,9 +1,31 @@
 ## Robot & Agent
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v1](http://arxiv.org/abs/2611.17238v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17238)|
+|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160v1](http://arxiv.org/abs/2611.17160v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17160)|
+|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑1](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-12**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Yaru Niu et.al.|[2611.16728v1](http://arxiv.org/abs/2611.16728v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16728)|
+|**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16727)|
+|**2026-11-12**|**AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents**|You Wu et.al.|[2611.16590v1](http://arxiv.org/abs/2611.16590v1)|[link](https://github.com/flyingView/AstroMemBench-v1)|[αX↑0](https://alphaxiv.org/abs/2611.16590)|
+|**2026-11-12**|**HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse**|Saehun Chun et.al.|[2611.16487v1](http://arxiv.org/abs/2611.16487v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16487)|
+|**2026-11-12**|**HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation**|Shuai Yang et.al.|[2611.16439v1](http://arxiv.org/abs/2611.16439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16439)|
+|**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374v1](http://arxiv.org/abs/2611.16374v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16374)|
+|**2026-11-12**|**Alloy: A Multi-Material Physics Engine for Robot Learning**|Pranay Gupta et.al.|[2611.16312v1](http://arxiv.org/abs/2611.16312v1)|[link](https://github.com/argonrobotics-ai/alloy)|[αX↑0](https://alphaxiv.org/abs/2611.16312)|
+|**2026-11-11**|**Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories**|Vahid Haratian et.al.|[2611.16116v1](http://arxiv.org/abs/2611.16116v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16116)|
+|**2026-11-11**|**Where to Generate Touch: Do Image Latents Preserve Material Recognition?**|Wanghao Ye et.al.|[2611.15834v1](http://arxiv.org/abs/2611.15834v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15834)|
+|**2026-11-11**|**RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback**|Kevin Avdiu et.al.|[2611.15802v1](http://arxiv.org/abs/2611.15802v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15802)|
+|**2026-11-11**|**Robot-Induced Bias in Movement Smoothness Metrics for Rehabilitation: Quantification and Correction in Simulation**|David Regev et.al.|[2611.15743v1](http://arxiv.org/abs/2611.15743v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15743)|
+|**2026-11-11**|**What World Model Does Active Object Search Need? A Study under Imperfect Detection**|Kyeongryeol Go et.al.|[2611.15689v1](http://arxiv.org/abs/2611.15689v1)|[link](https://github.com/gokyeongryeol/BAMOS)|[αX↑0](https://alphaxiv.org/abs/2611.15689)|
+|**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Mrunmai Phatak et.al.|[2611.15429v1](http://arxiv.org/abs/2611.15429v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15429)|
+|**2026-11-11**|**Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models**|Chenhao Qiu et.al.|[2611.15368v1](http://arxiv.org/abs/2611.15368v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15368)|
+|**2026-11-11**|**Prediction or Persistence? What Future-Prediction Scores Miss About World Models**|Animesh Maheshwari et.al.|[2611.15082v1](http://arxiv.org/abs/2611.15082v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15082)|
+|**2026-11-11**|**CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Imitation Learning**|Yilong Song et.al.|[2611.15078v1](http://arxiv.org/abs/2611.15078v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15078)|
+|**2026-11-11**|**Does Your World Model Know Actions Have Consequences?**|Ayush Gaggar et.al.|[2611.15048v1](http://arxiv.org/abs/2611.15048v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15048)|
+|**2026-11-11**|**ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking**|ZhuoChang Cai et.al.|[2611.14985v1](http://arxiv.org/abs/2611.14985v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14985)|
 |**2026-11-10**|**TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks**|Sassan Mokhtar et.al.|[2611.14470v1](http://arxiv.org/abs/2611.14470v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.14470)|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432v1](http://arxiv.org/abs/2611.14432v1)|[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)|[αX↑3](https://alphaxiv.org/abs/2611.14432)|
 |**2026-11-10**|**A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation**|Jinhua Chen et.al.|[2611.14062v1](http://arxiv.org/abs/2611.14062v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.14062)|
@@ -47,7 +69,7 @@
 |**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑24](https://alphaxiv.org/abs/2611.09036)|
 |**2026-11-06**|**A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics**|Kaiyuan Chen et.al.|[2611.09030v1](http://arxiv.org/abs/2611.09030v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.09030)|
 |**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.08857)|
-|**2026-11-10**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Meituan Robotics Team et.al.|[2611.08577v2](http://arxiv.org/abs/2611.08577v2)|[link](https://github.com/Meituan-Robotics/Meituan-Robotics-0)|[αX↑18](https://alphaxiv.org/abs/2611.08577)|
+|**2026-11-12**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Meituan Robotics Team et.al.|[2611.08577v3](http://arxiv.org/abs/2611.08577v3)|[link](https://github.com/Meituan-Robotics/Meituan-Robotics-0)|[αX↑18](https://alphaxiv.org/abs/2611.08577)|
 |**2026-11-05**|**Q-OIL: Optimistic Exploration in Learning from Human Interventions**|Pranav Teegavarapu et.al.|[2611.08576v1](http://arxiv.org/abs/2611.08576v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.08576)|
 |**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Wenbo Huang et.al.|[2611.08318v1](http://arxiv.org/abs/2611.08318v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08318)|
 |**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295v1](http://arxiv.org/abs/2611.08295v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08295)|

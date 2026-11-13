@@ -1,9 +1,15 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16337)|
+|**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15658)|
+|**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524v1](http://arxiv.org/abs/2611.15524v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15524)|
+|**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15066)|
+|**2026-11-11**|**Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation**|Di Yang et.al.|[2611.15020v1](http://arxiv.org/abs/2611.15020v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15020)|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13499)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12557)|
 |**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.11640)|

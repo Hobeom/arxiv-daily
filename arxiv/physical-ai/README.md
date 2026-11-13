@@ -1,9 +1,20 @@
 ## Physical AI
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑1](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v1](http://arxiv.org/abs/2611.16424v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16424)|
+|**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**|BWM Team et.al.|[2611.16221v1](http://arxiv.org/abs/2611.16221v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16221)|
+|**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012v1](http://arxiv.org/abs/2611.16012v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16012)|
+|**2026-11-11**|**Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction**|Miao Pan et.al.|[2611.15651v1](http://arxiv.org/abs/2611.15651v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15651)|
+|**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15491)|
+|**2026-11-11**|**SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments**|Yuezhong Wang et.al.|[2611.15443v1](http://arxiv.org/abs/2611.15443v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15443)|
+|**2026-11-11**|**AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention**|Haoyi Zhang et.al.|[2611.15215v1](http://arxiv.org/abs/2611.15215v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15215)|
+|**2026-11-11**|**CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction**|Pengyang Shi et.al.|[2611.15101v1](http://arxiv.org/abs/2611.15101v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15101)|
+|**2026-11-10**|**Risk-Aware Joint Inference and Resource Control for Physical AI in 6G Networks**|Amin Farajzadeh et.al.|[2611.14696v1](http://arxiv.org/abs/2611.14696v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14696)|
 |**2026-11-10**|**LEASH: Stay Safe in Agentic Robotics**|Qinfeng Zhu et.al.|[2611.14115v1](http://arxiv.org/abs/2611.14115v1)|[link](https://github.com/zhuqinfeng1999/LEASH)|[🤗👍5](https://huggingface.co/papers/2611.14115) [αX↑5](https://alphaxiv.org/abs/2611.14115)|
 |**2026-11-10**|**From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence**|Yi Wang et.al.|[2611.13610v1](http://arxiv.org/abs/2611.13610v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.13610)|
 |**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑20](https://alphaxiv.org/abs/2611.12806)|
@@ -18,7 +29,7 @@
 |**2026-11-06**|**Computer-Use Agents Are Embodied Generalists**|Pranjal Aggarwal et.al.|[2611.09847v1](http://arxiv.org/abs/2611.09847v1)|[link](https://github.com/Pranjal2041/cua-embodied)|[αX↑10](https://alphaxiv.org/abs/2611.09847)|
 |**2026-11-06**|**Toward the Era of Agentic Embodied Intelligence**|Chao Liang et.al.|[2611.09124v1](http://arxiv.org/abs/2611.09124v1)|[link](https://github.com/AutoLab-SAI-SJTU/A2MEAS)|[🤗👍53](https://huggingface.co/papers/2611.09124) [αX↑12](https://alphaxiv.org/abs/2611.09124)|
 |**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑24](https://alphaxiv.org/abs/2611.09036)|
-|**2026-11-05**|**VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models**|Luca Macesanu et.al.|[2611.08698v1](http://arxiv.org/abs/2611.08698v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.08698)|
+|**2026-11-10**|**VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models**|Luca Macesanu et.al.|[2611.08698v2](http://arxiv.org/abs/2611.08698v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.08698)|
 |**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍114](https://huggingface.co/papers/2611.08449) [αX↑116](https://alphaxiv.org/abs/2611.08449)|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.08425)|
 |**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑45](https://alphaxiv.org/abs/2611.08156)|
@@ -47,7 +58,7 @@
 |**2026-10-31**|**Embodied AI for Radio Mapping: From Solo to Swarm**|Shangjie Zhuang et.al.|[2611.00770v1](http://arxiv.org/abs/2611.00770v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.00770)|
 |**2026-10-31**|**Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$**|Rocio Perales Valdes et.al.|[2611.00602v1](http://arxiv.org/abs/2611.00602v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00602)|
 |**2026-10-30**|**CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision**|Boniface Chukwuemeka Godwin et.al.|[2611.00394v1](http://arxiv.org/abs/2611.00394v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.00394)|
-|**2026-11-04**|**Learning to Live: A Step Toward Lifelong Embodied Intelligence**|Lirong Che et.al.|[2611.00180v2](http://arxiv.org/abs/2611.00180v2)|[link](https://github.com/AgibotGeneral/LIFE)|[αX↑9](https://alphaxiv.org/abs/2611.00180)|
+|**2026-11-12**|**Learning to Live: A Step Toward Lifelong Embodied Intelligence**|Lirong Che et.al.|[2611.00180v3](http://arxiv.org/abs/2611.00180v3)|[link](https://github.com/AgibotGeneral/LIFE)|[αX↑9](https://alphaxiv.org/abs/2611.00180)|
 |**2026-10-30**|**From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models**|Gihyuk Ko et.al.|[2611.00155v1](http://arxiv.org/abs/2611.00155v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00155)|
 |**2026-10-30**|**When the Past Shapes Action: Understanding Embodied Memory**|Siqi Li et.al.|[2610.41688v1](http://arxiv.org/abs/2610.41688v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.41688)|
 |**2026-10-30**|**FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D**|Feng Chen et.al.|[2610.41162v1](http://arxiv.org/abs/2610.41162v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.41162)|

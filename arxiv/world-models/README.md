@@ -1,9 +1,30 @@
 ## World Models
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318v1](http://arxiv.org/abs/2611.17318v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17318)|
+|**2026-11-12**|**InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling**|Changzeng Fu et.al.|[2611.16647v1](http://arxiv.org/abs/2611.16647v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16647)|
+|**2026-11-12**|**Rethinking Actions: Continuity-Aware Priors for World-Model Planning**|Shaobo Yang et.al.|[2611.16645v1](http://arxiv.org/abs/2611.16645v1)|[link](https://github.com/oliverstack-byte/LG-DKGP)|[αX↑0](https://alphaxiv.org/abs/2611.16645)|
+|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑0](https://alphaxiv.org/abs/2611.16579)|
+|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v1](http://arxiv.org/abs/2611.16424v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16424)|
+|**2026-11-12**|**BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU**|Fuyi Chen et.al.|[2611.16422v1](http://arxiv.org/abs/2611.16422v1)|[link](https://github.com/fuyichen0725/blinkmimic)|[αX↑0](https://alphaxiv.org/abs/2611.16422)|
+|**2026-11-11**|**Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction**|Hong Shang et.al.|[2611.15758v1](http://arxiv.org/abs/2611.15758v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15758)|
+|**2026-11-11**|**Latent Imagination for Parameterized Action Spaces**|Atahan Cilan et.al.|[2611.15744v1](http://arxiv.org/abs/2611.15744v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15744)|
+|**2026-11-11**|**What World Model Does Active Object Search Need? A Study under Imperfect Detection**|Kyeongryeol Go et.al.|[2611.15689v1](http://arxiv.org/abs/2611.15689v1)|[link](https://github.com/gokyeongryeol/BAMOS)|[αX↑0](https://alphaxiv.org/abs/2611.15689)|
+|**2026-11-11**|**CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models**|Qirui Li et.al.|[2611.15602v1](http://arxiv.org/abs/2611.15602v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15602)|
+|**2026-11-11**|**An Approach to Hinton's Mother-Child Proposal: Neural Networks Learning and Preserving Care in a Finite World**|Csaba Balogh et.al.|[2611.15523v1](http://arxiv.org/abs/2611.15523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15523)|
+|**2026-11-11**|**Driving World Models Move the Camera, Not the Scene**|Yuqiao Feng et.al.|[2611.15260v1](http://arxiv.org/abs/2611.15260v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15260)|
+|**2026-11-11**|**AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention**|Haoyi Zhang et.al.|[2611.15215v1](http://arxiv.org/abs/2611.15215v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15215)|
+|**2026-11-11**|**Duo: A Reciprocal World Model for Full-Duplex Interaction**|Hengyuan Cao et.al.|[2611.15131v1](http://arxiv.org/abs/2611.15131v1)|[link](https://github.com/Duo-v1/Duo-v1.github.io)|[αX↑1](https://alphaxiv.org/abs/2611.15131)|
+|**2026-11-11**|**Prediction or Persistence? What Future-Prediction Scores Miss About World Models**|Animesh Maheshwari et.al.|[2611.15082v1](http://arxiv.org/abs/2611.15082v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15082)|
+|**2026-11-11**|**Does Your World Model Know Actions Have Consequences?**|Ayush Gaggar et.al.|[2611.15048v1](http://arxiv.org/abs/2611.15048v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15048)|
+|**2026-11-11**|**Fast Inference-Time Policy Refinement via Action-Affine World Models**|Run Wang et.al.|[2611.15011v1](http://arxiv.org/abs/2611.15011v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15011)|
+|**2026-11-11**|**From Forecasting to World Modeling: Can Temporal Foundation Models Recover Causal Response?**|Juwon Hong et.al.|[2611.15009v1](http://arxiv.org/abs/2611.15009v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15009)|
+|**2026-11-11**|**The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals**|Jaerock Kwon et.al.|[2611.14955v1](http://arxiv.org/abs/2611.14955v1)|[link](https://github.com/bimilab/paper-posterior-prior-epistemic-gap)|[αX↑0](https://alphaxiv.org/abs/2611.14955)|
+|**2026-11-11**|**FOE-Dreamer: Deployment-Efficient Learning of Cyber Defense Policies in Operational Networks**|Yinuo Du et.al.|[2611.14880v1](http://arxiv.org/abs/2611.14880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14880)|
+|**2026-11-10**|**BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model**|Junyoung Seo et.al.|[2611.14815v1](http://arxiv.org/abs/2611.14815v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14815)|
 |**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Runjia Li et.al.|[2611.14420v1](http://arxiv.org/abs/2611.14420v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.14420)|
 |**2026-11-10**|**Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning**|Souhaila Djaffal et.al.|[2611.14419v1](http://arxiv.org/abs/2611.14419v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14419)|
 |**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383v1](http://arxiv.org/abs/2611.14383v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.14383)|

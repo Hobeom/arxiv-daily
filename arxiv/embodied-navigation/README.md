@@ -1,9 +1,18 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17330)|
+|**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767v1](http://arxiv.org/abs/2611.16767v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16767)|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16727)|
+|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑0](https://alphaxiv.org/abs/2611.16579)|
+|**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16246)|
+|**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
+|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15360)|
+|**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217v1](http://arxiv.org/abs/2611.15217v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15217)|
 |**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790v1](http://arxiv.org/abs/2611.13790v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13790)|
 |**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494v1](http://arxiv.org/abs/2611.13494v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.13494)|
 |**2026-11-06**|**URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes**|Kefei Qian et.al.|[2611.12932v1](http://arxiv.org/abs/2611.12932v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.12932)|
@@ -98,7 +107,7 @@
 |**2026-10-18**|**Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model**|Zeqi Li et.al.|[2610.25130v1](http://arxiv.org/abs/2610.25130v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.25130)|
 |**2026-10-17**|**Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing**|Yujia Yang et.al.|[2610.24590v1](http://arxiv.org/abs/2610.24590v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.24590)|
 |**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.24436)|
-|**2026-10-16**|**HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation**|Dongzhihan Wang et.al.|[2610.24122v1](http://arxiv.org/abs/2610.24122v1)|[link](https://github.com/Anastasiawd/HAVANA)|[αX↑10](https://alphaxiv.org/abs/2610.24122)|
+|**2026-11-12**|**HAVANA: A Hierarchical Video-Action Model for Vision-Language Navigation**|Dongzhihan Wang et.al.|[2610.24122v2](http://arxiv.org/abs/2610.24122v2)|null|[αX↑10](https://alphaxiv.org/abs/2610.24122)|
 |**2026-10-14**|**Time-JEPA: Grounding Video World Models with Physical Time Series**|Shenyi Li et.al.|[2610.23982v1](http://arxiv.org/abs/2610.23982v1)|[link](https://github.com/Lishenyi2004/Time-JEPA)|[αX↑0](https://alphaxiv.org/abs/2610.23982)|
 |**2026-10-16**|**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**|Yi Feng et.al.|[2610.23537v1](http://arxiv.org/abs/2610.23537v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.23537)|
 |**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356v1](http://arxiv.org/abs/2610.23356v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.23356)|
