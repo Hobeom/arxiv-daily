@@ -4,14 +4,14 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16246)|
+|**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937v1](http://arxiv.org/abs/2611.15937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15937)|
-|**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15491)|
-|**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Zibin Dong et.al.|[2611.15490v1](http://arxiv.org/abs/2611.15490v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15490)|
+|**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15491)|
+|**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Zibin Dong et.al.|[2611.15490v1](http://arxiv.org/abs/2611.15490v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.15490)|
 |**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Sven Schreiber et.al.|[2611.15381v1](http://arxiv.org/abs/2611.15381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15381)|
-|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15360)|
+|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Yue Zhang et.al.|[2611.14969v1](http://arxiv.org/abs/2611.14969v1)|[link](https://github.com/X-Square-Robot/xinfer)|[αX↑0](https://alphaxiv.org/abs/2611.14969)|
-|**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Wen-Han Hsieh et.al.|[2611.14834v1](http://arxiv.org/abs/2611.14834v1)|[link](https://github.com/Wen-HanHsieh/hdh)|[αX↑0](https://alphaxiv.org/abs/2611.14834)|
+|**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Wen-Han Hsieh et.al.|[2611.14834v1](http://arxiv.org/abs/2611.14834v1)|[link](https://github.com/Wen-HanHsieh/hdh)|[αX↑2](https://alphaxiv.org/abs/2611.14834)|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432v1](http://arxiv.org/abs/2611.14432v1)|[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)|[αX↑8](https://alphaxiv.org/abs/2611.14432)|
 |**2026-11-09**|**How Much of Your VLA Is kNN**|Denis Grachev et.al.|[2611.13160v1](http://arxiv.org/abs/2611.13160v1)|[link](https://github.com/sereact/lerobot_knn)|[αX↑9](https://alphaxiv.org/abs/2611.13160)|
 |**2026-11-09**|**APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models**|Xiaoyang Xing et.al.|[2611.13030v1](http://arxiv.org/abs/2611.13030v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.13030)|
