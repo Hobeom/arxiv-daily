@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.13
+### Updated on 2026.11.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 |**2026-09-25**|**OneWorld: Learning Consistent Physics Across Actions in World Models**|Ke He et.al.|[2609.30946v1](http://arxiv.org/abs/2609.30946v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.30946)|
 |**2026-09-24**|**WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving**|Mingkai Jia et.al.|[2609.30436v1](http://arxiv.org/abs/2609.30436v1)|null|[αX↑7](https://alphaxiv.org/abs/2609.30436)|
 |**2026-09-25**|**AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control**|Jiabin Qiu et.al.|[2609.30264v2](http://arxiv.org/abs/2609.30264v2)|[link](https://github.com/ad-wm/ad-wm-code)|[αX↑18](https://alphaxiv.org/abs/2609.30264)|
+|**2026-09-30**|**Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think**|Xvyuan Liu et.al.|[2609.30036v4](http://arxiv.org/abs/2609.30036v4)|null|[αX↑11](https://alphaxiv.org/abs/2609.30036)|
 |**2026-08-30**|**Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence**|Gaytri Jena et.al.|[2609.29669v1](http://arxiv.org/abs/2609.29669v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.29669)|
 |**2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Yijun Yuan et.al.|[2609.29171v1](http://arxiv.org/abs/2609.29171v1)|null|[αX↑74](https://alphaxiv.org/abs/2609.29171)|
 |**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393v1](http://arxiv.org/abs/2609.28393v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.28393)|

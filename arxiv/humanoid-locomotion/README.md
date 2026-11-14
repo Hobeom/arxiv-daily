@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.13
+### Updated on 2026.11.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 |**2026-10-16**|**Towards Reinforcement Learning for Space Robotics: Fast Training and Reliable Real-World Transfer**|Abhishek Naik et.al.|[2610.24241v1](http://arxiv.org/abs/2610.24241v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.24241)|
 |**2026-10-15**|**Weakly Supervised Discovery of Motion Styles for Compositional Robot Control**|Heedo Woo et.al.|[2610.24008v1](http://arxiv.org/abs/2610.24008v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.24008)|
 |**2026-09-28**|**Language-Forcing: Advancing Humanoid Loco-Manipulation via Semantic Alignment of Whole-Body World Action Models**|Yanjun Li et.al.|[2610.23894v1](http://arxiv.org/abs/2610.23894v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23894)|
+|**2026-09-19**|**DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation**|Kapalik Khanal et.al.|[2610.23872v1](http://arxiv.org/abs/2610.23872v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23872)|
 |**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.23849)|
 |**2026-10-16**|**Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator**|Yanzhou Jin et.al.|[2610.23548v1](http://arxiv.org/abs/2610.23548v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.23548)|
 |**2026-10-19**|**CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots**|Zicheng Liu et.al.|[2610.23288v2](http://arxiv.org/abs/2610.23288v2)|null|[αX↑5](https://alphaxiv.org/abs/2610.23288)|
