@@ -1,6 +1,6 @@
 ## Physical AI
 
-### Updated on 2026.11.14
+### Updated on 2026.11.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -28,9 +28,9 @@
 |**2026-11-07**|**CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments**|Qizhao Chen et.al.|[2611.10366v1](http://arxiv.org/abs/2611.10366v1)|[link](https://github.com/practice-lab-ucla/CPnav)|[αX↑3](https://alphaxiv.org/abs/2611.10366)|
 |**2026-11-06**|**Computer-Use Agents Are Embodied Generalists**|Pranjal Aggarwal et.al.|[2611.09847v1](http://arxiv.org/abs/2611.09847v1)|[link](https://github.com/Pranjal2041/cua-embodied)|[αX↑12](https://alphaxiv.org/abs/2611.09847)|
 |**2026-11-06**|**Toward the Era of Agentic Embodied Intelligence**|Chao Liang et.al.|[2611.09124v1](http://arxiv.org/abs/2611.09124v1)|[link](https://github.com/AutoLab-SAI-SJTU/A2MEAS)|[🤗👍53](https://huggingface.co/papers/2611.09124) [αX↑22](https://alphaxiv.org/abs/2611.09124)|
-|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑31](https://alphaxiv.org/abs/2611.09036)|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑32](https://alphaxiv.org/abs/2611.09036)|
 |**2026-11-10**|**VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models**|Luca Macesanu et.al.|[2611.08698v2](http://arxiv.org/abs/2611.08698v2)|null|[αX↑4](https://alphaxiv.org/abs/2611.08698)|
-|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍117](https://huggingface.co/papers/2611.08449) [αX↑130](https://alphaxiv.org/abs/2611.08449)|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍117](https://huggingface.co/papers/2611.08449) [αX↑131](https://alphaxiv.org/abs/2611.08449)|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑22](https://alphaxiv.org/abs/2611.08425)|
 |**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑54](https://alphaxiv.org/abs/2611.08156)|
 |**2026-11-05**|**Scenario-aware Adaptive Neuromorphic Intelligence for multimodal sensor fusion**|Kapil Bhardwaj et.al.|[2611.07830v1](http://arxiv.org/abs/2611.07830v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07830)|
@@ -97,7 +97,7 @@
 |**2026-11-06**|**Self-Distilling Future Video Representations for World Action Models**|Huiwon Jang et.al.|[2610.30320v2](http://arxiv.org/abs/2610.30320v2)|[link](https://github.com/suhyeok-jang/FRED)|[🤗👍36](https://huggingface.co/papers/2610.30320) [αX↑38](https://alphaxiv.org/abs/2610.30320)|
 |**2026-10-22**|**Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities**|Rafael Felix et.al.|[2610.29829v2](http://arxiv.org/abs/2610.29829v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.29829)|
 |**2026-10-21**|**Toward Recursive Self-Improvement in Physical AI**|Meng Luo et.al.|[2610.29677v1](http://arxiv.org/abs/2610.29677v1)|[link](https://github.com/Physical2RSI/Awesome-Physical2RSI)|[🤗👍35](https://huggingface.co/papers/2610.29677) [αX↑51](https://alphaxiv.org/abs/2610.29677)|
-|**2026-10-23**|**Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation**|Chun Gu et.al.|[2610.29264v2](http://arxiv.org/abs/2610.29264v2)|null|[αX↑18](https://alphaxiv.org/abs/2610.29264)|
+|**2026-10-23**|**Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation**|Chun Gu et.al.|[2610.29264v2](http://arxiv.org/abs/2610.29264v2)|null|[αX↑19](https://alphaxiv.org/abs/2610.29264)|
 |**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.29244)|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Neel Adwani et.al.|[2610.29030v1](http://arxiv.org/abs/2610.29030v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.29030)|
 |**2026-10-24**|**Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots**|Charbel Abi Hana et.al.|[2610.28432v3](http://arxiv.org/abs/2610.28432v3)|null|[αX↑11](https://alphaxiv.org/abs/2610.28432)|

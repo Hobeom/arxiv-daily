@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.14
+### Updated on 2026.11.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -23,12 +23,12 @@
 |**2026-11-10**|**FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control**|Santosh Mohan Rajkumar et.al.|[2611.13766v1](http://arxiv.org/abs/2611.13766v1)|[link](https://github.com/santoshrajkumar/fame-qp)|[🤗👍6](https://huggingface.co/papers/2611.13766) [αX↑5](https://alphaxiv.org/abs/2611.13766)|
 |**2026-11-09**|**AHEADance: Anticipatory Humanoid Dance from Streaming Audio**|Tianhu Peng et.al.|[2611.13370v1](http://arxiv.org/abs/2611.13370v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13370)|
 |**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12409)|
-|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍28](https://huggingface.co/papers/2611.12177) [αX↑114](https://alphaxiv.org/abs/2611.12177)|
+|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍28](https://huggingface.co/papers/2611.12177) [αX↑124](https://alphaxiv.org/abs/2611.12177)|
 |**2026-11-09**|**LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data**|Xueyang Wang et.al.|[2611.12136v1](http://arxiv.org/abs/2611.12136v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.12136)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑26](https://alphaxiv.org/abs/2611.12087)|
 |**2026-11-12**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854v2](http://arxiv.org/abs/2611.11854v2)|null|[αX↑9](https://alphaxiv.org/abs/2611.11854)|
 |**2026-11-08**|**HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model**|Ziwon Yoon et.al.|[2611.11665v1](http://arxiv.org/abs/2611.11665v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.11665)|
-|**2026-11-08**|**Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation**|Yunheng Wang et.al.|[2611.11554v1](http://arxiv.org/abs/2611.11554v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.11554)|
+|**2026-11-08**|**Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation**|Yunheng Wang et.al.|[2611.11554v1](http://arxiv.org/abs/2611.11554v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.11554)|
 |**2026-11-08**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v1](http://arxiv.org/abs/2611.11127v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.11127)|
 |**2026-11-08**|**Large-Scale Hierarchical Decision-Making in Robot Control via ADMM**|Kai Pfeiffer et.al.|[2611.11090v1](http://arxiv.org/abs/2611.11090v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.11090)|
 |**2026-11-07**|**RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning**|Mayur Deshmukh et.al.|[2611.10994v1](http://arxiv.org/abs/2611.10994v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.10994)|

@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.14
+### Updated on 2026.11.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 |**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08342)|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.07881)|
 |**2026-11-05**|**An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects**|Vinay Rodrigues et.al.|[2611.07261v1](http://arxiv.org/abs/2611.07261v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07261)|
-|**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442v1](http://arxiv.org/abs/2611.06442v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.06442)|
+|**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442v1](http://arxiv.org/abs/2611.06442v1)|null|[αX↑12](https://alphaxiv.org/abs/2611.06442)|
 |**2026-11-04**|**Learning to Tune with Biased Gradients: Iterative Feedback Tuning of Model-Free Control on Throttle Valves**|Félix Martinez-Jiménez et.al.|[2611.06338v1](http://arxiv.org/abs/2611.06338v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.06338)|
 |**2026-11-03**|**Post-Inference Model Chaining: A Problem Statement and a Model-based Bootstrap for Training End-to-End Digital Twins**|Lukas Madenach et.al.|[2611.05225v1](http://arxiv.org/abs/2611.05225v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.05225)|
 |**2026-11-03**|**Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks**|Mariam Yahya et.al.|[2611.05115v1](http://arxiv.org/abs/2611.05115v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.05115)|
