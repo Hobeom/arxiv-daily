@@ -4,17 +4,17 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v1](http://arxiv.org/abs/2611.17238v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.17238)|
-|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160v1](http://arxiv.org/abs/2611.17160v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.17160)|
-|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.17110)|
-|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑26](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-12**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v1](http://arxiv.org/abs/2611.17238v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.17238)|
+|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160v1](http://arxiv.org/abs/2611.17160v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.17160)|
+|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑34](https://alphaxiv.org/abs/2611.17060)|
 |**2026-11-12**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Yaru Niu et.al.|[2611.16728v1](http://arxiv.org/abs/2611.16728v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16728)|
 |**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16727)|
 |**2026-11-12**|**AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents**|You Wu et.al.|[2611.16590v1](http://arxiv.org/abs/2611.16590v1)|[link](https://github.com/flyingView/AstroMemBench-v1)|[αX↑1](https://alphaxiv.org/abs/2611.16590)|
 |**2026-11-12**|**HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse**|Saehun Chun et.al.|[2611.16487v1](http://arxiv.org/abs/2611.16487v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16487)|
-|**2026-11-12**|**HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation**|Shuai Yang et.al.|[2611.16439v1](http://arxiv.org/abs/2611.16439v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16439)|
+|**2026-11-12**|**HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation**|Shuai Yang et.al.|[2611.16439v1](http://arxiv.org/abs/2611.16439v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16439)|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374v1](http://arxiv.org/abs/2611.16374v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16374)|
-|**2026-11-12**|**Alloy: A Multi-Material Physics Engine for Robot Learning**|Pranay Gupta et.al.|[2611.16312v1](http://arxiv.org/abs/2611.16312v1)|[link](https://github.com/argonrobotics-ai/alloy)|[αX↑1](https://alphaxiv.org/abs/2611.16312)|
+|**2026-11-12**|**Alloy: A Multi-Material Physics Engine for Robot Learning**|Pranay Gupta et.al.|[2611.16312v1](http://arxiv.org/abs/2611.16312v1)|[link](https://github.com/argonrobotics-ai/alloy)|[αX↑2](https://alphaxiv.org/abs/2611.16312)|
 |**2026-11-11**|**Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories**|Vahid Haratian et.al.|[2611.16116v1](http://arxiv.org/abs/2611.16116v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.16116)|
 |**2026-11-11**|**Where to Generate Touch: Do Image Latents Preserve Material Recognition?**|Wanghao Ye et.al.|[2611.15834v1](http://arxiv.org/abs/2611.15834v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15834)|
 |**2026-11-11**|**RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback**|Kevin Avdiu et.al.|[2611.15802v1](http://arxiv.org/abs/2611.15802v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15802)|

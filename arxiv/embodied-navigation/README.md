@@ -4,11 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17330)|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17330)|
 |**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767v1](http://arxiv.org/abs/2611.16767v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16767)|
-|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16727)|
-|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑1](https://alphaxiv.org/abs/2611.16579)|
+|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑2](https://alphaxiv.org/abs/2611.16579)|
 |**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
 |**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|

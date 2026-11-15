@@ -4,12 +4,12 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.17110)|
-|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑26](https://alphaxiv.org/abs/2611.17060)|
-|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v1](http://arxiv.org/abs/2611.16424v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16424)|
+|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑34](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v1](http://arxiv.org/abs/2611.16424v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16424)|
 |**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**|BWM Team et.al.|[2611.16221v1](http://arxiv.org/abs/2611.16221v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16221)|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012v1](http://arxiv.org/abs/2611.16012v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.16012)|
-|**2026-11-11**|**Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction**|Miao Pan et.al.|[2611.15651v1](http://arxiv.org/abs/2611.15651v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.15651)|
+|**2026-11-11**|**Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction**|Miao Pan et.al.|[2611.15651v1](http://arxiv.org/abs/2611.15651v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.15651)|
 |**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15491)|
 |**2026-11-11**|**SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments**|Yuezhong Wang et.al.|[2611.15443v1](http://arxiv.org/abs/2611.15443v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15443)|
 |**2026-11-11**|**AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention**|Haoyi Zhang et.al.|[2611.15215v1](http://arxiv.org/abs/2611.15215v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15215)|

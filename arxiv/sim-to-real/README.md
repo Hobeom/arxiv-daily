@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
 |**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15658)|
 |**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524v1](http://arxiv.org/abs/2611.15524v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15524)|
