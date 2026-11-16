@@ -138,7 +138,7 @@
 |**2026-11-03**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Haonan Ping et.al.|[2611.02629v2](http://arxiv.org/abs/2611.02629v2)|null|[αX↑6](https://alphaxiv.org/abs/2611.02629)|
 |**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Xiaopeng Zhang et.al.|[2611.02600v1](http://arxiv.org/abs/2611.02600v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.02600)|
 |**2026-11-01**|**Control Barrier Functions for Safety-Aware Latent-Space Motion Planning**|Chandrakiran Ravula et.al.|[2611.01814v1](http://arxiv.org/abs/2611.01814v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.01814)|
-|**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729v1](http://arxiv.org/abs/2611.01729v1)|null|[αX↑25](https://alphaxiv.org/abs/2611.01729)|
+|**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729v1](http://arxiv.org/abs/2611.01729v1)|[link](https://github.com/NTUMARS/ODE-POLICY)|[αX↑25](https://alphaxiv.org/abs/2611.01729)|
 |**2026-11-01**|**HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception**|Xuanbin Peng et.al.|[2611.01659v1](http://arxiv.org/abs/2611.01659v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.01659)|
 |**2026-11-01**|**UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation**|Rui Cao et.al.|[2611.01645v1](http://arxiv.org/abs/2611.01645v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01645)|
 |**2026-11-01**|**SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts**|Amir Hossain Raj et.al.|[2611.01600v1](http://arxiv.org/abs/2611.01600v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.01600)|
