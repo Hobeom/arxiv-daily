@@ -1,9 +1,16 @@
 ## World Models
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Yifan Jin et.al.|[2611.18458v1](http://arxiv.org/abs/2611.18458v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18458)|
+|**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Kate Duffy et.al.|[2611.18393v1](http://arxiv.org/abs/2611.18393v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18393)|
+|**2026-11-13**|**PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots**|Yael Fassbind et.al.|[2611.18110v1](http://arxiv.org/abs/2611.18110v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18110)|
+|**2026-11-13**|**V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations**|Keuntae Kim et.al.|[2611.17831v1](http://arxiv.org/abs/2611.17831v1)|[link](https://github.com/kkt94/Llama-V-JEPA-LM)|[αX↑0](https://alphaxiv.org/abs/2611.17831)|
+|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yu Zhou et.al.|[2611.17775v1](http://arxiv.org/abs/2611.17775v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17775)|
+|**2026-11-13**|**Joint World Action Models through Differentiable Trajectory Optimization**|Mintae Kim et.al.|[2611.17626v1](http://arxiv.org/abs/2611.17626v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17626)|
+|**2026-11-12**|**Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum**|Konstantinos Mylonas et.al.|[2611.17529v1](http://arxiv.org/abs/2611.17529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17529)|
 |**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318v1](http://arxiv.org/abs/2611.17318v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17318)|
 |**2026-11-12**|**InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling**|Changzeng Fu et.al.|[2611.16647v1](http://arxiv.org/abs/2611.16647v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16647)|
 |**2026-11-12**|**Rethinking Actions: Continuity-Aware Priors for World-Model Planning**|Shaobo Yang et.al.|[2611.16645v1](http://arxiv.org/abs/2611.16645v1)|[link](https://github.com/oliverstack-byte/LG-DKGP)|[αX↑0](https://alphaxiv.org/abs/2611.16645)|
@@ -38,7 +45,7 @@
 |**2026-11-09**|**Building World Models from Intrinsic Motivation**|Reece Keller et.al.|[2611.13113v1](http://arxiv.org/abs/2611.13113v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13113)|
 |**2026-11-09**|**DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander**|George Nehma et.al.|[2611.12824v1](http://arxiv.org/abs/2611.12824v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.12824)|
 |**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Xinrui Zu et.al.|[2611.12732v1](http://arxiv.org/abs/2611.12732v1)|[link](https://github.com/zuxinrui/sigma-lewm)|[αX↑3](https://alphaxiv.org/abs/2611.12732)|
-|**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716v1](http://arxiv.org/abs/2611.12716v1)|null|[αX↑14](https://alphaxiv.org/abs/2611.12716)|
+|**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716v1](http://arxiv.org/abs/2611.12716v1)|null|[αX↑15](https://alphaxiv.org/abs/2611.12716)|
 |**2026-11-09**|**Library of Hands: Fix the Hands, Not the World Model**|Hasaan Ahmad et.al.|[2611.12678v1](http://arxiv.org/abs/2611.12678v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.12678)|
 |**2026-11-09**|**TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge**|Yihan Hank Tang et.al.|[2611.12640v1](http://arxiv.org/abs/2611.12640v1)|[link](https://github.com/hanktang-research/TrialDesignBench)|[αX↑3](https://alphaxiv.org/abs/2611.12640)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12557)|

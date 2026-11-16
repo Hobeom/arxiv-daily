@@ -1,21 +1,24 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562v1](http://arxiv.org/abs/2611.18562v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18562)|
+|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372v1](http://arxiv.org/abs/2611.18372v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18372)|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Gongyue Teng et.al.|[2611.17394v1](http://arxiv.org/abs/2611.17394v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17394)|
 |**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937v1](http://arxiv.org/abs/2611.15937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15937)|
 |**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15491)|
 |**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Zibin Dong et.al.|[2611.15490v1](http://arxiv.org/abs/2611.15490v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.15490)|
 |**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Sven Schreiber et.al.|[2611.15381v1](http://arxiv.org/abs/2611.15381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15381)|
-|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
+|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Yue Zhang et.al.|[2611.14969v1](http://arxiv.org/abs/2611.14969v1)|[link](https://github.com/X-Square-Robot/xinfer)|[αX↑1](https://alphaxiv.org/abs/2611.14969)|
 |**2026-11-10**|**Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models**|Wen-Han Hsieh et.al.|[2611.14834v1](http://arxiv.org/abs/2611.14834v1)|[link](https://github.com/Wen-HanHsieh/hdh)|[αX↑2](https://alphaxiv.org/abs/2611.14834)|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432v1](http://arxiv.org/abs/2611.14432v1)|[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)|[αX↑8](https://alphaxiv.org/abs/2611.14432)|
 |**2026-11-09**|**How Much of Your VLA Is kNN**|Denis Grachev et.al.|[2611.13160v1](http://arxiv.org/abs/2611.13160v1)|[link](https://github.com/sereact/lerobot_knn)|[αX↑9](https://alphaxiv.org/abs/2611.13160)|
 |**2026-11-09**|**APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models**|Xiaoyang Xing et.al.|[2611.13030v1](http://arxiv.org/abs/2611.13030v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.13030)|
-|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑31](https://alphaxiv.org/abs/2611.12806)|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑32](https://alphaxiv.org/abs/2611.12806)|
 |**2026-11-09**|**VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess**|Matěj Kripner et.al.|[2611.12676v1](http://arxiv.org/abs/2611.12676v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12676)|
 |**2026-11-09**|**Motion Belief Action: From a Visual Scene Map to Physical Decisions**|Dibyendu Ghosh et.al.|[2611.12113v1](http://arxiv.org/abs/2611.12113v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.12113)|
 |**2026-11-09**|**Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation**|Jingxuan Chen et.al.|[2611.11981v1](http://arxiv.org/abs/2611.11981v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.11981)|
@@ -44,7 +47,7 @@
 |**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Arpit Bahety et.al.|[2611.08462v1](http://arxiv.org/abs/2611.08462v1)|null|[αX↑17](https://alphaxiv.org/abs/2611.08462)|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑22](https://alphaxiv.org/abs/2611.08425)|
 |**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[2611.08413v1](http://arxiv.org/abs/2611.08413v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08413)|
-|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑54](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑55](https://alphaxiv.org/abs/2611.08156)|
 |**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Nikita Kuzmin et.al.|[2611.07712v1](http://arxiv.org/abs/2611.07712v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.07712)|
 |**2026-11-09**|**From Pixels to Actions--Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918v3](http://arxiv.org/abs/2611.06918v3)|[link](https://github.com/EvolvingLMMs-Lab/NEO/tree/main/VLAKit)|[🤗👍60](https://huggingface.co/papers/2611.06918) [αX↑76](https://alphaxiv.org/abs/2611.06918)|
 |**2026-11-04**|**Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs**|Muhammad Danish Waseem et.al.|[2611.06710v1](http://arxiv.org/abs/2611.06710v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.06710)|

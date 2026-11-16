@@ -1,9 +1,11 @@
 ## Physical AI
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration**|Ivana Ragusa et.al.|[2611.18484v1](http://arxiv.org/abs/2611.18484v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18484)|
+|**2026-11-13**|**AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics**|Hiroyuki Tetsuka et.al.|[2611.17638v1](http://arxiv.org/abs/2611.17638v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17638)|
 |**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.17110)|
 |**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑34](https://alphaxiv.org/abs/2611.17060)|
 |**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v1](http://arxiv.org/abs/2611.16424v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16424)|
@@ -17,7 +19,7 @@
 |**2026-11-10**|**Risk-Aware Joint Inference and Resource Control for Physical AI in 6G Networks**|Amin Farajzadeh et.al.|[2611.14696v1](http://arxiv.org/abs/2611.14696v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.14696)|
 |**2026-11-10**|**LEASH: Stay Safe in Agentic Robotics**|Qinfeng Zhu et.al.|[2611.14115v1](http://arxiv.org/abs/2611.14115v1)|[link](https://github.com/zhuqinfeng1999/LEASH)|[🤗👍5](https://huggingface.co/papers/2611.14115) [αX↑22](https://alphaxiv.org/abs/2611.14115)|
 |**2026-11-10**|**From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence**|Yi Wang et.al.|[2611.13610v1](http://arxiv.org/abs/2611.13610v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.13610)|
-|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑31](https://alphaxiv.org/abs/2611.12806)|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑32](https://alphaxiv.org/abs/2611.12806)|
 |**2026-11-09**|**Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading**|Ali-Adeeb Abbas et.al.|[2611.11894v1](http://arxiv.org/abs/2611.11894v1)|[link](https://github.com/adeeb10abbas/weightsmith)|[αX↑3](https://alphaxiv.org/abs/2611.11894)|
 |**2026-11-08**|**FlowEval: How Much Adaptation Does an Embodied Foundation Model Need at Deployment?**|Zhang Xi-Jia et.al.|[2611.11650v1](http://arxiv.org/abs/2611.11650v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.11650)|
 |**2026-11-10**|**Control-Aware Command Generation for Asynchronous Control and Action Inference with Vision-Based Policies towards Fast Execution**|Takayuki Osa et.al.|[2611.11089v2](http://arxiv.org/abs/2611.11089v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.11089)|
@@ -32,7 +34,7 @@
 |**2026-11-10**|**VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models**|Luca Macesanu et.al.|[2611.08698v2](http://arxiv.org/abs/2611.08698v2)|null|[αX↑4](https://alphaxiv.org/abs/2611.08698)|
 |**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍117](https://huggingface.co/papers/2611.08449) [αX↑131](https://alphaxiv.org/abs/2611.08449)|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑22](https://alphaxiv.org/abs/2611.08425)|
-|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑54](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑55](https://alphaxiv.org/abs/2611.08156)|
 |**2026-11-05**|**Scenario-aware Adaptive Neuromorphic Intelligence for multimodal sensor fusion**|Kapil Bhardwaj et.al.|[2611.07830v1](http://arxiv.org/abs/2611.07830v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07830)|
 |**2026-11-05**|**Few-Shot Beam Selection for Embodied AI via In-Context Learning and Conformal Prediction**|Weicao Deng et.al.|[2611.07306v1](http://arxiv.org/abs/2611.07306v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.07306)|
 |**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905v1](http://arxiv.org/abs/2611.06905v1)|[link](https://github.com/lasgroup/generalist-improvement)|[αX↑59](https://alphaxiv.org/abs/2611.06905)|
@@ -44,7 +46,7 @@
 |**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163v3](http://arxiv.org/abs/2611.05163v3)|[link](https://github.com/ryan-seungyong-lee/RoboTryOn)|[🤗👍14](https://huggingface.co/papers/2611.05163) [αX↑19](https://alphaxiv.org/abs/2611.05163)|
 |**2026-11-03**|**Asynchronous Robot Policies**|Sombit Dey et.al.|[2611.05155v1](http://arxiv.org/abs/2611.05155v1)|[link](https://github.com/yxBeginner/RL-and-Robot)|[αX↑17](https://alphaxiv.org/abs/2611.05155)|
 |**2026-11-03**|**DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI**|Oswaldo Ludwig et.al.|[2611.05029v1](http://arxiv.org/abs/2611.05029v1)|[link](https://github.com/oswaldoludwig/DRAP-Dynamics-Risk-Adaptive-Plasticity)|[🤗👍0](https://huggingface.co/papers/2611.05029) [αX↑7](https://alphaxiv.org/abs/2611.05029)|
-|**2026-11-03**|**TriMedium: A Cross-Medium Simulator for Embodied Networking Across Air-Ground-Sea**|Ruizhe Dang et.al.|[2611.04763v1](http://arxiv.org/abs/2611.04763v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.04763)|
+|**2026-11-03**|**TriMedium: A Cross-Medium Simulator for Embodied Networking Across Air-Ground-Sea**|Ruizhe Dang et.al.|[2611.04763v1](http://arxiv.org/abs/2611.04763v1)|null|[αX↑12](https://alphaxiv.org/abs/2611.04763)|
 |**2026-11-08**|**Embodied AI for Scientific Discovery: From Physical Action to Scientific Evidence**|Wenhao Xu et.al.|[2611.04371v2](http://arxiv.org/abs/2611.04371v2)|[link](https://github.com/Aryia-Behroziuan/References)|[αX↑8](https://alphaxiv.org/abs/2611.04371)|
 |**2026-11-03**|**Active Learning with Generative AI in Introductory Physics: A Multi-Institutional Study of the P-A.I.R. Framework**|Bilas Paul et.al.|[2611.04148v1](http://arxiv.org/abs/2611.04148v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.04148)|
 |**2026-11-02**|**Self-Consistent Neural Control: Learning Trajectories for Implicit Equilibrium**|Hengyi Zhou et.al.|[2611.03885v1](http://arxiv.org/abs/2611.03885v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.03885)|

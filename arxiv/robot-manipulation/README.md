@@ -1,14 +1,20 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Zihao Lu et.al.|[2611.18298v1](http://arxiv.org/abs/2611.18298v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18298)|
+|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yu Zhou et.al.|[2611.17775v1](http://arxiv.org/abs/2611.17775v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17775)|
+|**2026-11-13**|**Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost**|Christopher Malili et.al.|[2611.17658v1](http://arxiv.org/abs/2611.17658v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17658)|
+|**2026-11-13**|**On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks**|Leon Kim et.al.|[2611.17631v1](http://arxiv.org/abs/2611.17631v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17631)|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17619)|
+|**2026-11-12**|**Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety**|Mariana Sosa Guzmán et.al.|[2611.17566v1](http://arxiv.org/abs/2611.17566v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17566)|
 |**2026-11-12**|**Inner Product Regularization for Imitation Learning**|Benjamin A. Christie et.al.|[2611.17159v1](http://arxiv.org/abs/2611.17159v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17159)|
 |**2026-11-12**|**STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models**|Zhuo Han et.al.|[2611.16589v1](http://arxiv.org/abs/2611.16589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16589)|
 |**2026-11-12**|**Input-output characterization of robotic grasping: Connecting design parameters to grasp behavior through the admittance**|Julien Vanderheyden et.al.|[2611.16507v1](http://arxiv.org/abs/2611.16507v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16507)|
 |**2026-11-12**|**HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation**|Shuai Yang et.al.|[2611.16439v1](http://arxiv.org/abs/2611.16439v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16439)|
-|**2026-11-12**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v1](http://arxiv.org/abs/2611.16423v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16423)|
+|**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v2](http://arxiv.org/abs/2611.16423v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.16423)|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374v1](http://arxiv.org/abs/2611.16374v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16374)|
 |**2026-11-11**|**Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators**|Cheng Pan et.al.|[2611.16020v1](http://arxiv.org/abs/2611.16020v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16020)|
 |**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937v1](http://arxiv.org/abs/2611.15937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15937)|
@@ -32,9 +38,9 @@
 |**2026-11-09**|**Robo-MLT: Dual-System Robotic Manipulation for Long-Horizon Medical Laboratory Tasks**|Zequan Zeng et.al.|[2611.13039v1](http://arxiv.org/abs/2611.13039v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13039)|
 |**2026-11-08**|**CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions**|Mingjia Chen et.al.|[2611.12983v1](http://arxiv.org/abs/2611.12983v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12983)|
 |**2026-11-09**|**World In-Context Learning for Agentic Robot Manipulation**|Heng Fang et.al.|[2611.12885v1](http://arxiv.org/abs/2611.12885v1)|[link](https://github.com/ArcheOne-AI/RoboScript)|[🤗👍56](https://huggingface.co/papers/2611.12885) [αX↑21](https://alphaxiv.org/abs/2611.12885)|
-|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑31](https://alphaxiv.org/abs/2611.12806)|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806v1](http://arxiv.org/abs/2611.12806v1)|[link](https://github.com/Robbyant/lingbot-touch)|[🤗👍102](https://huggingface.co/papers/2611.12806) [αX↑32](https://alphaxiv.org/abs/2611.12806)|
 |**2026-11-09**|**Benchmarking Real-World Robotic Manipulation through Stochastic Challenges**|Elias Gläßer et.al.|[2611.12804v1](http://arxiv.org/abs/2611.12804v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.12804)|
-|**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Xinrui Zu et.al.|[2611.12732v1](http://arxiv.org/abs/2611.12732v1)|[link](https://github.com/zuxinrui/sigma-lewm)|[αX↑8](https://alphaxiv.org/abs/2611.12732)|
+|**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Xinrui Zu et.al.|[2611.12732v1](http://arxiv.org/abs/2611.12732v1)|[link](https://github.com/zuxinrui/sigma-lewm)|[αX↑9](https://alphaxiv.org/abs/2611.12732)|
 |**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12409)|
 |**2026-11-09**|**PCTac: Mechanochromic Photonic-Crystal Tactile Sensor for Dexterous Manipulation**|Ruilin Zhang et.al.|[2611.12383v1](http://arxiv.org/abs/2611.12383v1)|null|[αX↑12](https://alphaxiv.org/abs/2611.12383)|
 |**2026-11-09**|**Safety-Constrained Intelligent Control of a 2-DOF Robotic Manipulator Using Control Barrier Functions**|Gabriel da Silva Lima et.al.|[2611.12378v1](http://arxiv.org/abs/2611.12378v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.12378)|

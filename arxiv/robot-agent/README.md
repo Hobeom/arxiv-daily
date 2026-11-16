@@ -1,10 +1,14 @@
 ## Robot & Agent
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v1](http://arxiv.org/abs/2611.17238v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.17238)|
+|**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Mohammad Khoshnazar et.al.|[2611.18491v1](http://arxiv.org/abs/2611.18491v1)|[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)|[αX↑0](https://alphaxiv.org/abs/2611.18491)|
+|**2026-11-13**|**ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents**|Yundi Cai et.al.|[2611.18176v1](http://arxiv.org/abs/2611.18176v1)|[link](https://github.com/Embodied-Self-Improvement/ESI)|[αX↑0](https://alphaxiv.org/abs/2611.18176)|
+|**2026-11-13**|**Alleviating Interview Stress: Effects of Robot Persona and Reactive Backchanneling on High-Pressure Mock Interviews**|Haochen Yang et.al.|[2611.17830v1](http://arxiv.org/abs/2611.17830v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17830)|
+|**2026-11-12**|**Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics**|Deepu Krishnareddy et.al.|[2611.17549v1](http://arxiv.org/abs/2611.17549v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17549)|
+|**2026-11-13**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v2](http://arxiv.org/abs/2611.17238v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.17238)|
 |**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160v1](http://arxiv.org/abs/2611.17160v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.17160)|
 |**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v1](http://arxiv.org/abs/2611.17110v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.17110)|
 |**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v1](http://arxiv.org/abs/2611.17060v1)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[αX↑34](https://alphaxiv.org/abs/2611.17060)|
@@ -74,7 +78,7 @@
 |**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Wenbo Huang et.al.|[2611.08318v1](http://arxiv.org/abs/2611.08318v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08318)|
 |**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295v1](http://arxiv.org/abs/2611.08295v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08295)|
 |**2026-11-05**|**RoboARCade: Benchmarking Agentic Robot Control**|Satvik Sharma et.al.|[2611.08209v1](http://arxiv.org/abs/2611.08209v1)|null|[αX↑32](https://alphaxiv.org/abs/2611.08209)|
-|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑54](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑55](https://alphaxiv.org/abs/2611.08156)|
 |**2026-11-05**|**A Unified Fractal Impedance Control Framework**|Adnan Takriti et.al.|[2611.08009v1](http://arxiv.org/abs/2611.08009v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.08009)|
 |**2026-11-05**|**AffordJEV: Affordance Grounding by Confirming Candidate Regions**|Jincheng Li et.al.|[2611.07896v1](http://arxiv.org/abs/2611.07896v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.07896)|
 |**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Jisen Lei et.al.|[2611.07825v1](http://arxiv.org/abs/2611.07825v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.07825)|

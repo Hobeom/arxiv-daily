@@ -1,9 +1,13 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18365)|
+|**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Zihao Lu et.al.|[2611.18298v1](http://arxiv.org/abs/2611.18298v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18298)|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17619)|
+|**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598v1](http://arxiv.org/abs/2611.17598v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17598)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
 |**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15658)|
@@ -24,7 +28,7 @@
 |**2026-11-06**|**Probably Safe Sim-to-Real Transfer with Lifetime Validity**|Rohan Tangri et.al.|[2611.09344v1](http://arxiv.org/abs/2611.09344v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.09344)|
 |**2026-11-06**|**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**|Tianshu Wu et.al.|[2611.09266v1](http://arxiv.org/abs/2611.09266v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.09266)|
 |**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Ke Zhang et.al.|[2611.08939v1](http://arxiv.org/abs/2611.08939v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08939)|
-|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.08857)|
+|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.08857)|
 |**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645v1](http://arxiv.org/abs/2611.08645v1)|[link](https://github.com/jijup/hfx3d-benchmark)|[αX↑5](https://alphaxiv.org/abs/2611.08645)|
 |**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08342)|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.07881)|
@@ -36,9 +40,9 @@
 |**2026-11-03**|**Integrating Machine Learning and Uncertainty Quantification for Real-Time Decision-Making in Digital Twins: A System-Centric Review and Perspective**|Yi-Ping Chen et.al.|[2611.04269v1](http://arxiv.org/abs/2611.04269v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.04269)|
 |**2026-11-03**|**ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms**|Han Zhang et.al.|[2611.04255v1](http://arxiv.org/abs/2611.04255v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.04255)|
 |**2026-11-02**|**A Practical Causal Framework for Autonomous Mobile Robots: From Simulation to Real-World Human Environments**|Luca Castri et.al.|[2611.04027v1](http://arxiv.org/abs/2611.04027v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.04027)|
-|**2026-11-02**|**Coordinate Frame Recovery, Per Class NMS and Null Return Modelling for Sim2Real V2X LiDAR Detection**|Aman Upganlawar et.al.|[2611.03940v1](http://arxiv.org/abs/2611.03940v1)|[link](https://github.com/amanupg/urbantwin-sim2real-v2x)|[αX↑10](https://alphaxiv.org/abs/2611.03940)|
+|**2026-11-12**|**Coordinate Frame Recovery, Per Class NMS and Null Return Modelling for Sim2Real V2X LiDAR Detection**|Aman Upganlawar et.al.|[2611.03940v2](http://arxiv.org/abs/2611.03940v2)|[link](https://github.com/amanupg/urbantwin-sim2real-v2x)|[αX↑10](https://alphaxiv.org/abs/2611.03940)|
 |**2026-11-02**|**FlowBench: Counterfactual Imagination Training for Spatial Intelligence**|Yifan Liu et.al.|[2611.03937v1](http://arxiv.org/abs/2611.03937v1)|[link](https://github.com/liuyifan22/FlowBench)|[αX↑18](https://alphaxiv.org/abs/2611.03937)|
-|**2026-11-02**|**Geometric Refinement and Distributional Alignment for Sim2Real Roadside LiDAR Detection**|Aman Upganlawar et.al.|[2611.03936v1](http://arxiv.org/abs/2611.03936v1)|[link](https://github.com/amanupg/urbantwin-sim2real-lumpi)|[αX↑7](https://alphaxiv.org/abs/2611.03936)|
+|**2026-11-12**|**Geometric Refinement and Distributional Alignment for Sim2Real Roadside LiDAR Detection**|Aman Upganlawar et.al.|[2611.03936v2](http://arxiv.org/abs/2611.03936v2)|[link](https://github.com/amanupg/urbantwin-sim2real-lumpi)|[αX↑7](https://alphaxiv.org/abs/2611.03936)|
 |**2026-11-03**|**Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum**|Nikola Fischer et.al.|[2611.03446v2](http://arxiv.org/abs/2611.03446v2)|null|[αX↑8](https://alphaxiv.org/abs/2611.03446)|
 |**2026-11-02**|**KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL**|Aswin Ramachandran et.al.|[2611.03138v1](http://arxiv.org/abs/2611.03138v1)|[link](https://github.com/IDSCETHZurich/klask_software)|[αX↑11](https://alphaxiv.org/abs/2611.03138)|
 |**2026-11-02**|**KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge**|Nicklas Sohm et.al.|[2611.03091v1](http://arxiv.org/abs/2611.03091v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.03091)|

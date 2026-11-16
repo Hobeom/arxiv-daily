@@ -1,9 +1,14 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.15
+### Updated on 2026.11.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jie Hu et.al.|[2611.18346v1](http://arxiv.org/abs/2611.18346v1)|[link](https://github.com/InSAI-Lab/VLAN)|[αX↑0](https://alphaxiv.org/abs/2611.18346)|
+|**2026-11-13**|**Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads**|Yu Dong et.al.|[2611.17720v1](http://arxiv.org/abs/2611.17720v1)|[link](https://github.com/Fisher-007/Ego2Flow)|[αX↑0](https://alphaxiv.org/abs/2611.17720)|
+|**2026-11-13**|**EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development**|Lu Xiong et.al.|[2611.17660v1](http://arxiv.org/abs/2611.17660v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17660)|
+|**2026-11-12**|**Racing the Clock: Teaching VLNs Budget-Conditioned Object Search**|Maitree Meher et.al.|[2611.17442v1](http://arxiv.org/abs/2611.17442v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17442)|
+|**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438v1](http://arxiv.org/abs/2611.17438v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17438)|
 |**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17330)|
 |**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767v1](http://arxiv.org/abs/2611.16767v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16767)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
@@ -11,7 +16,7 @@
 |**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑2](https://alphaxiv.org/abs/2611.16579)|
 |**2026-11-12**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v1](http://arxiv.org/abs/2611.16246v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
-|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v1](http://arxiv.org/abs/2611.15360v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
+|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217v1](http://arxiv.org/abs/2611.15217v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15217)|
 |**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790v1](http://arxiv.org/abs/2611.13790v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.13790)|
 |**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494v1](http://arxiv.org/abs/2611.13494v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13494)|
@@ -20,7 +25,7 @@
 |**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319v1](http://arxiv.org/abs/2611.12319v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12319)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑26](https://alphaxiv.org/abs/2611.12087)|
 |**2026-11-09**|**DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving**|Bingzhang Wang et.al.|[2611.11856v1](http://arxiv.org/abs/2611.11856v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.11856)|
-|**2026-11-08**|**Breaking survivorship bias in driving world models**|Zihao Sheng et.al.|[2611.11516v1](http://arxiv.org/abs/2611.11516v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.11516)|
+|**2026-11-08**|**Breaking survivorship bias in driving world models**|Zihao Sheng et.al.|[2611.11516v1](http://arxiv.org/abs/2611.11516v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.11516)|
 |**2026-11-08**|**Reaching Is Not Finding: Map-Anchored Visual Prompting for the Last Mile of Aerial Vision-Language Navigation**|Ningbo Li et.al.|[2611.11510v1](http://arxiv.org/abs/2611.11510v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.11510)|
 |**2026-11-08**|**MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues**|Shijia Zhao et.al.|[2611.11334v1](http://arxiv.org/abs/2611.11334v1)|[link](https://github.com/Harry710887048/MoT3DVG)|[αX↑1](https://alphaxiv.org/abs/2611.11334)|
 |**2026-11-08**|**CrossLiDAR: Controllable Multi-Sensor LiDAR Sequence Generation**|Khanh Nguyen et.al.|[2611.11131v1](http://arxiv.org/abs/2611.11131v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.11131)|
