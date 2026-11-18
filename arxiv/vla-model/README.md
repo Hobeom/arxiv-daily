@@ -1,9 +1,14 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.17
+### Updated on 2026.11.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-17**|**Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2611.22880v1](http://arxiv.org/abs/2611.22880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22880)|
+|**2026-11-17**|**RefCloth: Transferable Adversarial Tablecloths for Vision-Language-Action Models**|Shaozhen Liu et.al.|[2611.22736v1](http://arxiv.org/abs/2611.22736v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22736)|
+|**2026-11-17**|**VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**|Suho Yoo et.al.|[2611.22666v1](http://arxiv.org/abs/2611.22666v1)|[link](https://github.com/suho-yoo/VSpark)|[αX↑5](https://alphaxiv.org/abs/2611.22666)|
+|**2026-11-17**|**VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models**|Arusa Kanwal et.al.|[2611.22453v1](http://arxiv.org/abs/2611.22453v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22453)|
+|**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Mehul Arora et.al.|[2611.22395v1](http://arxiv.org/abs/2611.22395v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22395)|
 |**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models**|Jaehyuk Lee et.al.|[2611.21033v1](http://arxiv.org/abs/2611.21033v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21033)|
 |**2026-11-16**|**Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules**|Barkin Dagda et.al.|[2611.20648v1](http://arxiv.org/abs/2611.20648v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20648)|
@@ -22,10 +27,10 @@
 |**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562v1](http://arxiv.org/abs/2611.18562v1)|null|[αX↑17](https://alphaxiv.org/abs/2611.18562)|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372v1](http://arxiv.org/abs/2611.18372v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18372)|
 |**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Gongyue Teng et.al.|[2611.17394v1](http://arxiv.org/abs/2611.17394v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17394)|
-|**2026-11-16**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v2](http://arxiv.org/abs/2611.16246v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.16246)|
+|**2026-11-17**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v3](http://arxiv.org/abs/2611.16246v3)|null|[αX↑2](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937v1](http://arxiv.org/abs/2611.15937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15937)|
 |**2026-11-11**|**What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation**|Zhuoyue Li et.al.|[2611.15491v1](http://arxiv.org/abs/2611.15491v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15491)|
-|**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Zibin Dong et.al.|[2611.15490v1](http://arxiv.org/abs/2611.15490v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.15490)|
+|**2026-11-11**|**ActionCodec2: A Streaming Action Tokenizer**|Zibin Dong et.al.|[2611.15490v1](http://arxiv.org/abs/2611.15490v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.15490)|
 |**2026-11-11**|**Low-Cost Mobile Bimanual Manipulation for Long-Horizon Toilet Cleaning**|Sven Schreiber et.al.|[2611.15381v1](http://arxiv.org/abs/2611.15381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15381)|
 |**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Yue Zhang et.al.|[2611.14969v1](http://arxiv.org/abs/2611.14969v1)|[link](https://github.com/X-Square-Robot/xinfer)|[αX↑1](https://alphaxiv.org/abs/2611.14969)|

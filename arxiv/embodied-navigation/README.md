@@ -1,11 +1,18 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.17
+### Updated on 2026.11.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883v1](http://arxiv.org/abs/2611.22883v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22883)|
+|**2026-11-17**|**Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2611.22880v1](http://arxiv.org/abs/2611.22880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22880)|
+|**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691v1](http://arxiv.org/abs/2611.22691v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22691)|
+|**2026-11-17**|**AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis**|Muhammad Zain Khawaja et.al.|[2611.22374v1](http://arxiv.org/abs/2611.22374v1)|[link](https://github.com/autowarefoundation/auto_e2e(v1.0)|[αX↑0](https://alphaxiv.org/abs/2611.22374)|
+|**2026-11-17**|**Beyond Episodic Recall: Experience-to-Knowledge Evolution for Lifelong Embodied Navigation**|Weitao An et.al.|[2611.22321v1](http://arxiv.org/abs/2611.22321v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22321)|
+|**2026-11-17**|**FIRE-Drive: Feasibility-Informed Risk Evaluation for End-to-End Diffusion Planning**|Qifeng Xie et.al.|[2611.22297v1](http://arxiv.org/abs/2611.22297v1)|[link](https://github.com/Latte00/FIRE-drive)|[αX↑0](https://alphaxiv.org/abs/2611.22297)|
+|**2026-11-16**|**AR-WAM: efficient streaming world-action modeling for autonomous driving**|Baiting Luo et.al.|[2611.21851v1](http://arxiv.org/abs/2611.21851v1)|[link](https://github.com/OWNER/REPOSITORY)|[αX↑1](https://alphaxiv.org/abs/2611.21851)|
 |**2026-11-16**|**GHySSeg: Real-Time Geometric Ground and Road Segmentation for Hybrid Solid-State LiDAR**|Martín Palos et.al.|[2611.21507v1](http://arxiv.org/abs/2611.21507v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21507)|
-|**2026-11-16**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126v1](http://arxiv.org/abs/2611.21126v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21126)|
+|**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126v2](http://arxiv.org/abs/2611.21126v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.21126)|
 |**2026-11-16**|**CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving**|Shiyu Fang et.al.|[2611.21069v1](http://arxiv.org/abs/2611.21069v1)|[link](https://github.com/FanGShiYuu/CoopDistill)|[αX↑0](https://alphaxiv.org/abs/2611.21069)|
 |**2026-11-16**|**STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies**|Shenghao Xiong et.al.|[2611.20765v1](http://arxiv.org/abs/2611.20765v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20765)|
 |**2026-11-16**|**Learning and Verifying Progress: Closed-Loop Agentic Planning with Progress-Enhanced Execution for Long-Horizon Vision-Language Navigation**|Kangjie Zhou et.al.|[2611.20676v1](http://arxiv.org/abs/2611.20676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20676)|
@@ -27,12 +34,12 @@
 |**2026-11-16**|**Adversarial Tracking: Attacks on Image Sensors for Object Tracking in Autonomous Vehicles**|Han Wu et.al.|[2611.17505v2](http://arxiv.org/abs/2611.17505v2)|[link](https://github.com/wuhanstudio/carla-tracking-dataset)|[αX↑0](https://alphaxiv.org/abs/2611.17505)|
 |**2026-11-16**|**Racing the Clock: Teaching VLNs Budget-Conditioned Object Search**|Maitree Meher et.al.|[2611.17442v2](http://arxiv.org/abs/2611.17442v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.17442)|
 |**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438v1](http://arxiv.org/abs/2611.17438v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17438)|
-|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.17330)|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.17330)|
 |**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767v1](http://arxiv.org/abs/2611.16767v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16767)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16727)|
 |**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑3](https://alphaxiv.org/abs/2611.16579)|
-|**2026-11-16**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v2](http://arxiv.org/abs/2611.16246v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.16246)|
+|**2026-11-17**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v3](http://arxiv.org/abs/2611.16246v3)|null|[αX↑2](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
 |**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217v1](http://arxiv.org/abs/2611.15217v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15217)|
@@ -330,6 +337,7 @@
 |**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544v1](http://arxiv.org/abs/2605.28544v1)|null|[αX↑42](https://alphaxiv.org/abs/2605.28544)|
 |**2026-05-22**|**ChainFlow-VLA: Causal Flow Planning with Vision-Language Models**|Xiyang Wang et.al.|[2605.23270v1](http://arxiv.org/abs/2605.23270v1)|[link](https://github.com/AFARI-Research/ChainFlow-VLA)|[αX↑22](https://alphaxiv.org/abs/2605.23270)|
 |**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816v1](http://arxiv.org/abs/2605.22816v1)|[link](https://github.com/GWxuan/AwareVLN)|[αX↑41](https://alphaxiv.org/abs/2605.22816)|
+|**2026-09-27**|**FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model**|Jinhan Li et.al.|[2605.19600v2](http://arxiv.org/abs/2605.19600v2)|null|[αX↑6](https://alphaxiv.org/abs/2605.19600)|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|[link](https://github.com/EmbodiedCity/WorldVLN.code)|[αX↑18](https://alphaxiv.org/abs/2605.15964)|
 |**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696v1](http://arxiv.org/abs/2605.14696v1)|[link](https://github.com/JiaweiXu8/EponaV2)|[αX↑36](https://alphaxiv.org/abs/2605.14696)|
 |**2026-05-12**|**The DAWN of World-Action Interactive Models**|Hongbo Lu et.al.|[2605.11550v1](http://arxiv.org/abs/2605.11550v1)|[link](https://github.com/COOWAI/DAWN)|[🤗👍27](https://huggingface.co/papers/2605.11550) [αX↑36](https://alphaxiv.org/abs/2605.11550)|
