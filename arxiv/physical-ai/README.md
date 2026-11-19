@@ -1,9 +1,13 @@
 ## Physical AI
 
-### Updated on 2026.11.18
+### Updated on 2026.11.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-18**|**$Z$ -sight: Unifying Vision-Language-Action and Latent World Modeling**|Junjie Ye et.al.|[2611.24940v1](http://arxiv.org/abs/2611.24940v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24940)|
+|**2026-11-18**|**Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models**|Aditya Gandhamal et.al.|[2611.24327v1](http://arxiv.org/abs/2611.24327v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24327)|
+|**2026-11-18**|**From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events**|Yiyang Zhu et.al.|[2611.24249v1](http://arxiv.org/abs/2611.24249v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24249)|
+|**2026-11-18**|**HHW-Ego: DSLR-Quality Enhancement for Multi-Source Wearable Ego Imaging**|Yunfei Tong et.al.|[2611.24010v1](http://arxiv.org/abs/2611.24010v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24010)|
 |**2026-11-17**|**PAIR: Bringing Household Robots into the Smart Home**|Junseong Pyo et.al.|[2611.23070v1](http://arxiv.org/abs/2611.23070v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23070)|
 |**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761v1](http://arxiv.org/abs/2611.22761v1)|[link](https://github.com/akingbolastanley1998-byte/reachy-personality-injection)|[αX↑0](https://alphaxiv.org/abs/2611.22761)|
 |**2026-11-17**|**Perception into Imagination: Executable Memory for World Models**|Xianyao Li et.al.|[2611.22294v1](http://arxiv.org/abs/2611.22294v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22294)|
@@ -11,19 +15,19 @@
 |**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍36](https://huggingface.co/papers/2611.21607) [αX↑85](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-15**|**DoF-Query Transformer for Adaptive Fusion of Egocentric Vision and Forearm HD-sEMG in Continuous Hand Kinematics**|Jiahang Liu et.al.|[2611.20196v1](http://arxiv.org/abs/2611.20196v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20196)|
 |**2026-11-15**|**EgoSwarm: Learning Decentralized Robot Swarm Intelligence from Human Swarm Demonstrations**|Ziqiang Liu et.al.|[2611.20100v1](http://arxiv.org/abs/2611.20100v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20100)|
-|**2026-11-15**|**Pros4D: Modeling Evolving 4D Worlds in Latent Space for Dynamic Spatial Reasoning**|Rongxin Gao et.al.|[2611.19803v1](http://arxiv.org/abs/2611.19803v1)|[link](https://github.com/Pros4D/pros4d.github.io)|[αX↑1](https://alphaxiv.org/abs/2611.19803)|
+|**2026-11-18**|**Pros4D: Modeling Evolving 4D Worlds in Latent Space for Dynamic Spatial Reasoning**|Rongxin Gao et.al.|[2611.19803v2](http://arxiv.org/abs/2611.19803v2)|[link](https://github.com/Pros4D/pros4d.github.io)|[αX↑1](https://alphaxiv.org/abs/2611.19803)|
 |**2026-11-15**|**Cache or Denoise Less? Residual Reuse in a Flow-Matching World Action Model**|Abhinav Gupta et.al.|[2611.19709v1](http://arxiv.org/abs/2611.19709v1)|[link](https://github.com/gabhinav001/cache-or-denoise-less)|[αX↑0](https://alphaxiv.org/abs/2611.19709)|
 |**2026-11-14**|**Can an Agent Rethink What It Knows? Selective Scene Memory Updates in a Changing World**|Zhekai Ren et.al.|[2611.19227v1](http://arxiv.org/abs/2611.19227v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19227)|
 |**2026-11-14**|**What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?**|Mingran Sun et.al.|[2611.19206v1](http://arxiv.org/abs/2611.19206v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19206)|
 |**2026-11-14**|**A Unified Control Framework, Mathematical Model, and Five-layer Closed-loop Case Study for Embodied Intelligence Control Systems**|Yiwei Zhou et.al.|[2611.19187v1](http://arxiv.org/abs/2611.19187v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19187)|
-|**2026-11-14**|**SuperGlance: Driving at a Glance with a Vision-Language Model**|Jieyuan Pei et.al.|[2611.19138v1](http://arxiv.org/abs/2611.19138v1)|[link](https://github.com/GuobaPei/SuperGlance)|[αX↑4](https://alphaxiv.org/abs/2611.19138)|
+|**2026-11-18**|**SuperGlance: Driving at a Glance with a Vision-Language Model**|Jieyuan Pei et.al.|[2611.19138v2](http://arxiv.org/abs/2611.19138v2)|[link](https://github.com/GuobaPei/SuperGlance)|[αX↑4](https://alphaxiv.org/abs/2611.19138)|
 |**2026-11-14**|**Wireless Edge-Assisted Adaptive Latent Reasoning for Vision-Language-Action Models in Physical AI**|Fatih Temiz et.al.|[2611.19131v1](http://arxiv.org/abs/2611.19131v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19131)|
 |**2026-11-14**|**RoboCoEvo: Expanding Robot Capabilities through Agent-Policy Co-Evolution**|Ran Qi et.al.|[2611.19081v1](http://arxiv.org/abs/2611.19081v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19081)|
 |**2026-11-13**|**Robot Demonstration Videos Should Include Transparency Disclosures**|Nozomi Nakajima et.al.|[2611.18982v1](http://arxiv.org/abs/2611.18982v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18982)|
 |**2026-11-13**|**From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration**|Ivana Ragusa et.al.|[2611.18484v1](http://arxiv.org/abs/2611.18484v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18484)|
 |**2026-11-13**|**AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics**|Hiroyuki Tetsuka et.al.|[2611.17638v1](http://arxiv.org/abs/2611.17638v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17638)|
-|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[🤗👍14](https://huggingface.co/papers/2611.17110) [αX↑20](https://alphaxiv.org/abs/2611.17110)|
-|**2026-11-16**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v2](http://arxiv.org/abs/2611.17060v2)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[🤗👍35](https://huggingface.co/papers/2611.17060) [αX↑54](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[🤗👍14](https://huggingface.co/papers/2611.17110) [αX↑26](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-16**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v2](http://arxiv.org/abs/2611.17060v2)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[🤗👍35](https://huggingface.co/papers/2611.17060) [αX↑56](https://alphaxiv.org/abs/2611.17060)|
 |**2026-11-16**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v2](http://arxiv.org/abs/2611.16424v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.16424)|
 |**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**|BWM Team et.al.|[2611.16221v1](http://arxiv.org/abs/2611.16221v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16221)|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012v1](http://arxiv.org/abs/2611.16012v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.16012)|

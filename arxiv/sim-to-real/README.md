@@ -1,15 +1,18 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.18
+### Updated on 2026.11.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-17**|**Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries**|Hongye Hou et.al.|[2611.23187v1](http://arxiv.org/abs/2611.23187v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23187)|
-|**2026-11-17**|**RFW-S: Everyday Deformable Objects with Independent Simulation Verification**|Jiarui Guo et.al.|[2611.23056v1](http://arxiv.org/abs/2611.23056v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23056)|
+|**2026-11-18**|**Conceptual full-vehicle modeling of a modular all-wheel-drive robotic ADS test platform as a foundation for a digital twin architecture**|Felix Florian Schwald et.al.|[2611.24646v1](http://arxiv.org/abs/2611.24646v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24646)|
+|**2026-11-18**|**Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models**|Aditya Gandhamal et.al.|[2611.24327v1](http://arxiv.org/abs/2611.24327v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24327)|
+|**2026-11-18**|**EyeDiT: Anatomy-Grounded Multi-Modal Eye Generation and Simulation**|Yonghan Lee et.al.|[2611.23670v1](http://arxiv.org/abs/2611.23670v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23670)|
+|**2026-11-18**|**Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries**|Hongye Hou et.al.|[2611.23187v2](http://arxiv.org/abs/2611.23187v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.23187)|
+|**2026-11-18**|**RFW-S: Everyday Deformable Objects with Independent Simulation Verification**|Jiarui Guo et.al.|[2611.23056v2](http://arxiv.org/abs/2611.23056v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.23056)|
 |**2026-11-17**|**Practice in Text, Act in Pixels: Correcting Where Perception Fails**|Zhongling Xu et.al.|[2611.22722v1](http://arxiv.org/abs/2611.22722v1)|[link](https://github.com/Carlxuzhl/practice-in-text)|[αX↑0](https://alphaxiv.org/abs/2611.22722)|
 |**2026-11-17**|**PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos**|Qi Shao et.al.|[2611.22244v1](http://arxiv.org/abs/2611.22244v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22244)|
 |**2026-11-16**|**ASTRA: ASV Simulator for Transferable Realistic Autonomy**|Tsimafei Lazouski et.al.|[2611.21789v1](http://arxiv.org/abs/2611.21789v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21789)|
-|**2026-11-16**|**Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data**|Alexander Moriz et.al.|[2611.21365v1](http://arxiv.org/abs/2611.21365v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21365)|
+|**2026-11-18**|**Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data**|Alexander Moriz et.al.|[2611.21365v2](http://arxiv.org/abs/2611.21365v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.21365)|
 |**2026-11-16**|**artist: A Python package for differentiable ray tracing and gradient-based optimization of solar tower power plant operation**|Marlene Busch et.al.|[2611.20851v1](http://arxiv.org/abs/2611.20851v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20851)|
 |**2026-11-16**|**DNA: A Double-Helix Hierarchical Deep Interaction Network Architecture for Industrial Digital Twin**|Haoran Yang et.al.|[2611.20607v1](http://arxiv.org/abs/2611.20607v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20607)|
 |**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546v1](http://arxiv.org/abs/2611.20546v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20546)|
