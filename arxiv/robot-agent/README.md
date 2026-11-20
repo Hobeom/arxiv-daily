@@ -1,9 +1,19 @@
 ## Robot & Agent
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
+|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Yinhe Wang et.al.|[2611.26519v1](http://arxiv.org/abs/2611.26519v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26519)|
+|**2026-11-19**|**EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL**|Wei Dai et.al.|[2611.26196v1](http://arxiv.org/abs/2611.26196v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26196)|
+|**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Zhengtu Liang et.al.|[2611.26103v1](http://arxiv.org/abs/2611.26103v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.26103)|
+|**2026-11-19**|**Dynamic Human-Robot Role Allocation through Entropy-Based Monitoring and LLM Reasoning**|Elena Merlo et.al.|[2611.26090v1](http://arxiv.org/abs/2611.26090v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26090)|
+|**2026-11-19**|**Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models**|John Won et.al.|[2611.25980v1](http://arxiv.org/abs/2611.25980v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25980)|
+|**2026-11-19**|**A $^2$ -VLA: Adapting Vision-Language-Action Policies to New Tools through Agentic Affordance Discovery**|Chenyuan Zhou et.al.|[2611.25656v1](http://arxiv.org/abs/2611.25656v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25656)|
+|**2026-11-19**|**FlashX: Scaling Robotic Experience Reuse for Embodied Agents with CBA-Based NAND Flash**|Yuseon Choi et.al.|[2611.25580v1](http://arxiv.org/abs/2611.25580v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25580)|
+|**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Jiachen Tao et.al.|[2611.25529v1](http://arxiv.org/abs/2611.25529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25529)|
+|**2026-11-18**|**VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions**|Arthur Bucker et.al.|[2611.25199v1](http://arxiv.org/abs/2611.25199v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25199)|
 |**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938v1](http://arxiv.org/abs/2611.24938v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24938)|
 |**2026-11-18**|**RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction**|Wenwei Lin et.al.|[2611.24816v1](http://arxiv.org/abs/2611.24816v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24816)|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhaolu Wang et.al.|[2611.24731v1](http://arxiv.org/abs/2611.24731v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24731)|

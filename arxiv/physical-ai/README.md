@@ -1,9 +1,17 @@
 ## Physical AI
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑13](https://alphaxiv.org/abs/2611.26444)|
+|**2026-11-19**|**Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation**|Kang Wang et.al.|[2611.26046v1](http://arxiv.org/abs/2611.26046v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26046)|
+|**2026-11-19**|**DACA: Dual-Anchor Collaborative Agent for Zero-Shot 3D Visual Grounding**|Jiaming Liu et.al.|[2611.25722v1](http://arxiv.org/abs/2611.25722v1)|[link](https://github.com/liujia99/DACA)|[αX↑0](https://alphaxiv.org/abs/2611.25722)|
+|**2026-11-19**|**Trajectory-Calibrated Merging of Embodied Policies**|Wenshuo Chen et.al.|[2611.25575v1](http://arxiv.org/abs/2611.25575v1)|[link](https://github.com/velixjin/TCR-Merging)|[αX↑0](https://alphaxiv.org/abs/2611.25575)|
+|**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Jiachen Tao et.al.|[2611.25529v1](http://arxiv.org/abs/2611.25529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25529)|
+|**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25474)|
+|**2026-11-18**|**VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions**|Arthur Bucker et.al.|[2611.25199v1](http://arxiv.org/abs/2611.25199v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25199)|
 |**2026-11-18**|**$Z$ -sight: Unifying Vision-Language-Action and Latent World Modeling**|Junjie Ye et.al.|[2611.24940v1](http://arxiv.org/abs/2611.24940v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24940)|
 |**2026-11-18**|**Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models**|Aditya Gandhamal et.al.|[2611.24327v1](http://arxiv.org/abs/2611.24327v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24327)|
 |**2026-11-18**|**From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events**|Yiyang Zhu et.al.|[2611.24249v1](http://arxiv.org/abs/2611.24249v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24249)|

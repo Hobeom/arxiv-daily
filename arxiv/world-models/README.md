@@ -1,9 +1,35 @@
 ## World Models
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Yansong Qu et.al.|[2611.26615v1](http://arxiv.org/abs/2611.26615v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26615)|
+|**2026-11-19**|**Coda-DaVinci: Reimagining Video Generation with Code2Video**|Yiyan Ji et.al.|[2611.26595v1](http://arxiv.org/abs/2611.26595v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26595)|
+|**2026-11-19**|**Plan4D: Generative Plannable 4D Worlds**|Hangwei Zhang et.al.|[2611.26516v1](http://arxiv.org/abs/2611.26516v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26516)|
+|**2026-11-19**|**Monte Carlo Pass Search for Setpieces**|Andrew Kang et.al.|[2611.26464v1](http://arxiv.org/abs/2611.26464v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26464)|
+|**2026-11-19**|**FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities**|Bassam El Said et.al.|[2611.26419v1](http://arxiv.org/abs/2611.26419v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26419)|
+|**2026-11-19**|**World Models Favor Learned Priors over Visual Evidence**|Han Xiao et.al.|[2611.26366v1](http://arxiv.org/abs/2611.26366v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26366)|
+|**2026-11-19**|**SpecWM: Turning Verification into Refinement for Streaming World Models**|Jiaming Li et.al.|[2611.26211v1](http://arxiv.org/abs/2611.26211v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26211)|
+|**2026-11-19**|**Can World Models Predict Rice Growth? Toward Agricultural World Models**|Wenkai Ji et.al.|[2611.26145v1](http://arxiv.org/abs/2611.26145v1)|[link](https://github.com/ECNU-ICALK/ArgoWM)|[αX↑0](https://alphaxiv.org/abs/2611.26145)|
+|**2026-11-19**|**Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models**|John Won et.al.|[2611.25980v1](http://arxiv.org/abs/2611.25980v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25980)|
+|**2026-11-19**|**Point Dynamics as Proxy for Robotic World Models**|Dong An et.al.|[2611.25946v1](http://arxiv.org/abs/2611.25946v1)|[link](https://github.com/MarSaKi/point-dynamics-proxy)|[αX↑1](https://alphaxiv.org/abs/2611.25946)|
+|**2026-11-19**|**Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models**|Yao Zhang et.al.|[2611.25927v1](http://arxiv.org/abs/2611.25927v1)|[link](https://github.com/Sofilyzia/Fast-JEPA)|[αX↑0](https://alphaxiv.org/abs/2611.25927)|
+|**2026-11-19**|**ContextRenderer: Dynamic-Context Video Generation for Interactive Game Worlds**|Runze Wang et.al.|[2611.25838v1](http://arxiv.org/abs/2611.25838v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25838)|
+|**2026-11-19**|**World-delta: Continually Integrating Observations for Incremental 3D Scene Generation**|Haonan Wang et.al.|[2611.25802v1](http://arxiv.org/abs/2611.25802v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25802)|
+|**2026-11-19**|**LATER: Learning Action-Conditioned Temporal Evidence Retrieval for Predictive World Models**|Zihan Zhou et.al.|[2611.25671v1](http://arxiv.org/abs/2611.25671v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25671)|
+|**2026-11-19**|**CauSyncVLA: Causal Latent World Modeling for Asynchronous Robot Control**|Xu Pan et.al.|[2611.25667v1](http://arxiv.org/abs/2611.25667v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25667)|
+|**2026-11-19**|**What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks**|Yutao Li et.al.|[2611.25632v1](http://arxiv.org/abs/2611.25632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25632)|
+|**2026-11-19**|**Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response**|Yutao Li et.al.|[2611.25626v1](http://arxiv.org/abs/2611.25626v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25626)|
+|**2026-11-19**|**Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing**|Tiantian Li et.al.|[2611.25610v1](http://arxiv.org/abs/2611.25610v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25610)|
+|**2026-11-19**|**Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models**|Xinze Shi et.al.|[2611.25594v1](http://arxiv.org/abs/2611.25594v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25594)|
+|**2026-11-19**|**AeroBelief: Budgeted First-Action Verification for Evidence-Guided Aerial Sensing**|Tianren Li et.al.|[2611.25568v1](http://arxiv.org/abs/2611.25568v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25568)|
+|**2026-11-19**|**PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds**|Shixun Huang et.al.|[2611.25500v1](http://arxiv.org/abs/2611.25500v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25500)|
+|**2026-11-19**|**Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners**|Junhyeok Lee et.al.|[2611.25415v1](http://arxiv.org/abs/2611.25415v1)|[link](https://github.com/jhlee0619/unstick)|[αX↑0](https://alphaxiv.org/abs/2611.25415)|
+|**2026-11-19**|**WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics**|Zexun Lin et.al.|[2611.25413v1](http://arxiv.org/abs/2611.25413v1)|[link](https://github.com/Overdue-Lin/WAMotor)|[αX↑0](https://alphaxiv.org/abs/2611.25413)|
+|**2026-11-19**|**Search or Scoring? Diagnosing Why Visual World-Model Planners Fail**|Haoxuan Jia et.al.|[2611.25347v1](http://arxiv.org/abs/2611.25347v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25347)|
+|**2026-11-19**|**MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models**|Ziyu Zhu et.al.|[2611.25336v1](http://arxiv.org/abs/2611.25336v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25336)|
+|**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25251)|
 |**2026-11-18**|**$Z$ -sight: Unifying Vision-Language-Action and Latent World Modeling**|Junjie Ye et.al.|[2611.24940v1](http://arxiv.org/abs/2611.24940v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24940)|
 |**2026-11-18**|**Render the Robot, Generate the World: One Video World Model Across Embodiments**|Yash Jangir et.al.|[2611.24925v1](http://arxiv.org/abs/2611.24925v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24925)|
 |**2026-11-18**|**WorldRuler: Interactive World Modeling under Configurable Rules**|Mingliang Zhai et.al.|[2611.24869v1](http://arxiv.org/abs/2611.24869v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24869)|

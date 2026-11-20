@@ -1,9 +1,19 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596v1](http://arxiv.org/abs/2611.26596v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26596)|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI et.al.|[2611.26420v1](http://arxiv.org/abs/2611.26420v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26420)|
+|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
+|**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074v1](http://arxiv.org/abs/2611.26074v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26074)|
+|**2026-11-19**|**Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning**|Ganeshvar Soenessardien et.al.|[2611.26054v1](http://arxiv.org/abs/2611.26054v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26054)|
+|**2026-11-19**|**Learning optimal gaits and styles for terrain-adaptive quadruped locomotion**|Guillaume Bellegarda et.al.|[2611.25958v1](http://arxiv.org/abs/2611.25958v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25958)|
+|**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25801)|
+|**2026-11-19**|**ECHO: In-Context Behavior foundation model for Humanoid Whole-Body Control**|Xingyi Wang et.al.|[2611.25778v1](http://arxiv.org/abs/2611.25778v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25778)|
+|**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25251)|
 |**2026-11-18**|**Render the Robot, Generate the World: One Video World Model Across Embodiments**|Yash Jangir et.al.|[2611.24925v1](http://arxiv.org/abs/2611.24925v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24925)|
 |**2026-11-18**|**SearchDiffusion: Information-Guided Diffusion Planning for Object Search**|Sausar Karaf et.al.|[2611.24375v1](http://arxiv.org/abs/2611.24375v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24375)|
 |**2026-11-18**|**QDD-MM: A Simple and Compact Open-Source Muscle Module with Quasi-Direct-Drive Motor for Tendon-driven Robots**|Kento Kawaharazuka et.al.|[2611.24279v1](http://arxiv.org/abs/2611.24279v1)|[link](https://github.com/haraduka/qddmm)|[αX↑0](https://alphaxiv.org/abs/2611.24279)|
@@ -528,6 +538,7 @@
 |**2026-05-19**|**SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework**|Tianshu Wu et.al.|[2605.20373v1](http://arxiv.org/abs/2605.20373v1)|[link](https://github.com/tianshuwu/SUGAR)|[αX↑53](https://alphaxiv.org/abs/2605.20373)|
 |**2026-05-19**|**HoloMotion-1 Technical Report**|Maiyue Chen et.al.|[2605.15336v2](http://arxiv.org/abs/2605.15336v2)|[link](https://github.com/HorizonRobotics/HoloMotion)|[αX↑50](https://alphaxiv.org/abs/2605.15336)|
 |**2026-10-15**|**PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation**|Yijin Wang et.al.|[2605.07496v3](http://arxiv.org/abs/2605.07496v3)|null|[αX↑12](https://alphaxiv.org/abs/2605.07496)|
+|**2026-05-07**|**ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting**|David Müller et.al.|[2605.06593v1](http://arxiv.org/abs/2605.06593v1)|null|[αX↑81](https://alphaxiv.org/abs/2605.06593)|
 |**2026-07-07**|**BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation**|Hongwu Wang et.al.|[2605.03452v2](http://arxiv.org/abs/2605.03452v2)|null|[αX↑40](https://alphaxiv.org/abs/2605.03452)|
 |**2026-04-27**|**MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives**|Tingwu Wang et.al.|[2604.24833v1](http://arxiv.org/abs/2604.24833v1)|[link](https://github.com/NVlabs/GR00T-WholeBodyControl)|[αX↑76](https://alphaxiv.org/abs/2604.24833)|
 |**2026-10-11**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734v2](http://arxiv.org/abs/2604.19734v2)|[link](https://github.com/xpeng-robotics/UniT)|[🤗👍31](https://huggingface.co/papers/2604.19734) [αX↑65](https://alphaxiv.org/abs/2604.19734)|

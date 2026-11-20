@@ -1,9 +1,18 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
+|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
+|**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|
+|**2026-11-19**|**Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data**|KuanLin Chen et.al.|[2611.26035v1](http://arxiv.org/abs/2611.26035v1)|[link](https://github.com/dipper13579/urbantwin-sim2real-lidar)|[αX↑0](https://alphaxiv.org/abs/2611.26035)|
+|**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25801)|
+|**2026-11-19**|**PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds**|Shixun Huang et.al.|[2611.25500v1](http://arxiv.org/abs/2611.25500v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25500)|
+|**2026-11-19**|**A four-level executable validation protocol for evaluating LLM-generated topology specifications of physics-based HVAC digital twins**|Younghwan Joo et.al.|[2611.25471v1](http://arxiv.org/abs/2611.25471v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25471)|
+|**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25251)|
+|**2026-11-18**|**Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans**|Chrisantus Eze et.al.|[2611.25243v1](http://arxiv.org/abs/2611.25243v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25243)|
 |**2026-11-18**|**Conceptual full-vehicle modeling of a modular all-wheel-drive robotic ADS test platform as a foundation for a digital twin architecture**|Felix Florian Schwald et.al.|[2611.24646v1](http://arxiv.org/abs/2611.24646v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24646)|
 |**2026-11-18**|**Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models**|Aditya Gandhamal et.al.|[2611.24327v1](http://arxiv.org/abs/2611.24327v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24327)|
 |**2026-11-18**|**EyeDiT: Anatomy-Grounded Multi-Modal Eye Generation and Simulation**|Yonghan Lee et.al.|[2611.23670v1](http://arxiv.org/abs/2611.23670v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23670)|
