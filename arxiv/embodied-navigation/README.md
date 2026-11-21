@@ -5,7 +5,7 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242v1](http://arxiv.org/abs/2611.26242v1)|[link](https://github.com/ADEPT-ORG/FastRoverVLA)|[αX↑0](https://alphaxiv.org/abs/2611.26242)|
-|**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604v1](http://arxiv.org/abs/2611.25604v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25604)|
+|**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604v1](http://arxiv.org/abs/2611.25604v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25604)|
 |**2026-11-19**|**Cognitive-Horizon Action Chunking: Memory-Guided Adaptive Reasoning for Embodied Navigation**|Weile Gong et.al.|[2611.25587v1](http://arxiv.org/abs/2611.25587v1)|[link](https://github.com/phare111/chac)|[αX↑0](https://alphaxiv.org/abs/2611.25587)|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25474)|
 |**2026-11-18**|**Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation**|Beyazit Yalcinkaya et.al.|[2611.24876v1](http://arxiv.org/abs/2611.24876v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24876)|
