@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -35,15 +35,15 @@
 |**2026-11-15**|**Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation**|Xinghao Dong et.al.|[2611.19676v1](http://arxiv.org/abs/2611.19676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19676)|
 |**2026-11-14**|**Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots**|Pol Mestres et.al.|[2611.19616v1](http://arxiv.org/abs/2611.19616v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19616)|
 |**2026-11-14**|**Residual Reinforcement Learning for Visual Servo Control with Zero-Shot Sim-to-Real Transfer**|Mahdi Nobar et.al.|[2611.19318v1](http://arxiv.org/abs/2611.19318v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19318)|
-|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.19196)|
+|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.19196)|
 |**2026-11-14**|**Leaning Over to Reach Far-Away Objects**|Allen Devaraj et.al.|[2611.19100v1](http://arxiv.org/abs/2611.19100v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19100)|
 |**2026-11-13**|**Large language models as oncology world models**|Julien Vibert et.al.|[2611.18994v1](http://arxiv.org/abs/2611.18994v1)|[link](https://github.com/julienvibert/llm-oncology-world-models)|[αX↑0](https://alphaxiv.org/abs/2611.18994)|
 |**2026-11-13**|**TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation**|Yiting Chen et.al.|[2611.18976v1](http://arxiv.org/abs/2611.18976v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18976)|
 |**2026-11-12**|**Third-Place Solution for the UCF UrbanTwin V2X-Real Track at ECCV 2026: Synthetic Point Cloud Generation and Sim-to-Real 3D Object Detection**|Antong Deng et.al.|[2611.18778v1](http://arxiv.org/abs/2611.18778v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18778)|
-|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.18365)|
+|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.18365)|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Zihao Lu et.al.|[2611.18298v1](http://arxiv.org/abs/2611.18298v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18298)|
-|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.17619)|
-|**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598v1](http://arxiv.org/abs/2611.17598v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.17598)|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17619)|
+|**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598v1](http://arxiv.org/abs/2611.17598v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17598)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
 |**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15658)|

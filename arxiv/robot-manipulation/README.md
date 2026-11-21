@@ -1,6 +1,6 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -60,11 +60,11 @@
 |**2026-11-16**|**Multi-CONDOR: Learning Multistable Motion Primitives from Demonstration**|Gabriele Giuseppe Di Marzo et.al.|[2611.21059v1](http://arxiv.org/abs/2611.21059v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21059)|
 |**2026-11-16**|**TacBridge: Learning Unified Tactile Representations through Cross-Sensor Correspondence**|Yongji Fu et.al.|[2611.20939v1](http://arxiv.org/abs/2611.20939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20939)|
 |**2026-11-16**|**TaF-Foundation: Wrench-Grounded Cross-Sensor Tactile Representations**|Jiaming Jiang et.al.|[2611.20718v1](http://arxiv.org/abs/2611.20718v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20718)|
-|**2026-11-16**|**ARMFUL: Learning Whole-Arm Grasp Configurations for Single-Arm Pickup of Large Objects**|Xinyi Yu et.al.|[2611.20692v1](http://arxiv.org/abs/2611.20692v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.20692)|
+|**2026-11-16**|**ARMFUL: Learning Whole-Arm Grasp Configurations for Single-Arm Pickup of Large Objects**|Xinyi Yu et.al.|[2611.20692v1](http://arxiv.org/abs/2611.20692v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.20692)|
 |**2026-11-16**|**AsymEEF: Bimanual Manipulation with Asymmetric End Effectors**|Xiaokang Sun et.al.|[2611.20557v1](http://arxiv.org/abs/2611.20557v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20557)|
 |**2026-11-16**|**Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models**|Yiyuan Ge et.al.|[2611.20481v1](http://arxiv.org/abs/2611.20481v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20481)|
 |**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460v1](http://arxiv.org/abs/2611.20460v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20460)|
-|**2026-11-17**|**DexFormer 2.0: Towards a Cross-Embodiment Foundation Policy for Dexterous Grasping**|Lixin Xu et.al.|[2611.20273v2](http://arxiv.org/abs/2611.20273v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.20273)|
+|**2026-11-17**|**DexFormer 2.0: Towards a Cross-Embodiment Foundation Policy for Dexterous Grasping**|Lixin Xu et.al.|[2611.20273v2](http://arxiv.org/abs/2611.20273v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.20273)|
 |**2026-11-15**|**DAPPT: Domain-Aware Policies from Procedural Trajectories for Sim-to-Real Dexterous Tool Use**|Beining Han et.al.|[2611.20202v1](http://arxiv.org/abs/2611.20202v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20202)|
 |**2026-11-15**|**RoboKit: Accelerating Parallel Differentiable Optimization for Robot Learning**|Jianglong Ye et.al.|[2611.20185v1](http://arxiv.org/abs/2611.20185v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.20185)|
 |**2026-11-15**|**Physics-Grounded STL Monitoring from Image Observations**|Xinpei Ni et.al.|[2611.19688v1](http://arxiv.org/abs/2611.19688v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19688)|

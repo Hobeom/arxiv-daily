@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -29,11 +29,11 @@
 |**2026-11-18**|**Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration**|Ting-Hsuan Chen et.al.|[2611.22275v2](http://arxiv.org/abs/2611.22275v2)|[link](https://github.com/heaveho-humanoid/Heave-Ho)|[🤗👍22](https://huggingface.co/papers/2611.22275) [αX↑1](https://alphaxiv.org/abs/2611.22275)|
 |**2026-11-17**|**ALERT: Extending Humanoid Motion Trackers with a General and Lightweight Human Avoidance Pipeline**|Zhaoyang Li et.al.|[2611.22258v1](http://arxiv.org/abs/2611.22258v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22258)|
 |**2026-11-17**|**From Temperature-Limited to Battery-Limited Legged Locomotion**|Raphaël Ségas et.al.|[2611.22231v1](http://arxiv.org/abs/2611.22231v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22231)|
-|**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Yongji Fu et.al.|[2611.20950v1](http://arxiv.org/abs/2611.20950v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20950)|
+|**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Yongji Fu et.al.|[2611.20950v1](http://arxiv.org/abs/2611.20950v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20950)|
 |**2026-11-16**|**Driving the Style: Velocity-Conditioned Whole-Body Control from Motion Demonstrations**|Murad Dawood et.al.|[2611.20888v1](http://arxiv.org/abs/2611.20888v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20888)|
 |**2026-11-16**|**QTOP: Scaling Humanoid Motion Tracking with Quantile Critics**|Markus Peschl et.al.|[2611.20791v1](http://arxiv.org/abs/2611.20791v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20791)|
 |**2026-11-16**|**SG-ODOM: Event-Driven Proprioceptive State Estimation with Stability-Gated Contact Updates for Legged Robots**|Francesco Iotti et.al.|[2611.20710v1](http://arxiv.org/abs/2611.20710v1)|[link](https://github.com/ori-drs/SG-ODOM)|[αX↑0](https://alphaxiv.org/abs/2611.20710)|
-|**2026-11-16**|**XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute**|Nico Bohlinger et.al.|[2611.20452v1](http://arxiv.org/abs/2611.20452v1)|[link](https://github.com/nico-bohlinger/xmimic)|[αX↑1](https://alphaxiv.org/abs/2611.20452)|
+|**2026-11-16**|**XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute**|Nico Bohlinger et.al.|[2611.20452v1](http://arxiv.org/abs/2611.20452v1)|[link](https://github.com/nico-bohlinger/xmimic)|[αX↑2](https://alphaxiv.org/abs/2611.20452)|
 |**2026-11-15**|**MoViC: Real-Time Humanoid Whole-Body Control from Monocular Video Streams**|Yimin Han et.al.|[2611.19998v1](http://arxiv.org/abs/2611.19998v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19998)|
 |**2026-11-15**|**From Companion to Guardian: Designing an Emergency Support System Using a Quadruped Robot for Older Adults**|Chunyang Meng et.al.|[2611.19932v1](http://arxiv.org/abs/2611.19932v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19932)|
 |**2026-11-15**|**AgenticJevNav: Agentic Object Search and Navigation via Event-Driven Verification**|Shuning Zhang et.al.|[2611.19912v1](http://arxiv.org/abs/2611.19912v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19912)|
@@ -68,7 +68,7 @@
 |**2026-11-10**|**FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control**|Santosh Mohan Rajkumar et.al.|[2611.13766v1](http://arxiv.org/abs/2611.13766v1)|[link](https://github.com/santoshrajkumar/fame-qp)|[🤗👍6](https://huggingface.co/papers/2611.13766) [αX↑5](https://alphaxiv.org/abs/2611.13766)|
 |**2026-11-09**|**AHEADance: Anticipatory Humanoid Dance from Streaming Audio**|Tianhu Peng et.al.|[2611.13370v1](http://arxiv.org/abs/2611.13370v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13370)|
 |**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12409)|
-|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍30](https://huggingface.co/papers/2611.12177) [αX↑169](https://alphaxiv.org/abs/2611.12177)|
+|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍30](https://huggingface.co/papers/2611.12177) [αX↑175](https://alphaxiv.org/abs/2611.12177)|
 |**2026-11-09**|**LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data**|Xueyang Wang et.al.|[2611.12136v1](http://arxiv.org/abs/2611.12136v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.12136)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑26](https://alphaxiv.org/abs/2611.12087)|
 |**2026-11-12**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854v2](http://arxiv.org/abs/2611.11854v2)|null|[αX↑9](https://alphaxiv.org/abs/2611.11854)|

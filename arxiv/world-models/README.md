@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 |**2026-11-14**|**Successive Convexification in Learned World Models for Safe Offline Planning**|Samuel Younger et.al.|[2611.19466v1](http://arxiv.org/abs/2611.19466v1)|[link](https://github.com/youngers2006/scwm)|[αX↑0](https://alphaxiv.org/abs/2611.19466)|
 |**2026-11-14**|**Macro Control and Capability Evaluation of Black-Box World Models: A Two-Regime Framework for LLM-Agent Markets**|Zhiyang Niu et.al.|[2611.19311v1](http://arxiv.org/abs/2611.19311v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19311)|
 |**2026-11-14**|**GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models**|Bing He et.al.|[2611.19247v1](http://arxiv.org/abs/2611.19247v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19247)|
-|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.19196)|
+|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.19196)|
 |**2026-11-14**|**WA-JEPA: Goal-Aware Predictive Feedback Action Refinement for a World-Action Model**|Tao An et.al.|[2611.19183v1](http://arxiv.org/abs/2611.19183v1)|[link](https://github.com/Dovisya/WA-JEPA)|[αX↑0](https://alphaxiv.org/abs/2611.19183)|
 |**2026-11-13**|**Large language models as oncology world models**|Julien Vibert et.al.|[2611.18994v1](http://arxiv.org/abs/2611.18994v1)|[link](https://github.com/julienvibert/llm-oncology-world-models)|[αX↑0](https://alphaxiv.org/abs/2611.18994)|
 |**2026-11-13**|**Probing Where Surprise Happens: Localized Violation-of-Expectation Evaluation of Video World Models**|Yanbin Xu et.al.|[2611.18979v1](http://arxiv.org/abs/2611.18979v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18979)|

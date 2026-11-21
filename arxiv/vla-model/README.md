@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 |**2026-11-17**|**VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**|Suho Yoo et.al.|[2611.22666v1](http://arxiv.org/abs/2611.22666v1)|[link](https://github.com/suho-yoo/VSpark)|[αX↑15](https://alphaxiv.org/abs/2611.22666)|
 |**2026-11-17**|**VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models**|Arusa Kanwal et.al.|[2611.22453v1](http://arxiv.org/abs/2611.22453v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22453)|
 |**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Mehul Arora et.al.|[2611.22395v1](http://arxiv.org/abs/2611.22395v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22395)|
-|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑114](https://alphaxiv.org/abs/2611.21607)|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑126](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models**|Jaehyuk Lee et.al.|[2611.21033v1](http://arxiv.org/abs/2611.21033v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21033)|
 |**2026-11-16**|**Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules**|Barkin Dagda et.al.|[2611.20648v1](http://arxiv.org/abs/2611.20648v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20648)|
 |**2026-11-16**|**Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data**|Angel Martinez-Sanchez et.al.|[2611.20631v1](http://arxiv.org/abs/2611.20631v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20631)|
