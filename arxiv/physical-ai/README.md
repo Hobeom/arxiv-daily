@@ -5,7 +5,7 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
-|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑24](https://alphaxiv.org/abs/2611.26444)|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑29](https://alphaxiv.org/abs/2611.26444)|
 |**2026-11-19**|**Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation**|Kang Wang et.al.|[2611.26046v1](http://arxiv.org/abs/2611.26046v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26046)|
 |**2026-11-19**|**DACA: Dual-Anchor Collaborative Agent for Zero-Shot 3D Visual Grounding**|Jiaming Liu et.al.|[2611.25722v1](http://arxiv.org/abs/2611.25722v1)|[link](https://github.com/liujia99/DACA)|[αX↑0](https://alphaxiv.org/abs/2611.25722)|
 |**2026-11-19**|**Trajectory-Calibrated Merging of Embodied Policies**|Wenshuo Chen et.al.|[2611.25575v1](http://arxiv.org/abs/2611.25575v1)|[link](https://github.com/velixjin/TCR-Merging)|[αX↑1](https://alphaxiv.org/abs/2611.25575)|

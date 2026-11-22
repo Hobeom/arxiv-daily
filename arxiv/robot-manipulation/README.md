@@ -4,14 +4,14 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Yuxin Jiang et.al.|[2611.26617v1](http://arxiv.org/abs/2611.26617v1)|[link](https://github.com/showlab/O2LaF)|[αX↑0](https://alphaxiv.org/abs/2611.26617)|
-|**2026-11-19**|**AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control**|Yiyang Du et.al.|[2611.26613v1](http://arxiv.org/abs/2611.26613v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.26613)|
+|**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Yuxin Jiang et.al.|[2611.26617v1](http://arxiv.org/abs/2611.26617v1)|[link](https://github.com/showlab/O2LaF)|[αX↑1](https://alphaxiv.org/abs/2611.26617)|
+|**2026-11-19**|**AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control**|Yiyang Du et.al.|[2611.26613v1](http://arxiv.org/abs/2611.26613v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.26613)|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
-|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑24](https://alphaxiv.org/abs/2611.26444)|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑29](https://alphaxiv.org/abs/2611.26444)|
 |**2026-11-19**|**Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience**|Ziyue Wang et.al.|[2611.26376v1](http://arxiv.org/abs/2611.26376v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26376)|
 |**2026-11-19**|**Reasoning on Call: Efficient Agentic Robot Control for Long-Horizon Robot Manipulation**|Zilang Cen et.al.|[2611.26341v1](http://arxiv.org/abs/2611.26341v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26341)|
 |**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
-|**2026-11-19**|**PhysVAM: Physics-oriented Future Value Action Model for Dynamic Object Manipulation**|Yuxiang Yang et.al.|[2611.26105v1](http://arxiv.org/abs/2611.26105v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26105)|
+|**2026-11-19**|**PhysVAM: Physics-oriented Future Value Action Model for Dynamic Object Manipulation**|Yuxiang Yang et.al.|[2611.26105v1](http://arxiv.org/abs/2611.26105v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26105)|
 |**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Zhengtu Liang et.al.|[2611.26103v1](http://arxiv.org/abs/2611.26103v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.26103)|
 |**2026-11-19**|**TipDex-VTLA: Learning When to Refine Actions with Touch for Dexterous Manipulation**|Xudi Ge et.al.|[2611.25683v1](http://arxiv.org/abs/2611.25683v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25683)|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25474)|
