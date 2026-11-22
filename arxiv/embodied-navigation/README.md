@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|

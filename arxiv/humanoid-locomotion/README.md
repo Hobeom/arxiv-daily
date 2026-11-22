@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 |**2026-11-17**|**Body Schema Policy: Body as the Vision-Action Interface for Efficient Robot Loco-Manipulation**|Lechen Zhang et.al.|[2611.22713v1](http://arxiv.org/abs/2611.22713v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22713)|
 |**2026-11-17**|**Learning Accurate End-Effector Trajectory Tracking with Inertial Feedback for a Quadruped Manipulator**|Dohyeon Kim et.al.|[2611.22695v1](http://arxiv.org/abs/2611.22695v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22695)|
 |**2026-11-17**|**Autonomous Track Racing with a Commercially Available Humanoid: System Design and Real-World Deployment**|Koki Inami et.al.|[2611.22445v1](http://arxiv.org/abs/2611.22445v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22445)|
-|**2026-11-18**|**Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration**|Ting-Hsuan Chen et.al.|[2611.22275v2](http://arxiv.org/abs/2611.22275v2)|[link](https://github.com/heaveho-humanoid/Heave-Ho)|[🤗👍22](https://huggingface.co/papers/2611.22275) [αX↑1](https://alphaxiv.org/abs/2611.22275)|
+|**2026-11-18**|**Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration**|Ting-Hsuan Chen et.al.|[2611.22275v2](http://arxiv.org/abs/2611.22275v2)|[link](https://github.com/heaveho-humanoid/Heave-Ho)|[🤗👍22](https://huggingface.co/papers/2611.22275) [αX↑2](https://alphaxiv.org/abs/2611.22275)|
 |**2026-11-17**|**ALERT: Extending Humanoid Motion Trackers with a General and Lightweight Human Avoidance Pipeline**|Zhaoyang Li et.al.|[2611.22258v1](http://arxiv.org/abs/2611.22258v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22258)|
 |**2026-11-17**|**From Temperature-Limited to Battery-Limited Legged Locomotion**|Raphaël Ségas et.al.|[2611.22231v1](http://arxiv.org/abs/2611.22231v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22231)|
 |**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Yongji Fu et.al.|[2611.20950v1](http://arxiv.org/abs/2611.20950v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20950)|
@@ -68,7 +68,7 @@
 |**2026-11-10**|**FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control**|Santosh Mohan Rajkumar et.al.|[2611.13766v1](http://arxiv.org/abs/2611.13766v1)|[link](https://github.com/santoshrajkumar/fame-qp)|[🤗👍6](https://huggingface.co/papers/2611.13766) [αX↑5](https://alphaxiv.org/abs/2611.13766)|
 |**2026-11-09**|**AHEADance: Anticipatory Humanoid Dance from Streaming Audio**|Tianhu Peng et.al.|[2611.13370v1](http://arxiv.org/abs/2611.13370v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13370)|
 |**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12409)|
-|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍30](https://huggingface.co/papers/2611.12177) [αX↑175](https://alphaxiv.org/abs/2611.12177)|
+|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍30](https://huggingface.co/papers/2611.12177) [αX↑176](https://alphaxiv.org/abs/2611.12177)|
 |**2026-11-09**|**LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data**|Xueyang Wang et.al.|[2611.12136v1](http://arxiv.org/abs/2611.12136v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.12136)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑26](https://alphaxiv.org/abs/2611.12087)|
 |**2026-11-12**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854v2](http://arxiv.org/abs/2611.11854v2)|null|[αX↑9](https://alphaxiv.org/abs/2611.11854)|

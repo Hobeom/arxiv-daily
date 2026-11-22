@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -24,13 +24,13 @@
 |**2026-11-18**|**Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data**|Alexander Moriz et.al.|[2611.21365v2](http://arxiv.org/abs/2611.21365v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.21365)|
 |**2026-11-16**|**artist: A Python package for differentiable ray tracing and gradient-based optimization of solar tower power plant operation**|Marlene Busch et.al.|[2611.20851v1](http://arxiv.org/abs/2611.20851v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20851)|
 |**2026-11-16**|**DNA: A Double-Helix Hierarchical Deep Interaction Network Architecture for Industrial Digital Twin**|Haoran Yang et.al.|[2611.20607v1](http://arxiv.org/abs/2611.20607v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20607)|
-|**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546v1](http://arxiv.org/abs/2611.20546v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20546)|
+|**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546v1](http://arxiv.org/abs/2611.20546v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20546)|
 |**2026-11-16**|**VISTA: A Framework for Vision-Informed Semantic Traffic Awareness**|Murat Arda Onsu et.al.|[2611.20458v1](http://arxiv.org/abs/2611.20458v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20458)|
 |**2026-11-16**|**UrbanTwin Sim2Real LiDAR Challenge 2026: Site-Calibrated Synthetic Data and Multi-Detector Fusion for Roadside 3D Detection**|Arnav Kumar et.al.|[2611.20431v1](http://arxiv.org/abs/2611.20431v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20431)|
 |**2026-11-15**|**Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark**|Nikolay Dolgov et.al.|[2611.20321v1](http://arxiv.org/abs/2611.20321v1)|[link](https://github.com/lokindoo/spacecraft-pose-estimation)|[🤗👍2](https://huggingface.co/papers/2611.20321) [αX↑0](https://alphaxiv.org/abs/2611.20321)|
 |**2026-11-15**|**GNN-Based Deep Reinforcement Learning for Coastal Emergency Response under Extreme Water Levels**|Marcello Sano et.al.|[2611.20268v1](http://arxiv.org/abs/2611.20268v1)|[link](https://github.com/marcellosano/coastal-emergency-drl)|[αX↑0](https://alphaxiv.org/abs/2611.20268)|
 |**2026-11-15**|**DAPPT: Domain-Aware Policies from Procedural Trajectories for Sim-to-Real Dexterous Tool Use**|Beining Han et.al.|[2611.20202v1](http://arxiv.org/abs/2611.20202v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20202)|
-|**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Jiarui Dong et.al.|[2611.19771v1](http://arxiv.org/abs/2611.19771v1)|[link](https://github.com/AIGeeksGroup/JEPA4R)|[🤗👍4](https://huggingface.co/papers/2611.19771) [αX↑2](https://alphaxiv.org/abs/2611.19771)|
+|**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Jiarui Dong et.al.|[2611.19771v1](http://arxiv.org/abs/2611.19771v1)|[link](https://github.com/AIGeeksGroup/JEPA4R)|[🤗👍4](https://huggingface.co/papers/2611.19771) [αX↑3](https://alphaxiv.org/abs/2611.19771)|
 |**2026-11-15**|**Sim-to-Real Room-Mediated Object-Goal Navigation with ROS 2 and Nav2**|Matthew Chua et.al.|[2611.19720v1](http://arxiv.org/abs/2611.19720v1)|[link](https://github.com/Matthew-K-Chua/rpv-ros2-bridge)|[αX↑0](https://alphaxiv.org/abs/2611.19720)|
 |**2026-11-15**|**Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation**|Xinghao Dong et.al.|[2611.19676v1](http://arxiv.org/abs/2611.19676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19676)|
 |**2026-11-14**|**Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots**|Pol Mestres et.al.|[2611.19616v1](http://arxiv.org/abs/2611.19616v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19616)|

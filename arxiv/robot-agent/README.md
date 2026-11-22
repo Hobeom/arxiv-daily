@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 |**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938v1](http://arxiv.org/abs/2611.24938v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24938)|
 |**2026-11-18**|**RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction**|Wenwei Lin et.al.|[2611.24816v1](http://arxiv.org/abs/2611.24816v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24816)|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhaolu Wang et.al.|[2611.24731v1](http://arxiv.org/abs/2611.24731v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.24731)|
-|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Yaping Li et.al.|[2611.24585v1](http://arxiv.org/abs/2611.24585v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24585)|
+|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Yaping Li et.al.|[2611.24585v1](http://arxiv.org/abs/2611.24585v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.24585)|
 |**2026-11-18**|**Comparing Each Generation with Independent Siblings Gives Video World Model Post-Training a Proper Objective for Outcome Frequencies**|Xin Li et.al.|[2611.24512v1](http://arxiv.org/abs/2611.24512v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24512)|
 |**2026-11-18**|**Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator**|Fardien Azizi et.al.|[2611.24499v1](http://arxiv.org/abs/2611.24499v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24499)|
 |**2026-11-18**|**RECLAIM: Robot-Vision-Informed Adversarial Patch Defense via Embodied Attention Feedback**|Jiayou Zhu et.al.|[2611.24494v1](http://arxiv.org/abs/2611.24494v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24494)|
@@ -45,7 +45,7 @@
 |**2026-11-17**|**ALERT: Extending Humanoid Motion Trackers with a General and Lightweight Human Avoidance Pipeline**|Zhaoyang Li et.al.|[2611.22258v1](http://arxiv.org/abs/2611.22258v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22258)|
 |**2026-11-16**|**HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning**|Javad Amirian et.al.|[2611.21938v1](http://arxiv.org/abs/2611.21938v1)|null|[🤗👍4](https://huggingface.co/papers/2611.21938) [αX↑1](https://alphaxiv.org/abs/2611.21938)|
 |**2026-11-16**|**Every Camera Grows Up: Camera-Height Regression in Interactive Video World Models**|Sheng Lu et.al.|[2611.21782v1](http://arxiv.org/abs/2611.21782v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21782)|
-|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑126](https://alphaxiv.org/abs/2611.21607)|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑128](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits**|Henry Zheng et.al.|[2611.21485v1](http://arxiv.org/abs/2611.21485v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21485)|
 |**2026-11-16**|**Seeing Isn't Resolving: Visual and Linguistic Disambiguation with Conversational Grounding**|Edoardo Cecchinato et.al.|[2611.21183v1](http://arxiv.org/abs/2611.21183v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21183)|
 |**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Yongji Fu et.al.|[2611.20950v1](http://arxiv.org/abs/2611.20950v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20950)|
@@ -68,9 +68,9 @@
 |**2026-11-12**|**Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics**|Deepu Krishnareddy et.al.|[2611.17549v1](http://arxiv.org/abs/2611.17549v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17549)|
 |**2026-11-13**|**HEIR: Harness Egocentric Intent for Human-Robot Interactions**|Yichi Zhang et.al.|[2611.17238v2](http://arxiv.org/abs/2611.17238v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.17238)|
 |**2026-11-15**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160v2](http://arxiv.org/abs/2611.17160v2)|null|[αX↑10](https://alphaxiv.org/abs/2611.17160)|
-|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[🤗👍15](https://huggingface.co/papers/2611.17110) [αX↑27](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[🤗👍15](https://huggingface.co/papers/2611.17110) [αX↑28](https://alphaxiv.org/abs/2611.17110)|
 |**2026-11-16**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v2](http://arxiv.org/abs/2611.17060v2)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[🤗👍35](https://huggingface.co/papers/2611.17060) [αX↑56](https://alphaxiv.org/abs/2611.17060)|
-|**2026-11-17**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Yaru Niu et.al.|[2611.16728v2](http://arxiv.org/abs/2611.16728v2)|[link](https://github.com/egox-dream/egox)|[🤗👍3](https://huggingface.co/papers/2611.16728) [αX↑8](https://alphaxiv.org/abs/2611.16728)|
+|**2026-11-17**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Yaru Niu et.al.|[2611.16728v2](http://arxiv.org/abs/2611.16728v2)|[link](https://github.com/egox-dream/egox)|[🤗👍3](https://huggingface.co/papers/2611.16728) [αX↑9](https://alphaxiv.org/abs/2611.16728)|
 |**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16727)|
 |**2026-11-12**|**AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents**|You Wu et.al.|[2611.16590v1](http://arxiv.org/abs/2611.16590v1)|[link](https://github.com/flyingView/AstroMemBench-v1)|[αX↑1](https://alphaxiv.org/abs/2611.16590)|
 |**2026-11-12**|**HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse**|Saehun Chun et.al.|[2611.16487v1](http://arxiv.org/abs/2611.16487v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16487)|

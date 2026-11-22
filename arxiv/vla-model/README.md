@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 |**2026-11-19**|**LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models**|LoongForge Team et.al.|[2611.25460v1](http://arxiv.org/abs/2611.25460v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25460)|
 |**2026-11-19**|**Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation**|Chengyang Dong et.al.|[2611.25400v1](http://arxiv.org/abs/2611.25400v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25400)|
 |**2026-11-18**|**NereidVLA: Learning to Understand and Navigate the Underwater World**|Chenjie Zhao et.al.|[2611.24864v1](http://arxiv.org/abs/2611.24864v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24864)|
-|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Yaping Li et.al.|[2611.24585v1](http://arxiv.org/abs/2611.24585v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24585)|
+|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Yaping Li et.al.|[2611.24585v1](http://arxiv.org/abs/2611.24585v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.24585)|
 |**2026-11-18**|**Towards Pose-Robust Few-Shot Vision-Language-Action Models**|Wenhao Li et.al.|[2611.24360v1](http://arxiv.org/abs/2611.24360v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24360)|
 |**2026-11-18**|**Allocentric Memory, Egocentric Acting: A Dual-Frame VLA for Urban Aerial Navigation**|Haotian Xu et.al.|[2611.24247v1](http://arxiv.org/abs/2611.24247v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24247)|
 |**2026-11-18**|**Adaptive Action Horizon Selection via Flow-Field Uncertainty**|Idan Ben-Ami et.al.|[2611.24178v1](http://arxiv.org/abs/2611.24178v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24178)|
@@ -28,7 +28,7 @@
 |**2026-11-18**|**3DTouch: A Tactile-aware VLA Model with 3D Geometric Relations for Dexterous Manipulation**|Xin Zhang et.al.|[2611.23961v1](http://arxiv.org/abs/2611.23961v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.23961)|
 |**2026-11-18**|**GTI: Grounding Task Intent Throughout Long-Horizon VLA Manipulation**|Tianqi Gong et.al.|[2611.23926v1](http://arxiv.org/abs/2611.23926v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23926)|
 |**2026-11-18**|**RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models**|Apoorva Vashisth et.al.|[2611.23843v1](http://arxiv.org/abs/2611.23843v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.23843)|
-|**2026-11-18**|**ExecGap: Exploiting Command-Execution Gap for Patch Attacks on Vision-Language-Action Models**|Keke Tang et.al.|[2611.23714v1](http://arxiv.org/abs/2611.23714v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23714)|
+|**2026-11-18**|**ExecGap: Exploiting Command-Execution Gap for Patch Attacks on Vision-Language-Action Models**|Keke Tang et.al.|[2611.23714v1](http://arxiv.org/abs/2611.23714v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.23714)|
 |**2026-11-18**|**Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need**|Artur Kuramshin et.al.|[2611.23676v1](http://arxiv.org/abs/2611.23676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23676)|
 |**2026-11-17**|**RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO**|Amrit Lal Singh et.al.|[2611.23517v1](http://arxiv.org/abs/2611.23517v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23517)|
 |**2026-11-17**|**BiCAT: Bimanual Coordination Action Tokenization**|Xuanwei Liu et.al.|[2611.23499v1](http://arxiv.org/abs/2611.23499v1)|[link](https://github.com/MAGICLAB-NUS/BiCAT)|[🤗👍3](https://huggingface.co/papers/2611.23499) [αX↑1](https://alphaxiv.org/abs/2611.23499)|
@@ -38,7 +38,7 @@
 |**2026-11-17**|**VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**|Suho Yoo et.al.|[2611.22666v1](http://arxiv.org/abs/2611.22666v1)|[link](https://github.com/suho-yoo/VSpark)|[αX↑15](https://alphaxiv.org/abs/2611.22666)|
 |**2026-11-17**|**VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models**|Arusa Kanwal et.al.|[2611.22453v1](http://arxiv.org/abs/2611.22453v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22453)|
 |**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Mehul Arora et.al.|[2611.22395v1](http://arxiv.org/abs/2611.22395v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22395)|
-|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑126](https://alphaxiv.org/abs/2611.21607)|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑128](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models**|Jaehyuk Lee et.al.|[2611.21033v1](http://arxiv.org/abs/2611.21033v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21033)|
 |**2026-11-16**|**Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules**|Barkin Dagda et.al.|[2611.20648v1](http://arxiv.org/abs/2611.20648v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20648)|
 |**2026-11-16**|**Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data**|Angel Martinez-Sanchez et.al.|[2611.20631v1](http://arxiv.org/abs/2611.20631v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20631)|
