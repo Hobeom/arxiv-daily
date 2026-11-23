@@ -1,15 +1,21 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.22
+### Updated on 2026.11.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-20**|**Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving**|Yun Yan et.al.|[2611.27804v1](http://arxiv.org/abs/2611.27804v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27804)|
+|**2026-11-20**|**Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception**|Danial Safaei et.al.|[2611.27447v1](http://arxiv.org/abs/2611.27447v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27447)|
+|**2026-11-20**|**Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation**|Kangyi Wu et.al.|[2611.27418v1](http://arxiv.org/abs/2611.27418v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27418)|
+|**2026-11-20**|**Trailblazer-F: Speculative Action-Flow Inference for Autonomous Driving**|Haibo Hu et.al.|[2611.27226v1](http://arxiv.org/abs/2611.27226v1)|[link](https://github.com/DanileHaibo/Trailblazer-F)|[αX↑0](https://alphaxiv.org/abs/2611.27226)|
+|**2026-11-20**|**UDA-Restoration: Bridging Unsupervised Domain Adaptation and Multi-Degradation Denoising for Enhanced AV Semantic Segmentation**|Zainab Bibi et.al.|[2611.27097v1](http://arxiv.org/abs/2611.27097v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27097)|
+|**2026-11-20**|**ReactDrive: Self-Reactive Driving World Model**|Yifan Wang et.al.|[2611.27024v1](http://arxiv.org/abs/2611.27024v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27024)|
 |**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242v1](http://arxiv.org/abs/2611.26242v1)|[link](https://github.com/ADEPT-ORG/FastRoverVLA)|[αX↑0](https://alphaxiv.org/abs/2611.26242)|
 |**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604v1](http://arxiv.org/abs/2611.25604v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25604)|
 |**2026-11-19**|**Cognitive-Horizon Action Chunking: Memory-Guided Adaptive Reasoning for Embodied Navigation**|Weile Gong et.al.|[2611.25587v1](http://arxiv.org/abs/2611.25587v1)|[link](https://github.com/phare111/chac)|[αX↑0](https://alphaxiv.org/abs/2611.25587)|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25474)|
 |**2026-11-18**|**Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation**|Beyazit Yalcinkaya et.al.|[2611.24876v1](http://arxiv.org/abs/2611.24876v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24876)|
-|**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840v1](http://arxiv.org/abs/2611.24840v1)|[link](https://github.com/binayksingh/does-action-matter)|[αX↑0](https://alphaxiv.org/abs/2611.24840)|
+|**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840v1](http://arxiv.org/abs/2611.24840v1)|[link](https://github.com/binayksingh/does-action-matter)|[αX↑1](https://alphaxiv.org/abs/2611.24840)|
 |**2026-11-18**|**DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving**|Emad Aghajanzadeh et.al.|[2611.24719v1](http://arxiv.org/abs/2611.24719v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24719)|
 |**2026-11-18**|**Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving**|Hayeon Oh et.al.|[2611.24376v1](http://arxiv.org/abs/2611.24376v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24376)|
 |**2026-11-18**|**TrajWAM: Trajectory-Conditioned Future Learning for Vision-Language Driving**|Xuerui Fang et.al.|[2611.24192v1](http://arxiv.org/abs/2611.24192v1)|[link](https://github.com/FangWD520/TrajWAM)|[αX↑0](https://alphaxiv.org/abs/2611.24192)|
@@ -17,7 +23,7 @@
 |**2026-11-18**|**CausalDrive: Causal Decomposition for Data-Efficient End-to-End Autonomous Driving**|Xiaobao Wei et.al.|[2611.24080v1](http://arxiv.org/abs/2611.24080v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24080)|
 |**2026-11-18**|**AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation**|Shiwei Wu et.al.|[2611.24077v1](http://arxiv.org/abs/2611.24077v1)|[link](https://github.com/starsholic/AeroRSI)|[αX↑0](https://alphaxiv.org/abs/2611.24077)|
 |**2026-11-18**|**Attention Is Not Relevance: Challenging the Causality of Attention in Autonomous Driving**|Luca Lusvarghi et.al.|[2611.24051v1](http://arxiv.org/abs/2611.24051v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24051)|
-|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007v1](http://arxiv.org/abs/2611.24007v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24007)|
+|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007v1](http://arxiv.org/abs/2611.24007v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.24007)|
 |**2026-11-18**|**A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments**|Yuze Wu et.al.|[2611.23930v1](http://arxiv.org/abs/2611.23930v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23930)|
 |**2026-11-18**|**SWIFT: Slow World, Instant Freshness, and Timely Action for Asynchronous Autonomous Driving**|Jiazhe Wang et.al.|[2611.23813v1](http://arxiv.org/abs/2611.23813v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23813)|
 |**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883v1](http://arxiv.org/abs/2611.22883v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22883)|

@@ -1,9 +1,13 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.22
+### Updated on 2026.11.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-20**|**Augmentation of cardiovascular flow measurements with generative diffusion models**|Fabio Guglietta et.al.|[2611.27917v1](http://arxiv.org/abs/2611.27917v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27917)|
+|**2026-11-20**|**Adesktop learning factory for smart and resilient manufacturing based on digital twin and AI**|Wenxuan Hu et.al.|[2611.27579v1](http://arxiv.org/abs/2611.27579v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27579)|
+|**2026-11-20**|**HermiteTwin: Bicubic Hermite Shell Digital Twins for Contact-Rich Deformable Manipulation**|Kangrui Zhang et.al.|[2611.27282v1](http://arxiv.org/abs/2611.27282v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27282)|
+|**2026-11-20**|**Toward a digital twin of the ICU patient: Forecasting and treatment response in a generative event model**|Zhuoyang Lyu et.al.|[2611.27028v1](http://arxiv.org/abs/2611.27028v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27028)|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
 |**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|
@@ -40,9 +44,9 @@
 |**2026-11-13**|**Large language models as oncology world models**|Julien Vibert et.al.|[2611.18994v1](http://arxiv.org/abs/2611.18994v1)|[link](https://github.com/julienvibert/llm-oncology-world-models)|[αX↑0](https://alphaxiv.org/abs/2611.18994)|
 |**2026-11-13**|**TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation**|Yiting Chen et.al.|[2611.18976v1](http://arxiv.org/abs/2611.18976v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18976)|
 |**2026-11-12**|**Third-Place Solution for the UCF UrbanTwin V2X-Real Track at ECCV 2026: Synthetic Point Cloud Generation and Sim-to-Real 3D Object Detection**|Antong Deng et.al.|[2611.18778v1](http://arxiv.org/abs/2611.18778v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18778)|
-|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.18365)|
+|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.18365)|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Zihao Lu et.al.|[2611.18298v1](http://arxiv.org/abs/2611.18298v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18298)|
-|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17619)|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.17619)|
 |**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598v1](http://arxiv.org/abs/2611.17598v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17598)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|

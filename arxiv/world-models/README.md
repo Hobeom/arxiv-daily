@@ -1,9 +1,33 @@
 ## World Models
 
-### Updated on 2026.11.22
+### Updated on 2026.11.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[2611.27963v1](http://arxiv.org/abs/2611.27963v1)|[link](https://github.com/yuhangdai427/NoPeWorld)|[αX↑0](https://alphaxiv.org/abs/2611.27963)|
+|**2026-11-20**|**What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage**|Hassan Iqbal et.al.|[2611.27939v1](http://arxiv.org/abs/2611.27939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27939)|
+|**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Sarah Parisot et.al.|[2611.27870v1](http://arxiv.org/abs/2611.27870v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27870)|
+|**2026-11-20**|**Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking**|Xuzhe Dang et.al.|[2611.27648v1](http://arxiv.org/abs/2611.27648v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27648)|
+|**2026-11-20**|**Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models**|Nan Tang et.al.|[2611.27645v1](http://arxiv.org/abs/2611.27645v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27645)|
+|**2026-11-20**|**SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning**|Anqi Li et.al.|[2611.27639v1](http://arxiv.org/abs/2611.27639v1)|[link](https://github.com/starrywiki/SOAR)|[αX↑0](https://alphaxiv.org/abs/2611.27639)|
+|**2026-11-20**|**GameScrub: Learning HUD Removal from Real Gameplay with Recovered Targets**|Mohammad Areeb Qazi et.al.|[2611.27547v1](http://arxiv.org/abs/2611.27547v1)|[link](https://github.com/MBZUAI-IFM/GameScrub)|[αX↑0](https://alphaxiv.org/abs/2611.27547)|
+|**2026-11-20**|**PhiJEPA: Denoising Latent Predictions for Visual Representation Learning**|Makoto Yamada et.al.|[2611.27516v1](http://arxiv.org/abs/2611.27516v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27516)|
+|**2026-11-20**|**Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface**|Yang Liu et.al.|[2611.27513v1](http://arxiv.org/abs/2611.27513v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27513)|
+|**2026-11-20**|**ROSWORLD: When Digital Task Competence Meets Physical Execution**|Caoyuan Ma et.al.|[2611.27467v1](http://arxiv.org/abs/2611.27467v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27467)|
+|**2026-11-20**|**Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation**|Kangyi Wu et.al.|[2611.27418v1](http://arxiv.org/abs/2611.27418v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27418)|
+|**2026-11-20**|**Learning Interaction Dynamics via Motion-Region Guidance for Robotic Video World Models**|Yongkang He et.al.|[2611.27344v1](http://arxiv.org/abs/2611.27344v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27344)|
+|**2026-11-20**|**PACE-WM: Parallel World Modeling with Action History for Visual Planning**|Haishan Liu et.al.|[2611.27173v1](http://arxiv.org/abs/2611.27173v1)|[link](https://github.com/LHS180/PACE-WM)|[αX↑0](https://alphaxiv.org/abs/2611.27173)|
+|**2026-11-20**|**PhysForce: Physics-aware Force Control for Interactive Video World Model**|Xuancheng Xu et.al.|[2611.27164v1](http://arxiv.org/abs/2611.27164v1)|[link](https://github.com/xuxuancheng0208/PhysForce_page)|[αX↑0](https://alphaxiv.org/abs/2611.27164)|
+|**2026-11-20**|**Where Structure Enters a World Model: From Predictive Fit to Physical Rollout**|Panayiotis Christou et.al.|[2611.27149v1](http://arxiv.org/abs/2611.27149v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27149)|
+|**2026-11-20**|**OpenRing: Deadlock-Free Execution of Any Planner on AGV Floors with One-Way Lanes**|Zhihao Lin et.al.|[2611.27127v1](http://arxiv.org/abs/2611.27127v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27127)|
+|**2026-11-20**|**A Plan or an Adversarial Example? A Round-Trip Check for Latent World Models**|Huiyuan Tian et.al.|[2611.27124v1](http://arxiv.org/abs/2611.27124v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27124)|
+|**2026-11-20**|**Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics**|Weikang Qiu et.al.|[2611.27029v1](http://arxiv.org/abs/2611.27029v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27029)|
+|**2026-11-20**|**ReactDrive: Self-Reactive Driving World Model**|Yifan Wang et.al.|[2611.27024v1](http://arxiv.org/abs/2611.27024v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27024)|
+|**2026-11-20**|**ViewDreamer: A Robot World Model beyond Fixed Camera Setups**|Ye Mao et.al.|[2611.26981v1](http://arxiv.org/abs/2611.26981v1)|[link](https://github.com/MatchLab-Imperial/ViewDreamer)|[αX↑0](https://alphaxiv.org/abs/2611.26981)|
+|**2026-11-19**|**SonoAtlasWorld: Anatomy-Grounded Ultrasound World Models for Wide-Range Scanning**|Zheyuan Zhang et.al.|[2611.26867v1](http://arxiv.org/abs/2611.26867v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26867)|
+|**2026-11-19**|**Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models**|Tomás Couso Coddou et.al.|[2611.26825v1](http://arxiv.org/abs/2611.26825v1)|[link](https://github.com/tcouso/Skill-JEPA)|[αX↑0](https://alphaxiv.org/abs/2611.26825)|
+|**2026-11-19**|**Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation**|Tanzimul Alam Fahim et.al.|[2611.26717v1](http://arxiv.org/abs/2611.26717v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26717)|
+|**2026-11-19**|**Latent Space Planning with Sequential Monte Carlo**|Hrishikesh Viswanath et.al.|[2611.26706v1](http://arxiv.org/abs/2611.26706v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26706)|
 |**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Yansong Qu et.al.|[2611.26615v1](http://arxiv.org/abs/2611.26615v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26615)|
 |**2026-11-19**|**Coda-DaVinci: Reimagining Video Generation with Code2Video**|Yiyan Ji et.al.|[2611.26595v1](http://arxiv.org/abs/2611.26595v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26595)|
 |**2026-11-19**|**Plan4D: Generative Plannable 4D Worlds**|Hangwei Zhang et.al.|[2611.26516v1](http://arxiv.org/abs/2611.26516v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.26516)|
@@ -55,7 +79,7 @@
 |**2026-11-18**|**LaST1.0: A Unified Latent World-Action Model with Control-Centric SpatioTemporal Reasoning**|Hao Chen et.al.|[2611.23974v1](http://arxiv.org/abs/2611.23974v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23974)|
 |**2026-11-18**|**MitoWorld: A Stochastic World Model of the Single-Cell Cycle under Genetic Perturbation**|Ting Long et.al.|[2611.23953v1](http://arxiv.org/abs/2611.23953v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23953)|
 |**2026-11-18**|**GTA: Generative Tower of Agents for Scalable Holonic Scene Generation**|Zeng Tao et.al.|[2611.23727v1](http://arxiv.org/abs/2611.23727v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23727)|
-|**2026-11-17**|**Reliability by Architecture: Agentic Workflows for Validated Multi-Physics Simulation from Natural Language**|Søren Taverniers et.al.|[2611.23473v1](http://arxiv.org/abs/2611.23473v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.23473)|
+|**2026-11-17**|**Reliability by Architecture: Agentic Workflows for Validated Multi-Physics Simulation from Natural Language**|Søren Taverniers et.al.|[2611.23473v1](http://arxiv.org/abs/2611.23473v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.23473)|
 |**2026-11-17**|**Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D**|Joyjeet Singh et.al.|[2611.23118v1](http://arxiv.org/abs/2611.23118v1)|[link](https://github.com/joyjeet-singh/rwm)|[αX↑0](https://alphaxiv.org/abs/2611.23118)|
 |**2026-11-17**|**Residual-Guided Lightweight Reinforcement Learning for Risk-Aware Trajectory Selection with a Frozen World Model**|Jiaqi Wu et.al.|[2611.22998v1](http://arxiv.org/abs/2611.22998v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22998)|
 |**2026-11-17**|**SpikWM: Efficient End-to-End Spiking World Modeling for Visual Planning**|Shuhan Ye et.al.|[2611.22981v1](http://arxiv.org/abs/2611.22981v1)|[link](https://github.com/ShawnYE618/SpikWM)|[αX↑0](https://alphaxiv.org/abs/2611.22981)|
