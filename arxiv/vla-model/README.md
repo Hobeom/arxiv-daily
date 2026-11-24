@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.23
+### Updated on 2026.11.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -9,12 +9,12 @@
 |**2026-11-20**|**Analysis of Multi-Client Inference Techniques for Vision-Language-Action Models**|Stefan de Lasa et.al.|[2611.26944v1](http://arxiv.org/abs/2611.26944v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26944)|
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596v1](http://arxiv.org/abs/2611.26596v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26596)|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
-|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[αX↑29](https://alphaxiv.org/abs/2611.26444)|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[🤗👍56](https://huggingface.co/papers/2611.26444) [αX↑43](https://alphaxiv.org/abs/2611.26444)|
 |**2026-11-19**|**Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models**|Zixuan Liu et.al.|[2611.26438v1](http://arxiv.org/abs/2611.26438v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26438)|
-|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI et.al.|[2611.26420v1](http://arxiv.org/abs/2611.26420v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.26420)|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI et.al.|[2611.26420v1](http://arxiv.org/abs/2611.26420v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.26420)|
 |**2026-11-19**|**TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action**|Weile Li et.al.|[2611.26405v1](http://arxiv.org/abs/2611.26405v1)|[link](https://github.com/LisavilaLee/TacInno)|[αX↑2](https://alphaxiv.org/abs/2611.26405)|
-|**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242v1](http://arxiv.org/abs/2611.26242v1)|[link](https://github.com/ADEPT-ORG/FastRoverVLA)|[αX↑0](https://alphaxiv.org/abs/2611.26242)|
-|**2026-11-19**|**Teaching Vision-Language-Action Models to Stop Safely**|Zheyuan Liu et.al.|[2611.26239v1](http://arxiv.org/abs/2611.26239v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.26239)|
+|**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242v1](http://arxiv.org/abs/2611.26242v1)|[link](https://github.com/ADEPT-ORG/FastRoverVLA)|[αX↑1](https://alphaxiv.org/abs/2611.26242)|
+|**2026-11-19**|**Teaching Vision-Language-Action Models to Stop Safely**|Zheyuan Liu et.al.|[2611.26239v1](http://arxiv.org/abs/2611.26239v1)|[link](https://github.com/franciscoliu/SAFI)|[🤗👍9](https://huggingface.co/papers/2611.26239) [αX↑3](https://alphaxiv.org/abs/2611.26239)|
 |**2026-11-19**|**One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency**|Jinxi Liu et.al.|[2611.26161v1](http://arxiv.org/abs/2611.26161v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26161)|
 |**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Jiachen Tao et.al.|[2611.25529v1](http://arxiv.org/abs/2611.25529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25529)|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25474)|
@@ -34,14 +34,14 @@
 |**2026-11-18**|**ExecGap: Exploiting Command-Execution Gap for Patch Attacks on Vision-Language-Action Models**|Keke Tang et.al.|[2611.23714v1](http://arxiv.org/abs/2611.23714v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.23714)|
 |**2026-11-18**|**Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need**|Artur Kuramshin et.al.|[2611.23676v1](http://arxiv.org/abs/2611.23676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23676)|
 |**2026-11-17**|**RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO**|Amrit Lal Singh et.al.|[2611.23517v1](http://arxiv.org/abs/2611.23517v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23517)|
-|**2026-11-17**|**BiCAT: Bimanual Coordination Action Tokenization**|Xuanwei Liu et.al.|[2611.23499v1](http://arxiv.org/abs/2611.23499v1)|[link](https://github.com/MAGICLAB-NUS/BiCAT)|[🤗👍3](https://huggingface.co/papers/2611.23499) [αX↑2](https://alphaxiv.org/abs/2611.23499)|
+|**2026-11-17**|**BiCAT: Bimanual Coordination Action Tokenization**|Xuanwei Liu et.al.|[2611.23499v1](http://arxiv.org/abs/2611.23499v1)|[link](https://github.com/MAGICLAB-NUS/BiCAT)|[🤗👍5](https://huggingface.co/papers/2611.23499) [αX↑2](https://alphaxiv.org/abs/2611.23499)|
 |**2026-11-17**|**GRID-UAV: Geometry and Ray-depth Integrated Decision-making for Unmanned Aerial Vehicles**|Anas Anwarul Haq Khan et.al.|[2611.23491v1](http://arxiv.org/abs/2611.23491v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23491)|
 |**2026-11-17**|**Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2611.22880v1](http://arxiv.org/abs/2611.22880v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22880)|
 |**2026-11-17**|**RefCloth: Transferable Adversarial Tablecloths for Vision-Language-Action Models**|Shaozhen Liu et.al.|[2611.22736v1](http://arxiv.org/abs/2611.22736v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22736)|
-|**2026-11-17**|**VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**|Suho Yoo et.al.|[2611.22666v1](http://arxiv.org/abs/2611.22666v1)|[link](https://github.com/suho-yoo/VSpark)|[αX↑16](https://alphaxiv.org/abs/2611.22666)|
+|**2026-11-17**|**VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**|Suho Yoo et.al.|[2611.22666v1](http://arxiv.org/abs/2611.22666v1)|[link](https://github.com/suho-yoo/VSpark)|[🤗👍7](https://huggingface.co/papers/2611.22666) [αX↑16](https://alphaxiv.org/abs/2611.22666)|
 |**2026-11-17**|**VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models**|Arusa Kanwal et.al.|[2611.22453v1](http://arxiv.org/abs/2611.22453v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22453)|
 |**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Mehul Arora et.al.|[2611.22395v1](http://arxiv.org/abs/2611.22395v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22395)|
-|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑135](https://alphaxiv.org/abs/2611.21607)|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍40](https://huggingface.co/papers/2611.21607) [αX↑135](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models**|Jaehyuk Lee et.al.|[2611.21033v1](http://arxiv.org/abs/2611.21033v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21033)|
 |**2026-11-16**|**Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules**|Barkin Dagda et.al.|[2611.20648v1](http://arxiv.org/abs/2611.20648v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20648)|
 |**2026-11-16**|**Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data**|Angel Martinez-Sanchez et.al.|[2611.20631v1](http://arxiv.org/abs/2611.20631v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20631)|

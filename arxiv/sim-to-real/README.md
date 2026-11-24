@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.23
+### Updated on 2026.11.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 |**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|
 |**2026-11-19**|**Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data**|KuanLin Chen et.al.|[2611.26035v1](http://arxiv.org/abs/2611.26035v1)|[link](https://github.com/dipper13579/urbantwin-sim2real-lidar)|[αX↑0](https://alphaxiv.org/abs/2611.26035)|
-|**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25801)|
+|**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.25801)|
 |**2026-11-19**|**PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds**|Shixun Huang et.al.|[2611.25500v1](http://arxiv.org/abs/2611.25500v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25500)|
 |**2026-11-19**|**A four-level executable validation protocol for evaluating LLM-generated topology specifications of physics-based HVAC digital twins**|Younghwan Joo et.al.|[2611.25471v1](http://arxiv.org/abs/2611.25471v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25471)|
 |**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25251)|
@@ -34,7 +34,7 @@
 |**2026-11-15**|**Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark**|Nikolay Dolgov et.al.|[2611.20321v1](http://arxiv.org/abs/2611.20321v1)|[link](https://github.com/lokindoo/spacecraft-pose-estimation)|[🤗👍2](https://huggingface.co/papers/2611.20321) [αX↑0](https://alphaxiv.org/abs/2611.20321)|
 |**2026-11-15**|**GNN-Based Deep Reinforcement Learning for Coastal Emergency Response under Extreme Water Levels**|Marcello Sano et.al.|[2611.20268v1](http://arxiv.org/abs/2611.20268v1)|[link](https://github.com/marcellosano/coastal-emergency-drl)|[αX↑0](https://alphaxiv.org/abs/2611.20268)|
 |**2026-11-15**|**DAPPT: Domain-Aware Policies from Procedural Trajectories for Sim-to-Real Dexterous Tool Use**|Beining Han et.al.|[2611.20202v1](http://arxiv.org/abs/2611.20202v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20202)|
-|**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Jiarui Dong et.al.|[2611.19771v1](http://arxiv.org/abs/2611.19771v1)|[link](https://github.com/AIGeeksGroup/JEPA4R)|[🤗👍4](https://huggingface.co/papers/2611.19771) [αX↑3](https://alphaxiv.org/abs/2611.19771)|
+|**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Jiarui Dong et.al.|[2611.19771v1](http://arxiv.org/abs/2611.19771v1)|[link](https://github.com/AIGeeksGroup/JEPA4R)|[🤗👍5](https://huggingface.co/papers/2611.19771) [αX↑3](https://alphaxiv.org/abs/2611.19771)|
 |**2026-11-15**|**Sim-to-Real Room-Mediated Object-Goal Navigation with ROS 2 and Nav2**|Matthew Chua et.al.|[2611.19720v1](http://arxiv.org/abs/2611.19720v1)|[link](https://github.com/Matthew-K-Chua/rpv-ros2-bridge)|[αX↑0](https://alphaxiv.org/abs/2611.19720)|
 |**2026-11-15**|**Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation**|Xinghao Dong et.al.|[2611.19676v1](http://arxiv.org/abs/2611.19676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19676)|
 |**2026-11-14**|**Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots**|Pol Mestres et.al.|[2611.19616v1](http://arxiv.org/abs/2611.19616v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19616)|

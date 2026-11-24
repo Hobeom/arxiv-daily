@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.11.23
+### Updated on 2026.11.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -24,15 +24,15 @@
 |**2026-11-19**|**Coherent Moment Propagation: Epistemic Uncertainty for Pre-trained Robot Policies**|Miguel Saavedra-Ruiz et.al.|[2611.26855v1](http://arxiv.org/abs/2611.26855v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26855)|
 |**2026-11-19**|**TacHOI: Contact-Aware Object Reconstruction and Tracking for Egocentric Videos**|Jackson Codd et.al.|[2611.26764v1](http://arxiv.org/abs/2611.26764v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26764)|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
-|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Yinhe Wang et.al.|[2611.26519v1](http://arxiv.org/abs/2611.26519v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26519)|
-|**2026-11-19**|**EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL**|Wei Dai et.al.|[2611.26196v1](http://arxiv.org/abs/2611.26196v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26196)|
+|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Yinhe Wang et.al.|[2611.26519v1](http://arxiv.org/abs/2611.26519v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.26519)|
+|**2026-11-19**|**EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL**|Wei Dai et.al.|[2611.26196v1](http://arxiv.org/abs/2611.26196v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.26196)|
 |**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Zhengtu Liang et.al.|[2611.26103v1](http://arxiv.org/abs/2611.26103v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.26103)|
 |**2026-11-19**|**Dynamic Human-Robot Role Allocation through Entropy-Based Monitoring and LLM Reasoning**|Elena Merlo et.al.|[2611.26090v1](http://arxiv.org/abs/2611.26090v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26090)|
-|**2026-11-19**|**Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models**|John Won et.al.|[2611.25980v1](http://arxiv.org/abs/2611.25980v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25980)|
+|**2026-11-19**|**Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models**|John Won et.al.|[2611.25980v1](http://arxiv.org/abs/2611.25980v1)|null|[🤗👍17](https://huggingface.co/papers/2611.25980) [αX↑1](https://alphaxiv.org/abs/2611.25980)|
 |**2026-11-19**|**A $^2$ -VLA: Adapting Vision-Language-Action Policies to New Tools through Agentic Affordance Discovery**|Chenyuan Zhou et.al.|[2611.25656v1](http://arxiv.org/abs/2611.25656v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25656)|
 |**2026-11-19**|**FlashX: Scaling Robotic Experience Reuse for Embodied Agents with CBA-Based NAND Flash**|Yuseon Choi et.al.|[2611.25580v1](http://arxiv.org/abs/2611.25580v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25580)|
 |**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Jiachen Tao et.al.|[2611.25529v1](http://arxiv.org/abs/2611.25529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25529)|
-|**2026-11-18**|**VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions**|Arthur Bucker et.al.|[2611.25199v1](http://arxiv.org/abs/2611.25199v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25199)|
+|**2026-11-18**|**VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions**|Arthur Bucker et.al.|[2611.25199v1](http://arxiv.org/abs/2611.25199v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25199)|
 |**2026-11-20**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938v2](http://arxiv.org/abs/2611.24938v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.24938)|
 |**2026-11-18**|**RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction**|Wenwei Lin et.al.|[2611.24816v1](http://arxiv.org/abs/2611.24816v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.24816)|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhaolu Wang et.al.|[2611.24731v1](http://arxiv.org/abs/2611.24731v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.24731)|
@@ -50,7 +50,7 @@
 |**2026-11-18**|**RecallFlow: Episodic Memory as the Source Distribution of Generative Robot Policies**|Xuji Zhang et.al.|[2611.23731v1](http://arxiv.org/abs/2611.23731v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23731)|
 |**2026-11-17**|**LoRN: Low-Rank Noise Steering for Generative Robot Policies**|Wei Liu et.al.|[2611.23628v1](http://arxiv.org/abs/2611.23628v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.23628)|
 |**2026-11-17**|**LuxTac: A Flexible, Scalable, and Open-Source Optical Taxel Array with Distributed Three-Axis Force Sensing for Tactile Robot Learning**|Md Rakibul Islam Prince et.al.|[2611.23575v1](http://arxiv.org/abs/2611.23575v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23575)|
-|**2026-11-17**|**TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation**|Haosong Peng et.al.|[2611.23143v1](http://arxiv.org/abs/2611.23143v1)|[link](https://github.com/Livioni/TCP4D)|[🤗👍25](https://huggingface.co/papers/2611.23143) [αX↑2](https://alphaxiv.org/abs/2611.23143)|
+|**2026-11-17**|**TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation**|Haosong Peng et.al.|[2611.23143v1](http://arxiv.org/abs/2611.23143v1)|[link](https://github.com/Livioni/TCP4D)|[🤗👍24](https://huggingface.co/papers/2611.23143) [αX↑2](https://alphaxiv.org/abs/2611.23143)|
 |**2026-11-17**|**Dynamic Task Allocation with Dialogue**|Matthew Groholski et.al.|[2611.23119v1](http://arxiv.org/abs/2611.23119v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23119)|
 |**2026-11-17**|**Event-Based Dynamic Lip Region Estimation During Speech**|Hamze Hammami et.al.|[2611.23111v1](http://arxiv.org/abs/2611.23111v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23111)|
 |**2026-11-18**|**RFW-S: Everyday Deformable Objects with Independent Simulation Verification**|Jiarui Guo et.al.|[2611.23056v2](http://arxiv.org/abs/2611.23056v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.23056)|
@@ -62,9 +62,9 @@
 |**2026-11-17**|**Where Do Human-to-Robot Transfer Gains Come From?**|Jiachen Li et.al.|[2611.22302v1](http://arxiv.org/abs/2611.22302v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22302)|
 |**2026-11-17**|**When the World Is the Test Suite: Agentic Intelligence for the Physical World**|Kaixin Li et.al.|[2611.22291v1](http://arxiv.org/abs/2611.22291v1)|[link](https://github.com/PhysicalWorldAgent/Awesome-PhysicalWorldAgent)|[αX↑3](https://alphaxiv.org/abs/2611.22291)|
 |**2026-11-17**|**ALERT: Extending Humanoid Motion Trackers with a General and Lightweight Human Avoidance Pipeline**|Zhaoyang Li et.al.|[2611.22258v1](http://arxiv.org/abs/2611.22258v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22258)|
-|**2026-11-16**|**HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning**|Javad Amirian et.al.|[2611.21938v1](http://arxiv.org/abs/2611.21938v1)|null|[🤗👍4](https://huggingface.co/papers/2611.21938) [αX↑1](https://alphaxiv.org/abs/2611.21938)|
+|**2026-11-16**|**HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning**|Javad Amirian et.al.|[2611.21938v1](http://arxiv.org/abs/2611.21938v1)|null|[🤗👍5](https://huggingface.co/papers/2611.21938) [αX↑1](https://alphaxiv.org/abs/2611.21938)|
 |**2026-11-16**|**Every Camera Grows Up: Camera-Height Regression in Interactive Video World Models**|Sheng Lu et.al.|[2611.21782v1](http://arxiv.org/abs/2611.21782v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21782)|
-|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍39](https://huggingface.co/papers/2611.21607) [αX↑135](https://alphaxiv.org/abs/2611.21607)|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[🤗👍40](https://huggingface.co/papers/2611.21607) [αX↑135](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-16**|**Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits**|Henry Zheng et.al.|[2611.21485v1](http://arxiv.org/abs/2611.21485v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21485)|
 |**2026-11-16**|**Seeing Isn't Resolving: Visual and Linguistic Disambiguation with Conversational Grounding**|Edoardo Cecchinato et.al.|[2611.21183v1](http://arxiv.org/abs/2611.21183v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21183)|
 |**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Yongji Fu et.al.|[2611.20950v1](http://arxiv.org/abs/2611.20950v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.20950)|
