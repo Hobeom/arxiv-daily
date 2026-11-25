@@ -1,18 +1,36 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.24
+### Updated on 2026.11.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137v1](http://arxiv.org/abs/2611.33137v1)|[link](https://github.com/liu115/physicl-scenes)|[αX↑0](https://alphaxiv.org/abs/2611.33137)|
+|**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[αX↑2](https://alphaxiv.org/abs/2611.33010)|
+|**2026-11-24**|**What Does a Skill Vocabulary Cost? A Closed-Loop Decomposition over Demonstrated Motions**|Maximilian Xiling Li et.al.|[2611.32858v1](http://arxiv.org/abs/2611.32858v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32858)|
+|**2026-11-24**|**Knocked Off Course: Tracing Uncommanded Motion from Perception to Action in Embodied VLAs**|Dan Zlotnikov et.al.|[2611.32705v1](http://arxiv.org/abs/2611.32705v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32705)|
+|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v1](http://arxiv.org/abs/2611.32665v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32665)|
+|**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Hongjia Liu et.al.|[2611.32654v1](http://arxiv.org/abs/2611.32654v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32654)|
+|**2026-11-24**|**MXI-MemICL: Towards In-Context Robot Manipulation through Self-Retrieved Interaction Memory**|Jialong Peng et.al.|[2611.32564v1](http://arxiv.org/abs/2611.32564v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32564)|
+|**2026-11-24**|**Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\% Poisoning**|Simin Huang et.al.|[2611.32304v1](http://arxiv.org/abs/2611.32304v1)|[link](https://github.com/vla-attack/Sparse_Poison_Strong_Hijack)|[αX↑0](https://alphaxiv.org/abs/2611.32304)|
+|**2026-11-24**|**EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances**|Yiming Zeng et.al.|[2611.32260v1](http://arxiv.org/abs/2611.32260v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32260)|
+|**2026-11-24**|**NativeDrive: Native Multimodal Foundations for Autonomous Driving**|Zehua Fan et.al.|[2611.32216v1](http://arxiv.org/abs/2611.32216v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32216)|
+|**2026-11-24**|**Seeing Is Not Reaching: Instruction Shortcuts Override Visual Grounding in Vision-Language-Action Models**|Qing Zhang et.al.|[2611.32206v1](http://arxiv.org/abs/2611.32206v1)|[link](https://github.com/QZhang2111/psg)|[αX↑0](https://alphaxiv.org/abs/2611.32206)|
+|**2026-11-24**|**RoboHarness-RL: Agentic Reinforcement Learning for VLM-Based Robot Manipulation**|Liyang Li et.al.|[2611.32016v1](http://arxiv.org/abs/2611.32016v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32016)|
+|**2026-11-24**|**Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models**|Yifeng Lin et.al.|[2611.31954v1](http://arxiv.org/abs/2611.31954v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31954)|
+|**2026-11-24**|**Beyond Expert Replay: Cross-Instruction Anchoring for Continual Vision-Language-Action Learning**|Ziyang Chen et.al.|[2611.31903v1](http://arxiv.org/abs/2611.31903v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31903)|
+|**2026-11-23**|**FabricBench: A Standardized Policy Benchmark for Bimanual Fabric Manipulation with a Contact-Driven Deformable Simulator**|Wenkang Hu et.al.|[2611.31577v1](http://arxiv.org/abs/2611.31577v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31577)|
+|**2026-11-23**|**Hi3R-VLA: Grounding Semantics and Actions in 3D**|Shizhe Chen et.al.|[2611.31535v1](http://arxiv.org/abs/2611.31535v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31535)|
+|**2026-11-23**|**Near-Zero Forgetting Is Not Enough: Out-of-Distribution Robustness in Continual Learning of Pretrained VLAs**|Adrià Ruiz et.al.|[2611.31511v1](http://arxiv.org/abs/2611.31511v1)|[link](https://github.com/adrrp/vla-ood-robustness)|[αX↑0](https://alphaxiv.org/abs/2611.31511)|
+|**2026-11-23**|**Ground, Guide, Act: Improving VLA Spatial Generalization with Multimodal Foundation Models**|Guangting Zheng et.al.|[2611.31452v1](http://arxiv.org/abs/2611.31452v1)|[link](https://github.com/Tom-zgt/MFM-VLA)|[αX↑0](https://alphaxiv.org/abs/2611.31452)|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240v1](http://arxiv.org/abs/2611.31240v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31240)|
-|**2026-11-23**|**WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models**|Zien Wang et.al.|[2611.31126v1](http://arxiv.org/abs/2611.31126v1)|[link](https://github.com/Kingzein/WeaveVLA)|[αX↑0](https://alphaxiv.org/abs/2611.31126)|
+|**2026-11-24**|**WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models**|Zien Wang et.al.|[2611.31126v2](http://arxiv.org/abs/2611.31126v2)|[link](https://github.com/Kingzein/WeaveVLA)|[αX↑0](https://alphaxiv.org/abs/2611.31126)|
 |**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi et.al.|[2611.31099v1](http://arxiv.org/abs/2611.31099v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31099)|
 |**2026-11-23**|**WorldLeague: Benchmarking Physical Agency**|Xinyang Zhou et.al.|[2611.30989v1](http://arxiv.org/abs/2611.30989v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30989)|
 |**2026-11-23**|**GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models**|Le Yang et.al.|[2611.30632v1](http://arxiv.org/abs/2611.30632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30632)|
 |**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Puzhen Yuan et.al.|[2611.30490v1](http://arxiv.org/abs/2611.30490v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30490)|
 |**2026-11-23**|**OVOGO: Offline Value-Guided On-Policy Generative Optimization for Flow-Based Vision-Language-Action Models**|Rongzheng Yang et.al.|[2611.30477v1](http://arxiv.org/abs/2611.30477v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30477)|
 |**2026-11-23**|**SOAR: temporal Structure-guided One-step Action generation for Robotic manipulation**|Di Xin et.al.|[2611.30363v1](http://arxiv.org/abs/2611.30363v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30363)|
-|**2026-11-23**|**ConsisX: Cross-View Consistency Thinking in 3D for Vision-Language-Action Models**|Yunhe Zhang et.al.|[2611.30308v1](http://arxiv.org/abs/2611.30308v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30308)|
+|**2026-11-24**|**ConsisX: Cross-View Consistency Thinking in 3D for Vision-Language-Action Models**|Yunhe Zhang et.al.|[2611.30308v2](http://arxiv.org/abs/2611.30308v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.30308)|
 |**2026-11-23**|**Beyond Which: Where, How, and When in Vision-Language-Action Models**|Yunhe Zhang et.al.|[2611.30291v1](http://arxiv.org/abs/2611.30291v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30291)|
 |**2026-11-23**|**RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See**|Yunbei Zhang et.al.|[2611.30209v1](http://arxiv.org/abs/2611.30209v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30209)|
 |**2026-11-23**|**Quantizing in the Loop: Drift-Aware Ultra-Low-Bit Vision-Language-Action Models**|Yanlong Chen et.al.|[2611.30178v1](http://arxiv.org/abs/2611.30178v1)|[link](https://github.com/ForeverBlue816/LoopQ)|[αX↑0](https://alphaxiv.org/abs/2611.30178)|

@@ -1,9 +1,19 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.24
+### Updated on 2026.11.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32964)|
+|**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
+|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32510)|
+|**2026-11-24**|**CodeWAM: A Code World Action Model for End-to-End Autonomous Driving**|Zhisheng Chen et.al.|[2611.32483v1](http://arxiv.org/abs/2611.32483v1)|[link](https://github.com/Zhisheng-researcher/CodeWAM)|[αX↑0](https://alphaxiv.org/abs/2611.32483)|
+|**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473v1](http://arxiv.org/abs/2611.32473v1)|[link](https://github.com/cszhilu1998/OmniPersist)|[αX↑0](https://alphaxiv.org/abs/2611.32473)|
+|**2026-11-24**|**Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation**|Jiewen Hou et.al.|[2611.32400v1](http://arxiv.org/abs/2611.32400v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32400)|
+|**2026-11-24**|**NativeDrive: Native Multimodal Foundations for Autonomous Driving**|Zehua Fan et.al.|[2611.32216v1](http://arxiv.org/abs/2611.32216v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32216)|
+|**2026-11-24**|**Instant LiDAR: Feed-Forward Gaussian Reconstruction for LiDAR Simulation**|Xin Kang et.al.|[2611.32042v1](http://arxiv.org/abs/2611.32042v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32042)|
+|**2026-11-24**|**VLG-Drive: Unifying Vision-Language and Geometric Priors for Autonomous Driving**|Junge Zhang et.al.|[2611.31952v1](http://arxiv.org/abs/2611.31952v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31952)|
+|**2026-11-24**|**Beyond the Benchmark: Localizing Released Autonomous Driving Models to Real Vehicles**|Morui Zhu et.al.|[2611.31814v1](http://arxiv.org/abs/2611.31814v1)|[link](https://github.com/microsoft/Microsoft-Rocketbox)|[αX↑0](https://alphaxiv.org/abs/2611.31814)|
 |**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240v1](http://arxiv.org/abs/2611.31240v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31240)|
 |**2026-11-23**|**Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing?**|Cheng-Ru Chou et.al.|[2611.30836v1](http://arxiv.org/abs/2611.30836v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30836)|
 |**2026-11-23**|**Coordinating Perception and Planning for Test-Time Adaptation in End-to-End Driving under Distribution Shifts**|Shiyu Fang et.al.|[2611.30739v1](http://arxiv.org/abs/2611.30739v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30739)|

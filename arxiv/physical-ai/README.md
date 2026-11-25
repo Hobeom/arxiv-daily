@@ -1,9 +1,19 @@
 ## Physical AI
 
-### Updated on 2026.11.24
+### Updated on 2026.11.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Zehan Zheng et.al.|[2611.33145v1](http://arxiv.org/abs/2611.33145v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33145)|
+|**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137v1](http://arxiv.org/abs/2611.33137v1)|[link](https://github.com/liu115/physicl-scenes)|[αX↑0](https://alphaxiv.org/abs/2611.33137)|
+|**2026-11-24**|**EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI**|Erfei Cui et.al.|[2611.33054v1](http://arxiv.org/abs/2611.33054v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33054)|
+|**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[αX↑2](https://alphaxiv.org/abs/2611.33010)|
+|**2026-11-24**|**Embodied Intelligence for Spectrum Map Construction in Low-Altitude Wireless Networks**|Hongtao Liang et.al.|[2611.32799v1](http://arxiv.org/abs/2611.32799v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32799)|
+|**2026-11-24**|**DiffAnchor: Anchor-Space Diffusion for Monocular 3D Hand Pose Estimation**|Changlong Jiang et.al.|[2611.32513v1](http://arxiv.org/abs/2611.32513v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32513)|
+|**2026-11-24**|**ActiveBridge: Scaling Active Prior for Robots through Egocentric Perception-Interaction Modeling**|Zixiao Gu et.al.|[2611.32098v1](http://arxiv.org/abs/2611.32098v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32098)|
+|**2026-11-24**|**Instant LiDAR: Feed-Forward Gaussian Reconstruction for LiDAR Simulation**|Xin Kang et.al.|[2611.32042v1](http://arxiv.org/abs/2611.32042v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32042)|
+|**2026-11-24**|**Two-Stage Post-Training for Flow-Based Embodied Foundation Models**|Jiaming Zhang et.al.|[2611.31850v1](http://arxiv.org/abs/2611.31850v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31850)|
+|**2026-11-24**|**Sparks of Weight-Space Programming for Robot Foundation Models**|Kyle Coelho et.al.|[2611.31715v1](http://arxiv.org/abs/2611.31715v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31715)|
 |**2026-11-23**|**OmniV-Bench: Can MLLMs Comprehend Immersive Spatio-temporal Scenes?**|Liu Yang et.al.|[2611.31022v1](http://arxiv.org/abs/2611.31022v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31022)|
 |**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.31002)|
 |**2026-11-23**|**WorldLeague: Benchmarking Physical Agency**|Xinyang Zhou et.al.|[2611.30989v1](http://arxiv.org/abs/2611.30989v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30989)|
@@ -23,8 +33,8 @@
 |**2026-11-20**|**Opto-Electronic Hybrid Reinforcement Learning Based on MZI for Robotic Manipulator Control**|Mengting Yu et.al.|[2611.27129v1](http://arxiv.org/abs/2611.27129v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27129)|
 |**2026-11-20**|**Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics**|Weikang Qiu et.al.|[2611.27029v1](http://arxiv.org/abs/2611.27029v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27029)|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
-|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[🤗👍56](https://huggingface.co/papers/2611.26444) [αX↑43](https://alphaxiv.org/abs/2611.26444)|
-|**2026-11-19**|**Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation**|Kang Wang et.al.|[2611.26046v1](http://arxiv.org/abs/2611.26046v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26046)|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444v1](http://arxiv.org/abs/2611.26444v1)|[link](https://github.com/Mind2Act/Mind2Act_World)|[🤗👍56](https://huggingface.co/papers/2611.26444) [αX↑50](https://alphaxiv.org/abs/2611.26444)|
+|**2026-11-24**|**Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation**|Kang Wang et.al.|[2611.26046v2](http://arxiv.org/abs/2611.26046v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.26046)|
 |**2026-11-19**|**DACA: Dual-Anchor Collaborative Agent for Zero-Shot 3D Visual Grounding**|Jiaming Liu et.al.|[2611.25722v1](http://arxiv.org/abs/2611.25722v1)|[link](https://github.com/liujia99/DACA)|[αX↑0](https://alphaxiv.org/abs/2611.25722)|
 |**2026-11-19**|**Trajectory-Calibrated Merging of Embodied Policies**|Wenshuo Chen et.al.|[2611.25575v1](http://arxiv.org/abs/2611.25575v1)|[link](https://github.com/velixjin/TCR-Merging)|[αX↑1](https://alphaxiv.org/abs/2611.25575)|
 |**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Jiachen Tao et.al.|[2611.25529v1](http://arxiv.org/abs/2611.25529v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25529)|
@@ -364,6 +374,7 @@
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
 |**2026-05-31**|**Position: Good Embodied Reward Models Need Bad Behavior Data**|Ran Tian et.al.|[2606.01036v1](http://arxiv.org/abs/2606.01036v1)|null|[αX↑11](https://alphaxiv.org/abs/2606.01036)|
 |**2026-05-23**|**Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems**|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|null|[🤗👍6](https://huggingface.co/papers/2606.00090) [αX↑3](https://alphaxiv.org/abs/2606.00090)|
+|**2026-05-27**|**GEM: Generative Supervision Helps Embodied Intelligence**|Ruowen Zhao et.al.|[2605.28548v1](http://arxiv.org/abs/2605.28548v1)|[link](https://github.com/zhaorw02/GEM)|[🤗👍32](https://huggingface.co/papers/2605.28548) [αX↑40](https://alphaxiv.org/abs/2605.28548)|
 |**2026-08-03**|**ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models**|Arash Akbari et.al.|[2605.24011v3](http://arxiv.org/abs/2605.24011v3)|[link](https://github.com/arashakb/ActQuant)|[αX↑15](https://alphaxiv.org/abs/2605.24011)|
 |**2026-05-19**|**PhyWorld: Physics-Faithful World Model for Video Generation**|Pu Zhao et.al.|[2605.19242v1](http://arxiv.org/abs/2605.19242v1)|null|[αX↑30](https://alphaxiv.org/abs/2605.19242)|
 |**2026-05-18**|**WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform**|Yu Shang et.al.|[2605.17912v1](http://arxiv.org/abs/2605.17912v1)|null|[αX↑32](https://alphaxiv.org/abs/2605.17912)|
