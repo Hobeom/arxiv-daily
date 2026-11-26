@@ -1,10 +1,23 @@
 ## Robot & Agent
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158v1](http://arxiv.org/abs/2611.33158v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33158)|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675v1](http://arxiv.org/abs/2611.34675v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34675)|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671v1](http://arxiv.org/abs/2611.34671v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34671)|
+|**2026-11-25**|**Decision-Aligned Value Learning for Selective Adoption of EEG Fusion in Human-Robot Collaboration**|Xinjia Yu et.al.|[2611.34451v1](http://arxiv.org/abs/2611.34451v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34451)|
+|**2026-11-25**|**Embodied Lower-limb Exoskeleton Assistance: Survey, Challenges, and Perspectives**|Xiao-Yin Liu et.al.|[2611.34408v1](http://arxiv.org/abs/2611.34408v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34408)|
+|**2026-11-25**|**AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos**|Yuchen Zhou et.al.|[2611.34347v1](http://arxiv.org/abs/2611.34347v1)|[link](https://github.com/AIRIS-bench/AIRIS)|[αX↑0](https://alphaxiv.org/abs/2611.34347)|
+|**2026-11-25**|**LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions**|Chaewon Kim et.al.|[2611.34328v1](http://arxiv.org/abs/2611.34328v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34328)|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Xuetao Li et.al.|[2611.34302v1](http://arxiv.org/abs/2611.34302v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34302)|
+|**2026-11-25**|**Variation-aware Temporal Correspondence for Self-Supervised Video Representation Learning**|Yang Liu et.al.|[2611.34220v1](http://arxiv.org/abs/2611.34220v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34220)|
+|**2026-11-25**|**Ground Your Steps: Optimizing Sampling Schedules in Flow Matching Robot Policies**|Licheng Yang et.al.|[2611.34148v1](http://arxiv.org/abs/2611.34148v1)|[link](https://github.com/D-Robotics-AI-Lab/GroundYourSteps)|[αX↑0](https://alphaxiv.org/abs/2611.34148)|
+|**2026-11-25**|**WISER-RL: A Wake-Sleep Learning Mechanism for Robot Reinforcement Learning from One Demonstration**|Kwunhang Wong et.al.|[2611.34043v1](http://arxiv.org/abs/2611.34043v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34043)|
+|**2026-11-25**|**X-World: Transferring Video Priors to Cross-Embodiment Robot Control**|Chun Gu et.al.|[2611.33914v1](http://arxiv.org/abs/2611.33914v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33914)|
+|**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Zhaoxin Fan et.al.|[2611.33819v1](http://arxiv.org/abs/2611.33819v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33819)|
+|**2026-11-25**|**DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data**|Wongyun Yu et.al.|[2611.33579v1](http://arxiv.org/abs/2611.33579v1)|[link](https://github.com/wongyun-yu/DexEngine)|[αX↑0](https://alphaxiv.org/abs/2611.33579)|
+|**2026-11-25**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158v2](http://arxiv.org/abs/2611.33158v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.33158)|
 |**2026-11-24**|**Exploratory Midtraining for Robot Policies**|Kshitiz et.al.|[2611.33130v1](http://arxiv.org/abs/2611.33130v1)|[link](https://github.com/kshitiz-1225/exploratory-midtraining-robot-policies)|[αX↑0](https://alphaxiv.org/abs/2611.33130)|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[αX↑2](https://alphaxiv.org/abs/2611.33010)|
 |**2026-11-24**|**VidForce: Predicting Force-Aware Articulation by Observing Humans**|Rafay Mohiuddin et.al.|[2611.32967v1](http://arxiv.org/abs/2611.32967v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32967)|
@@ -34,11 +47,11 @@
 |**2026-11-23**|**SWEEP-Bench: Do Embodied Policies Act on the Speed They See?**|Hiroaki Honda et.al.|[2611.30637v1](http://arxiv.org/abs/2611.30637v1)|[link](https://github.com/Damin3927/SWEEP-Bench)|[🤗👍1](https://huggingface.co/papers/2611.30637) [αX↑1](https://alphaxiv.org/abs/2611.30637)|
 |**2026-11-23**|**VeriTouch: Verified Visuo-Tactile World Models that Improve Robot Policy Learning**|Shuxun Wang et.al.|[2611.30572v1](http://arxiv.org/abs/2611.30572v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30572)|
 |**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Puzhen Yuan et.al.|[2611.30490v1](http://arxiv.org/abs/2611.30490v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30490)|
-|**2026-11-23**|**RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See**|Yunbei Zhang et.al.|[2611.30209v1](http://arxiv.org/abs/2611.30209v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30209)|
+|**2026-11-24**|**RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See**|Yunbei Zhang et.al.|[2611.30209v2](http://arxiv.org/abs/2611.30209v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.30209)|
 |**2026-11-23**|**Counterfactual Velocity Steering for World Action Models**|Xufeng Zhan et.al.|[2611.30204v1](http://arxiv.org/abs/2611.30204v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30204)|
 |**2026-11-23**|**Audio-Visual Rearrangement**|Ruohao Guo et.al.|[2611.30171v1](http://arxiv.org/abs/2611.30171v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30171)|
 |**2026-11-23**|**LeadVLA: Learning Follower-Aware Route Execution for Robot Leading**|Tianle Zeng et.al.|[2611.30149v1](http://arxiv.org/abs/2611.30149v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30149)|
-|**2026-11-23**|**RoboThink: Let the Agent Think, Let the Policy Act**|Yunbei Zhang et.al.|[2611.30111v1](http://arxiv.org/abs/2611.30111v1)|null|[αX↑56](https://alphaxiv.org/abs/2611.30111)|
+|**2026-11-24**|**RoboThink: Let the Agent Think, Let the Policy Act**|Yunbei Zhang et.al.|[2611.30111v2](http://arxiv.org/abs/2611.30111v2)|null|[αX↑56](https://alphaxiv.org/abs/2611.30111)|
 |**2026-11-24**|**Policy-intrinsic Demonstration Curation**|Sunjae Jeong et.al.|[2611.30099v2](http://arxiv.org/abs/2611.30099v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.30099)|
 |**2026-11-23**|**CARE-3D: Reinforcement Learning for Evidence Grounded Agentic Reasoning in Situated 3D Scenes**|Xiaoqian Hu et.al.|[2611.29969v1](http://arxiv.org/abs/2611.29969v1)|[link](https://github.com/xiaoqian-UQ/CARE-3D}{CARE-3D})|[αX↑0](https://alphaxiv.org/abs/2611.29969)|
 |**2026-11-23**|**Ego2Wrist: Bootstrapping Wrist-View Synthesis from Egocentric Video**|Ziyao Zeng et.al.|[2611.29850v1](http://arxiv.org/abs/2611.29850v1)|[link](https://github.com/Adonis-galaxy/Ego2Wrist)|[αX↑0](https://alphaxiv.org/abs/2611.29850)|
@@ -51,7 +64,7 @@
 |**2026-11-21**|**NAT: Scaling Causal Neural Action Tokenizers Across Embodiments**|Ahad Jawaid et.al.|[2611.28873v1](http://arxiv.org/abs/2611.28873v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28873)|
 |**2026-11-21**|**LIBERO-MOR: A Multimodal Robustness Benchmark Across the Vision-Language-Action Pipeline**|Qihang Chen et.al.|[2611.28867v1](http://arxiv.org/abs/2611.28867v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28867)|
 |**2026-11-21**|**DeRail: Escaping Trajectory Priors via Counterfactual Action Steering for Mid-Execution Instruction Switching**|Yitong Hong et.al.|[2611.28803v1](http://arxiv.org/abs/2611.28803v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28803)|
-|**2026-11-21**|**Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts**|Chendong Xiang et.al.|[2611.28732v1](http://arxiv.org/abs/2611.28732v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.28732)|
+|**2026-11-25**|**Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts**|Chendong Xiang et.al.|[2611.28732v2](http://arxiv.org/abs/2611.28732v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.28732)|
 |**2026-11-21**|**AsyncMixVLA: Runtime Asynchronous Robot Policy Switching for Adaptation to Dynamic Environments**|Tamoghno Das et.al.|[2611.28585v1](http://arxiv.org/abs/2611.28585v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28585)|
 |**2026-11-21**|**WorldWeave: Rethinking Embodied Navigation through Cross-Task World Modeling**|Xuan Yao et.al.|[2611.28553v1](http://arxiv.org/abs/2611.28553v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28553)|
 |**2026-11-20**|**ScaleEvals: Scaling Generalist Policy Evaluation through Reset-Free Autonomous Play**|Amitoj Sandhu et.al.|[2611.28411v1](http://arxiv.org/abs/2611.28411v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.28411)|

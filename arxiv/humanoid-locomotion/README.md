@@ -1,11 +1,21 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597v1](http://arxiv.org/abs/2611.34597v1)|[link](https://github.com/trustworthyrobotics/microMPC)|[αX↑0](https://alphaxiv.org/abs/2611.34597)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing**|Shuai Yuan et.al.|[2611.34519v1](http://arxiv.org/abs/2611.34519v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34519)|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34449)|
+|**2026-11-25**|**Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot**|Spencer Sweeney et.al.|[2611.34246v1](http://arxiv.org/abs/2611.34246v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34246)|
+|**2026-11-25**|**CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models**|Woojin Kim et.al.|[2611.33911v1](http://arxiv.org/abs/2611.33911v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33911)|
+|**2026-11-25**|**Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid**|Rikuto Hidaka et.al.|[2611.33828v1](http://arxiv.org/abs/2611.33828v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33828)|
+|**2026-11-25**|**A general-purpose safe manipulator planning framework for diverse environments without retraining**|Mingkang Long et.al.|[2611.33721v1](http://arxiv.org/abs/2611.33721v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33721)|
+|**2026-11-24**|**An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining**|Nathan A. C. Hogg et.al.|[2611.33407v1](http://arxiv.org/abs/2611.33407v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33407)|
 |**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32944)|
-|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v1](http://arxiv.org/abs/2611.32665v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32665)|
+|**2026-11-25**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v2](http://arxiv.org/abs/2611.32665v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.32665)|
 |**2026-11-24**|**BARE: Body-Aware Reflexive Evasion for Humanoid Robots**|Zihao Li et.al.|[2611.32642v1](http://arxiv.org/abs/2611.32642v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32642)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
 |**2026-11-24**|**Does Research-Paper Context Improve LLM-Generated Quadruped Navigation? An Exploratory Simulation Study**|Barnabas Juhasz et.al.|[2611.32381v1](http://arxiv.org/abs/2611.32381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32381)|

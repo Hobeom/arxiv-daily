@@ -1,9 +1,17 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655v1](http://arxiv.org/abs/2611.34655v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34655)|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614v1](http://arxiv.org/abs/2611.34614v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34614)|
+|**2026-11-25**|**Compact Vision-Language Navigation in Continuous Environmentsvia On-Policy Training and Route-Bearing Output**|Reshad Ul Karim et.al.|[2611.34561v1](http://arxiv.org/abs/2611.34561v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34561)|
+|**2026-11-25**|**Recoverability policy editing for closed-loop safety in autonomous driving**|Yang Guan et.al.|[2611.34403v1](http://arxiv.org/abs/2611.34403v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34403)|
+|**2026-11-25**|**Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction**|Yiheng Han et.al.|[2611.33964v1](http://arxiv.org/abs/2611.33964v1)|[link](https://github.com/Ang-Sheep/Embodied-VGGT)|[αX↑0](https://alphaxiv.org/abs/2611.33964)|
+|**2026-11-25**|**GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting**|Shijun Guo et.al.|[2611.33693v1](http://arxiv.org/abs/2611.33693v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33693)|
+|**2026-11-25**|**Fine-Grained Ego-Vehicle Action Recognition from Driving Video**|Zhipeng Bao et.al.|[2611.33654v1](http://arxiv.org/abs/2611.33654v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33654)|
+|**2026-11-24**|**OnCue: Generating Safety-Critical Driving Scenarios under Occlusion with Temporal Control**|Kailang Ma et.al.|[2611.33439v1](http://arxiv.org/abs/2611.33439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33439)|
 |**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32964)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
 |**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32510)|

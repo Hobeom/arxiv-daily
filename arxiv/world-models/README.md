@@ -1,9 +1,41 @@
 ## World Models
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models**|Simon Baur et.al.|[2611.34830v1](http://arxiv.org/abs/2611.34830v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34830)|
+|**2026-11-25**|**Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models**|Ajmain Istiak Apon et.al.|[2611.34739v1](http://arxiv.org/abs/2611.34739v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34739)|
+|**2026-11-25**|**WorldInteract: Controllable Streaming Video Generation for Multi-Material Interactions**|Ahmed Hatem et.al.|[2611.34730v1](http://arxiv.org/abs/2611.34730v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34730)|
+|**2026-11-25**|**ShowNow: Fine-Grained Speculative Streaming for Responsive World Models**|Yiren Song et.al.|[2611.34693v1](http://arxiv.org/abs/2611.34693v1)|[link](https://github.com/showlab/ShowNow)|[αX↑0](https://alphaxiv.org/abs/2611.34693)|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671v1](http://arxiv.org/abs/2611.34671v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34671)|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656v1](http://arxiv.org/abs/2611.34656v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34656)|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644v1](http://arxiv.org/abs/2611.34644v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34644)|
+|**2026-11-25**|**Blind spatially varying PSF estimation for fluorescence microscopy**|Minh Hai Nguyen et.al.|[2611.34607v1](http://arxiv.org/abs/2611.34607v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34607)|
+|**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597v1](http://arxiv.org/abs/2611.34597v1)|[link](https://github.com/trustworthyrobotics/microMPC)|[αX↑0](https://alphaxiv.org/abs/2611.34597)|
+|**2026-11-25**|**Long-Horizon Planning with Latent World Models via Graph Anchors**|Syed Nazmus Sakib et.al.|[2611.34509v1](http://arxiv.org/abs/2611.34509v1)|[link](https://github.com/syed-nazmus-sakib/graph-anchors)|[αX↑0](https://alphaxiv.org/abs/2611.34509)|
+|**2026-11-25**|**Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model**|Zanyi Wang et.al.|[2611.34435v1](http://arxiv.org/abs/2611.34435v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34435)|
+|**2026-11-25**|**Can Visual World Models See Force?**|Felix Tristram et.al.|[2611.34422v1](http://arxiv.org/abs/2611.34422v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34422)|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Xuetao Li et.al.|[2611.34302v1](http://arxiv.org/abs/2611.34302v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34302)|
+|**2026-11-25**|**Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models**|Guangyu Liu et.al.|[2611.34288v1](http://arxiv.org/abs/2611.34288v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34288)|
+|**2026-11-25**|**Loop4D: Embodied World Modeling with 4D VAEs and Looped Diffusion Transformers**|Gen Li et.al.|[2611.34199v1](http://arxiv.org/abs/2611.34199v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34199)|
+|**2026-11-25**|**WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics**|Ziyuan Chu et.al.|[2611.34130v1](http://arxiv.org/abs/2611.34130v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34130)|
+|**2026-11-25**|**A Simple Yet Effective Agent for Open-World Aerial Object Search**|Jitai Hao et.al.|[2611.34115v1](http://arxiv.org/abs/2611.34115v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34115)|
+|**2026-11-25**|**CARE-WM: Same-Horizon Self-Conditioning with Constraint-Adaptive Regularization for Latent World Models**|Yuchen Lin et.al.|[2611.34054v1](http://arxiv.org/abs/2611.34054v1)|[link](https://github.com/KaidRommel/CARE-WM)|[αX↑0](https://alphaxiv.org/abs/2611.34054)|
+|**2026-11-25**|**Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation**|Lennox Wei et.al.|[2611.33993v1](http://arxiv.org/abs/2611.33993v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33993)|
+|**2026-11-25**|**CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching**|Shizhuang Wang et.al.|[2611.33939v1](http://arxiv.org/abs/2611.33939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33939)|
+|**2026-11-25**|**Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures**|Zhiyue Zhao et.al.|[2611.33925v1](http://arxiv.org/abs/2611.33925v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.33925)|
+|**2026-11-25**|**Normalizing Flows are Capable World Models**|Zijia Li et.al.|[2611.33872v1](http://arxiv.org/abs/2611.33872v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33872)|
+|**2026-11-25**|**DuoWM:Integrating Dual 6-DoF Visual Flows into Action-Conditioned Drone World Model**|Zixuan Li et.al.|[2611.33779v1](http://arxiv.org/abs/2611.33779v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33779)|
+|**2026-11-25**|**Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning**|Xu Yang et.al.|[2611.33764v1](http://arxiv.org/abs/2611.33764v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33764)|
+|**2026-11-25**|**WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation**|Xu Yang et.al.|[2611.33745v1](http://arxiv.org/abs/2611.33745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33745)|
+|**2026-11-25**|**DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation**|Lifan Jiang et.al.|[2611.33734v1](http://arxiv.org/abs/2611.33734v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33734)|
+|**2026-11-25**|**Flipping the Coins: Training Physical Simulators through Hard Switches**|Tianrun Gao et.al.|[2611.33716v1](http://arxiv.org/abs/2611.33716v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33716)|
+|**2026-11-25**|**GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting**|Shijun Guo et.al.|[2611.33693v1](http://arxiv.org/abs/2611.33693v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33693)|
+|**2026-11-25**|**VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors**|Ying Jiang et.al.|[2611.33591v1](http://arxiv.org/abs/2611.33591v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33591)|
+|**2026-11-25**|**DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data**|Wongyun Yu et.al.|[2611.33579v1](http://arxiv.org/abs/2611.33579v1)|[link](https://github.com/wongyun-yu/DexEngine)|[αX↑0](https://alphaxiv.org/abs/2611.33579)|
+|**2026-11-24**|**SplatWAM: Splatting World Action Models for Real-Time 3D Imagination**|Frank Tsu-Fang Lu et.al.|[2611.33467v1](http://arxiv.org/abs/2611.33467v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33467)|
+|**2026-11-24**|**An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining**|Nathan A. C. Hogg et.al.|[2611.33407v1](http://arxiv.org/abs/2611.33407v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33407)|
 |**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141v1](http://arxiv.org/abs/2611.33141v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.33141)|
 |**2026-11-24**|**Hybrid AI for AI-Native RAN Control: A Functional Perspective**|Sabrine Aroua et.al.|[2611.33035v1](http://arxiv.org/abs/2611.33035v1)|[link](https://github.com/pegahani/Hybrid-AI-RAN-Survey)|[αX↑0](https://alphaxiv.org/abs/2611.33035)|
 |**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32944)|

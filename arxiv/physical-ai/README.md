@@ -1,9 +1,14 @@
 ## Physical AI
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos**|Yuchen Zhou et.al.|[2611.34347v1](http://arxiv.org/abs/2611.34347v1)|[link](https://github.com/AIRIS-bench/AIRIS)|[αX↑0](https://alphaxiv.org/abs/2611.34347)|
+|**2026-11-25**|**DataForgeVLA: Fully Synthetic Manipulation Demonstrations for Vision-Language-Action Training**|Sergei Kurchev et.al.|[2611.34287v1](http://arxiv.org/abs/2611.34287v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34287)|
+|**2026-11-25**|**Triage Before Fine-Tuning: Feasibility-Gated Selection and Monitored Adaptation of Embodied Foundation Models for a Fixed Physical Platform**|Zilin Huang et.al.|[2611.33772v1](http://arxiv.org/abs/2611.33772v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33772)|
+|**2026-11-25**|**EMMA: Efficient and Effective Cooperative Multi-Modal Analytics over Embodied AI Data**|Jiangneng Li et.al.|[2611.33765v1](http://arxiv.org/abs/2611.33765v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33765)|
+|**2026-11-25**|**VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors**|Ying Jiang et.al.|[2611.33591v1](http://arxiv.org/abs/2611.33591v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33591)|
 |**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Zehan Zheng et.al.|[2611.33145v1](http://arxiv.org/abs/2611.33145v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33145)|
 |**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137v1](http://arxiv.org/abs/2611.33137v1)|[link](https://github.com/liu115/physicl-scenes)|[αX↑0](https://alphaxiv.org/abs/2611.33137)|
 |**2026-11-24**|**EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI**|Erfei Cui et.al.|[2611.33054v1](http://arxiv.org/abs/2611.33054v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33054)|

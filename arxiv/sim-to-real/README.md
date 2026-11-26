@@ -1,9 +1,14 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video**|Ziyue Peng et.al.|[2611.34894v1](http://arxiv.org/abs/2611.34894v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34894)|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos**|Yuxin Lin et.al.|[2611.33705v1](http://arxiv.org/abs/2611.33705v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33705)|
+|**2026-11-24**|**A 3D Simulator for Passive SPAD Imaging**|Elia Mergaert et.al.|[2611.33498v1](http://arxiv.org/abs/2611.33498v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33498)|
 |**2026-11-24**|**At the Limit: Autonomous Vehicle Drifting under Generative Policies**|Jie He et.al.|[2611.33040v1](http://arxiv.org/abs/2611.33040v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33040)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
 |**2026-11-23**|**One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning**|John Marangola et.al.|[2611.31588v1](http://arxiv.org/abs/2611.31588v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31588)|
@@ -21,7 +26,7 @@
 |**2026-11-20**|**Augmentation of cardiovascular flow measurements with generative diffusion models**|Fabio Guglietta et.al.|[2611.27917v1](http://arxiv.org/abs/2611.27917v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27917)|
 |**2026-11-20**|**Adesktop learning factory for smart and resilient manufacturing based on digital twin and AI**|Wenxuan Hu et.al.|[2611.27579v1](http://arxiv.org/abs/2611.27579v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27579)|
 |**2026-11-20**|**HermiteTwin: Bicubic Hermite Shell Digital Twins for Contact-Rich Deformable Manipulation**|Kangrui Zhang et.al.|[2611.27282v1](http://arxiv.org/abs/2611.27282v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27282)|
-|**2026-11-20**|**Toward a digital twin of the ICU patient: Forecasting and treatment response in a generative event model**|Zhuoyang Lyu et.al.|[2611.27028v1](http://arxiv.org/abs/2611.27028v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27028)|
+|**2026-11-24**|**TWICE: Toward a digital twin of ICU patients with a generative event model for forecasting trajectories and simulating treatment response**|Zhuoyang Lyu et.al.|[2611.27028v2](http://arxiv.org/abs/2611.27028v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.27028)|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
 |**2026-11-24**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v2](http://arxiv.org/abs/2611.26293v2)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑1](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|

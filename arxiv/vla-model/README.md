@@ -1,14 +1,27 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs**|Agelos Kratimenos et.al.|[2611.34914v1](http://arxiv.org/abs/2611.34914v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34914)|
+|**2026-11-25**|**A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models**|Yuhao Luo et.al.|[2611.34698v1](http://arxiv.org/abs/2611.34698v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34698)|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614v1](http://arxiv.org/abs/2611.34614v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34614)|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Liufan Tan et.al.|[2611.34560v1](http://arxiv.org/abs/2611.34560v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34560)|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34449)|
+|**2026-11-25**|**Beyond Natural-Language Instructions: Temporal Logic as a Task Language for VLA Models with Visual-Logical Fusion**|Zezhi Liu et.al.|[2611.34352v1](http://arxiv.org/abs/2611.34352v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34352)|
+|**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Haoming Gu et.al.|[2611.34257v1](http://arxiv.org/abs/2611.34257v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34257)|
+|**2026-11-25**|**Integration of Vision-Language-Action Control for Autonomous Forklift Unloading with Limited Real-World Data**|Koshi Oishi et.al.|[2611.33880v1](http://arxiv.org/abs/2611.33880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33880)|
+|**2026-11-25**|**$\widetilde{\varepsilon}$ : Does Initial Noise Induce Directional Bias in Vision-Language-Action Models?**|Junmyeong Lee et.al.|[2611.33816v1](http://arxiv.org/abs/2611.33816v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.33816)|
+|**2026-11-25**|**FlipVLA: Backdoor Attacks on Vision-Language-Action(VLA) Models Only Through Bit Flips**|Zexi Zhao et.al.|[2611.33810v1](http://arxiv.org/abs/2611.33810v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33810)|
+|**2026-11-25**|**FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models**|Jiaming Liang et.al.|[2611.33635v1](http://arxiv.org/abs/2611.33635v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33635)|
+|**2026-11-24**|**Best-of- $N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models**|Vanshaj Khattar et.al.|[2611.33398v1](http://arxiv.org/abs/2611.33398v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33398)|
+|**2026-11-24**|**Why Does Sensor Depth Fail Learned Manipulation Policies? Finding the Failure Mode with ACT**|Inayat Rasool et.al.|[2611.33352v1](http://arxiv.org/abs/2611.33352v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33352)|
 |**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137v1](http://arxiv.org/abs/2611.33137v1)|[link](https://github.com/liu115/physicl-scenes)|[αX↑0](https://alphaxiv.org/abs/2611.33137)|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[αX↑2](https://alphaxiv.org/abs/2611.33010)|
 |**2026-11-24**|**What Does a Skill Vocabulary Cost? A Closed-Loop Decomposition over Demonstrated Motions**|Maximilian Xiling Li et.al.|[2611.32858v1](http://arxiv.org/abs/2611.32858v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32858)|
 |**2026-11-24**|**Knocked Off Course: Tracing Uncommanded Motion from Perception to Action in Embodied VLAs**|Dan Zlotnikov et.al.|[2611.32705v1](http://arxiv.org/abs/2611.32705v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32705)|
-|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v1](http://arxiv.org/abs/2611.32665v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32665)|
+|**2026-11-25**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v2](http://arxiv.org/abs/2611.32665v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.32665)|
 |**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Hongjia Liu et.al.|[2611.32654v1](http://arxiv.org/abs/2611.32654v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32654)|
 |**2026-11-24**|**MXI-MemICL: Towards In-Context Robot Manipulation through Self-Retrieved Interaction Memory**|Jialong Peng et.al.|[2611.32564v1](http://arxiv.org/abs/2611.32564v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32564)|
 |**2026-11-24**|**Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\% Poisoning**|Simin Huang et.al.|[2611.32304v1](http://arxiv.org/abs/2611.32304v1)|[link](https://github.com/vla-attack/Sparse_Poison_Strong_Hijack)|[αX↑0](https://alphaxiv.org/abs/2611.32304)|
@@ -29,10 +42,10 @@
 |**2026-11-23**|**GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models**|Le Yang et.al.|[2611.30632v1](http://arxiv.org/abs/2611.30632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30632)|
 |**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Puzhen Yuan et.al.|[2611.30490v1](http://arxiv.org/abs/2611.30490v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30490)|
 |**2026-11-23**|**OVOGO: Offline Value-Guided On-Policy Generative Optimization for Flow-Based Vision-Language-Action Models**|Rongzheng Yang et.al.|[2611.30477v1](http://arxiv.org/abs/2611.30477v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30477)|
-|**2026-11-23**|**SOAR: temporal Structure-guided One-step Action generation for Robotic manipulation**|Di Xin et.al.|[2611.30363v1](http://arxiv.org/abs/2611.30363v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30363)|
+|**2026-11-25**|**SOAR: temporal Structure-guided One-step Action generation for Robotic manipulation**|Di Xin et.al.|[2611.30363v2](http://arxiv.org/abs/2611.30363v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.30363)|
 |**2026-11-24**|**ConsisX: Cross-View Consistency Thinking in 3D for Vision-Language-Action Models**|Yunhe Zhang et.al.|[2611.30308v2](http://arxiv.org/abs/2611.30308v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.30308)|
 |**2026-11-23**|**Beyond Which: Where, How, and When in Vision-Language-Action Models**|Yunhe Zhang et.al.|[2611.30291v1](http://arxiv.org/abs/2611.30291v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30291)|
-|**2026-11-23**|**RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See**|Yunbei Zhang et.al.|[2611.30209v1](http://arxiv.org/abs/2611.30209v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30209)|
+|**2026-11-24**|**RoboAda: Adapting Frozen Robot Policies at Test Time to Physics They Cannot See**|Yunbei Zhang et.al.|[2611.30209v2](http://arxiv.org/abs/2611.30209v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.30209)|
 |**2026-11-23**|**Quantizing in the Loop: Drift-Aware Ultra-Low-Bit Vision-Language-Action Models**|Yanlong Chen et.al.|[2611.30178v1](http://arxiv.org/abs/2611.30178v1)|[link](https://github.com/ForeverBlue816/LoopQ)|[αX↑0](https://alphaxiv.org/abs/2611.30178)|
 |**2026-11-23**|**RMR-VLA: Recurrent Memory Reasoning for Vision-Language-Action Models**|Yiheng Du et.al.|[2611.30145v1](http://arxiv.org/abs/2611.30145v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30145)|
 |**2026-11-23**|**RoboThink: Let the Agent Think, Let the Policy Act**|Yunbei Zhang et.al.|[2611.30111v1](http://arxiv.org/abs/2611.30111v1)|null|[αX↑56](https://alphaxiv.org/abs/2611.30111)|
