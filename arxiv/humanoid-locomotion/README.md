@@ -1,14 +1,14 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34884)|
 |**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597v1](http://arxiv.org/abs/2611.34597v1)|[link](https://github.com/trustworthyrobotics/microMPC)|[αX↑0](https://alphaxiv.org/abs/2611.34597)|
-|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34569)|
 |**2026-11-25**|**AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing**|Shuai Yuan et.al.|[2611.34519v1](http://arxiv.org/abs/2611.34519v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34519)|
-|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34449)|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34449)|
 |**2026-11-25**|**Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot**|Spencer Sweeney et.al.|[2611.34246v1](http://arxiv.org/abs/2611.34246v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34246)|
 |**2026-11-25**|**CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models**|Woojin Kim et.al.|[2611.33911v1](http://arxiv.org/abs/2611.33911v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33911)|
 |**2026-11-25**|**Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid**|Rikuto Hidaka et.al.|[2611.33828v1](http://arxiv.org/abs/2611.33828v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33828)|
@@ -35,7 +35,7 @@
 |**2026-11-20**|**What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage**|Hassan Iqbal et.al.|[2611.27939v1](http://arxiv.org/abs/2611.27939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27939)|
 |**2026-11-20**|**Humanoid robots for safety-critical electrical switching: A perception-informed runtime constraint filter**|Songyang Liu et.al.|[2611.27845v1](http://arxiv.org/abs/2611.27845v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27845)|
 |**2026-11-20**|**Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking**|Xuzhe Dang et.al.|[2611.27648v1](http://arxiv.org/abs/2611.27648v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27648)|
-|**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552v1](http://arxiv.org/abs/2611.27552v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27552)|
+|**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552v1](http://arxiv.org/abs/2611.27552v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.27552)|
 |**2026-11-20**|**NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation**|Guangzhao Dai et.al.|[2611.27499v1](http://arxiv.org/abs/2611.27499v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27499)|
 |**2026-11-20**|**AnyBodyCodec: A Shared Native Interface for Body-Model Conversion, Extension, and Humanoid Control**|Qianxing Li et.al.|[2611.27397v1](http://arxiv.org/abs/2611.27397v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27397)|
 |**2026-11-20**|**Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers**|S K Swaminathan et.al.|[2611.27338v1](http://arxiv.org/abs/2611.27338v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27338)|
@@ -106,7 +106,7 @@
 |**2026-11-10**|**FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control**|Santosh Mohan Rajkumar et.al.|[2611.13766v1](http://arxiv.org/abs/2611.13766v1)|[link](https://github.com/santoshrajkumar/fame-qp)|[🤗👍6](https://huggingface.co/papers/2611.13766) [αX↑5](https://alphaxiv.org/abs/2611.13766)|
 |**2026-11-09**|**AHEADance: Anticipatory Humanoid Dance from Streaming Audio**|Tianhu Peng et.al.|[2611.13370v1](http://arxiv.org/abs/2611.13370v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13370)|
 |**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.12409)|
-|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍31](https://huggingface.co/papers/2611.12177) [αX↑183](https://alphaxiv.org/abs/2611.12177)|
+|**2026-11-09**|**Embodied First Exam**|Kangrui Wang et.al.|[2611.12177v1](http://arxiv.org/abs/2611.12177v1)|[link](https://github.com/mll-lab-nu/embodied-first-exam)|[🤗👍31](https://huggingface.co/papers/2611.12177) [αX↑184](https://alphaxiv.org/abs/2611.12177)|
 |**2026-11-09**|**LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data**|Xueyang Wang et.al.|[2611.12136v1](http://arxiv.org/abs/2611.12136v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.12136)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑26](https://alphaxiv.org/abs/2611.12087)|
 |**2026-11-12**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854v2](http://arxiv.org/abs/2611.11854v2)|null|[αX↑9](https://alphaxiv.org/abs/2611.11854)|

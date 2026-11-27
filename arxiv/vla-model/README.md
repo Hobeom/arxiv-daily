@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 |**2026-11-25**|**A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models**|Yuhao Luo et.al.|[2611.34698v1](http://arxiv.org/abs/2611.34698v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34698)|
 |**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614v1](http://arxiv.org/abs/2611.34614v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34614)|
 |**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Liufan Tan et.al.|[2611.34560v1](http://arxiv.org/abs/2611.34560v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34560)|
-|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34449)|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34449)|
 |**2026-11-25**|**Beyond Natural-Language Instructions: Temporal Logic as a Task Language for VLA Models with Visual-Logical Fusion**|Zezhi Liu et.al.|[2611.34352v1](http://arxiv.org/abs/2611.34352v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34352)|
 |**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Haoming Gu et.al.|[2611.34257v1](http://arxiv.org/abs/2611.34257v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34257)|
 |**2026-11-25**|**Integration of Vision-Language-Action Control for Autonomous Forklift Unloading with Limited Real-World Data**|Koshi Oishi et.al.|[2611.33880v1](http://arxiv.org/abs/2611.33880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33880)|
@@ -35,10 +35,10 @@
 |**2026-11-23**|**Hi3R-VLA: Grounding Semantics and Actions in 3D**|Shizhe Chen et.al.|[2611.31535v1](http://arxiv.org/abs/2611.31535v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31535)|
 |**2026-11-23**|**Near-Zero Forgetting Is Not Enough: Out-of-Distribution Robustness in Continual Learning of Pretrained VLAs**|Adrià Ruiz et.al.|[2611.31511v1](http://arxiv.org/abs/2611.31511v1)|[link](https://github.com/adrrp/vla-ood-robustness)|[αX↑0](https://alphaxiv.org/abs/2611.31511)|
 |**2026-11-23**|**Ground, Guide, Act: Improving VLA Spatial Generalization with Multimodal Foundation Models**|Guangting Zheng et.al.|[2611.31452v1](http://arxiv.org/abs/2611.31452v1)|[link](https://github.com/Tom-zgt/MFM-VLA)|[αX↑1](https://alphaxiv.org/abs/2611.31452)|
-|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240v1](http://arxiv.org/abs/2611.31240v1)|null|[αX↑21](https://alphaxiv.org/abs/2611.31240)|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240v1](http://arxiv.org/abs/2611.31240v1)|null|[αX↑22](https://alphaxiv.org/abs/2611.31240)|
 |**2026-11-24**|**WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models**|Zien Wang et.al.|[2611.31126v2](http://arxiv.org/abs/2611.31126v2)|[link](https://github.com/Kingzein/WeaveVLA)|[🤗👍2](https://huggingface.co/papers/2611.31126) [αX↑0](https://alphaxiv.org/abs/2611.31126)|
 |**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi et.al.|[2611.31099v1](http://arxiv.org/abs/2611.31099v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31099)|
-|**2026-11-23**|**WorldLeague: Benchmarking Physical Agency**|Xinyang Zhou et.al.|[2611.30989v1](http://arxiv.org/abs/2611.30989v1)|[link](https://github.com/xyangzhou/WorldLeague)|[🤗👍137](https://huggingface.co/papers/2611.30989) [αX↑0](https://alphaxiv.org/abs/2611.30989)|
+|**2026-11-23**|**WorldLeague: Benchmarking Physical Agency**|Xinyang Zhou et.al.|[2611.30989v1](http://arxiv.org/abs/2611.30989v1)|[link](https://github.com/xyangzhou/WorldLeague)|[🤗👍137](https://huggingface.co/papers/2611.30989) [αX↑2](https://alphaxiv.org/abs/2611.30989)|
 |**2026-11-23**|**GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models**|Le Yang et.al.|[2611.30632v1](http://arxiv.org/abs/2611.30632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30632)|
 |**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Puzhen Yuan et.al.|[2611.30490v1](http://arxiv.org/abs/2611.30490v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30490)|
 |**2026-11-23**|**OVOGO: Offline Value-Guided On-Policy Generative Optimization for Flow-Based Vision-Language-Action Models**|Rongzheng Yang et.al.|[2611.30477v1](http://arxiv.org/abs/2611.30477v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30477)|

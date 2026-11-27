@@ -1,19 +1,19 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-11-25**|**What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video**|Ziyue Peng et.al.|[2611.34894v1](http://arxiv.org/abs/2611.34894v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34894)|
-|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
-|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34569)|
 |**2026-11-25**|**Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos**|Yuxin Lin et.al.|[2611.33705v1](http://arxiv.org/abs/2611.33705v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33705)|
 |**2026-11-24**|**A 3D Simulator for Passive SPAD Imaging**|Elia Mergaert et.al.|[2611.33498v1](http://arxiv.org/abs/2611.33498v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33498)|
 |**2026-11-24**|**At the Limit: Autonomous Vehicle Drifting under Generative Policies**|Jie He et.al.|[2611.33040v1](http://arxiv.org/abs/2611.33040v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33040)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
 |**2026-11-23**|**One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning**|John Marangola et.al.|[2611.31588v1](http://arxiv.org/abs/2611.31588v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31588)|
-|**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Jinzhong Gu et.al.|[2611.31098v1](http://arxiv.org/abs/2611.31098v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.31098)|
-|**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑37](https://alphaxiv.org/abs/2611.31002)|
+|**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Jinzhong Gu et.al.|[2611.31098v1](http://arxiv.org/abs/2611.31098v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.31098)|
+|**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑53](https://alphaxiv.org/abs/2611.31002)|
 |**2026-11-23**|**Bridging Continuous-Time MAPF and Industrial AGV Fleet Coordination with Lazy Priority-Based Search**|Federico Signorile et.al.|[2611.30874v1](http://arxiv.org/abs/2611.30874v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30874)|
 |**2026-11-23**|**Part-wise Certified State Estimation of Articulated Objects from Passive Stereo**|Orion Desbonnet et.al.|[2611.30646v1](http://arxiv.org/abs/2611.30646v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30646)|
 |**2026-11-23**|**FASCIA: Seeing Beneath the Surface with Queryable, Personalized Anatomy in Any Pose**|R. James Cotton et.al.|[2611.29970v1](http://arxiv.org/abs/2611.29970v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.29970)|

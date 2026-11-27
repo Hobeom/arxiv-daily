@@ -1,16 +1,16 @@
 ## World Models
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-25**|**Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models**|Simon Baur et.al.|[2611.34830v1](http://arxiv.org/abs/2611.34830v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34830)|
+|**2026-11-25**|**Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models**|Simon Baur et.al.|[2611.34830v1](http://arxiv.org/abs/2611.34830v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34830)|
 |**2026-11-25**|**Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models**|Ajmain Istiak Apon et.al.|[2611.34739v1](http://arxiv.org/abs/2611.34739v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34739)|
 |**2026-11-25**|**WorldInteract: Controllable Streaming Video Generation for Multi-Material Interactions**|Ahmed Hatem et.al.|[2611.34730v1](http://arxiv.org/abs/2611.34730v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34730)|
 |**2026-11-25**|**ShowNow: Fine-Grained Speculative Streaming for Responsive World Models**|Yiren Song et.al.|[2611.34693v1](http://arxiv.org/abs/2611.34693v1)|[link](https://github.com/showlab/ShowNow)|[αX↑0](https://alphaxiv.org/abs/2611.34693)|
-|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671v1](http://arxiv.org/abs/2611.34671v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34671)|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671v1](http://arxiv.org/abs/2611.34671v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34671)|
 |**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656v1](http://arxiv.org/abs/2611.34656v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34656)|
-|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644v1](http://arxiv.org/abs/2611.34644v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34644)|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644v1](http://arxiv.org/abs/2611.34644v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34644)|
 |**2026-11-25**|**Blind spatially varying PSF estimation for fluorescence microscopy**|Minh Hai Nguyen et.al.|[2611.34607v1](http://arxiv.org/abs/2611.34607v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34607)|
 |**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597v1](http://arxiv.org/abs/2611.34597v1)|[link](https://github.com/trustworthyrobotics/microMPC)|[αX↑0](https://alphaxiv.org/abs/2611.34597)|
 |**2026-11-25**|**Long-Horizon Planning with Latent World Models via Graph Anchors**|Syed Nazmus Sakib et.al.|[2611.34509v1](http://arxiv.org/abs/2611.34509v1)|[link](https://github.com/syed-nazmus-sakib/graph-anchors)|[αX↑0](https://alphaxiv.org/abs/2611.34509)|
@@ -24,7 +24,7 @@
 |**2026-11-25**|**CARE-WM: Same-Horizon Self-Conditioning with Constraint-Adaptive Regularization for Latent World Models**|Yuchen Lin et.al.|[2611.34054v1](http://arxiv.org/abs/2611.34054v1)|[link](https://github.com/KaidRommel/CARE-WM)|[αX↑0](https://alphaxiv.org/abs/2611.34054)|
 |**2026-11-25**|**Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation**|Lennox Wei et.al.|[2611.33993v1](http://arxiv.org/abs/2611.33993v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33993)|
 |**2026-11-25**|**CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching**|Shizhuang Wang et.al.|[2611.33939v1](http://arxiv.org/abs/2611.33939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33939)|
-|**2026-11-25**|**Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures**|Zhiyue Zhao et.al.|[2611.33925v1](http://arxiv.org/abs/2611.33925v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.33925)|
+|**2026-11-25**|**Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures**|Zhiyue Zhao et.al.|[2611.33925v1](http://arxiv.org/abs/2611.33925v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.33925)|
 |**2026-11-25**|**Normalizing Flows are Capable World Models**|Zijia Li et.al.|[2611.33872v1](http://arxiv.org/abs/2611.33872v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33872)|
 |**2026-11-25**|**DuoWM:Integrating Dual 6-DoF Visual Flows into Action-Conditioned Drone World Model**|Zixuan Li et.al.|[2611.33779v1](http://arxiv.org/abs/2611.33779v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33779)|
 |**2026-11-25**|**Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning**|Xu Yang et.al.|[2611.33764v1](http://arxiv.org/abs/2611.33764v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33764)|
@@ -69,7 +69,7 @@
 |**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651v1](http://arxiv.org/abs/2611.31651v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31651)|
 |**2026-11-23**|**Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates**|Konstantinos Dovelos et.al.|[2611.31211v1](http://arxiv.org/abs/2611.31211v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31211)|
 |**2026-11-23**|**DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation**|Vinay Udit Mohan et.al.|[2611.30907v1](http://arxiv.org/abs/2611.30907v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30907)|
-|**2026-11-23**|**World Models as Native Latent Action Models**|Qinyue Li et.al.|[2611.30898v1](http://arxiv.org/abs/2611.30898v1)|null|[🤗👍28](https://huggingface.co/papers/2611.30898) [αX↑10](https://alphaxiv.org/abs/2611.30898)|
+|**2026-11-23**|**World Models as Native Latent Action Models**|Qinyue Li et.al.|[2611.30898v1](http://arxiv.org/abs/2611.30898v1)|null|[🤗👍28](https://huggingface.co/papers/2611.30898) [αX↑12](https://alphaxiv.org/abs/2611.30898)|
 |**2026-11-23**|**Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing?**|Cheng-Ru Chou et.al.|[2611.30836v1](http://arxiv.org/abs/2611.30836v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30836)|
 |**2026-11-23**|**LiveAudio: From Bidirectional to Autoregressive Diffusion for Real-Time Streaming Video-to-Audio Generation**|Yuxuan Jiang et.al.|[2611.30714v1](http://arxiv.org/abs/2611.30714v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30714)|
 |**2026-11-23**|**Zhengrong: World Models with Pole-Based Action-Response Factorization for Direct Visual Planning**|Yu Zhang et.al.|[2611.30666v1](http://arxiv.org/abs/2611.30666v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30666)|
