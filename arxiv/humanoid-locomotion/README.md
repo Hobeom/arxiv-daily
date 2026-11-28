@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -14,12 +14,12 @@
 |**2026-11-25**|**Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid**|Rikuto Hidaka et.al.|[2611.33828v1](http://arxiv.org/abs/2611.33828v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33828)|
 |**2026-11-25**|**A general-purpose safe manipulator planning framework for diverse environments without retraining**|Mingkang Long et.al.|[2611.33721v1](http://arxiv.org/abs/2611.33721v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33721)|
 |**2026-11-24**|**An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining**|Nathan A. C. Hogg et.al.|[2611.33407v1](http://arxiv.org/abs/2611.33407v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33407)|
-|**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32944)|
+|**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.32944)|
 |**2026-11-25**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v2](http://arxiv.org/abs/2611.32665v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.32665)|
 |**2026-11-24**|**BARE: Body-Aware Reflexive Evasion for Humanoid Robots**|Zihao Li et.al.|[2611.32642v1](http://arxiv.org/abs/2611.32642v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32642)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
 |**2026-11-24**|**Does Research-Paper Context Improve LLM-Generated Quadruped Navigation? An Exploratory Simulation Study**|Barnabas Juhasz et.al.|[2611.32381v1](http://arxiv.org/abs/2611.32381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32381)|
-|**2026-11-24**|**EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances**|Yiming Zeng et.al.|[2611.32260v1](http://arxiv.org/abs/2611.32260v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32260)|
+|**2026-11-24**|**EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances**|Yiming Zeng et.al.|[2611.32260v1](http://arxiv.org/abs/2611.32260v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.32260)|
 |**2026-11-24**|**Ada-BFM: Adapting Behavior Foundation Models for Humanoid Scene Interaction**|Furui Xu et.al.|[2611.31863v1](http://arxiv.org/abs/2611.31863v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31863)|
 |**2026-11-23**|**Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing?**|Cheng-Ru Chou et.al.|[2611.30836v1](http://arxiv.org/abs/2611.30836v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.30836)|
 |**2026-11-23**|**GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models**|Le Yang et.al.|[2611.30632v1](http://arxiv.org/abs/2611.30632v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30632)|
@@ -45,7 +45,7 @@
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596v1](http://arxiv.org/abs/2611.26596v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26596)|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
 |**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI et.al.|[2611.26420v1](http://arxiv.org/abs/2611.26420v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.26420)|
-|**2026-11-24**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v2](http://arxiv.org/abs/2611.26293v2)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑1](https://alphaxiv.org/abs/2611.26293)|
+|**2026-11-24**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v2](http://arxiv.org/abs/2611.26293v2)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑2](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074v1](http://arxiv.org/abs/2611.26074v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26074)|
 |**2026-11-19**|**Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning**|Ganeshvar Soenessardien et.al.|[2611.26054v1](http://arxiv.org/abs/2611.26054v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26054)|
 |**2026-11-21**|**Learning optimal gaits and styles for terrain-adaptive quadruped locomotion**|Guillaume Bellegarda et.al.|[2611.25958v2](http://arxiv.org/abs/2611.25958v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.25958)|

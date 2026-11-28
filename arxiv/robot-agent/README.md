@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -17,13 +17,13 @@
 |**2026-11-25**|**X-World: Transferring Video Priors to Cross-Embodiment Robot Control**|Chun Gu et.al.|[2611.33914v1](http://arxiv.org/abs/2611.33914v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33914)|
 |**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Zhaoxin Fan et.al.|[2611.33819v1](http://arxiv.org/abs/2611.33819v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33819)|
 |**2026-11-25**|**DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data**|Wongyun Yu et.al.|[2611.33579v1](http://arxiv.org/abs/2611.33579v1)|[link](https://github.com/wongyun-yu/DexEngine)|[🤗👍4](https://huggingface.co/papers/2611.33579) [αX↑0](https://alphaxiv.org/abs/2611.33579)|
-|**2026-11-25**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158v2](http://arxiv.org/abs/2611.33158v2)|null|[αX↑20](https://alphaxiv.org/abs/2611.33158)|
+|**2026-11-25**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158v2](http://arxiv.org/abs/2611.33158v2)|null|[αX↑32](https://alphaxiv.org/abs/2611.33158)|
 |**2026-11-24**|**Exploratory Midtraining for Robot Policies**|Kshitiz et.al.|[2611.33130v1](http://arxiv.org/abs/2611.33130v1)|[link](https://github.com/kshitiz-1225/exploratory-midtraining-robot-policies)|[αX↑0](https://alphaxiv.org/abs/2611.33130)|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[🤗👍33](https://huggingface.co/papers/2611.33010) [αX↑5](https://alphaxiv.org/abs/2611.33010)|
 |**2026-11-24**|**VidForce: Predicting Force-Aware Articulation by Observing Humans**|Rafay Mohiuddin et.al.|[2611.32967v1](http://arxiv.org/abs/2611.32967v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32967)|
 |**2026-11-24**|**Self-Sensing Compliant Anthropomorphic Hand for Speed-Dictated Shared Force Control in Teleoperation**|Huijiang Wang et.al.|[2611.32937v1](http://arxiv.org/abs/2611.32937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32937)|
-|**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Semin Kim et.al.|[2611.32932v1](http://arxiv.org/abs/2611.32932v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32932)|
-|**2026-11-24**|**MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos**|Junyi Ma et.al.|[2611.32876v1](http://arxiv.org/abs/2611.32876v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32876)|
+|**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Semin Kim et.al.|[2611.32932v1](http://arxiv.org/abs/2611.32932v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32932)|
+|**2026-11-24**|**MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos**|Junyi Ma et.al.|[2611.32876v1](http://arxiv.org/abs/2611.32876v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32876)|
 |**2026-11-24**|**Keypose or Dense? A Controlled Comparison of Action Representations for Stage-Structured Manipulation**|Haizhou Ge et.al.|[2611.32788v1](http://arxiv.org/abs/2611.32788v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32788)|
 |**2026-11-24**|**EviCraft: Can Minecraft Agents Find What They Cannot See?**|Wenyou Yi et.al.|[2611.32765v1](http://arxiv.org/abs/2611.32765v1)|[link](https://github.com/AllenReder/EviCraft)|[αX↑3](https://alphaxiv.org/abs/2611.32765)|
 |**2026-11-24**|**RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization**|Yushi Long et.al.|[2611.32622v1](http://arxiv.org/abs/2611.32622v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32622)|
@@ -34,7 +34,7 @@
 |**2026-11-24**|**Learning When a Robot Should Ask For Help: Adaptive Intervention Requests in Human-Robot Teaming**|Yanran Jiang et.al.|[2611.31925v1](http://arxiv.org/abs/2611.31925v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31925)|
 |**2026-11-24**|**CALVIN-MAX: When Does a Mid-Execution Change Hurt a Robot Policy?**|Sajjad Pakdamansavoji et.al.|[2611.31868v1](http://arxiv.org/abs/2611.31868v1)|[link](https://github.com/forall-labs/CALVIN-MAX)|[αX↑0](https://alphaxiv.org/abs/2611.31868)|
 |**2026-11-23**|**FabricBench: A Standardized Policy Benchmark for Bimanual Fabric Manipulation with a Contact-Driven Deformable Simulator**|Wenkang Hu et.al.|[2611.31577v1](http://arxiv.org/abs/2611.31577v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31577)|
-|**2026-11-23**|**Near-Zero Forgetting Is Not Enough: Out-of-Distribution Robustness in Continual Learning of Pretrained VLAs**|Adrià Ruiz et.al.|[2611.31511v1](http://arxiv.org/abs/2611.31511v1)|[link](https://github.com/adrrp/vla-ood-robustness)|[αX↑0](https://alphaxiv.org/abs/2611.31511)|
+|**2026-11-23**|**Near-Zero Forgetting Is Not Enough: Out-of-Distribution Robustness in Continual Learning of Pretrained VLAs**|Adrià Ruiz et.al.|[2611.31511v1](http://arxiv.org/abs/2611.31511v1)|[link](https://github.com/adrrp/vla-ood-robustness)|[αX↑1](https://alphaxiv.org/abs/2611.31511)|
 |**2026-11-23**|**Embodied Neuro-symbolic AI: Making Robot Behavior Auditable, Safe, and Scalable**|Ruwan Wickramarachchi et.al.|[2611.31488v1](http://arxiv.org/abs/2611.31488v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31488)|
 |**2026-11-23**|**Self-Upgrading Embodied Agents**|Jiajun Fan et.al.|[2611.31117v1](http://arxiv.org/abs/2611.31117v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31117)|
 |**2026-11-23**|**RUIBench: What Makes a Good Robot-Use Interface?**|Yanzhe Chen et.al.|[2611.31115v1](http://arxiv.org/abs/2611.31115v1)|[link](https://github.com/showlab/RUIBench)|[🤗👍22](https://huggingface.co/papers/2611.31115) [αX↑2](https://alphaxiv.org/abs/2611.31115)|

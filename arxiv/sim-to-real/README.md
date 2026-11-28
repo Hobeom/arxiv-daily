@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 |**2026-11-24**|**A 3D Simulator for Passive SPAD Imaging**|Elia Mergaert et.al.|[2611.33498v1](http://arxiv.org/abs/2611.33498v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33498)|
 |**2026-11-24**|**At the Limit: Autonomous Vehicle Drifting under Generative Policies**|Jie He et.al.|[2611.33040v1](http://arxiv.org/abs/2611.33040v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33040)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
-|**2026-11-23**|**One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning**|John Marangola et.al.|[2611.31588v1](http://arxiv.org/abs/2611.31588v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31588)|
+|**2026-11-23**|**One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning**|John Marangola et.al.|[2611.31588v1](http://arxiv.org/abs/2611.31588v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.31588)|
 |**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Jinzhong Gu et.al.|[2611.31098v1](http://arxiv.org/abs/2611.31098v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.31098)|
 |**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑53](https://alphaxiv.org/abs/2611.31002)|
 |**2026-11-23**|**Bridging Continuous-Time MAPF and Industrial AGV Fleet Coordination with Lazy Priority-Based Search**|Federico Signorile et.al.|[2611.30874v1](http://arxiv.org/abs/2611.30874v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30874)|
@@ -28,11 +28,11 @@
 |**2026-11-20**|**HermiteTwin: Bicubic Hermite Shell Digital Twins for Contact-Rich Deformable Manipulation**|Kangrui Zhang et.al.|[2611.27282v1](http://arxiv.org/abs/2611.27282v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27282)|
 |**2026-11-24**|**TWICE: Toward a digital twin of ICU patients with a generative event model for forecasting trajectories and simulating treatment response**|Zhuoyang Lyu et.al.|[2611.27028v2](http://arxiv.org/abs/2611.27028v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.27028)|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
-|**2026-11-24**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v2](http://arxiv.org/abs/2611.26293v2)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑1](https://alphaxiv.org/abs/2611.26293)|
+|**2026-11-24**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v2](http://arxiv.org/abs/2611.26293v2)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑2](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|
 |**2026-11-19**|**Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data**|KuanLin Chen et.al.|[2611.26035v1](http://arxiv.org/abs/2611.26035v1)|[link](https://github.com/dipper13579/urbantwin-sim2real-lidar)|[αX↑0](https://alphaxiv.org/abs/2611.26035)|
 |**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.25801)|
-|**2026-11-19**|**PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds**|Shixun Huang et.al.|[2611.25500v1](http://arxiv.org/abs/2611.25500v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25500)|
+|**2026-11-19**|**PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds**|Shixun Huang et.al.|[2611.25500v1](http://arxiv.org/abs/2611.25500v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25500)|
 |**2026-11-19**|**A four-level executable validation protocol for evaluating LLM-generated topology specifications of physics-based HVAC digital twins**|Younghwan Joo et.al.|[2611.25471v1](http://arxiv.org/abs/2611.25471v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25471)|
 |**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.25251)|
 |**2026-11-18**|**Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans**|Chrisantus Eze et.al.|[2611.25243v1](http://arxiv.org/abs/2611.25243v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25243)|

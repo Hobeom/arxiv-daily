@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 |**2026-11-24**|**Motion Conditioned World Modeling for Embodied Visual Tracking**|Jiahao Zhang et.al.|[2611.32900v1](http://arxiv.org/abs/2611.32900v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32900)|
 |**2026-11-24**|**EEG-World: Context-Conditioned Dynamics of the Watching Brain**|Junxiang Zhang et.al.|[2611.32825v1](http://arxiv.org/abs/2611.32825v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32825)|
 |**2026-11-24**|**Interactive Neural Computers**|Ross Murphy et.al.|[2611.32811v1](http://arxiv.org/abs/2611.32811v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32811)|
-|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑1](https://alphaxiv.org/abs/2611.32786)|
+|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑3](https://alphaxiv.org/abs/2611.32786)|
 |**2026-11-24**|**Learning World Models through Contrastive Identification of Actions**|Hayeong Lee et.al.|[2611.32776v1](http://arxiv.org/abs/2611.32776v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32776)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
 |**2026-11-24**|**Support2Sim: Visually Faithful Real2Sim with Stable Object Supports**|Samarth Chopra et.al.|[2611.32727v1](http://arxiv.org/abs/2611.32727v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32727)|
@@ -61,7 +61,7 @@
 |**2026-11-24**|**Do Occupancy World Models Really Follow Actions?**|Jongseong Bae et.al.|[2611.32029v1](http://arxiv.org/abs/2611.32029v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32029)|
 |**2026-11-24**|**Learning Agent States for Latent Action Modeling**|Shaoan Xie et.al.|[2611.32017v1](http://arxiv.org/abs/2611.32017v1)|[link](https://github.com/Mid-Push/Agent-State-LAM)|[αX↑0](https://alphaxiv.org/abs/2611.32017)|
 |**2026-11-24**|**ADE: A Zero-Training Unlearning Method for Latent World Models**|Sirui He et.al.|[2611.31998v1](http://arxiv.org/abs/2611.31998v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31998)|
-|**2026-11-24**|**Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators**|Ruiqi Shu et.al.|[2611.31964v1](http://arxiv.org/abs/2611.31964v1)|[link](https://github.com/ChiyodaMomo01/FORGE)|[αX↑0](https://alphaxiv.org/abs/2611.31964)|
+|**2026-11-24**|**Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators**|Ruiqi Shu et.al.|[2611.31964v1](http://arxiv.org/abs/2611.31964v1)|[link](https://github.com/ChiyodaMomo01/FORGE)|[αX↑1](https://alphaxiv.org/abs/2611.31964)|
 |**2026-11-24**|**SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation**|Junyi Zhang et.al.|[2611.31958v1](http://arxiv.org/abs/2611.31958v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31958)|
 |**2026-11-24**|**DraftKV: Protecting Persistent Worlds through Hierarchical Streaming Retrieval**|Xiaoling Zhou et.al.|[2611.31944v1](http://arxiv.org/abs/2611.31944v1)|[link](https://github.com/TillyEndless/DraftKV)|[αX↑0](https://alphaxiv.org/abs/2611.31944)|
 |**2026-11-24**|**SceneMemBench: A Benchmark for Scene Memory in Interactive Video World Models**|Yuheng Si et.al.|[2611.31803v1](http://arxiv.org/abs/2611.31803v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31803)|

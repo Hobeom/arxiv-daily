@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -12,9 +12,9 @@
 |**2026-11-25**|**GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting**|Shijun Guo et.al.|[2611.33693v1](http://arxiv.org/abs/2611.33693v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33693)|
 |**2026-11-25**|**Fine-Grained Ego-Vehicle Action Recognition from Driving Video**|Zhipeng Bao et.al.|[2611.33654v1](http://arxiv.org/abs/2611.33654v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33654)|
 |**2026-11-24**|**OnCue: Generating Safety-Critical Driving Scenarios under Occlusion with Temporal Control**|Kailang Ma et.al.|[2611.33439v1](http://arxiv.org/abs/2611.33439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33439)|
-|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32964)|
+|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32964)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
-|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32510)|
+|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32510)|
 |**2026-11-24**|**CodeWAM: A Code World Action Model for End-to-End Autonomous Driving**|Zhisheng Chen et.al.|[2611.32483v1](http://arxiv.org/abs/2611.32483v1)|[link](https://github.com/Zhisheng-researcher/CodeWAM)|[αX↑0](https://alphaxiv.org/abs/2611.32483)|
 |**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473v1](http://arxiv.org/abs/2611.32473v1)|[link](https://github.com/cszhilu1998/OmniPersist)|[🤗👍2](https://huggingface.co/papers/2611.32473) [αX↑1](https://alphaxiv.org/abs/2611.32473)|
 |**2026-11-24**|**Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation**|Jiewen Hou et.al.|[2611.32400v1](http://arxiv.org/abs/2611.32400v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32400)|

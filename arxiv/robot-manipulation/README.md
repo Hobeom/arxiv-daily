@@ -1,6 +1,6 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -29,12 +29,12 @@
 |**2026-11-25**|**$\mathrm{M}^{2}$ -WAM: Efficient Hierarchical Memory Across Modalities and Timescales for World-Action Models**|Xiaopeng Zhang et.al.|[2611.33710v1](http://arxiv.org/abs/2611.33710v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33710)|
 |**2026-11-24**|**Best-of- $N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models**|Vanshaj Khattar et.al.|[2611.33398v1](http://arxiv.org/abs/2611.33398v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33398)|
 |**2026-11-24**|**RoboARC: Physical Puzzles for Robotic Manipulation under Spatial Constraints**|Qineng Wang et.al.|[2611.33390v1](http://arxiv.org/abs/2611.33390v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.33390)|
-|**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Feixiang Ruan et.al.|[2611.33144v1](http://arxiv.org/abs/2611.33144v1)|null|[🤗👍42](https://huggingface.co/papers/2611.33144) [αX↑3](https://alphaxiv.org/abs/2611.33144)|
+|**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Feixiang Ruan et.al.|[2611.33144v1](http://arxiv.org/abs/2611.33144v1)|null|[🤗👍42](https://huggingface.co/papers/2611.33144) [αX↑4](https://alphaxiv.org/abs/2611.33144)|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|[link](https://github.com/iPPLab/robodojo-mirror)|[🤗👍33](https://huggingface.co/papers/2611.33010) [αX↑5](https://alphaxiv.org/abs/2611.33010)|
 |**2026-11-24**|**Self-Sensing Compliant Anthropomorphic Hand for Speed-Dictated Shared Force Control in Teleoperation**|Huijiang Wang et.al.|[2611.32937v1](http://arxiv.org/abs/2611.32937v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32937)|
 |**2026-11-24**|**MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation**|Yanzhe Chen et.al.|[2611.32803v1](http://arxiv.org/abs/2611.32803v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32803)|
 |**2026-11-24**|**Supply Geometry, Learn Execution: Screw Attention for Zero-Shot Policy Transfer in Robot Manipulation**|Aly Magassouba et.al.|[2611.32797v1](http://arxiv.org/abs/2611.32797v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32797)|
-|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑1](https://alphaxiv.org/abs/2611.32786)|
+|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑3](https://alphaxiv.org/abs/2611.32786)|
 |**2026-11-24**|**AG-WAM: Attention-Guided World Action Model for Accurate and Efficient Robot Manipulation**|Hongcheng Zhang et.al.|[2611.32722v1](http://arxiv.org/abs/2611.32722v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32722)|
 |**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Hongjia Liu et.al.|[2611.32654v1](http://arxiv.org/abs/2611.32654v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32654)|
 |**2026-11-24**|**ReFocus: Progress-Guided Adaptive Practice for Long-Horizon Robotic Manipulation Reinforcement Learning**|Haoyuan Li et.al.|[2611.32639v1](http://arxiv.org/abs/2611.32639v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32639)|
